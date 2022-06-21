@@ -261,6 +261,7 @@ mean_n <- binded_df %>%
 colSums(is.na(mean_n))
 
 write.csv(mean_n, "gtrends/all_birds_gtrends/mean_hits.csv")
+mean_hits <- read.csv("gtrends/all_birds_gtrends/mean_hits.csv")
 
 ggplot(mean_n, aes(x = keyword, y = count)) + geom_point()
 
@@ -289,23 +290,25 @@ mean_hits <- read.csv("gtrends/all_birds_gtrends/mean_hits.csv")
 all_birds <- read.csv("data_global/data_analysis/only_threatened/analysis/data_genl_clutch.csv")
 
 mean_hits_english <- mean_hits %>%
-  dplyr::rename(English.name = keyword)
+  dplyr::rename(English.name = keyword) 
 head(mean_hits_english)
 
 
-all_birds_hits <- all_birds %>%
-  full_join(., mean_hits_english, by = "English.name")
+all_birds_hits_test <- all_birds %>%
+  inner_join(., mean_hits_english, by = "English.name")
 names(all_birds_hits)
 
-all_birds_hits <- subset(all_birds_hits, select = -c(X) )
+all_birds_hits_test <- subset(all_birds_hits, select = -c(X) )
 
 all_birds_hits <- all_birds_hits %>%
   dplyr::rename(hits = count)
 
-write.csv(all_birds_hits, "gtrends/all_birds_gtrends/all_birds_hits.csv")
+write.csv(all_birds_hits_test, "gtrends/all_birds_gtrends/all_birds_hits.csv")
 all_birds_hits <- read.csv("gtrends/all_birds_gtrends/all_birds_hits.csv")
 
 
 model_hits <- glm(threatened ~ masscentr + rangecentr + Migration + agriculture + climate_change + invasive + resource_use + hits, data=all_birds_hits, family=binomial(logit), na.action = na.omit)
 
 summary(model_hits)
+
+hist(all_birds_hits$hits)
