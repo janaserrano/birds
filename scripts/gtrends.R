@@ -378,6 +378,9 @@ all_birds <- read.csv("data_global/all_birds/all_birds_amniote_gl.csv")
 #spanish <- read.csv("gtrends/spanish.csv")
 #french9347_9676 <- french$French.name[c(9347:9676)]
 english9859_10858 <- all_birds$English.name[c(9859:10858)]
+
+eng_random_n <- read.csv("gtrends/english/eng_random_n.csv")
+eng_random_1_1000 <- eng_random_n$English.name[c(1:1000)]
 # Install and load the readr gtrendsR & purrr packages
 library(readr)
 library("gtrendsR")
@@ -398,15 +401,15 @@ googleTrendsData <- function (keywords) {
   results <- trends$interest_over_time
 }
 output <- data.frame()
-for (i in c(1:length(english9859_10858))) {
+for (i in c(1:length(eng_random_1_1000))) {
   try({
-    output_new = map_dfr(.x = english9859_10858[i],
+    output_new = map_dfr(.x = eng_random_1_1000[i],
                          .f = googleTrendsData) %>%
       data.frame()
     output <- rbind(output, output_new)
   })
   # export dataframe as csv file in the working directory
-  write.csv(output, 'gtrends/english/english9859_10858.csv')
+  write.csv(output, 'gtrends/english/english_random/eng_random_1_1000.csv')
 }
 
 ########preparing data of relative numbers of hits
@@ -438,3 +441,96 @@ mean_n <- eng_1_1000_ymd %>%
 write.csv(sum_n_keyword, 'gtrends/english/1_1000_sum_n_keyword.csv')
  
 write.csv(sum_n, 'gtrends/english/1_1000_sum_n.csv')
+
+all_birds$newrow <- sample(10858, size = nrow(all_birds), replace = TRUE)
+
+write.csv(all_birds, 'gtrends/english/eng_random_n.csv')
+
+
+#YAY! basically same number of hits even comparing to random batch!!!
+
+#### preparing data Languages -------------------- 
+#English
+a <- read.csv("gtrends/english/english1_1000.csv")
+b <- read.csv("gtrends/english/english1001_2000.csv")
+c <- read.csv("gtrends/english/english2001_3000.csv")
+d <- read.csv("gtrends/english/english3001_4000.csv")
+e <- read.csv("gtrends/english/english4001_5000.csv")
+f <- read.csv("gtrends/english/english5001_6000.csv")
+g <- read.csv("gtrends/english/english6001_7000.csv")
+h <- read.csv("gtrends/english/english7001_8000.csv")
+i <- read.csv("gtrends/english/english8001_9000.csv")
+j <- read.csv("gtrends/english/english9001_10000.csv")
+k <- read.csv("gtrends/english/english9859_10858.csv")
+k_last <- k[12712:55973,]
+
+ab <-rbind(a, b)
+cat("Combined by rows: ", "\n")
+abc <-rbind(ab, c)
+abcd <- rbind(abc, d)
+abcde <- rbind(abcd, e)
+abcdef <- rbind(abcde, f)
+abcdefg <- rbind(abcdef, g)
+abcdefgh <- rbind(abcdefg, h)
+abcdefghi <- rbind(abcdefgh, i)
+abcdefghij <- rbind(abcdefghi, j)
+abcdefghijk <- rbind(abcdefghij, k_last)
+
+write.csv(abcdefghijk, "gtrends/english/english_trends_raw.csv")
+
+#spanish
+
+a <- read.csv("gtrends/spanish/spanish1_1000.csv")
+b <- read.csv("gtrends/spanish/spanish1001_2000.csv")
+c <- read.csv("gtrends/spanish/spanish2001_3000.csv")
+d <- read.csv("gtrends/spanish/spanish3001_4000.csv")
+e <- read.csv("gtrends/spanish/spanish4001_5000.csv")
+f <- read.csv("gtrends/spanish/spanish5001_6000.csv")
+g <- read.csv("gtrends/spanish/spanish6001_7000.csv")
+h <- read.csv("gtrends/spanish/spanish7001_8000.csv")
+i <- read.csv("gtrends/spanish/spanish8001_9000.csv")
+j <- read.csv("gtrends/spanish/spanish8677_9676.csv")
+j_last <- j[7327:13098,]
+
+ab <-rbind(a, b)
+cat("Combined by rows: ", "\n")
+abc <-rbind(ab, c)
+abcd <- rbind(abc, d)
+abcde <- rbind(abcd, e)
+abcdef <- rbind(abcde, f)
+abcdefg <- rbind(abcdef, g)
+abcdefgh <- rbind(abcdefg, h)
+abcdefghi <- rbind(abcdefgh, i)
+abcdefghij <- rbind(abcdefghi, j_last)
+
+
+write.csv(abcdefghij, "gtrends/spanish/spanish_trends_raw.csv")
+
+
+#french
+
+a <- read.csv("gtrends/french/french1_1000.csv")
+b <- read.csv("gtrends/french/french1001_2000.csv")
+c <- read.csv("gtrends/french/french2001_3000.csv")
+d <- read.csv("gtrends/french/french3001_4000.csv")
+e <- read.csv("gtrends/french/french4001_5000.csv")
+f <- read.csv("gtrends/french/french5001_6000.csv")
+g <- read.csv("gtrends/french/french6001_7000.csv")
+h <- read.csv("gtrends/french/french7001_8000.csv")
+i <- read.csv("gtrends/french/french8001_9000.csv")
+j <- read.csv("gtrends/french/french8677_9676.csv")
+j_last <- j[8921:16948,]
+
+ab <-rbind(a, b)
+cat("Combined by rows: ", "\n")
+abc <-rbind(ab, c)
+abcd <- rbind(abc, d)
+abcde <- rbind(abcd, e)
+abcdef <- rbind(abcde, f)
+abcdefg <- rbind(abcdef, g)
+abcdefgh <- rbind(abcdefg, h)
+abcdefghi <- rbind(abcdefgh, i)
+abcdefghij <- rbind(abcdefghi, j_last)
+
+
+write.csv(abcdefghij, "gtrends/french/french_trends_raw.csv")
