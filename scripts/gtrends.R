@@ -221,6 +221,7 @@ mutate_at(vars(date_onset), funs(month, day, year))
 
 h_dmy1 <- h_dmy %>%
   mutate(date_onset = date)
+
 h_dmy1 <- subset(h_dmy1, select = -c(date) )
 colSums(is.na(h_dmy))
 
@@ -296,19 +297,144 @@ head(mean_hits_english)
 
 all_birds_hits_test <- all_birds %>%
   inner_join(., mean_hits_english, by = "English.name")
-names(all_birds_hits)
 
-all_birds_hits_test <- subset(all_birds_hits, select = -c(X) )
+all_birds_hits_test <- subset(all_birds_hits_test, select = -c(X) )
 
-all_birds_hits <- all_birds_hits %>%
+all_birds_hits_test <- all_birds_hits_test %>%
   dplyr::rename(hits = count)
 
 write.csv(all_birds_hits_test, "gtrends/all_birds_gtrends/all_birds_hits.csv")
+#######rename to threatened_birds_hits
 all_birds_hits <- read.csv("gtrends/all_birds_gtrends/all_birds_hits.csv")
 
 
-model_hits <- glm(threatened ~ masscentr + rangecentr + Migration + agriculture + climate_change + invasive + resource_use + hits, data=all_birds_hits, family=binomial(logit), na.action = na.omit)
+model_hits <- glm(threatened ~ masscentr + rangecentr + Migration + agriculture + climate_change + invasive + resource_use + hits, data=all_birds_hits_test, family=binomial(logit), na.action = na.omit)
 
 summary(model_hits)
 
 hist(all_birds_hits$hits)
+
+#just 838 birds with threats and hits
+
+#USING ALL BIRDS
+all_birds <- read.csv("data_global/all_birds/all_birds_amniote_gl.csv")
+#NEED TO GROUP THREATENED (VU, EN, CR) VS NON-THREATENED (LC, NT)
+all_birds$result.category<-c(DD=0,LC=1,NT=2,VU=3,EN=4,CR=5,EW=6,EX=7)[all_birds$result.category]
+all_birds$category.n
+nrow(all_birds) #10858
+
+all_birds <- all_birds %>%
+  dplyr::rename(category.n = result.category)
+
+dd <- filter(all_birds, category.n==0) #data deficient species
+dd
+write.csv(dd, file = "data_global/dd_sp.csv")
+ex <- filter(all_birds, category.n==6) #extinct occurrences (multiple lines same species)
+write.csv(ex, file = "data_global/ex_sp.csv")
+ew <- filter(all_birds, category.n==7)
+write.csv(ew, file = "data_global/ew_sp.csv")
+no_dd <- filter(all_birds, category.n != 0) #
+nrow(no_dd)
+no_dd_ex_ew <- filter(no_dd, !category.n %in% c(6, 7))
+no_dd_ex_ew$category.n
+#data-deficient, threatened vs non-threatened (DD=0,LC=1,NT=2,VU=3,EN=4,CR=5)
+# dd_others
+# dd_others <- filter(all_birds, !category.n %in% c(6, 7))
+# species_cat <- janitor::tabyl(dd_others, species, category.n)
+# species_cat
+no_dd_ex_ew <- no_dd_ex_ew %>% 
+  mutate(threatened = case_when(category.n <= 2 ~ "non-threatened", 
+                                category.n >= 3 ~ "threatened")) 
+no_dd_ex_ew$threatened<-c("non-threatened" = 0,"threatened" = 1)[no_dd_ex_ew$threatened]
+write.csv(no_dd_ex_ew, "data_global/data_analysis/only_threatened/analysis/all_birds_01.csv")
+
+##adding hits to all birds with threatened (01)
+
+no_dd_ex_ew_hits <- no_dd_ex_ew %>%
+  inner_join(., mean_hits_english, by = "English.name")
+
+no_dd_ex_ew_hits <- subset(no_dd_ex_ew_hits, select = -c(X) )
+
+no_dd_ex_ew_hits <- no_dd_ex_ew_hits %>%
+  dplyr::rename(hits = count)
+
+write.csv(no_dd_ex_ew_hits, "gtrends/all_birds_gtrends/all01_birds_hits.csv")
+all01_birds_hits <- read.csv("gtrends/all_birds_gtrends/all01_birds_hits.csv")
+
+
+model_hits <- glm(threatened ~ masscentr + rangecentr + Migration + agriculture + climate_change + invasive + resource_use + hits, data=all01_birds_hits, family=binomial(logit), na.action = na.omit)
+
+summary(model_hits) #2129 birds that may or may not have threats associated with them
+
+hist(all01_birds_hits$hits)
+plot(all01_birds_hits$hits, all01_birds_hits$threatened)
+model_hits <- glm(threatened ~ hits, data=all01_birds_hits, family=binomial(logit), na.action = na.omit)
+
+summary(model_hits)
+
+##############download spanish and french-----------------
+all_birds <- read.csv("data_global/all_birds/all_birds_amniote_gl.csv")
+#french <- read.csv("gtrends/french.csv")
+#spanish <- read.csv("gtrends/spanish.csv")
+#french9347_9676 <- french$French.name[c(9347:9676)]
+english9859_10858 <- all_birds$English.name[c(9859:10858)]
+# Install and load the readr gtrendsR & purrr packages
+library(readr)
+library("gtrendsR")
+library(purrr)
+library(dplyr)
+library(readxl)
+
+googleTrendsData <- function (keywords) {
+  country <- ("")
+  time <- ("all")
+  channel <- 'web'
+  
+  trends <- gtrends(keywords,
+                    gprop = channel,
+                    geo = country,
+                    time = time)
+  
+  results <- trends$interest_over_time
+}
+output <- data.frame()
+for (i in c(1:length(english9859_10858))) {
+  try({
+    output_new = map_dfr(.x = english9859_10858[i],
+                         .f = googleTrendsData) %>%
+      data.frame()
+    output <- rbind(output, output_new)
+  })
+  # export dataframe as csv file in the working directory
+  write.csv(output, 'gtrends/english/english9859_10858.csv')
+}
+
+########preparing data of relative numbers of hits
+library(lubridate)
+library(tidyverse)
+library(dplyr)
+
+# 1 - English
+eng_1_1000 <- read.csv("gtrends/english/english1_1000.csv")
+
+#how to do relative number? try 1: sum of number of hits by species divided by number of species * number of months?
+eng_1_1000_ymd <- eng_1_1000 %>%
+  mutate(date_onset = lubridate::ymd(date))
+
+eng_1_1000_ymd <- eng_1_1000_ymd %>%
+  mutate_at(vars(date_onset), funs(month, day, year))
+as.numeric(eng_1_1000_ymd$hits)
+
+sum_n_keyword <- eng_1_1000_ymd %>%
+  group_by(keyword) %>%
+  summarise(count = sum(as.numeric(hits)))   
+
+colSums(is.na(sum_n))
+
+mean_n <- eng_1_1000_ymd %>%
+  group_by(keyword) %>%
+  summarise(count = mean(as.numeric(hits)))  
+
+write.csv(sum_n_keyword, 'gtrends/english/1_1000_sum_n_keyword.csv')
+ 
+write.csv(sum_n, 'gtrends/english/1_1000_sum_n.csv')

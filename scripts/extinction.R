@@ -303,3 +303,73 @@ plot_model(fit.originalvar_log, type = "pred", terms = c("masscentr", "agricultu
 ##other type of plots 
 
 show_sjplot_pals()
+
+
+###########with hits data-------------
+
+selected_var <- all01_birds_hits %>%
+  select(threatened, species, masscentr, rangecentr, Migration, agriculture, climate_change, invasive, resource_use, hits)
+nrow(selected_var)
+#1 MIGRATION VALUE
+
+model_na_ex <- na.exclude(selected_var)
+nrow(model_na_ex)
+write.csv(model_na_ex, "model_na_ex.csv")
+model_na_ex <- read.csv("model_na_ex.csv")
+
+#dredge to automatically select best model
+#https://terpconnect.umd.edu/~egurarie/teaching/Biol709/Topic3/Lab11_GLMandModelSelection.html
+
+
+lm_global <- glm(threatened ~ masscentr + rangecentr + Migration + agriculture + climate_change + invasive + resource_use + hits, data=model_na_ex, family=binomial(logit), na.action = na.fail)
+
+maineffects.glm <- glm(threatened ~ ., family=binomial(logit), data=model_na_ex, na.action = na.fail)
+
+mega.model.comparison <- dredge(maineffects.glm)
+
+#all birds including dd without ew and ex
+
+birds <- read.csv("data_global/data_analysis/analysis/all_birds_01_dd.csv")
+
+#quantile graphs
+install.packages("quantreg")
+install.packages("caret")
+
+# Loading the packages
+library(quantreg)
+library(dplyr)
+library(ggplot2)
+library(caret)
+
+plot(birds$rangecentr ~ birds$masscentr)
+
+# Model: Quantile Regression
+Quan_fit <- rq(rangecentr ~ masscentr, data = birds)
+Quan_fit
+
+# Summary of Model
+summary(Quan_fit)
+
+# Plot
+plot(rangecentr ~ masscentr, data = birds, pch = 16, main = "Plot")
+abline(lm(rangecentr ~ masscentr, data = birds), col = "red", lty = 2)
+abline(rq(rangecentr ~ masscentr, data = birds), col = "blue", lty = 2)
+
+ratiodatalog <- birds %>%
+  mutate(proprangelog = log(Range.Size)/log(Mass))
+
+model_ratio <- glm(threatened ~ proprangelog, data=ratiodatalog, family=binomial)
+
+summary(model_ratio)
+
+plot(threatened ~ proprangelog, data = ratiodatalog, pch = 5, main = "Plot")
+plot(ratiodatalog$proprangelog)
+hist(ratiodata$proprangeraw)
+
+
+library(effects)
+library(jtools)
+plot(allEffects(model_ratio))
+
+jtools::plot_summs(model_ratio, scale = TRUE, legend.title = "Threatened")
+summ(model_ratio)

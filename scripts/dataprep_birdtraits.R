@@ -974,4 +974,41 @@ all_data_amniote_gl_NA <- all_data_amniote_gl_NA %>%
 
 write.csv(all_data_amniote_gl_NA, "data_global/all_birds/all_birds_amniote_gl.csv")
 
+#change
+#NEED TO GROUP THREATENED (VU, EN, CR) VS NON-THREATENED (LC, NT)
+all_birds$result.category<-c(DD=0,LC=1,NT=2,VU=3,EN=4,CR=5,EW=6,EX=7)[all_birds$result.category]
+all_birds$category.n
+nrow(all_df) #34644
 
+all_birds <- all_birds %>%
+  dplyr::rename(category.n = result.category)
+
+dd <- filter(all_df, category.n==0) #data deficient species
+dd
+write.csv(dd, file = "data_global/dd_sp.csv")
+ex <- filter(all_df, category.n==6) #extinct occurrences (multiple lines same species)
+write.csv(ex, file = "data_global/ex_sp.csv")
+ew <- filter(all_df, category.n==7)
+write.csv(ew, file = "data_global/ew_sp.csv")
+no_dd <- filter(all_birds, category.n != 0) #
+nrow(no_dd)
+no_ex_ew <- filter(all_birds, !category.n %in% c(6, 7))
+no_ex_ew$category.n
+#data-deficient, threatened vs non-threatened (DD=0,LC=1,NT=2,VU=3,EN=4,CR=5)
+dd_others
+dd_others <- filter(all_birds, !category.n %in% c(6, 7))
+species_cat <- janitor::tabyl(dd_others, species, category.n)
+species_cat
+no_ex_ew <- no_ex_ew %>% 
+  mutate(threatened = case_when(category.n <= 2 ~ "non-threatened", 
+                                category.n >= 3 ~ "threatened")) 
+no_ex_ew$threatened<-c("non-threatened" = 0,"threatened" = 1)[no_ex_ew$threatened]
+install.packages("janitor")
+species_threatened <- janitor::tabyl(no_dd_ex_ew, species, threatened)
+species_threatened
+
+write.csv(no_ex_ew, file = "data_global/data_analysis/analysis/all_birds_01_dd.csv")
+
+#only threatened vs non-threatened (LC=1,NT=2,VU=3,EN=4,CR=5)
+species_cat <- janitor::tabyl(no_dd_ex_ew, species, category.n)
+species_cat

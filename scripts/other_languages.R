@@ -7,7 +7,20 @@
   
 install.packages("auk")
 library("auk")
-library(dplyr)
+install.packages("tidyverse")
+library(tidyverse)
+
+input_file <- "ebd_US-AL-101_202103_202103_relMar-2021.txt"
+ebd <- auk_ebd(input_file)
+
+ebd_filter <- ebd %>%
+  auk_species(species = "Blue Jay") %>%
+  auk_country(country = "United States") %>%
+  auk_filter(file = "testfile.txt")
+
+output_file <- "testfile.txt"
+
+read_ebd("testfile.txt")
 # path to the ebird data file, here a sample included in the package
 # get the path to the example data included in the package
 # in practice, provide path to ebd, e.g. f_in <- "data/ebd_relFeb-2018.txt
@@ -122,3 +135,43 @@ image.plot(zlim = c(0, 1), breaks = label_breaks, col = pal,
            axis.args = list(at = c(0, 0.5, 1), 
                             labels = round(labels, 2),
                             cex.axis = 0.9, lwd.ticks = 0))
+
+#######trying ebirdst cran
+library(ebirdst)
+# set_ebirdst_access_key("bmp66887eoc6")
+sp_path <- ebirdst_download(species = "example_data")
+species <- ebirdst_runs
+
+#########got from ebird!
+
+all_birds <- read.csv("data_global/all_birds/all_birds_amniote_gl.csv")
+sp_eng <- all_birds  %>%
+  select(species,English.name)
+
+french <- read.csv("gtrends/common_names_French.csv")
+spanish <- read.csv("gtrends/common_names_Spanish.csv")
+
+french <- french  %>%
+  dplyr::rename(species = sci_name, French.name = cur_alternate_com_name) %>%
+  select(species,French.name)
+
+spanish <- spanish  %>%
+  dplyr::rename(species = sci_name, Spanish.name = cur_alternate_com_name) %>%
+  select(species,Spanish.name)
+
+names_en_fr <- sp_eng %>%
+  left_join(., french, by = "species")
+
+names_en_fr_sp <- names_en_fr %>%
+  left_join(., spanish, by = "species")
+
+write.csv(names_en_fr_sp, file = "gtrends/common_names_En_Fr_Sp.csv")
+
+french <- subset(names_en_fr_sp, select = c(French.name) )
+spanish <- subset(names_en_fr_sp, select = c(Spanish.name) )
+
+french <- na.omit(french) #9676 sp
+spanish <- na.omit(spanish) #9676 sp
+
+write.csv(french, file = "gtrends/french.csv")
+write.csv(spanish, file = "gtrends/spanish.csv")
