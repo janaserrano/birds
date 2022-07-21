@@ -78,7 +78,7 @@ grskiw1,avibase-0D8B9E40,211,species,Great Spotted Kiwi,Kiwi Moteado Mayor,Apter
 kiwi1,avibase-262DB4D5,212,spuh,kiwi sp.,Kiwi sp.,Apteryx sp.,es
 horscr1,avibase-71BA40DC,213,species,Horned Screamer,Chaja Anuma,Anhima cornuta,es
 souscr1,avibase-91194BE3,214,species,Southern Screamer,Chaja Comun,Chauna torquata,es
-norscr1,avibase-013B2B0B,215,species,Northern Screamer,Chaja Chicagüire,Chauna chavaria,es
+norscr1,avibase-013B2B0B,215,species,Northern Screamer,Chaja Chicaguire,Chauna chavaria,es
 maggoo1,avibase-89D5434B,216,species,Magpie Goose,Ganso Urraca,Anseranas semipalmata,es
 spwduc1,avibase-1AAB20B0,217,species,Spotted Whistling-Duck,Suiriri Moteado,Dendrocygna guttata,es
 plwduc1,avibase-A467AD00,218,species,Plumed Whistling-Duck,Suiriri Australiano,Dendrocygna eytoni,es
@@ -1475,7 +1475,7 @@ whbbus1,avibase-0669BFE7,2875,issf,White-bellied Bustard (White-bellied),Sison S
 whbbus3,avibase-BE3708DD,2879,issf,White-bellied Bustard (Barrow's),Sison Senegales (barrowii/mackenziei),Eupodotis senegalensis barrowii/mackenziei,es
 blubus1,avibase-501B3D62,2882,species,Blue Bustard,Sison Azulado,Eupodotis caerulescens,es
 karbus1,avibase-199B6280,2883,species,Karoo Bustard,Sison del Karroo,Eupodotis vigorsii,es
-ruebus1,avibase-303DD648,2886,species,Rüppell's Bustard,Sison de Damaraland,Eupodotis rueppelii,es
+ruebus1,avibase-303DD648,2886,species,Ruppell's Bustard,Sison de Damaraland,Eupodotis rueppelii,es
 libbus1,avibase-1BF89BB6,2889,species,Little Brown Bustard,Sison Somali,Eupodotis humilis,es
 savbus1,avibase-8F3D1E6F,2890,species,Savile's Bustard,Sison Monudo del Sahel,Eupodotis savilei,es
 bucbus1,avibase-968D57F9,2891,species,Buff-crested Bustard,Sison Monudo Etiope,Eupodotis gindiana,es
@@ -1945,7 +1945,7 @@ blaspi1,avibase-4B79BD9A,3781,species,Black Spinetail,Vencejo del Ituri,Telacant
 sirnee1,avibase-737C55FF,3782,species,Silver-rumped Needletail,Vencejo Culiplata,Rhaphidura leucopygialis,es
 sabspi1,avibase-1E12D857,3783,species,Sabine's Spinetail,Vencejo de Sabine,Rhaphidura sabini,es
 casspi1,avibase-4CB38AE8,3784,species,Cassin's Spinetail,Vencejo de Cassin,Neafrapus cassini,es
-balspi1,avibase-0D52DFC7,3785,species,Bat-like Spinetail,Vencejo de Böhm,Neafrapus boehmi,es
+balspi1,avibase-0D52DFC7,3785,species,Bat-like Spinetail,Vencejo de Bohm,Neafrapus boehmi,es
 chiswi,avibase-C3AD1AFF,3788,species,Chimney Swift,Vencejo de Chimenea,Chaetura pelagica,es
 vauswi,avibase-1775ED98,3789,species,Vaux's Swift,Vencejo de Vaux,Chaetura vauxi,es
 vauswi1,avibase-81040D12,3790,issf,Vaux's Swift (Vaux's),Vencejo de Vaux (vauxi),Chaetura vauxi vauxi,es
@@ -2916,26 +2916,26 @@ burhin1,avibase-4F4A1BB5,5615,spuh,Burhinus sp.,Alcaravan (Burhinus) sp.,Burhinu
 grtkne1,avibase-C2178ACC,5616,species,Great Thick-knee,Alcaravan Piquigrueso Indio,Esacus recurvirostris,es
 beathk1,avibase-0CD2083B,5617,species,Beach Thick-knee,Alcaravan Piquigrueso Australiano,Esacus magnirostris,es
 egyplo1,avibase-1B28A4B6,5618,species,Egyptian Plover,Pluvial,Pluvianus aegyptius,es
-bkwsti,avibase-3CAEB7CE,5619,species,Black-winged Stilt,Cigüenuela Comun,Himantopus himantopus,es
-piesti1,avibase-C2830C86,5620,species,Pied Stilt,Cigüenuela Australiana,Himantopus leucocephalus,es
-x00830,avibase-367EE430,5621,hybrid,Black-winged x Pied Stilt (hybrid),Cigüenuela Comun x Australiana (hibrido),Himantopus himantopus x leucocephalus,es
-y00932,avibase-A1520FEE,5622,slash,Black-winged/Pied Stilt,Cigüenuela Comun/Australiana,Himantopus himantopus/leucocephalus,es
-blasti1,avibase-C26304D6,5623,species,Black Stilt,Cigüenuela Negra,Himantopus novaezelandiae,es
-x00459,avibase-919EB805,5624,hybrid,Pied x Black Stilt (hybrid),Cigüenuela Australiana x Negra (hibrido),Himantopus leucocephalus x novaezelandiae,es
-y01133,avibase-6D169A32,5625,slash,Pied/Black Stilt,Cigüenuela Pia/Negra,Himantopus leucocephalus/novaezelandiae,es
-bknsti,avibase-D543132B,5626,species,Black-necked Stilt,Cigüenuela Cuellinegra,Himantopus mexicanus,es
-bknsti1,avibase-C1D4E1DD,5627,issf,Black-necked Stilt (Black-necked),Cigüenuela Cuellinegra (cuellinegra),Himantopus mexicanus mexicanus,es
-hawsti1,avibase-312A6569,5628,issf,Black-necked Stilt (Hawaiian),Cigüenuela Cuellinegra (Hawaiana),Himantopus mexicanus knudseni,es
-bknsti2,avibase-E28480D7,5629,issf,Black-necked Stilt (White-backed),Cigüenuela Cuellinegra (Americana),Himantopus mexicanus melanurus,es
-bknsti3,avibase-AD7CE191,5630,intergrade,Black-necked Stilt (Black-necked x White-backed),Cigüenuela Cuellinegra (cuellinegra x Americana),Himantopus mexicanus mexicanus x melanurus,es
-x00846,avibase-DF2F8FD3,5631,hybrid,Black-winged x Black-necked Stilt (hybrid),Cigüenuela Comun x Cuellinegra (hibrido),Himantopus himantopus x mexicanus,es
-bansti1,avibase-9A90A865,5632,species,Banded Stilt,Cigüenuela Pechirroja,Cladorhynchus leucocephalus,es
+bkwsti,avibase-3CAEB7CE,5619,species,Black-winged Stilt,Ciguenuela Comun,Himantopus himantopus,es
+piesti1,avibase-C2830C86,5620,species,Pied Stilt,Ciguenuela Australiana,Himantopus leucocephalus,es
+x00830,avibase-367EE430,5621,hybrid,Black-winged x Pied Stilt (hybrid),Ciguenuela Comun x Australiana (hibrido),Himantopus himantopus x leucocephalus,es
+y00932,avibase-A1520FEE,5622,slash,Black-winged/Pied Stilt,Ciguenuela Comun/Australiana,Himantopus himantopus/leucocephalus,es
+blasti1,avibase-C26304D6,5623,species,Black Stilt,Ciguenuela Negra,Himantopus novaezelandiae,es
+x00459,avibase-919EB805,5624,hybrid,Pied x Black Stilt (hybrid),Ciguenuela Australiana x Negra (hibrido),Himantopus leucocephalus x novaezelandiae,es
+y01133,avibase-6D169A32,5625,slash,Pied/Black Stilt,Ciguenuela Pia/Negra,Himantopus leucocephalus/novaezelandiae,es
+bknsti,avibase-D543132B,5626,species,Black-necked Stilt,Ciguenuela Cuellinegra,Himantopus mexicanus,es
+bknsti1,avibase-C1D4E1DD,5627,issf,Black-necked Stilt (Black-necked),Ciguenuela Cuellinegra (cuellinegra),Himantopus mexicanus mexicanus,es
+hawsti1,avibase-312A6569,5628,issf,Black-necked Stilt (Hawaiian),Ciguenuela Cuellinegra (Hawaiana),Himantopus mexicanus knudseni,es
+bknsti2,avibase-E28480D7,5629,issf,Black-necked Stilt (White-backed),Ciguenuela Cuellinegra (Americana),Himantopus mexicanus melanurus,es
+bknsti3,avibase-AD7CE191,5630,intergrade,Black-necked Stilt (Black-necked x White-backed),Ciguenuela Cuellinegra (cuellinegra x Americana),Himantopus mexicanus mexicanus x melanurus,es
+x00846,avibase-DF2F8FD3,5631,hybrid,Black-winged x Black-necked Stilt (hybrid),Ciguenuela Comun x Cuellinegra (hibrido),Himantopus himantopus x mexicanus,es
+bansti1,avibase-9A90A865,5632,species,Banded Stilt,Ciguenuela Pechirroja,Cladorhynchus leucocephalus,es
 pieavo1,avibase-C73ED2F5,5633,species,Pied Avocet,Avoceta Comun,Recurvirostra avosetta,es
 renavo1,avibase-DDFB54DB,5634,species,Red-necked Avocet,Avoceta Australiana,Recurvirostra novaehollandiae,es
 andavo1,avibase-30CBE57B,5635,species,Andean Avocet,Avoceta Andina,Recurvirostra andina,es
 ameavo,avibase-8EB0C1FA,5636,species,American Avocet,Avoceta Americana,Recurvirostra americana,es
-x00732,avibase-D3B988B7,5637,hybrid,Black-necked Stilt x American Avocet (hybrid),Cigüenuela Cuellinegra x Avoceta Americana (hibrido),Himantopus mexicanus x Recurvirostra americana,es
-y00722,avibase-51C14D20,5638,spuh,stilt/avocet sp.,Cigüenuela/Avoceta sp.,Recurvirostridae sp.,es
+x00732,avibase-D3B988B7,5637,hybrid,Black-necked Stilt x American Avocet (hybrid),Ciguenuela Cuellinegra x Avoceta Americana (hibrido),Himantopus mexicanus x Recurvirostra americana,es
+y00722,avibase-51C14D20,5638,spuh,stilt/avocet sp.,Ciguenuela/Avoceta sp.,Recurvirostridae sp.,es
 ibisbi1,avibase-0C1F2A47,5639,species,Ibisbill,Picoibis,Ibidorhyncha struthersii,es
 euroys1,avibase-ED663165,5640,species,Eurasian Oystercatcher,Ostrero Euroasiatico,Haematopus ostralegus,es
 euroys2,avibase-CFA73CC2,5641,issf,Eurasian Oystercatcher (Western),Ostrero Euroasiatico (grupo ostralegus),Haematopus ostralegus ostralegus/longipes,es
@@ -3299,9 +3299,9 @@ jaeger,avibase-308228B1,6184,spuh,jaeger sp.,Pagalo pomarino/parasito/rabero,Ste
 y00615,avibase-070E73F9,6185,spuh,jaeger/skua sp.,Pagalo sp.,Stercorarius sp.,es
 doveki,avibase-B0932D89,6186,species,Dovekie,Mergulo Atlantico,Alle alle,es
 commur,avibase-39F29B55,6189,species,Common Murre,Arao Comun,Uria aalge,es
-thbmur,avibase-B70B5840,6194,species,Thick-billed Murre,Arao de Brünnich,Uria lomvia,es
-x00793,avibase-F0BBA302,6199,hybrid,Common x Thick-billed Murre (hybrid),Arao Comun x de Brünnich (hibrido),Uria aalge x lomvia,es
-murre,avibase-64C58CEE,6200,slash,Common/Thick-billed Murre,Arao Comun/de Brünnich,Uria aalge/lomvia,es
+thbmur,avibase-B70B5840,6194,species,Thick-billed Murre,Arao de Brunnich,Uria lomvia,es
+x00793,avibase-F0BBA302,6199,hybrid,Common x Thick-billed Murre (hybrid),Arao Comun x de Brunnich (hibrido),Uria aalge x lomvia,es
+murre,avibase-64C58CEE,6200,slash,Common/Thick-billed Murre,Arao Comun/de Brunnich,Uria aalge/lomvia,es
 razorb,avibase-64F4DD81,6201,species,Razorbill,Alca Comun,Alca torda,es
 laralc1,avibase-4B2856FB,6204,spuh,large alcid sp.,Arao/Alca sp.,Uria/Alca sp.,es
 greauk,avibase-57D2F32E,6205,species,Great Auk,Alca Gigante,Pinguinus impennis,es
@@ -3589,28 +3589,28 @@ comloo,avibase-7E022378,6616,species,Common Loon,Colimbo Grande,Gavia immer,es
 yebloo,avibase-5349255D,6617,species,Yellow-billed Loon,Colimbo de Adams,Gavia adamsii,es
 y00220,avibase-A90DD90B,6618,slash,Common/Yellow-billed Loon,Colimbo Grande/de Adams,Gavia immer/adamsii,es
 loon,avibase-C3E757A3,6619,spuh,loon sp.,Colimbo sp.,Gavia sp.,es
-kinpen1,avibase-827A77C7,6620,species,King Penguin,Pingüino Rey,Aptenodytes patagonicus,es
-emppen1,avibase-58848B71,6621,species,Emperor Penguin,Pingüino Emperador,Aptenodytes forsteri,es
-adepen1,avibase-4A947BE7,6622,species,Adelie Penguin,Pingüino de Adelia,Pygoscelis adeliae,es
-genpen1,avibase-F2B3BF2A,6623,species,Gentoo Penguin,Pingüino Juanito,Pygoscelis papua,es
-chipen2,avibase-75B943A3,6628,species,Chinstrap Penguin,Pingüino Barbijo,Pygoscelis antarcticus,es
-yeepen1,avibase-9DF07165,6629,species,Yellow-eyed Penguin,Pingüino Ojigualdo,Megadyptes antipodes,es
-litpen1,avibase-151738D5,6630,species,Little Penguin,Pingüino Enano,Eudyptula minor,es
-jacpen1,avibase-9B183BDD,6637,species,African Penguin,Pingüino de El Cabo,Spheniscus demersus,es
-humpen1,avibase-37FC130F,6638,species,Humboldt Penguin,Pingüino de Humboldt,Spheniscus humboldti,es
-galpen1,avibase-ACAA25BF,6639,species,Galapagos Penguin,Pingüino de Galapagos,Spheniscus mendiculus,es
-magpen1,avibase-3B4B29E0,6640,species,Magellanic Penguin,Pingüino Magallanico,Spheniscus magellanicus,es
-fiopen1,avibase-A143FB33,6641,species,Fiordland Penguin,Pingüino de Fiordland,Eudyptes pachyrhynchus,es
-bicpen1,avibase-3B58C04E,6642,species,Erect-crested Penguin,Pingüino de Sclater,Eudyptes sclateri,es
-macpen1,avibase-2C2BC004,6643,species,Macaroni Penguin,Pingüino Macaroni,Eudyptes chrysolophus,es
-roypen1,avibase-01A11B3A,6644,species,Royal Penguin,Pingüino de Schlegel,Eudyptes schlegeli,es
-rocpen1,avibase-4023CC81,6645,species,Southern Rockhopper Penguin,Pingüino Saltarrocas Meridional,Eudyptes chrysocome,es
-rocpen2,avibase-ECEE0622,6646,issf,Southern Rockhopper Penguin (Western),Pingüino Saltarrocas Meridional (chrysocome),Eudyptes chrysocome chrysocome,es
-rocpen3,avibase-D5A715E4,6647,issf,Southern Rockhopper Penguin (Eastern),Pingüino Saltarrocas Meridional (filholi),Eudyptes chrysocome filholi,es
-x00921,avibase-CF05BBC7,6648,hybrid,Macaroni x Southern Rockhopper Penguin (hybrid),Pingüino de Macarrones x Saltarrocas Meridional (hibrido),Eudyptes chrysolophus x chrysocome,es
-rocpen4,avibase-8722DFC2,6649,species,Moseley's Rockhopper Penguin,Pingüino Saltarrocas Septentrional,Eudyptes moseleyi,es
-snapen1,avibase-5EA37AA8,6650,species,Snares Penguin,Pingüino de Las Snares,Eudyptes robustus,es
-pengui1,avibase-6FEB9CA6,6651,spuh,penguin sp.,Pingüino sp.,Spheniscidae sp.,es
+kinpen1,avibase-827A77C7,6620,species,King Penguin,Pinguino Rey,Aptenodytes patagonicus,es
+emppen1,avibase-58848B71,6621,species,Emperor Penguin,Pinguino Emperador,Aptenodytes forsteri,es
+adepen1,avibase-4A947BE7,6622,species,Adelie Penguin,Pinguino de Adelia,Pygoscelis adeliae,es
+genpen1,avibase-F2B3BF2A,6623,species,Gentoo Penguin,Pinguino Juanito,Pygoscelis papua,es
+chipen2,avibase-75B943A3,6628,species,Chinstrap Penguin,Pinguino Barbijo,Pygoscelis antarcticus,es
+yeepen1,avibase-9DF07165,6629,species,Yellow-eyed Penguin,Pinguino Ojigualdo,Megadyptes antipodes,es
+litpen1,avibase-151738D5,6630,species,Little Penguin,Pinguino Enano,Eudyptula minor,es
+jacpen1,avibase-9B183BDD,6637,species,African Penguin,Pinguino de El Cabo,Spheniscus demersus,es
+humpen1,avibase-37FC130F,6638,species,Humboldt Penguin,Pinguino de Humboldt,Spheniscus humboldti,es
+galpen1,avibase-ACAA25BF,6639,species,Galapagos Penguin,Pinguino de Galapagos,Spheniscus mendiculus,es
+magpen1,avibase-3B4B29E0,6640,species,Magellanic Penguin,Pinguino Magallanico,Spheniscus magellanicus,es
+fiopen1,avibase-A143FB33,6641,species,Fiordland Penguin,Pinguino de Fiordland,Eudyptes pachyrhynchus,es
+bicpen1,avibase-3B58C04E,6642,species,Erect-crested Penguin,Pinguino de Sclater,Eudyptes sclateri,es
+macpen1,avibase-2C2BC004,6643,species,Macaroni Penguin,Pinguino Macaroni,Eudyptes chrysolophus,es
+roypen1,avibase-01A11B3A,6644,species,Royal Penguin,Pinguino de Schlegel,Eudyptes schlegeli,es
+rocpen1,avibase-4023CC81,6645,species,Southern Rockhopper Penguin,Pinguino Saltarrocas Meridional,Eudyptes chrysocome,es
+rocpen2,avibase-ECEE0622,6646,issf,Southern Rockhopper Penguin (Western),Pinguino Saltarrocas Meridional (chrysocome),Eudyptes chrysocome chrysocome,es
+rocpen3,avibase-D5A715E4,6647,issf,Southern Rockhopper Penguin (Eastern),Pinguino Saltarrocas Meridional (filholi),Eudyptes chrysocome filholi,es
+x00921,avibase-CF05BBC7,6648,hybrid,Macaroni x Southern Rockhopper Penguin (hybrid),Pinguino de Macarrones x Saltarrocas Meridional (hibrido),Eudyptes chrysolophus x chrysocome,es
+rocpen4,avibase-8722DFC2,6649,species,Moseley's Rockhopper Penguin,Pinguino Saltarrocas Septentrional,Eudyptes moseleyi,es
+snapen1,avibase-5EA37AA8,6650,species,Snares Penguin,Pinguino de Las Snares,Eudyptes robustus,es
+pengui1,avibase-6FEB9CA6,6651,spuh,penguin sp.,Pinguino sp.,Spheniscidae sp.,es
 yenalb,avibase-7709CE5C,6652,species,Yellow-nosed Albatross,Albatros Picofino,Thalassarche chlororhynchos,es
 yenalb2,avibase-EA2FA918,6653,issf,Yellow-nosed Albatross (Atlantic),Albatros Picofino (Atlantico),Thalassarche chlororhynchos chlororhynchos,es
 yenalb3,avibase-65882F71,6654,issf,Yellow-nosed Albatross (Indian),Albatros Picofino (indico),Thalassarche chlororhynchos carteri,es
@@ -3847,16 +3847,16 @@ diving1,avibase-5D3C578B,6934,spuh,diving-petrel sp.,Potoyunco sp.,Pelecanoides 
 procel2,avibase-3FD683D4,6935,spuh,Procellariid sp.,Procelarido sp.,Procellariidae sp.,es
 asiope1,avibase-0DF27D63,6936,species,Asian Openbill,Picotenaza Asiatico,Anastomus oscitans,es
 afrope1,avibase-0F14ECE4,6937,species,African Openbill,Picotenaza Africano,Anastomus lamelligerus,es
-blasto1,avibase-E2817DAE,6940,species,Black Stork,Cigüena Negra,Ciconia nigra,es
-abdsto1,avibase-26CD0319,6941,species,Abdim's Stork,Cigüena de Abdim,Ciconia abdimii,es
-wonsto1,avibase-1782CCF6,6942,species,Woolly-necked Stork,Cigüena Lanuda Asiatica,Ciconia episcopus,es
-wonsto2,avibase-5157C558,6943,issf,Woolly-necked Stork (African),Cigüena Lanuda Asiatica (microscelis),Ciconia episcopus microscelis,es
-wonsto3,avibase-F76E7B80,6944,issf,Woolly-necked Stork (Asian),Cigüena Lanuda Asiatica (episcopus/neglecta),Ciconia episcopus episcopus/neglecta,es
-stosto1,avibase-0C6D8B19,6947,species,Storm's Stork,Cigüena de Storm,Ciconia stormi,es
-magsto1,avibase-4AB9F632,6948,species,Maguari Stork,Cigüena Maguari,Ciconia maguari,es
-whisto1,avibase-28825494,6949,species,White Stork,Cigüena Blanca,Ciconia ciconia,es
-oristo1,avibase-C417573F,6952,species,Oriental Stork,Cigüena Oriental,Ciconia boyciana,es
-ciconi1,avibase-B1E19056,6953,spuh,Ciconia sp.,Cigüena sp.,Ciconia sp.,es
+blasto1,avibase-E2817DAE,6940,species,Black Stork,Ciguena Negra,Ciconia nigra,es
+abdsto1,avibase-26CD0319,6941,species,Abdim's Stork,Ciguena de Abdim,Ciconia abdimii,es
+wonsto1,avibase-1782CCF6,6942,species,Woolly-necked Stork,Ciguena Lanuda Asiatica,Ciconia episcopus,es
+wonsto2,avibase-5157C558,6943,issf,Woolly-necked Stork (African),Ciguena Lanuda Asiatica (microscelis),Ciconia episcopus microscelis,es
+wonsto3,avibase-F76E7B80,6944,issf,Woolly-necked Stork (Asian),Ciguena Lanuda Asiatica (episcopus/neglecta),Ciconia episcopus episcopus/neglecta,es
+stosto1,avibase-0C6D8B19,6947,species,Storm's Stork,Ciguena de Storm,Ciconia stormi,es
+magsto1,avibase-4AB9F632,6948,species,Maguari Stork,Ciguena Maguari,Ciconia maguari,es
+whisto1,avibase-28825494,6949,species,White Stork,Ciguena Blanca,Ciconia ciconia,es
+oristo1,avibase-C417573F,6952,species,Oriental Stork,Ciguena Oriental,Ciconia boyciana,es
+ciconi1,avibase-B1E19056,6953,spuh,Ciconia sp.,Ciguena sp.,Ciconia sp.,es
 blnsto1,avibase-27A758E6,6954,species,Black-necked Stork,Jabiru Asiatico,Ephippiorhynchus asiaticus,es
 sabsto1,avibase-3D155653,6957,species,Saddle-billed Stork,Jabiru Africano,Ephippiorhynchus senegalensis,es
 jabiru,avibase-49BD1F79,6958,species,Jabiru,Jabiru Americano,Jabiru mycteria,es
@@ -4228,11 +4228,11 @@ whbvul1,avibase-0419DDC2,7531,species,White-backed Vulture,Buitre Dorsiblanco Af
 whrvul1,avibase-FC2346E6,7532,species,White-rumped Vulture,Buitre Dorsiblanco Asiatico,Gyps bengalensis,es
 indvul1,avibase-C255F69A,7533,species,Indian Vulture,Buitre Indio,Gyps indicus,es
 slbvul1,avibase-11324DC8,7534,species,Slender-billed Vulture,Buitre Picofino,Gyps tenuirostris,es
-ruegri1,avibase-76B512B1,7535,species,Rüppell's Griffon,Buitre Moteado,Gyps rueppelli,es
-y00634,avibase-7AFF9ACE,7538,slash,White-backed Vulture/Rüppell's Griffon,Buitre Dorsiblanco Africano/Moteado,Gyps africanus/rueppelli,es
+ruegri1,avibase-76B512B1,7535,species,Ruppell's Griffon,Buitre Moteado,Gyps rueppelli,es
+y00634,avibase-7AFF9ACE,7538,slash,White-backed Vulture/Ruppell's Griffon,Buitre Dorsiblanco Africano/Moteado,Gyps africanus/rueppelli,es
 himgri1,avibase-9BB5551E,7539,species,Himalayan Griffon,Buitre del Himalaya,Gyps himalayensis,es
 eurgri1,avibase-5D1987CE,7540,species,Eurasian Griffon,Buitre Leonado,Gyps fulvus,es
-y00837,avibase-3E6F0EC8,7543,slash,Rüppell's/Eurasian Griffon,Buitre Moteado/Leonado,Gyps rueppelli/fulvus,es
+y00837,avibase-3E6F0EC8,7543,slash,Ruppell's/Eurasian Griffon,Buitre Moteado/Leonado,Gyps rueppelli/fulvus,es
 y00838,avibase-4A58037F,7544,slash,Himalayan/Eurasian Griffon,Buitre del Himalaya/Leonado,Gyps himalayensis/fulvus,es
 capgri1,avibase-F85BEEB4,7545,species,Cape Griffon,Buitre de El Cabo,Gyps coprotheres,es
 y00942,avibase-8F9D51F1,7546,slash,White-backed Vulture/Cape Griffon,Buitre Dorsiblanco Africano/de El Cabo,Gyps africanus/coprotheres,es
@@ -4435,7 +4435,7 @@ y00392,avibase-841F5D7E,7937,slash,Eurasian Sparrowhawk/Northern Goshawk,Gavilan
 y00666,avibase-FE905828,7938,slash,Cooper's Hawk/Northern Goshawk,Gavilan de Cooper/Azor Comun,Accipiter cooperii/gentilis,es
 meygos1,avibase-87B94C0E,7939,species,Meyer's Goshawk,Azor de Meyer,Accipiter meyerianus,es
 accipi,avibase-CA08045E,7940,spuh,Accipiter sp.,Azor/Gavilan (Accipiter) sp.,Accipiter sp.,es
-chsgos1,avibase-0C9E322E,7941,species,Chestnut-shouldered Goshawk,Azor de Bürgers,Erythrotriorchis buergersi,es
+chsgos1,avibase-0C9E322E,7941,species,Chestnut-shouldered Goshawk,Azor de Burgers,Erythrotriorchis buergersi,es
 redgos1,avibase-235CF06A,7942,species,Red Goshawk,Azor Rojo,Erythrotriorchis radiatus,es
 dorgos1,avibase-0D0A9D98,7943,species,Doria's Goshawk,Azor de Doria,Megatriorchis doriae,es
 lothaw1,avibase-1C209762,7944,species,Long-tailed Hawk,Azor Rabilargo,Urotriorchis macrourus,es
@@ -4820,7 +4820,7 @@ recowl1,avibase-E05A96F3,8623,species,Red-chested Owlet,Mochuelo Pechirrojo,Glau
 recowl2,avibase-24C37DD7,8624,issf,Red-chested Owlet (Western),Mochuelo Pechirrojo (tephronotum),Glaucidium tephronotum tephronotum,es
 recowl3,avibase-A46C897F,8625,issf,Red-chested Owlet (Pycraft's),Mochuelo Pechirrojo (pycrafti),Glaucidium tephronotum pycrafti,es
 recowl4,avibase-21197E69,8626,issf,Red-chested Owlet (Eastern),Mochuelo Pechirrojo (medje),Glaucidium tephronotum medje,es
-sjoowl1,avibase-9C464D6F,8627,species,Sjöstedt's Owlet,Mochuelo del Congo,Glaucidium sjostedti,es
+sjoowl1,avibase-9C464D6F,8627,species,Sjostedt's Owlet,Mochuelo del Congo,Glaucidium sjostedti,es
 asbowl1,avibase-75E76449,8628,species,Asian Barred Owlet,Mochuelo Cuco,Glaucidium cuculoides,es
 javowl1,avibase-1EF140AD,8637,species,Javan Owlet,Mochuelo de Java,Glaucidium castanopterum,es
 junowl1,avibase-1986F1AB,8638,species,Jungle Owlet,Mochuelo de Jungla,Glaucidium radiatum,es
@@ -5248,7 +5248,7 @@ lilkin1,avibase-A3667CEA,9520,species,Lilac-cheeked Kingfisher,Martin Cazador de
 lickin1,avibase-E9901CE9,9521,issf,Lilac-cheeked Kingfisher (Sangihe),Martin Cazador de Celebes (sanghirensis),Cittura cyanotis sanghirensis,es
 lickin2,avibase-DE53CCF7,9522,issf,Lilac-cheeked Kingfisher (Sulawesi),Martin Cazador de Celebes (cyanotis),Cittura cyanotis cyanotis,es
 bnwkin1,avibase-19C28D92,9523,species,Brown-winged Kingfisher,Alcion Alipardo,Pelargopsis amauroptera,es
-stbkin1,avibase-2B0E883A,9524,species,Stork-billed Kingfisher,Alcion Picocigüena,Pelargopsis capensis,es
+stbkin1,avibase-2B0E883A,9524,species,Stork-billed Kingfisher,Alcion Picociguena,Pelargopsis capensis,es
 blbkin1,avibase-7CF2B1F8,9540,species,Great-billed Kingfisher,Alcion Piquinegro,Pelargopsis melanorhyncha,es
 rudkin1,avibase-6647508A,9544,species,Ruddy Kingfisher,Alcion Rojizo,Halcyon coromanda,es
 chbkin2,avibase-BD366A8F,9555,species,Chocolate-backed Kingfisher,Alcion Castano,Halcyon badia,es
@@ -5380,7 +5380,7 @@ grbeat1,avibase-0562A30F,9838,species,Green Bee-eater,Abejaruco Esmeralda,Merops
 grnbee1,avibase-0AAA530E,9839,issf,Green Bee-eater (Yellow-throated),Abejaruco Esmeralda (grupo viridissimus),Merops orientalis [viridissimus Group],es
 grnbee2,avibase-681DC913,9843,issf,Green Bee-eater (Arabian),Abejaruco Esmeralda (cyanophrys/najdanus),Merops orientalis cyanophrys/najdanus,es
 grnbee3,avibase-759AD1FB,9846,issf,Green Bee-eater (Russet-crowned),Abejaruco Esmeralda (grupo orientalis),Merops orientalis [orientalis Group],es
-bobeat1,avibase-30238523,9850,species,Böhm's Bee-eater,Abejaruco de Böhm,Merops boehmi,es
+bobeat1,avibase-30238523,9850,species,Bohm's Bee-eater,Abejaruco de Bohm,Merops boehmi,es
 btbeat2,avibase-457420DA,9851,species,Blue-throated Bee-eater,Abejaruco Gorjiazul,Merops viridis,es
 rucbee1,avibase-883932EE,9852,species,Rufous-crowned Bee-eater,Abejaruco Filipino,Merops americanus,es
 bcbeat1,avibase-6EE45113,9853,species,Blue-cheeked Bee-eater,Abejaruco Persa,Merops persicus,es
@@ -6367,9 +6367,9 @@ tigerp1,avibase-9AF0B546,11866,spuh,tiger-parrot sp.,Lorito Tigre sp.,Psittacell
 bllpar1,avibase-40C84A05,11867,species,Black-lored Parrot,Loro de Buru,Tanygnathus gramineus,es
 grbpar1,avibase-9792A7D0,11868,species,Great-billed Parrot,Loro Picogordo,Tanygnathus megalorynchos,es
 blnpar1,avibase-9A1856F5,11874,species,Blue-naped Parrot,Loro Nuquiazul,Tanygnathus lucionensis,es
-azrpar1,avibase-6518D6CD,11879,species,Azure-rumped Parrot,Loro de Müller,Tanygnathus sumatranus,es
-azrpar8,avibase-C38EDB84,11880,issf,Azure-rumped Parrot (Blue-backed),Loro de Müller (Filipinas),Tanygnathus sumatranus [everetti Group],es
-azrpar9,avibase-D0C378AB,11885,issf,Azure-rumped Parrot (Azure-rumped),Loro de Müller (Celebes),Tanygnathus sumatranus sumatranus/sangirensis,es
+azrpar1,avibase-6518D6CD,11879,species,Azure-rumped Parrot,Loro de Muller,Tanygnathus sumatranus,es
+azrpar8,avibase-C38EDB84,11880,issf,Azure-rumped Parrot (Blue-backed),Loro de Muller (Filipinas),Tanygnathus sumatranus [everetti Group],es
+azrpar9,avibase-D0C378AB,11885,issf,Azure-rumped Parrot (Azure-rumped),Loro de Muller (Celebes),Tanygnathus sumatranus sumatranus/sangirensis,es
 gropar1,avibase-50C8A5CF,11888,species,Ground Parrot,Perico Terrestre,Pezoporus wallicus,es
 gropar2,avibase-208CA512,11889,issf,Ground Parrot (Western),Perico Terrestre (flaviventris),Pezoporus wallicus flaviventris,es
 gropar3,avibase-89FD19C8,11890,issf,Ground Parrot (Eastern),Perico Terrestre (wallicus),Pezoporus wallicus wallicus,es
@@ -6555,7 +6555,7 @@ refpar5,avibase-83D329B5,12208,species,Red-fronted Parrot,Lorito Frentirrojo,Poi
 refpar6,avibase-961B86C0,12209,issf,Red-fronted Parrot (Guinean),Lorito Frentirrojo (fantiensis),Poicephalus gulielmi fantiensis,es
 refpar7,avibase-9C66B09E,12210,issf,Red-fronted Parrot (Red-fronted),Lorito Frentirrojo (gulielmi/massaicus),Poicephalus gulielmi gulielmi/massaicus,es
 meypar1,avibase-0ECD9D58,12213,species,Meyer's Parrot,Lorito de Meyer,Poicephalus meyeri,es
-ruepar1,avibase-E37F25F7,12220,species,Rüppell's Parrot,Lorito de Rüppell,Poicephalus rueppellii,es
+ruepar1,avibase-E37F25F7,12220,species,Ruppell's Parrot,Lorito de Ruppell,Poicephalus rueppellii,es
 brhpar2,avibase-4A039821,12221,species,Brown-headed Parrot,Lorito Cabecipardo,Poicephalus cryptoxanthus,es
 ninpar1,avibase-6C96E81B,12224,species,Niam-Niam Parrot,Lorito Nianiam,Poicephalus crassus,es
 rebpar1,avibase-69661C7D,12225,species,Red-bellied Parrot,Lorito Ventrirrojo,Poicephalus rufiventris,es
@@ -8057,9 +8057,9 @@ olipih2,avibase-E117776E,15254,species,Olivaceous Piha,Guardabosques Olivaceo,Sn
 crifru1,avibase-A3944A95,15257,species,Crimson Fruitcrow,Pajaro Militar,Haematoderus militaris,es
 putfru1,avibase-183649E5,15258,species,Purple-throated Fruitcrow,Cotinga Querula,Querula purpurata,es
 rerfru1,avibase-50B7979C,15259,species,Red-ruffed Fruitcrow,Yacutoro,Pyroderus scutatus,es
-banumb1,avibase-DCB1B70D,15265,species,Bare-necked Umbrellabird,Paragüero Cuellicalvo,Cephalopterus glabricollis,es
-amaumb1,avibase-5892D240,15266,species,Amazonian Umbrellabird,Paragüero Ornado,Cephalopterus ornatus,es
-lowumb1,avibase-7171CA71,15267,species,Long-wattled Umbrellabird,Paragüero Corbatudo,Cephalopterus penduliger,es
+banumb1,avibase-DCB1B70D,15265,species,Bare-necked Umbrellabird,Paraguero Cuellicalvo,Cephalopterus glabricollis,es
+amaumb1,avibase-5892D240,15266,species,Amazonian Umbrellabird,Paraguero Ornado,Cephalopterus ornatus,es
+lowumb1,avibase-7171CA71,15267,species,Long-wattled Umbrellabird,Paraguero Corbatudo,Cephalopterus penduliger,es
 capuch1,avibase-5E05CF2C,15268,species,Capuchinbird,Pajaro Capuchino,Perissocephalus tricolor,es
 lovcot1,avibase-6D5FE7C8,15269,species,Lovely Cotinga,Cotinga Azulejo,Cotinga amabilis,es
 turcot1,avibase-EADC7DCB,15270,species,Turquoise Cotinga,Cotinga Turquesa,Cotinga ridgwayi,es
@@ -9853,7 +9853,7 @@ soutch1,avibase-2507F6F4,19324,species,Southern Tchagra,Chagra de El Cabo,Tchagr
 tchagr1,avibase-06A622A3,19328,spuh,tchagra sp.,Chagra sp.,Tchagra sp.,es
 renbus1,avibase-C59DFD44,19329,species,Red-naped Bushshrike,Bubu Nuquirrojo,Laniarius ruficeps,es
 sombou1,avibase-E7DC526A,19333,species,Coastal Boubou,Bubu de Erlanger,Laniarius nigerrimus,es
-luebus1,avibase-5AF20251,19334,species,Lühder's Bushshrike,Bubu de Lühder,Laniarius luehderi,es
+luebus1,avibase-5AF20251,19334,species,Luhder's Bushshrike,Bubu de Luhder,Laniarius luehderi,es
 brabus1,avibase-EDE3A983,19335,species,Braun's Bushshrike,Bubu de Braun,Laniarius brauni,es
 gabbus1,avibase-EB2CB5F5,19336,species,Gabela Bushshrike,Bubu Angoleno,Laniarius amboimensis,es
 turbou1,avibase-E294BEED,19337,species,Turati's Boubou,Bubu de Turati,Laniarius turatii,es
@@ -9876,9 +9876,9 @@ mosbou1,avibase-73E1A69A,19369,species,Western Boubou,Bubu Montano Occidental,La
 mosbou2,avibase-CD5DAEDF,19370,issf,Western Boubou (Cameroon),Bubu Montano Occidental (camerunensis),Laniarius poensis camerunensis,es
 mosbou3,avibase-7D1FA59C,19371,issf,Western Boubou (Bioko),Bubu Montano Occidental (poensis),Laniarius poensis poensis,es
 mosbou4,avibase-5E8D59E5,19372,species,Albertine Boubou,Bubu Montano,Laniarius holomelas,es
-fuebou1,avibase-EA283BA8,19373,species,Fülleborn's Boubou,Bubu de Fülleborn,Laniarius fuelleborni,es
-fuebou2,avibase-6772C7D5,19374,issf,Fülleborn's Boubou (Usambara),Bubu de Fülleborn (usambaricus),Laniarius fuelleborni usambaricus,es
-fuebou3,avibase-9BCBD49A,19375,issf,Fülleborn's Boubou (Fülleborn's),Bubu de Fülleborn (fuelleborni),Laniarius fuelleborni fuelleborni,es
+fuebou1,avibase-EA283BA8,19373,species,Fulleborn's Boubou,Bubu de Fulleborn,Laniarius fuelleborni,es
+fuebou2,avibase-6772C7D5,19374,issf,Fulleborn's Boubou (Usambara),Bubu de Fulleborn (usambaricus),Laniarius fuelleborni usambaricus,es
+fuebou3,avibase-9BCBD49A,19375,issf,Fulleborn's Boubou (Fulleborn's),Bubu de Fulleborn (fuelleborni),Laniarius fuelleborni fuelleborni,es
 boubou1,avibase-5796E9FE,19376,spuh,boubou sp.,Bubu sp.,Laniarius sp.,es
 ropbus1,avibase-8B8AC14A,19377,species,Rosy-patched Bushshrike,Bubu Pechirrosado,Rhodophoneus cruentus,es
 bokmak1,avibase-D194C523,19382,species,Bokmakierie,Bubu Silbon,Telophorus zeylonus,es
@@ -11611,7 +11611,7 @@ yebgre1,avibase-D083BB3F,23499,species,Yellow-bellied Greenbul,Bulbul Pechiamari
 joygre1,avibase-4602AC01,23503,species,Joyful Greenbul,Bulbul Alegre,Chlorocichla laetissima,es
 prigre1,avibase-38652F17,23506,species,Prigogine's Greenbul,Bulbul de Prigogine,Chlorocichla prigoginei,es
 hongre1,avibase-E6A0D208,23507,species,Honeyguide Greenbul,Bulbul Indicador,Baeopogon indicator,es
-sjogre1,avibase-C6833BA9,23510,species,Sjöstedt's Greenbul,Bulbul Chillon,Baeopogon clamans,es
+sjogre1,avibase-C6833BA9,23510,species,Sjostedt's Greenbul,Bulbul Chillon,Baeopogon clamans,es
 yetgre1,avibase-C73137EA,23511,species,Yellow-throated Greenbul,Bulbul Gorjiamarillo,Atimastillas flavicollis,es
 yetgre2,avibase-3C8E84A6,23512,issf,Yellow-throated Greenbul (flavicollis),Bulbul Gorjiamarillo (flavicollis),Atimastillas flavicollis flavicollis,es
 yetgre3,avibase-70B59173,23513,issf,Yellow-throated Greenbul (soror),Bulbul Gorjiamarillo (soror),Atimastillas flavicollis soror,es
@@ -11874,8 +11874,8 @@ y00994,avibase-CF0BFAB2,24051,slash,Gray-crowned/Whistler's Warbler,Mosquitero C
 biawar1,avibase-6A26566D,24052,species,Bianchi's Warbler,Mosquitero de Bianchi,Phylloscopus valentini,es
 y00650,avibase-191EF467,24055,slash,Gray-crowned/Bianchi's Warbler,Mosquitero Coronigris/de Bianchi,Phylloscopus tephrocephalus/valentini,es
 marwar4,avibase-86B50297,24056,species,Martens's Warbler,Mosquitero de Martens,Phylloscopus omeiensis,es
-pltwar1,avibase-65EA17D9,24057,species,Alström's Warbler,Mosquitero Soror,Phylloscopus soror,es
-y00995,avibase-ACDFC08A,24058,slash,Bianchi's/Martens's/Alström's Warbler,Mosquitero de Bianchi/de Martens,Phylloscopus valentini/omeiensis/soror,es
+pltwar1,avibase-65EA17D9,24057,species,Alstrom's Warbler,Mosquitero Soror,Phylloscopus soror,es
+y00995,avibase-ACDFC08A,24058,slash,Bianchi's/Martens's/Alstrom's Warbler,Mosquitero de Bianchi/de Martens,Phylloscopus valentini/omeiensis/soror,es
 seicer2,avibase-F18394C3,24059,spuh,Phylloscopus sp. (Golden-spectacled Warbler complex),Seicercus sp. (complejo burkii),Phylloscopus sp. (burkii complex),es
 grnwar1,avibase-3542C46B,24060,species,Green Warbler,Mosquitero del Caucaso,Phylloscopus nitidus,es
 grewar3,avibase-23EF1BD9,24061,species,Greenish Warbler,Mosquitero Verdoso,Phylloscopus trochiloides,es
@@ -12027,7 +12027,7 @@ afhbab2,avibase-9BF60D8D,24402,issf,African Hill Babbler (African),Curruca Abisi
 afhbab3,avibase-A0855E30,24405,species,Rwenzori Hill Babbler,Curruca del Ruwenzori,Sylvia atriceps,es
 barwar1,avibase-1EA60B94,24406,species,Barred Warbler,Curruca Gavilana,Curruca nisoria,es
 laywar2,avibase-697DE8A6,24409,species,Layard's Warbler,Curruca de Layard,Curruca layardi,es
-banwar2,avibase-982C918E,24414,species,Banded Parisoma,Curruca de Böhm,Curruca boehmi,es
+banwar2,avibase-982C918E,24414,species,Banded Parisoma,Curruca de Bohm,Curruca boehmi,es
 ruvwar2,avibase-C39D67AD,24418,species,Chestnut-vented Warbler,Curruca Surena,Curruca subcoerulea,es
 leswhi4,avibase-0DCD05BE,24423,species,Lesser Whitethroat,Curruca Zarcerilla,Curruca curruca,es
 leswhi2,avibase-D8E180FB,24424,issf,Lesser Whitethroat (curruca/blythi),Curruca Zarcerilla (curruca/blythi),Curruca curruca curruca/blythi,es
@@ -12054,7 +12054,7 @@ triwar1,avibase-D1EF4402,24459,species,Tristram's Warbler,Curruca del Atlas,Curr
 menwar1,avibase-AA027706,24462,species,Menetries's Warbler,Curruca de Menetries,Curruca mystacea,es
 menwar2,avibase-89893875,24463,issf,Menetries's Warbler (mystacea),Curruca de Menetries (mystacea),Curruca mystacea mystacea,es
 menwar3,avibase-80E3D33C,24464,issf,Menetries's Warbler (rubescens/turcmenica),Curruca de Menetries (rubescens/turcmenica),Curruca mystacea rubescens/turcmenica,es
-ruewar1,avibase-A1B09A86,24467,species,Rüppell's Warbler,Curruca de Rüppell,Curruca ruppeli,es
+ruewar1,avibase-A1B09A86,24467,species,Ruppell's Warbler,Curruca de Ruppell,Curruca ruppeli,es
 cypwar1,avibase-94E23F51,24468,species,Cyprus Warbler,Curruca Chipriota,Curruca melanothorax,es
 sarwar1,avibase-B0D09483,24469,species,Sardinian Warbler,Curruca Cabecinegra,Curruca melanocephala,es
 subwar8,avibase-3FC15B06,24473,species,Moltoni's Warbler,Curruca Tirrenica,Curruca subalpina,es
@@ -12693,7 +12693,7 @@ bnhnut,avibase-AD7F307B,26045,species,Brown-headed Nuthatch,Trepador Cabecipardo
 bnhnut2,avibase-71CBBD81,26046,species,Bahama Nuthatch,Trepador de Las Bahamas,Sitta insularis,es
 cornut1,avibase-7FD1FB23,26047,species,Corsican Nuthatch,Trepador Corso,Sitta whiteheadi,es
 algnut1,avibase-5415A0C3,26048,species,Algerian Nuthatch,Trepador de Kabilia,Sitta ledanti,es
-krunut1,avibase-E29D7FB9,26049,species,Krüper's Nuthatch,Trepador de Krüper,Sitta krueperi,es
+krunut1,avibase-E29D7FB9,26049,species,Kruper's Nuthatch,Trepador de Kruper,Sitta krueperi,es
 snbnut1,avibase-CEB2041A,26050,species,Snowy-browed Nuthatch,Trepador Chino,Sitta villosa,es
 yunnut1,avibase-103FF2D9,26053,species,Yunnan Nuthatch,Trepador de Yunan,Sitta yunnanensis,es
 rocnut1,avibase-C37C527F,26054,species,Western Rock Nuthatch,Trepador Rupestre Occidental,Sitta neumayer,es
@@ -13095,7 +13095,7 @@ ctgsta1,avibase-60B48D34,27012,species,Copper-tailed Starling,Estornino Colicobr
 hilsta1,avibase-621F6E07,27013,species,Hildebrandt's Starling,Estornino de Hildebrant,Lamprotornis hildebrandti,es
 shesta1,avibase-B24A13C7,27014,species,Shelley's Starling,Estornino de Shelley,Lamprotornis shelleyi,es
 bugsta1,avibase-996AF595,27015,species,Burchell's Starling,Estornino de Burchell,Lamprotornis australis,es
-ruegls1,avibase-3BB2565D,27016,species,Rüppell's Starling,Estornino de Rüppell,Lamprotornis purpuroptera,es
+ruegls1,avibase-3BB2565D,27016,species,Ruppell's Starling,Estornino de Ruppell,Lamprotornis purpuroptera,es
 ltgsta1,avibase-56713D11,27019,species,Long-tailed Glossy Starling,Estornino Colilargo,Lamprotornis caudatus,es
 megsta1,avibase-69598630,27020,species,Meves's Starling,Estornino de Meves,Lamprotornis mevesii,es
 mevgls1,avibase-75BAB34E,27021,issf,Meves's Starling (Meves's),Estornino de Meves (Meves’s),Lamprotornis mevesii mevesii,es
@@ -13300,7 +13300,7 @@ grygrt3,avibase-DD905F88,27428,issf,Gray Ground-Thrush (Bates's),Zorzal de Ghana
 crgthr1,avibase-4745E8A7,27429,species,Crossley's Ground-Thrush,Zorzal de Crossley,Geokichla crossleyi,es
 crogrt1,avibase-E2531792,27430,issf,Crossley's Ground-Thrush (Crossley's),Zorzal de Crossley (crossleyi),Geokichla crossleyi crossleyi,es
 crogrt2,avibase-C7924F48,27431,issf,Crossley's Ground-Thrush (Itombwe),Zorzal de Crossley (pilettei),Geokichla crossleyi pilettei,es
-obgthr1,avibase-05BC1F90,27432,species,Oberländer's Ground-Thrush,Zorzal de Oberlaender,Geokichla oberlaenderi,es
+obgthr1,avibase-05BC1F90,27432,species,Oberlander's Ground-Thrush,Zorzal de Oberlaender,Geokichla oberlaenderi,es
 abgthr1,avibase-C54DCA26,27433,species,Abyssinian Ground-Thrush,Zorzal de Piaggia,Geokichla piaggiae,es
 abygrt1,avibase-9049D5C3,27434,issf,Abyssinian Ground-Thrush (Abyssinian),Zorzal de Piaggia (grupo piaggiae),Geokichla piaggiae [piaggiae Group],es
 kigthr1,avibase-CF01A4C8,27440,issf,Abyssinian Ground-Thrush (Kivu),Zorzal de Piaggia (tanganjicae),Geokichla piaggiae tanganjicae,es
@@ -13515,7 +13515,7 @@ gamfly1,avibase-7387E828,27850,species,Gambaga Flycatcher,Papamoscas Gambaga,Mus
 swafly3,avibase-77F0C62C,27851,species,Swamp Flycatcher,Papamoscas Palustre,Muscicapa aquatica,es
 casfly1,avibase-A962CA14,27856,species,Cassin's Flycatcher,Papamoscas de Cassin,Muscicapa cassini,es
 muscic1,avibase-63CF1FD8,27857,spuh,Muscicapa sp.,Papamoscas (Muscicapa) sp.,Muscicapa sp.,es
-boefly1,avibase-D5629ECA,27858,species,Böhm's Flycatcher,Papamoscas de Böhm,Bradornis boehmi,es
+boefly1,avibase-D5629ECA,27858,species,Bohm's Flycatcher,Papamoscas de Bohm,Bradornis boehmi,es
 ussfly1,avibase-79993B33,27859,species,Ussher's Flycatcher,Papamoscas de Usher,Bradornis ussheri,es
 soofly1,avibase-AD9EBAC2,27860,species,Sooty Flycatcher,Papamoscas Ahumado,Bradornis fuliginosus,es
 dubfly2,avibase-F21A8321,27863,species,Dusky-blue Flycatcher,Papamoscas Pizarroso,Bradornis comitatus,es
@@ -13604,7 +13604,7 @@ matfly2,avibase-A89B82E6,28069,species,Matinan Flycatcher,Papamoscas de Sanford,
 blffly1,avibase-64C5A03E,28070,species,Blue-fronted Flycatcher,Papamoscas Frentiazul,Cyornis hoevelli,es
 tibfly2,avibase-DB232D5C,28071,species,Timor Blue Flycatcher,Papamoscas Jacintino,Cyornis hyacinthinus,es
 whtfly2,avibase-63EF266B,28074,species,White-tailed Flycatcher,Papamoscas Coliblanco,Cyornis concretus,es
-rubfly1,avibase-EAF7A5C6,28078,species,Rück's Blue Flycatcher,Papamoscas de Rück,Cyornis ruckii,es
+rubfly1,avibase-EAF7A5C6,28078,species,Ruck's Blue Flycatcher,Papamoscas de Ruck,Cyornis ruckii,es
 blbfly3,avibase-F2546DDE,28079,species,Blue-breasted Flycatcher,Papamoscas Pechiazul,Cyornis herioti,es
 bubfly1,avibase-62BD5AD2,28080,issf,Blue-breasted Flycatcher (Blue-breasted),Papamoscas Pechiazul (herioti),Cyornis herioti herioti,es
 bubfly2,avibase-A9493977,28081,issf,Blue-breasted Flycatcher (Rufous-breasted),Papamoscas Pechiazul (camarinensis),Cyornis herioti camarinensis,es
@@ -13695,7 +13695,7 @@ bsrcha1,avibase-9616C96E,28235,species,Blue-shouldered Robin-Chat,Cosifa Aliazul
 gywroc1,avibase-25C26AB9,28238,species,Gray-winged Robin-Chat,Cosifa Aligris,Cossypha polioptera,es
 gywroc2,avibase-02D1F289,28239,issf,Gray-winged Robin-Chat (Black-capped),Cosifa Aligris (nigriceps/tessmanni),Cossypha polioptera nigriceps/tessmanni,es
 gywroc3,avibase-0AF8F76D,28242,issf,Gray-winged Robin-Chat (Gray-winged),Cosifa Aligris (polioptera),Cossypha polioptera polioptera,es
-rurcha1,avibase-53EABB81,28243,species,Rüppell's Robin-Chat,Cosifa de Rüppell,Cossypha semirufa,es
+rurcha1,avibase-53EABB81,28243,species,Ruppell's Robin-Chat,Cosifa de Ruppell,Cossypha semirufa,es
 wbrcha2,avibase-16BD42DD,28247,species,White-browed Robin-Chat,Cosifa de Heuglin,Cossypha heuglini,es
 rcrcha1,avibase-3846F8A8,28251,species,Red-capped Robin-Chat,Cosifa de Natal,Cossypha natalensis,es
 chrcha1,avibase-68C54292,28255,species,Chorister Robin-Chat,Cosifa Bicolor,Cossypha dichroa,es
@@ -13891,7 +13891,7 @@ comred5,avibase-3488A4C8,28616,issf,Common Redstart (Common),Colirrojo Real (pho
 comred6,avibase-6707A9E2,28617,issf,Common Redstart (Ehrenberg's),Colirrojo Real (samamisicus),Phoenicurus phoenicurus samamisicus,es
 hodred1,avibase-015533E2,28618,species,Hodgson's Redstart,Colirrojo de Hodgson,Phoenicurus hodgsoni,es
 whtred1,avibase-B28F28BC,28619,species,White-throated Redstart,Colirrojo Gorjiblanco,Phoenicurus schisticeps,es
-whwred2,avibase-3B01E171,28620,species,White-winged Redstart,Colirrojo de Güldenstädt,Phoenicurus erythrogastrus,es
+whwred2,avibase-3B01E171,28620,species,White-winged Redstart,Colirrojo de Guldenstadt,Phoenicurus erythrogastrus,es
 blared1,avibase-612B5C24,28623,species,Black Redstart,Colirrojo Tizon,Phoenicurus ochruros,es
 blkred2,avibase-D58EA23C,28624,issf,Black Redstart (Western),Colirrojo Tizon (gibraltariensis/aterrimus),Phoenicurus ochruros gibraltariensis/aterrimus,es
 blkred1,avibase-E305404E,28627,issf,Black Redstart (Eastern),Colirrojo Tizon (grupo ochruros),Phoenicurus ochruros [ochruros Group],es
@@ -13964,7 +13964,7 @@ noacha1,avibase-E09F7223,28769,species,Northern Anteater-Chat,Zorzal Hormiguero 
 soacha1,avibase-400A83B9,28773,species,Southern Anteater-Chat,Zorzal Hormiguero Meridional,Myrmecocichla formicivora,es
 conmoo1,avibase-7631D1A3,28774,species,Congo Moor Chat,Zorzal Hormiguero del Congo,Myrmecocichla tholloni,es
 mouwhe1,avibase-3B26A7B2,28775,species,Mountain Wheatear,Collalba Montana,Myrmecocichla monticola,es
-ruecha1,avibase-1B6016EC,28780,species,Rüppell's Chat,Zorzal Hormiguero de Rüppell,Myrmecocichla melaena,es
+ruecha1,avibase-1B6016EC,28780,species,Ruppell's Chat,Zorzal Hormiguero de Ruppell,Myrmecocichla melaena,es
 whbcha2,avibase-AC5FC9B9,28781,species,Arnot's Chat,Zorzal Hormiguero de Arnot,Myrmecocichla arnotti,es
 arncha1,avibase-3E57BE77,28782,issf,Arnot's Chat (Angola),Zorzal Hormiguero de Arnot (harterti),Myrmecocichla arnotti harterti,es
 arncha2,avibase-9FD9F4BE,28783,issf,Arnot's Chat (Arnot's),Zorzal Hormiguero de Arnot (de Arnot),Myrmecocichla arnotti arnotti,es
@@ -14428,7 +14428,7 @@ katmaw1,avibase-7904C526,29806,issf,Katanga Masked-Weaver (Upemba),Tejedor de Ka
 katmaw2,avibase-EF5ED87B,29807,issf,Katanga Masked-Weaver (Katanga),Tejedor de Katanga (katangae),Ploceus katangae katangae,es
 lalmaw1,avibase-B4E50529,29808,species,Lake Lufira Masked-Weaver,Tejedor de Ruwet,Ploceus ruweti,es
 hemwea1,avibase-D8E67602,29809,species,Heuglin's Masked-Weaver,Tejedor de Heuglin,Ploceus heuglini,es
-ruewea1,avibase-9F7489D0,29810,species,Rüppell's Weaver,Tejedor de Rüppell,Ploceus galbula,es
+ruewea1,avibase-9F7489D0,29810,species,Ruppell's Weaver,Tejedor de Ruppell,Ploceus galbula,es
 spewea2,avibase-4DC2B23C,29811,species,Speke's Weaver,Tejedor de Speke,Ploceus spekei,es
 foxwea1,avibase-4436DD6C,29812,species,Fox's Weaver,Tejedor de Fox,Ploceus spekeoides,es
 viewea1,avibase-2B5D181C,29813,species,Vieillot's Weaver,Tejedor de Vieillot,Ploceus nigerrimus,es
@@ -14938,7 +14938,7 @@ yebpip2,avibase-71F12B23,30883,species,Yellow-breasted Pipit,Bisbita Pechigualdo
 shalon1,avibase-FED54E53,30884,species,Sharpe's Longclaw,Bisbita de Sharpe,Hemimacronyx sharpei,es
 ortlon1,avibase-CA742F9D,30885,species,Orange-throated Longclaw,Bisbita de El Cabo,Macronyx capensis,es
 yetlon1,avibase-0D9BFED1,30889,species,Yellow-throated Longclaw,Bisbita Gorjigualdo,Macronyx croceus,es
-fuelon2,avibase-14CFB78A,30890,species,Fülleborn's Longclaw,Bisbita de Fülleborn,Macronyx fuelleborni,es
+fuelon2,avibase-14CFB78A,30890,species,Fulleborn's Longclaw,Bisbita de Fulleborn,Macronyx fuelleborni,es
 abylon1,avibase-05AE5DFF,30893,species,Abyssinian Longclaw,Bisbita Abisinio,Macronyx flavicollis,es
 panlon1,avibase-F774B577,30894,species,Pangani Longclaw,Bisbita de Pangani,Macronyx aurantiigula,es
 rotlon1,avibase-70129CB1,30895,species,Rosy-throated Longclaw,Bisbita Gorjirrosa,Macronyx ameliae,es
@@ -15830,7 +15830,7 @@ x00479,avibase-508A4304,32775,hybrid,Common x Great-tailed Grackle (hybrid),Zana
 x00977,avibase-4A51B7C8,32776,hybrid,Boat-tailed x Great-tailed Grackle (hybrid),Zanate Marismeno x Mexicano (hibrido),Quiscalus major x mexicanus,es
 y00629,avibase-C7E3FFDA,32777,slash,Boat-tailed/Great-tailed Grackle,Zanate Marismeno/Mexicano,Quiscalus major/mexicanus,es
 slbgra1,avibase-C19704C9,32778,species,Slender-billed Grackle,Zanate Picofino,Quiscalus palustris,es
-nicgra1,avibase-D1DD7CD0,32779,species,Nicaraguan Grackle,Zanate Nicaragüense,Quiscalus nicaraguensis,es
+nicgra1,avibase-D1DD7CD0,32779,species,Nicaraguan Grackle,Zanate Nicaraguense,Quiscalus nicaraguensis,es
 gragra1,avibase-E941AD9F,32780,species,Greater Antillean Grackle,Zanate Antillano,Quiscalus niger,es
 cargra1,avibase-159FB51C,32788,species,Carib Grackle,Zanate Caribeno,Quiscalus lugubris,es
 grackl,avibase-9BEE9467,32797,spuh,grackle sp.,Zanate sp.,Quiscalus sp.,es
@@ -15855,7 +15855,7 @@ yewbla2,avibase-11755EFA,32829,species,Yellow-winged Blackbird,Varillero Aliamar
 chcbla2,avibase-7D94C902,32833,species,Chestnut-capped Blackbird,Varillero Congo,Chrysomus ruficapillus,es
 yehbla2,avibase-42826912,32836,species,Yellow-hooded Blackbird,Varillero Capuchino,Chrysomus icterocephalus,es
 sacbla2,avibase-A6365418,32839,species,Saffron-cowled Blackbird,Tordo Amarillo,Xanthopsar flavus,es
-yermar1,avibase-45D8B6C5,32840,species,Yellow-rumped Marshbird,Tordo Güirahuro,Pseudoleistes guirahuro,es
+yermar1,avibase-45D8B6C5,32840,species,Yellow-rumped Marshbird,Tordo Guirahuro,Pseudoleistes guirahuro,es
 baymar1,avibase-947E1C04,32841,species,Brown-and-yellow Marshbird,Tordo Pechiamarillo,Pseudoleistes virescens,es
 blackb,avibase-D572AE1C,32842,spuh,blackbird sp.,Icterido sp.,Icteridae sp.,es
 ovenbi1,avibase-CEA5B6AA,32843,species,Ovenbird,Reinita Hornera,Seiurus aurocapilla,es
@@ -16589,25 +16589,25 @@ cowfin1,avibase-2C01F88A,34302,species,Collared Warbling Finch,Monterita Collare
 comfin1,avibase-170A9190,34303,species,Cochabamba Mountain Finch,Monterita de Cochabamba,Poospiza garleppi,es
 tumfin1,avibase-A98353A5,34304,species,Tucuman Mountain Finch,Monterita de Tucuman,Poospiza baeri,es
 warbli1,avibase-4E330FA2,34305,spuh,warbling finch sp.,Monterita sp.,Microspingus/Poospizopsis/Castanozoster/Poospiza sp.,es
-styfin1,avibase-961B34B3,34306,species,Stripe-tailed Yellow-Finch,Chirigüe Citrino,Sicalis citrina,es
-puyfin1,avibase-558DD2EE,34310,species,Puna Yellow-Finch,Chirigüe Puneno,Sicalis lutea,es
-bryfin1,avibase-D2F4DBA5,34311,species,Bright-rumped Yellow-Finch,Chirigüe Culigualdo,Sicalis uropygialis,es
-chyfin1,avibase-89CEC2C1,34315,species,Citron-headed Yellow-Finch,Chirigüe Cabecigualdo,Sicalis luteocephala,es
-gryfin2,avibase-3CBC7FE3,34316,species,Greater Yellow-Finch,Chirigüe Grande,Sicalis auriventris,es
-gryfin3,avibase-26760B15,34317,species,Greenish Yellow-Finch,Chirigüe Olivaceo,Sicalis olivascens,es
-monyef1,avibase-462D5C1E,34321,species,Monte Yellow-Finch,Chirigüe de Monte,Sicalis mendozae,es
-payfin1,avibase-CB25EECF,34322,species,Patagonian Yellow-Finch,Chirigüe Austral,Sicalis lebruni,es
-ofyfin1,avibase-09191B98,34323,species,Orange-fronted Yellow-Finch,Chirigüe Frentinaranja,Sicalis columbiana,es
-saffin,avibase-A5AA0BEC,34327,species,Saffron Finch,Chirigüe Azafranado,Sicalis flaveola,es
-saffin1,avibase-4E75151E,34328,issf,Saffron Finch (Saffron),Chirigüe Azafranado (grupo flaveola),Sicalis flaveola [flaveola Group],es
-saffin2,avibase-B528083C,34332,issf,Saffron Finch (Pelzeln's),Chirigüe Azafranado (pelzelni),Sicalis flaveola pelzelni,es
-gryfin1,avibase-85C6D2E5,34333,species,Grassland Yellow-Finch,Chirigüe Sabanero,Sicalis luteola,es
-grayef1,avibase-AE67BA5C,34334,issf,Grassland Yellow-Finch (Northern),Chirigüe Sabanero (Centroamerica),Sicalis luteola [chrysops Group],es
-grayef2,avibase-BB34C5F5,34338,issf,Grassland Yellow-Finch (Montane),Chirigüe Sabanero (montano),Sicalis luteola bogotensis,es
-grayef3,avibase-8B75F396,34339,issf,Grassland Yellow-Finch (Grassland),Chirigüe Sabanero (sabanero),Sicalis luteola [luteola Group],es
-rayfin1,avibase-79D218BB,34343,species,Raimondi's Yellow-Finch,Chirigüe de Raimondi,Sicalis raimondii,es
-sutfin1,avibase-96F83DED,34344,species,Sulphur-throated Finch,Chirigüe de Taczanowski,Sicalis taczanowskii,es
-yellow4,avibase-8EC70C27,34345,spuh,yellow-finch sp.,Chirigüe sp.,Sicalis sp.,es
+styfin1,avibase-961B34B3,34306,species,Stripe-tailed Yellow-Finch,Chirigue Citrino,Sicalis citrina,es
+puyfin1,avibase-558DD2EE,34310,species,Puna Yellow-Finch,Chirigue Puneno,Sicalis lutea,es
+bryfin1,avibase-D2F4DBA5,34311,species,Bright-rumped Yellow-Finch,Chirigue Culigualdo,Sicalis uropygialis,es
+chyfin1,avibase-89CEC2C1,34315,species,Citron-headed Yellow-Finch,Chirigue Cabecigualdo,Sicalis luteocephala,es
+gryfin2,avibase-3CBC7FE3,34316,species,Greater Yellow-Finch,Chirigue Grande,Sicalis auriventris,es
+gryfin3,avibase-26760B15,34317,species,Greenish Yellow-Finch,Chirigue Olivaceo,Sicalis olivascens,es
+monyef1,avibase-462D5C1E,34321,species,Monte Yellow-Finch,Chirigue de Monte,Sicalis mendozae,es
+payfin1,avibase-CB25EECF,34322,species,Patagonian Yellow-Finch,Chirigue Austral,Sicalis lebruni,es
+ofyfin1,avibase-09191B98,34323,species,Orange-fronted Yellow-Finch,Chirigue Frentinaranja,Sicalis columbiana,es
+saffin,avibase-A5AA0BEC,34327,species,Saffron Finch,Chirigue Azafranado,Sicalis flaveola,es
+saffin1,avibase-4E75151E,34328,issf,Saffron Finch (Saffron),Chirigue Azafranado (grupo flaveola),Sicalis flaveola [flaveola Group],es
+saffin2,avibase-B528083C,34332,issf,Saffron Finch (Pelzeln's),Chirigue Azafranado (pelzelni),Sicalis flaveola pelzelni,es
+gryfin1,avibase-85C6D2E5,34333,species,Grassland Yellow-Finch,Chirigue Sabanero,Sicalis luteola,es
+grayef1,avibase-AE67BA5C,34334,issf,Grassland Yellow-Finch (Northern),Chirigue Sabanero (Centroamerica),Sicalis luteola [chrysops Group],es
+grayef2,avibase-BB34C5F5,34338,issf,Grassland Yellow-Finch (Montane),Chirigue Sabanero (montano),Sicalis luteola bogotensis,es
+grayef3,avibase-8B75F396,34339,issf,Grassland Yellow-Finch (Grassland),Chirigue Sabanero (sabanero),Sicalis luteola [luteola Group],es
+rayfin1,avibase-79D218BB,34343,species,Raimondi's Yellow-Finch,Chirigue de Raimondi,Sicalis raimondii,es
+sutfin1,avibase-96F83DED,34344,species,Sulphur-throated Finch,Chirigue de Taczanowski,Sicalis taczanowskii,es
+yellow4,avibase-8EC70C27,34345,spuh,yellow-finch sp.,Chirigue sp.,Sicalis sp.,es
 wtgfin1,avibase-BA6FDF30,34346,species,Wedge-tailed Grass-Finch,Coludo Colicuna,Emberizoides herbicola,es
 dugfin1,avibase-F9E82153,34353,species,Duida Grass-Finch,Coludo del Duida,Emberizoides duidae,es
 lesgrf1,avibase-26E82632,34354,species,Lesser Grass-Finch,Coludo Chico,Emberizoides ypiranganus,es
@@ -16641,7 +16641,7 @@ y00438,avibase-EA655DDE,34394,slash,Rufous-rumped/Chestnut Seedeater,Semillero C
 blbsee2,avibase-547844A7,34395,species,Black-bellied Seedeater,Semillero Ventrinegro,Sporophila melanogaster,es
 tbsfin1,avibase-64EDEAE0,34396,species,Thick-billed Seed-Finch,Semillero Piquigrueso,Sporophila funerea,es
 cbsfin,avibase-8F23E84F,34397,species,Chestnut-bellied Seed-Finch,Semillero Curio,Sporophila angolensis,es
-nisfin1,avibase-3AAEDDCF,34400,species,Nicaraguan Seed-Finch,Semillero Nicaragüense,Sporophila nuttingi,es
+nisfin1,avibase-3AAEDDCF,34400,species,Nicaraguan Seed-Finch,Semillero Nicaraguense,Sporophila nuttingi,es
 gbsfin1,avibase-A5767214,34401,species,Great-billed Seed-Finch,Semillero de Maximilian,Sporophila maximiliani,es
 lbsfin1,avibase-2824A1D9,34404,species,Large-billed Seed-Finch,Semillero Piquigrande,Sporophila crassirostris,es
 bbsfin1,avibase-D57B98B9,34407,species,Black-billed Seed-Finch,Semillero Piquinegro,Sporophila atrirostris,es

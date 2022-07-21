@@ -1012,3 +1012,7 @@ write.csv(no_ex_ew, file = "data_global/data_analysis/analysis/all_birds_01_dd.c
 #only threatened vs non-threatened (LC=1,NT=2,VU=3,EN=4,CR=5)
 species_cat <- janitor::tabyl(no_dd_ex_ew, species, category.n)
 species_cat
+
+#starting from 2022-0720 now using all_birds_01_dd
+
+
