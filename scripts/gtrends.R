@@ -698,4 +698,4 @@ french_trema <- french_trema %>%
   dplyr::rename(keyword = ï..keyword)
 french_trema_list <- french_trema$keyword[c(1:35)]
 
-#maybe have to download them in batch of a thousand to compare to others?
+#maybe have to download them in batch of a thousand to compare to others? maybe not... few species? Vautour important?
