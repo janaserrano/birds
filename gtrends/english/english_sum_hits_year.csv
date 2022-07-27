@@ -1,2807 +1,2810 @@
-"","keyword","count"
-"1","Abbott's Booby",1072
-"2","Abyssinian Roller",1509
-"3","Acadian Flycatcher",1703
-"4","Acorn Woodpecker",5254
-"5","Adelie Penguin",6626
-"6","African Black Duck",3382
-"7","African Blue Tit",938
-"8","African Comb Duck",466
-"9","African Crake",1298
-"10","African Cuckoo",697
-"11","African Darter",1413
-"12","African Emerald Cuckoo",2495
-"13","African Finfoot",952
-"14","African Goshawk",730
-"15","African Grey Hornbill",2492
-"16","African Hobby",4816
-"17","African Jacana",2898
-"18","African Openbill",1141
-"19","African Penguin",7317
-"20","African Pied Starling",473
-"21","African Pied Wagtail",1580
-"22","African Pipit",1814
-"23","African Pitta",1248
-"24","African Rail",5663
-"25","African River Martin",991
-"26","African Sacred Ibis",3735
-"27","African Silverbill",2054
-"28","African Skimmer",1016
-"29","African Spoonbill",1543
-"30","African Swift",6683
-"31","African Thrush",2437
-"32","Agami Heron",1769
-"33","Akekee",1810
-"34","Akiapolaau",1849
-"35","Akikiki",2576
-"36","Akohekohe",919
-"37","Alagoas Curassow",2134
-"38","Alder Flycatcher",2096
-"39","Aleutian Tern",1014
-"40","Alexandrine Parakeet",4525
-"41","Algerian Nuthatch",784
-"42","Allen's Hummingbird",1354
-"43","Alpine Accentor",1735
-"44","Alpine Swift",4902
-"45","Alpine Thrush",911
-"46","Altamira Oriole",1836
-"47","Amazilia Hummingbird",1176
-"48","Amazon Kingfisher",4954
-"49","Amazonian Royal Flycatcher",1343
-"50","Amazonian Umbrellabird",453
-"51","American Avocet",3286
-"52","American Bittern",6109
-"53","American Black Duck",4700
-"54","American Black Vulture",2184
-"55","American Bushtit",1060
-"56","American Coot",5776
-"57","American Crow",6372
-"58","American Dipper",4472
-"59","American Flamingo",4935
-"60","American Golden Plover",2887
-"61","American Goldfinch",5356
-"62","American Kestrel",6766
-"63","American Oystercatcher",4091
-"64","American Redstart",2361
-"65","American Robin",6969
-"66","American Tree Sparrow",4119
-"67","American White Pelican",2314
-"68","American Wigeon",4591
-"69","American Woodcock",7016
-"70","American Yellow Warbler",2871
-"71","Amethyst-throated Hummingbird",537
-"72","Amethyst-throated Sunangel",269
-"73","Amethyst Sunbird",1080
-"74","Amethyst Woodstar",1142
-"75","Amsterdam Albatross",2043
-"76","Amur Falcon",1113
-"77","Anambra Waxbill",599
-"78","Ancient Murrelet",1438
-"79","Andaman Teal",2201
-"80","Andean Avocet",616
-"81","Andean Cock-of-the-rock",1428
-"82","Andean Condor",6487
-"83","Andean Flamingo",1758
-"84","Andean Goose",1482
-"85","Andean Potoo",848
-"86","Andre's Swift",3468
-"87","Anhinga",6949
-"88","Anianiau",1196
-"89","Anna's Hummingbird",2865
-"90","Antarctic Petrel",2242
-"91","Antarctic Prion",655
-"92","Antarctic Tern",1631
-"93","Antillean Crested Hummingbird",1955
-"94","Antillean Nighthawk",586
-"95","Antipodean Albatross",1190
-"96","Apapane",2672
-"97","Aplomado Falcon",2574
-"98","Apostlebird",2489
-"99","Aquatic Warbler",1571
-"100","Arabian Babbler",1081
-"101","Arabian Bustard",685
-"102","Arabian Golden Sparrow",546
-"103","Araripe Manakin",1662
-"104","Arctic Jaeger",1359
-"105","Arctic Loon",1842
-"106","Arctic Tern",6544
-"107","Arctic Warbler",1339
-"108","Arizona Woodpecker",2992
-"109","Ascension Frigatebird",488
-"110","Ash-throated Flycatcher",1727
-"111","Ashy Drongo",4020
-"112","Ashy Minivet",755
-"113","Ashy Prinia",4984
-"114","Ashy Robin",1512
-"115","Ashy Storm-petrel",350
-"116","Ashy Tailorbird",2025
-"117","Asian Barred Owlet",3023
-"118","Asian Brown Flycatcher",2549
-"119","Asian Crested Ibis",910
-"120","Asian Dowitcher",475
-"121","Asian Emerald Cuckoo",2402
-"122","Asian Glossy Starling",3176
-"123","Asian Green Bee-eater",778
-"124","Asian Houbara",576
-"125","Asian House Martin",2209
-"126","Asian Openbill",2111
-"127","Asian Pied Starling",1591
-"128","Asian Stubtail",239
-"129","Asir Magpie",1093
-"130","Atlantic Petrel",1351
-"131","Atlantic Puffin",6239
-"132","Atlantic Royal Flycatcher",770
-"133","Atlantic Yellow-nosed Albatross",889
-"134","Auckland Rail",6713
-"135","Auckland Teal",2024
-"136","Audouin's Gull",969
-"137","Augur Buzzard",1558
-"138","Austral Parakeet",477
-"139","Australasian Bittern",334
-"140","Australasian Darter",2654
-"141","Australasian Figbird",2795
-"142","Australasian Gannet",1261
-"143","Australasian Grebe",1041
-"144","Australasian Pipit",2063
-"145","Australian Bustard",3173
-"146","Australian Hobby",3379
-"147","Australian Ibis",3080
-"148","Australian Magpie",8159
-"149","Australian Pelican",5145
-"150","Australian Raven",3644
-"151","Australian Ringneck",2206
-"152","Australian Shelduck",1058
-"153","Australian Swiftlet",777
-"154","Australian Zebra Finch",2034
-"155","Azores Bullfinch",740
-"156","Aztec Thrush",1154
-"157","Azure Jay",3583
-"158","Azure Kingfisher",3794
-"159","Azure Tit",1713
-"160","Bachman's Warbler",865
-"161","Baer's Pochard",998
-"162","Baglafecht Weaver",743
-"163","Bahama Mockingbird",1047
-"164","Bahama Nuthatch",593
-"165","Bahama Oriole",1880
-"166","Bahama Swallow",2039
-"167","Bahama Warbler",703
-"168","Baikal Teal",2604
-"169","Baillon's Crake",316
-"170","Baird's Sandpiper",1110
-"171","Bald Eagle",8638
-"172","Bald Parrot",3908
-"173","Balearic Shearwater",1879
-"174","Bali Myna",2165
-"175","Baltimore Oriole",2671
-"176","Bananaquit",3128
-"177","Band-bellied Crake",479
-"178","Band-rumped Storm-petrel",477
-"179","Band-tailed Manakin",232
-"180","Banded Bay Cuckoo",2137
-"181","Banded Broadbill",1802
-"182","Banded Cotinga",714
-"183","Banded Kingfisher",2644
-"184","Banded Lapwing",729
-"185","Banded Stilt",1255
-"186","Banded Woodpecker",1305
-"187","Banggai Crow",321
-"188","Bank Cormorant",1989
-"189","Bank Myna",1807
-"190","Bar-headed Goose",2675
-"191","Bar-tailed Godwit",2690
-"192","Bar-tailed Trogon",426
-"193","Bar-winged Prinia",490
-"194","Barau's Petrel",196
-"195","Barbados Bullfinch",1324
-"196","Barbary Partridge",1750
-"197","Barbuda Warbler",508
-"198","Bare-faced Bulbul",210
-"199","Bare-faced Curassow",323
-"200","Bare-throated Bellbird",504
-"201","Bare-throated Tiger-heron",392
-"202","Barking Owl",5405
-"203","Barn Swallow",6360
-"204","Barnacle Goose",9810
-"205","Barred Antshrike",1496
-"206","Barred Buttonquail",1136
-"207","Barred Dove",1721
-"208","Barred Eagle-owl",739
-"209","Barred Hawk",3641
-"210","Barred Owl",9354
-"211","Barred Parakeet",2557
-"212","Barrow's Goldeneye",2120
-"213","Basra Reed-warbler",276
-"214","Bassian Thrush",1779
-"215","Bat Falcon",1081
-"216","Bat Hawk",6426
-"217","Bateleur",9504
-"218","Bay-backed Shrike",652
-"219","Bay-breasted Warbler",1350
-"220","Bay-headed Tanager",677
-"221","Bay Woodpecker",3360
-"222","Bay Wren",4307
-"223","Baya Weaver",784.5
-"224","Beach Kingfisher",7100
-"225","Bean Goose",6676
-"226","Bearded Barbet",1765
-"227","Bearded Bellbird",1454
-"228","Bearded Reedling",1028
-"229","Bearded Vulture",2824
-"230","Beautiful Firetail",482
-"231","Beautiful Hummingbird",8669
-"232","Beautiful Jay",7211
-"233","Beautiful Woodpecker",1098
-"234","Beck's Petrel",201
-"235","Bee Hummingbird",2587
-"236","Bell's Vireo",1843
-"237","Bell Miner",1046
-"238","Belted Kingfisher",4380
-"239","Bengal Florican",2674
-"240","Bermuda Petrel",1429
-"241","Berylline Hummingbird",1183
-"242","Besra",4407
-"243","Bewick's Wren",1290
-"244","Bicknell's Thrush",1151
-"245","Bicolored Wren",1233
-"246","Bimaculated Lark",1998
-"247","Black-and-white Hawk-eagle",1005
-"248","Black-and-white Owl",1133
-"249","Black-and-white Warbler",1108
-"250","Black-backed Oriole",519
-"251","Black-backed Woodpecker",1334
-"252","Black-bellied Bustard",637
-"253","Black-bellied Storm-petrel",288
-"254","Black-bellied Whistling-duck",1442
-"255","Black-billed Cuckoo",957
-"256","Black-billed Magpie",1591
-"257","Black-billed Thrush",1376
-"258","Black-breasted Buzzard",609
-"259","Black-browed Albatross",1217
-"260","Black-browed Babbler",317
-"261","Black-capped Chickadee",2989
-"262","Black-capped Lory",522
-"263","Black-capped Petrel",594
-"264","Black-capped Vireo",1611
-"265","Black-casqued Hornbill",417
-"266","Black-cheeked Lovebird",815
-"267","Black-chinned Hummingbird",2380
-"268","Black-collared Barbet",372
-"269","Black-collared Starling",518
-"270","Black-crested Finch",236
-"271","Black-crested Titmouse",1544
-"272","Black-crowned Night-heron",1419
-"273","Black-faced Bunting",635
-"274","Black-faced Dacnis",599
-"275","Black-faced Grassquit",359
-"276","Black-faced Spoonbill",1327
-"277","Black-footed Albatross",838
-"278","Black-fronted Bulbul",589
-"279","Black-fronted Tern",1362
-"280","Black-headed Grosbeak",2342
-"281","Black-headed Gull",2749
-"282","Black-headed Ibis",453
-"283","Black-headed Parrot",692
-"284","Black-headed Siskin",840
-"285","Black-hooded Oriole",1680
-"286","Black-legged Kittiwake",1757
-"287","Black-legged Seriema",427
-"288","Black-naped Monarch",816
-"289","Black-naped Oriole",1468
-"290","Black-necked Crane",961
-"291","Black-necked Grebe",1847
-"292","Black-necked Stork",1239
-"293","Black-necked Wattle-eye",213
-"294","Black-rumped Flameback",593
-"295","Black-shouldered Kite",1490
-"296","Black-tailed Godwit",2125
-"297","Black-tailed Gull",1018
-"298","Black-thighed Falconet",829
-"299","Black-throated Accentor",687
-"300","Black-throated Blue Warbler",1967
-"301","Black-throated Finch",1010
-"302","Black-throated Green Warbler",1272
-"303","Black-throated Grosbeak",282
-"304","Black-throated Magpie-jay",1095
-"305","Black-throated Sparrow",1507
-"306","Black-throated Thrush",990
-"307","Black-throated Tit",409
-"308","Black-whiskered Vireo",523
-"309","Black-winged Kite",919
-"310","Black-winged Pratincole",610
-"311","Black-winged Stilt",2614
-"312","Black Baza",6363
-"313","Black Bishop",9509
-"314","Black Bittern",671.5
-"315","Black Bulbul",7000
-"316","Black Butcherbird",2821
-"317","Black Caracara",2571
-"318","Black Catbird",2756
-"319","Black Coucal",4462
-"320","Black Crake",3919
-"321","Black Crowned Crane",1425
-"322","Black Cuckoo",6110
-"323","Black Currawong",2607
-"324","Black Drongo",5498
-"325","Black Eagle",7639
-"326","Black Falcon",5337
-"327","Black Fantail",5070
-"328","Black Francolin",5227
-"329","Black Grasswren",1051
-"330","Black Grouse",10358
-"331","Black Guan",5219
-"332","Black Guillemot",3161
-"333","Black Guineafowl",850
-"334","Black Harrier",4211
-"335","Black Hawk-eagle",1116
-"336","Black Heron",10137
-"337","Black Honeyeater",4194
-"338","Black Hornbill",4959
-"339","Black Inca",5861
-"340","Black Jacobin",2101
-"341","Black Kite",10750
-"342","Black Lark",5264
-"343","Black Lory",4444
-"344","Black Metaltail",723
-"345","Black Monarch",7856
-"346","Black Noddy",3236
-"347","Black Oriole",2635
-"348","Black Parrot",12749
-"349","Black Partridge",5360
-"350","Black Petrel",2507
-"351","Black Phoebe",2906
-"352","Black Rail",12414
-"353","Black Redstart",4858
-"354","Black Robin",5243
-"355","Black Scoter",6043
-"356","Black Shama",778.5
-"357","Black Sicklebill",529
-"358","Black Siskin",4642
-"359","Black Skimmer",7817
-"360","Black Solitaire",7894
-"361","Black Solitary Eagle",841
-"362","Black Sparrowhawk",3556
-"363","Black Stilt",6612
-"364","Black Stork",7421
-"365","Black Sunbird",5198
-"366","Black Swan",1218
-"367","Black Swift",5494
-"368","Black Tern",10675
-"369","Black Thrush",9268
-"370","Black Turnstone",2329
-"371","Black Wheatear",1865
-"372","Black Woodpecker",5796
-"373","Blackburnian Warbler",3456
-"374","Blackish Oystercatcher",631
-"375","Blackpoll Warbler",3062
-"376","Blacksmith Lapwing",1365
-"377","Blackstart",3782
-"378","Blackthroat",7227
-"379","Blood Pheasant",2427
-"380","Blossom-headed Parakeet",269
-"381","Blue-and-white Flycatcher",468
-"382","Blue-and-white Swallow",811
-"383","Blue-and-yellow Macaw",4681
-"384","Blue-backed Parrot",286
-"385","Blue-bearded Helmetcrest",473
-"386","Blue-bellied Roller",841
-"387","Blue-billed Duck",975
-"388","Blue-capped Cordon-bleu",774
-"389","Blue-capped Ifrit",514
-"390","Blue-cheeked Bee-eater",612
-"391","Blue-crowned Motmot",1252
-"392","Blue-eared Kingfisher",606
-"393","Blue-eyed Cockatoo",921
-"394","Blue-eyed Ground-dove",147
-"395","Blue-faced Honeyeater",1269
-"396","Blue-footed Booby",2684
-"397","Blue-fronted Redstart",1354
-"398","Blue-grey Gnatcatcher",407
-"399","Blue-headed Parrot",1132
-"400","Blue-headed Vireo",1030
-"401","Blue-naped Parrot",697
-"402","Blue-streaked Lory",578
-"403","Blue-tailed Bee-eater",1588
-"404","Blue-throated Barbet",445
-"405","Blue-throated Macaw",1535
-"406","Blue-winged Kookaburra",911
-"407","Blue-winged Pitta",587
-"408","Blue-winged Teal",1478
-"409","Blue-winged Warbler",2133
-"410","Blue Bird-of-paradise",2039
-"411","Blue Bunting",2697
-"412","Blue Bustard",2032
-"413","Blue Coua",876
-"414","Blue Crane",9112
-"415","Blue Dacnis",2605
-"416","Blue Duck",15476
-"417","Blue Finch",5626
-"418","Blue Grosbeak",3458
-"419","Blue Jay",7136
-"420","Blue Lorikeet",6013
-"421","Blue Manakin",2205
-"422","Blue Mockingbird",8255
-"423","Blue Mountain Vireo",514
-"424","Blue Noddy",3844
-"425","Blue Nuthatch",3874
-"426","Blue Petrel",1396
-"427","Blue Pitta",5303
-"428","Blue Swallow",8217
-"429","Bluebonnet",9991
-"430","Bluethroat",2488
-"431","Blyth's Pipit",328
-"432","Boat-billed Heron",1384
-"433","Boat-tailed Grackle",1816
-"434","Bobolink",8532
-"435","Bohemian Waxwing",4013
-"436","Bokmakierie",7192
-"437","Bonaparte's Gull",1478
-"438","Bonelli's Eagle",1433
-"439","Bonin Petrel",481
-"440","Booted Eagle",7397
-"441","Booted Warbler",1254
-"442","Boreal Chickadee",2416
-"443","Boreal Owl",3287
-"444","Bornean Frogmouth",644
-"445","Bornean Peacock-pheasant",799
-"446","Bougainville Moustached Kingfisher",650
-"447","Boulder Chat",2470
-"448","Bourke's Parrot",1529
-"449","Brahminy Kite",5529
-"450","Brahminy Starling",3668
-"451","Brambling",7923
-"452","Brazilian Merganser",1261
-"453","Brazilian Ruby",6749
-"454","Brazilian Tanager",1453
-"455","Brazilian Teal",1353
-"456","Brent Goose",5136
-"457","Brewer's Blackbird",4946
-"458","Brewer's Sparrow",2118
-"459","Bridled Tern",1843
-"460","Bridled Titmouse",714
-"461","Bridled White-eye",582
-"462","Broad-billed Hummingbird",1477
-"463","Broad-billed Roller",226
-"464","Broad-billed Sandpiper",915
-"465","Broad-tailed Hummingbird",1717
-"466","Broad-winged Hawk",2929
-"467","Bronze-winged Courser",290
-"468","Bronze Mannikin",2132
-"469","Bronzed Cowbird",2104
-"470","Bronzed Drongo",910
-"471","Bronzy Inca",541
-"472","Brown-backed Solitaire",364
-"473","Brown-chested Martin",476
-"474","Brown-crested Flycatcher",912
-"475","Brown-eared Bulbul",1600
-"476","Brown-headed Barbet",1452
-"477","Brown-headed Cowbird",2579
-"478","Brown-headed Gull",848
-"479","Brown-headed Nuthatch",1629
-"480","Brown-hooded Gull",188
-"481","Brown-throated Sunbird",1729
-"482","Brown Booby",3211
-"483","Brown Bullfinch",1629
-"484","Brown Dipper",3641
-"485","Brown Falcon",5626
-"486","Brown Goshawk",1941
-"487","Brown Honeyeater",1768
-"488","Brown Inca",2850
-"489","Brown Jay",3945
-"490","Brown Lory",2315
-"491","Brown Noddy",3020
-"492","Brown Oriole",2784
-"493","Brown Parrot",8114
-"494","Brown Pelican",4155
-"495","Brown Quail",4672
-"496","Brown Shrike",2866
-"497","Brown Skua",2302
-"498","Brown Tanager",1742
-"499","Brown Teal",13741
-"500","Brown Thornbill",2005
-"501","Brown Thrasher",5594
-"502","Brown Treecreeper",1266
-"503","Brown Trembler",211
-"504","Brown Whistler",3063
-"505","Brubru",3181
-"506","Brush Bronzewing",936
-"507","Brush Cuckoo",1206
-"508","Budgerigar",6135
-"509","Buff-banded Rail",751
-"510","Buff-bellied Pipit",802
-"511","Buff-breasted Sandpiper",1420
-"512","Buff-collared Nightjar",366
-"513","Buff-faced Pygmy-parrot",826
-"514","Bufflehead",10378
-"515","Bugun Liocichla",255.5
-"516","Bull-headed Shrike",898
-"517","Buller's Albatross",1221
-"518","Bullock's Oriole",2068
-"519","Bumblebee Hummingbird",3625
-"520","Burrowing Owl",8213
-"521","Burrowing Parrot",1456
-"522","Cackling Goose",3565
-"523","Cactus Wren",6044
-"524","Calandra Lark",1942
-"525","Calayan Rail",252.5
-"526","California Condor",6543
-"527","California Gnatcatcher",2667
-"528","California Gull",2379
-"529","California Quail",5448
-"530","California Thrasher",3435
-"531","California Towhee",4396
-"532","Calliope Hummingbird",4023
-"533","Cambodian Laughingthrush",438
-"534","Cambodian Tailorbird",267
-"535","Campbell Teal",2612
-"536","Campo Flicker",635
-"537","Campo Troupial",1315
-"538","Canada Goose",4054
-"539","Canada Warbler",5073
-"540","Canvasback",11881
-"541","Canyon Wren",3812
-"542","Cape Barren Goose",2525
-"543","Cape Bulbul",3669
-"544","Cape Bunting",1873
-"545","Cape Canary",8373
-"546","Cape Cormorant",1170
-"547","Cape Crow",5658
-"548","Cape Gannet",3012
-"549","Cape May Warbler",941
-"550","Cape Parrot",5689
-"551","Cape Petrel",3073
-"552","Cape Sparrow",2781
-"553","Cape Starling",2072
-"554","Cape Sugarbird",1665
-"555","Cape Teal",2984
-"556","Cape Vulture",3811
-"557","Cape Wagtail",1607
-"558","Cape Weaver",3384
-"559","Cape White-eye",698
-"560","Capped Heron",2539
-"561","Capuchinbird",649
-"562","Cardinal Woodpecker",6252
-"563","Carib Grackle",1980
-"564","Caribbean Dove",5683
-"565","Caribbean Martin",7377
-"566","Carolina Chickadee",6464
-"567","Carolina Wren",5704
-"568","Carrion Crow",6657
-"569","Carunculated Caracara",1189
-"570","Caspian Gull",2458
-"571","Caspian Plover",1611
-"572","Caspian Tern",6240
-"573","Caspian Tit",1015
-"574","Cassin's Auklet",993
-"575","Cassin's Finch",891
-"576","Cassin's Vireo",1080
-"577","Cattle Egret",8325
-"578","Cattle Tyrant",815
-"579","Cave Swallow",3121
-"580","Cave Swiftlet",953
-"581","Cebu Flowerpecker",1510
-"582","Cedar Waxwing",8593
-"583","Cerulean Warbler",3809
-"584","Cetti's Warbler",798
-"585","Chaco Owl",1288
-"586","Chalk-browed Mockingbird",722
-"587","Channel-billed Cuckoo",1380
-"588","Channel-billed Toucan",1418
-"589","Chatham Albatross",1964
-"590","Chatham Petrel",822
-"591","Chatham Pigeon",1802
-"592","Chattering Lory",3031
-"593","Cheer Pheasant",1741
-"594","Chestnut-backed Chickadee",1660
-"595","Chestnut-breasted Mannikin",195
-"596","Chestnut-breasted Partridge",237
-"597","Chestnut-crowned Babbler",600
-"598","Chestnut-eared Bunting",161
-"599","Chestnut-headed Bee-eater",757
-"600","Chestnut-sided Warbler",1707
-"601","Chestnut-tailed Starling",1597
-"602","Chestnut Bunting",1104
-"603","Chestnut Munia",372
-"604","Chestnut Rail",3986
-"605","Chestnut Sparrow",2203
-"606","Chestnut Teal",3362
-"607","Chestnut Thrush",2711
-"608","Chestnut Weaver",2053
-"609","Chestnut Woodpecker",832
-"610","Chihuahuan Raven",1758
-"611","Chilean Flamingo",1800
-"612","Chilean Tinamou",1070
-"613","Chiloe Wigeon",991
-"614","Chimango Caracara",925
-"615","Chiming Wedgebill",1228
-"616","Chimney Swift",6029
-"617","Chinese Blackbird",2946
-"618","Chinese Crested Tern",661
-"619","Chinese Egret",1948
-"620","Chinese Francolin",937
-"621","Chinese Grouse",2967
-"622","Chinese Monal",1268
-"623","Chinese Sparrowhawk",3399
-"624","Chinese Thrush",5393
-"625","Chinstrap Penguin",4417
-"626","Chipping Sparrow",4965
-"627","Chopi Blackbird",513
-"628","Chowchilla",8559
-"629","Christmas Island Frigatebird",1491
-"630","Chukar",13085
-"631","Cinderella Waxbill",1160
-"632","Cinereous Bulbul",876
-"633","Cinereous Bunting",1131
-"634","Cinereous Mourner",964
-"635","Cinereous Vulture",2704
-"636","Cinnamon Bittern",1011
-"637","Cinnamon Hummingbird",2105
-"638","Cinnamon Teal",6748
-"639","Cirl Bunting",3510
-"640","Citril Finch",978
-"641","Citrine Wagtail",2513
-"642","Clapper Rail",4900
-"643","Clark's Grebe",1503
-"644","Clark's Nutcracker",3644
-"645","Clay-colored Sparrow",1442
-"646","Clay-colored Thrush",1210
-"647","Cliff Swallow",7189
-"648","Club-winged Manakin",420
-"649","Coal Tit",3688
-"650","Cockatiel",10511
-"651","Cocoi Heron",1689
-"652","Coconut Lorikeet",1261
-"653","Coleto",9312
-"654","Colima Warbler",1048
-"655","Collared Crow",1415
-"656","Collared Falconet",1390
-"657","Collared Flycatcher",2914
-"658","Collared Inca",852
-"659","Collared Kingfisher",4163
-"660","Collared Lory",822
-"661","Collared Nightjar",422
-"662","Collared Owlet",2196
-"663","Collared Plover",1337
-"664","Collared Pratincole",1042
-"665","Collared Puffbird",901
-"666","Collared Sparrowhawk",2053
-"667","Collared Sunbird",1897
-"668","Collared Trogon",1001
-"669","Comb-crested Jacana",731
-"670","Common Babbler",3732
-"671","Common Black Hawk",2521
-"672","Common Bronzewing",1324
-"673","Common Bulbul",5067
-"674","Common Buttonquail",1447
-"675","Common Chaffinch",1933
-"676","Common Chiffchaff",1361
-"677","Common Coot",2775
-"678","Common Crane",7052
-"679","Common Cuckoo",6699
-"680","Common Eider",3893
-"681","Common Emu",3284
-"682","Common Firecrest",1381
-"683","Common Fiscal",6447
-"684","Common Flameback",1294
-"685","Common Gallinule",5101
-"686","Common Goldeneye",3664
-"687","Common Grackle",4591
-"688","Common Green Magpie",3304
-"689","Common Greenshank",1646
-"690","Common Hill Myna",3015
-"691","Common Hoopoe",4101
-"692","Common Iora",3966
-"693","Common Kestrel",3088
-"694","Common Kingfisher",5815
-"695","Common Linnet",377
-"696","Common Loon",5056
-"697","Common Miner",3329
-"698","Common Moorhen",7260
-"699","Common Murre",3431
-"700","Common Myna",6646
-"701","Common Nighthawk",4183
-"702","Common Nightingale",5115
-"703","Common Ostrich",3471
-"704","Common Pheasant",7250
-"705","Common Pochard",2865
-"706","Common Poorwill",3018
-"707","Common Potoo",1575
-"708","Common Quail",4101
-"709","Common Raven",6687
-"710","Common Redshank",4065
-"711","Common Redstart",2359
-"712","Common Ringed Plover",2557
-"713","Common Rosefinch",3051
-"714","Common Sandpiper",6872
-"715","Common Scoter",3523
-"716","Common Shelduck",1150
-"717","Common Snipe",4527
-"718","Common Starling",4191
-"719","Common Stonechat",1601
-"720","Common Swift",6832
-"721","Common Tailorbird",3999
-"722","Common Teal",5560
-"723","Common Tern",6046
-"724","Common Waxbill",2284
-"725","Common White Tern",1071
-"726","Common Woodshrike",1584
-"727","Common Yellowthroat",4550
-"728","Compact Weaver",2492
-"729","Congo Peafowl",2709
-"730","Connecticut Warbler",2218
-"731","Cook's Petrel",895
-"732","Cooper's Hawk",8202
-"733","Copper Pheasant",3689
-"734","Coppersmith Barbet",3867
-"735","Coppery-headed Emerald",210
-"736","Cordilleran Flycatcher",1243
-"737","Corn Bunting",5011
-"738","Corncrake",8103
-"739","Coscoroba Swan",1948
-"740","Costa's Hummingbird",1981
-"741","Cozumel Thrasher",217.5
-"742","Crane Hawk",2625
-"743","Cream-colored Woodpecker",277
-"744","Cream-coloured Courser",719
-"745","Crescent-chested Warbler",770
-"746","Crescent Honeyeater",2936
-"747","Crested Auklet",1278
-"748","Crested Barbet",5159
-"749","Crested Bellbird",613
-"750","Crested Bunting",1521
-"751","Crested Caracara",4977
-"752","Crested Coua",1579
-"753","Crested Duck",6228
-"754","Crested Eagle",6197
-"755","Crested Francolin",1542
-"756","Crested Goshawk",3196
-"757","Crested Guan",768
-"758","Crested Jay",4165
-"759","Crested Kingfisher",2787
-"760","Crested Lark",4564
-"761","Crested Myna",3345
-"762","Crested Oropendola",1154
-"763","Crested Owl",5571
-"764","Crested Partridge",1488
-"765","Crested Pigeon",5237
-"766","Crested Quetzal",743
-"767","Crested Tit",4232
-"768","Crested Treeswift",910
-"769","Crimson-rumped Toucanet",1111
-"770","Crimson Chat",2429
-"771","Crimson Fruitcrow",843
-"772","Crimson Rosella",7620
-"773","Crimson Sunbird",5621
-"774","Crimson Topaz",1172
-"775","Crissal Thrasher",730
-"776","Crowned Eagle",3058
-"777","Crowned Hornbill",2498
-"778","Crowned Lapwing",1323
-"779","Crowned Solitary Eagle",1210
-"780","Crowned Woodnymph",1308
-"781","Cuban Amazon",10982
-"782","Cuban Bullfinch",1184
-"783","Cuban Crow",3543
-"784","Cuban Emerald",2358
-"785","Cuban Grassquit",1027
-"786","Cuban Green Woodpecker",516
-"787","Cuban Kite",1322
-"788","Cuban Martin",1431
-"789","Cuban Pewee",381
-"790","Cuban Solitaire",3161
-"791","Cuban Tody",4017
-"792","Cuban Trogon",2070
-"793","Cuban Vireo",469
-"794","Cuckoo Roller",1963
-"795","Curl-crested Jay",269
-"796","Curl-crested Manucode",512
-"797","Curlew Sandpiper",5972
-"798","Curve-billed Thrasher",1944
-"799","Dalmatian Pelican",1492
-"800","Dark-billed Cuckoo",280
-"801","Dark-eyed Junco",2342
-"802","Dark-necked Tailorbird",367
-"803","Daurian Jackdaw",1935
-"804","Daurian Redstart",880
-"805","Dead Sea Sparrow",839
-"806","Demoiselle Crane",4270
-"807","Desert Finch",2443
-"808","Desert Lark",2318
-"809","Desert Sparrow",3600
-"810","Desert Tawny Owl",439
-"811","Desert Wheatear",2056
-"812","Diamond Dove",11791
-"813","Diamond Firetail",2436
-"814","Dickcissel",3484
-"815","Diederik Cuckoo",2344
-"816","Dolphin Gull",1955
-"817","Donacobius",836
-"818","Double-crested Cormorant",2543
-"819","Double-toothed Kite",358
-"820","Downy Woodpecker",6380
-"821","Drab Seedeater",280
-"822","Dulit Frogmouth",692
-"823","Dunlin",13068
-"824","Dunnock",4683
-"825","Dusky Grouse",3744
-"826","Dusky Lory",1274
-"827","Dusky Moorhen",2982
-"828","Dusky Parrot",956
-"829","Dusky Robin",3604
-"830","Dusky Scrubfowl",283
-"831","Dusky Thrush",913
-"832","Dusky Warbler",1578
-"833","Dusky Woodswallow",2324
-"834","Dwarf Bittern",750
-"835","Dwarf Cassowary",2113
-"836","Dwarf Jay",2975
-"837","Eared Dove",2027
-"838","Eared Pitta",437
-"839","Eared Quetzal",951
-"840","Eastern Bluebird",4469
-"841","Eastern Bristlebird",933
-"842","Eastern Crowned Warbler",304
-"843","Eastern Goldfinch",2672.5
-"844","Eastern Imperial Eagle",881
-"845","Eastern Kingbird",3562
-"846","Eastern Koel",1888
-"847","Eastern Meadowlark",3630
-"848","Eastern Phoebe",4455
-"849","Eastern Rosella",4291
-"850","Eastern Screech-owl",740
-"851","Eastern Spinebill",2407
-"852","Eastern Towhee",4624
-"853","Eastern Whip-poor-will",1703
-"854","Eastern Whipbird",1901
-"855","Eastern Wood-pewee",1057
-"856","Eastern Yellow Robin",1755
-"857","Eastern Yellow Wagtail",1863
-"858","Echo Parakeet",1715
-"859","Ecuadorian Hermit",1737
-"860","Edible-nest Swiftlet",890
-"861","Egyptian Goose",8471
-"862","Egyptian Nightjar",1079
-"863","Egyptian Plover",3716
-"864","Egyptian Vulture",3260
-"865","Elegant Crested Tinamou",567
-"866","Elegant Parrot",2868
-"867","Elegant Pitta",411
-"868","Elegant Tern",806
-"869","Elegant Tit",2809
-"870","Elegant Trogon",2565
-"871","Eleonora's Falcon",552
-"872","Elf Owl",3996
-"873","Elfin Woods Warbler",510
-"874","Elliot's Pheasant",425
-"875","Emerald Starling",1536
-"876","Emerald Tanager",753
-"877","Emerald Toucanet",1739
-"878","Emperor Goose",2740
-"879","Emperor Penguin",5935
-"880","Empress Brilliant",1984
-"881","Erect-crested Penguin",1609
-"882","Eskimo Curlew",3140
-"883","Esmeraldas Woodstar",403
-"884","Eurasian Bittern",1029
-"885","Eurasian Blackbird",1390
-"886","Eurasian Blackcap",1512
-"887","Eurasian Blue Tit",2586
-"888","Eurasian Bullfinch",3265
-"889","Eurasian Collared-dove",1695
-"890","Eurasian Crag Martin",1264
-"891","Eurasian Curlew",1717
-"892","Eurasian Dotterel",973
-"893","Eurasian Eagle-owl",3243
-"894","Eurasian Golden Oriole",2445
-"895","Eurasian Hobby",2203
-"896","Eurasian Jackdaw",858
-"897","Eurasian Jay",4262
-"898","Eurasian Magpie",3885
-"899","Eurasian Nuthatch",1993
-"900","Eurasian Oystercatcher",1595
-"901","Eurasian Siskin",1502
-"902","Eurasian Skylark",1911
-"903","Eurasian Sparrowhawk",3052
-"904","Eurasian Spoonbill",1892
-"905","Eurasian Tree Sparrow",3180
-"906","Eurasian Treecreeper",1959
-"907","Eurasian Wigeon",3514
-"908","Eurasian Woodcock",1628
-"909","Eurasian Wryneck",2074
-"910","European Bee-eater",1080
-"911","European Goldfinch",4585
-"912","European Greenfinch",2401
-"913","European Herring Gull",968
-"914","European Nightjar",2069
-"915","European Pied Flycatcher",1110
-"916","European Robin",6269
-"917","European Roller",4544
-"918","European Serin",1440
-"919","European Shag",1447
-"920","Evening Grosbeak",4243
-"921","Eyebrowed Thrush",1641
-"922","Eyrean Grasswren",504
-"923","Fairy Martin",5328
-"924","Fairy Pitta",2368
-"925","Fairy Prion",1222
-"926","Fairy Tern",4430
-"927","Falcated Duck",1180
-"928","Familiar Chat",3996
-"929","Fan-tailed Warbler",666
-"930","Far Eastern Curlew",2787
-"931","Fearful Owl",1556
-"932","Fernwren",914
-"933","Ferruginous Duck",2771
-"934","Ferruginous Flycatcher",592
-"935","Ferruginous Hawk",4591
-"936","Ferruginous Pygmy-owl",1078
-"937","Field Sparrow",4149
-"938","Fieldfare",2274
-"939","Fiery-throated Hummingbird",1063
-"940","Fiery Topaz",1401
-"941","Fiji Parrotfinch",292
-"942","Fiji Petrel",311
-"943","Fiordland Penguin",2438
-"944","Fire-tailed Sunbird",344
-"945","Firethroat",1031
-"946","Fischer's Lovebird",2753
-"947","Fish Crow",8381
-"948","Flame-faced Tanager",516
-"949","Flame Bowerbird",782
-"950","Flame Robin",6704
-"951","Flamecrest",1884
-"952","Flammulated Owl",3064
-"953","Flightless Cormorant",2626
-"954","Floreana Mockingbird",1768
-"955","Flores Crow",1728
-"956","Flores Monarch",3498
-"957","Florida Scrub-jay",1558
-"958","Fluffy-backed Tit-babbler",1012
-"959","Forest Bittern",1411
-"960","Forest Buzzard",4387
-"961","Forest Canary",3389
-"962","Forest Kingfisher",5247
-"963","Forest Owlet",4476
-"964","Forest Raven",6956
-"965","Forest Swallow",3657
-"966","Forest Thrush",3773
-"967","Forest Wagtail",2735
-"968","Fork-tailed Drongo",531
-"969","Fork-tailed Flycatcher",991
-"970","Fork-tailed Sunbird",592
-"971","Forster's Tern",1340
-"972","Forty-spotted Pardalote",734
-"973","Fox Kestrel",2849
-"974","Franklin's Gull",1879
-"975","Freckled Duck",1186
-"976","Frilled Coquette",534
-"977","Fulvous Whistling-duck",408
-"978","Gabar Goshawk",2159
-"979","Gadwall",8768
-"980","Galah",11500
-"981","Galapagos Dove",3392
-"982","Galapagos Hawk",1660
-"983","Galapagos Martin",3905
-"984","Galapagos Mockingbird",1194
-"985","Galapagos Penguin",3982
-"986","Galapagos Rail",1398
-"987","Gambel's Quail",1473
-"988","Gang-gang Cockatoo",2155
-"989","Garden Emerald",13086
-"990","Garden Warbler",3895
-"991","Garganey",846
-"992","Gentoo Penguin",5053
-"993","Giant Antpitta",761
-"994","Giant Coot",770
-"995","Giant Hummingbird",2975
-"996","Giant Ibis",7244
-"997","Giant Kingbird",411
-"998","Giant Kingfisher",5453
-"999","Giant Nuthatch",1368
-"1000","Giant Pitta",922
-"1001","Giant Snipe",2409
-"1002","Giant Weaver",2143
-"1003","Giant Wren",1718
-"1004","Gila Woodpecker",2290
-"1005","Gilded Flicker",1878
-"1006","Glaucous-winged Gull",1212
-"1007","Glaucous Gull",2191
-"1008","Glaucous Macaw",2472
-"1009","Glossy Ibis",4716
-"1010","Glossy Swiftlet",641
-"1011","Goldcrest",10760
-"1012","Golden-bellied Gerygone",1277
-"1013","Golden-capped Parakeet",363
-"1014","Golden-cheeked Warbler",1965
-"1015","Golden-chevroned Tanager",437
-"1016","Golden-collared Manakin",256
-"1017","Golden-crowned Kinglet",2179
-"1018","Golden-crowned Sparrow",1777
-"1019","Golden-crowned Warbler",712
-"1020","Golden-fronted Bowerbird",262
-"1021","Golden-fronted Leafbird",584
-"1022","Golden-fronted Woodpecker",1041
-"1023","Golden-headed Cisticola",1059
-"1024","Golden-winged Sparrow",321
-"1025","Golden-winged Warbler",3555
-"1026","Golden Bowerbird",1730
-"1027","Golden Dove",8509
-"1028","Golden Eagle",8886
-"1029","Golden Grosbeak",1154
-"1030","Golden Masked-owl",320
-"1031","Golden Monarch",5471
-"1032","Golden Myna",1927
-"1033","Golden Nightjar",836
-"1034","Golden Palm Weaver",259
-"1035","Golden Parakeet",3475
-"1036","Golden Pheasant",10240
-"1037","Golden Pipit",1882
-"1038","Golden Swallow",5483
-"1039","Golden Tanager",3297
-"1040","Golden Whistler",5737
-"1041","Goldenface",2717
-"1042","Goliath Heron",2441
-"1043","Goosander",4176
-"1044","Gorgeted Puffleg",270
-"1045","Gorgeted Woodstar",847
-"1046","Gouldian Finch",8940
-"1047","Grace's Warbler",412
-"1048","Graceful Prinia",1036
-"1049","Grandala",2776
-"1050","Grass Wren",3192
-"1051","Grasshopper Sparrow",3132
-"1052","Great-tailed Grackle",3107
-"1053","Great-winged Petrel",876
-"1054","Great Argus",6063
-"1055","Great Barbet",2981
-"1056","Great Black-backed Gull",2834
-"1057","Great Black Hawk",2696
-"1058","Great Blue Heron",6245
-"1059","Great Blue Turaco",1317
-"1060","Great Bowerbird",682
-"1061","Great Bustard",4914
-"1062","Great Cormorant",5470
-"1063","Great Crested Flycatcher",3250
-"1064","Great Crested Grebe",6231
-"1065","Great Curassow",2818
-"1066","Great Frigatebird",1229
-"1067","Great Grebe",4088
-"1068","Great Green Macaw",2392
-"1069","Great Grey Owl",3158
-"1070","Great Grey Shrike",3165
-"1071","Great Hornbill",2230
-"1072","Great Horned Owl",10403
-"1073","Great Indian Bustard",4240
-"1074","Great Kiskadee",2411
-"1075","Great Knot",6709
-"1076","Great Myna",1917
-"1077","Great Potoo",1026
-"1078","Great Rosefinch",1878
-"1079","Great Shearwater",3069
-"1080","Great Skua",2021
-"1081","Great Slaty Woodpecker",497
-"1082","Great Snipe",3216
-"1083","Great Sparrow",6663
-"1084","Great Spotted Cuckoo",1284
-"1085","Great Spotted Kiwi",1403
-"1086","Great Spotted Woodpecker",4865
-"1087","Great Thrush",6299
-"1088","Great Tinamou",2459
-"1089","Great Tit",6302
-"1090","Great White Egret",6108
-"1091","Great White Heron",5289
-"1092","Great White Pelican",3383
-"1093","Greater Adjutant",2309
-"1094","Greater Ani",2655
-"1095","Greater Antillean Bullfinch",2056
-"1096","Greater Antillean Grackle",791
-"1097","Greater Bird-of-paradise",710
-"1098","Greater Blue-eared Starling",781
-"1099","Greater Coucal",4064
-"1100","Greater Crested Tern",945
-"1101","Greater Flameback",2850
-"1102","Greater Flamingo",5035
-"1103","Greater Green Leafbird",1061
-"1104","Greater Honeyguide",1220
-"1105","Greater Pewee",1301
-"1106","Greater Rhea",3275
-"1107","Greater Roadrunner",2231
-"1108","Greater Sandplover",415
-"1109","Greater Scaup",2837
-"1110","Greater Spotted Eagle",2238
-"1111","Greater White-fronted Goose",735
-"1112","Greater Yellowlegs",1991
-"1113","Greater Yellownape",1076
-"1114","Green-backed Tit",1254
-"1115","Green-billed Coucal",766
-"1116","Green-billed Malkoha",1148
-"1117","Green-breasted Mango",262
-"1118","Green-cheeked Parakeet",1980
-"1119","Green-headed Tanager",644
-"1120","Green-tailed Towhee",1024
-"1121","Green-throated Carib",539
-"1122","Green-winged Teal",2558
-"1123","Green Barbet",2825
-"1124","Green Broadbill",2282
-"1125","Green Catbird",1715
-"1126","Green Cochoa",1038
-"1127","Green Hermit",5461
-"1128","Green Honeycreeper",1502
-"1129","Green Ibis",9918
-"1130","Green Inca",2999
-"1131","Green Iora",995
-"1132","Green Jay",4002
-"1133","Green Junglefowl",1016
-"1134","Green Kingfisher",7476
-"1135","Green Mango",12292
-"1136","Green Oriole",5065
-"1137","Green Parakeet",7813
-"1138","Green Peafowl",4128
-"1139","Green Pheasant",6996
-"1140","Green Rosella",5796
-"1141","Green Sandpiper",3719
-"1142","Green Turaco",2494
-"1143","Green Warbler",4732
-"1144","Green Woodhoopoe",669
-"1145","Greenish Warbler",3867
-"1146","Grenada Dove",2297
-"1147","Grey-backed Shrike",638
-"1148","Grey-crowned Warbler",239
-"1149","Grey-headed Albatross",939
-"1150","Grey-headed Lapwing",494
-"1151","Grey-headed Lovebird",843
-"1152","Grey-headed Woodpecker",1044
-"1153","Grey Bunting",5241
-"1154","Grey Bushchat",3290
-"1155","Grey Butcherbird",2949
-"1156","Grey Catbird",2361
-"1157","Grey Crow",5454
-"1158","Grey Crowned Crane",5598
-"1159","Grey Currawong",1520
-"1160","Grey Falcon",9290
-"1161","Grey Fantail",3986
-"1162","Grey Francolin",6227
-"1163","Grey Go-away-bird",1592
-"1164","Grey Goshawk",2166
-"1165","Grey Grasswren",567
-"1166","Grey Gull",6014
-"1167","Grey Hawk",6736
-"1168","Grey Heron",7749
-"1169","Grey Honeyeater",1705
-"1170","Grey Jay",2798
-"1171","Grey Junglefowl",1680
-"1172","Grey Kestrel",3064
-"1173","Grey Kingbird",1810
-"1174","Grey Nightjar",1570
-"1175","Grey Parrot",12348
-"1176","Grey Partridge",6319
-"1177","Grey Petrel",2368
-"1178","Grey Plover",3491
-"1179","Grey Teal",5315
-"1180","Grey Thrasher",4000
-"1181","Grey Tinamou",657
-"1182","Grey Tit",7082
-"1183","Grey Treepie",2919
-"1184","Grey Vireo",1430
-"1185","Grey Wagtail",5906
-"1186","Grey Whistler",3404
-"1187","Grey Woodpecker",5854
-"1188","Grey Wren",6574
-"1189","Greylag Goose",7713
-"1190","Griffon Vulture",5548
-"1191","Groove-billed Ani",733
-"1192","Grosbeak Starling",1569
-"1193","Ground Parrot",4707
-"1194","Ground Tit",3141
-"1195","Ground Woodpecker",2933
-"1196","Guadalcanal Moustached Kingfisher",137
-"1197","Guadalupe Murrelet",1640
-"1198","Guaiabero",2407
-"1199","Guam Kingfisher",1144
-"1200","Guam Rail",2313
-"1201","Guanay Cormorant",563
-"1202","Guayaquil Woodpecker",603
-"1203","Guianan Cock-of-the-rock",1300
-"1204","Guira Cuckoo",1077
-"1205","Gunnison Grouse",2842
-"1206","Gyrfalcon",8085
-"1207","Hadada Ibis",2399
-"1208","Hair-crested Drongo",1666
-"1209","Hairy Woodpecker",6607
-"1210","Hamerkop",4919
-"1211","Hammond's Flycatcher",1833
-"1212","Happy Wren",3584
-"1213","Hardhead",8105
-"1214","Harlequin Duck",7403
-"1215","Harlequin Quail",1329
-"1216","Harpy Eagle",1948
-"1217","Hawaii Creeper",2333
-"1218","Hawaiian Coot",1271
-"1219","Hawaiian Crow",2250
-"1220","Hawaiian Duck",3973
-"1221","Hawaiian Goose",2637
-"1222","Hawaiian Hawk",2371
-"1223","Hawaiian Petrel",2558
-"1224","Hawfinch",3268
-"1225","Hazel Grouse",2050
-"1226","Helmet Vanga",1879
-"1227","Helmeted Curassow",660
-"1228","Helmeted Friarbird",1779
-"1229","Helmeted Guineafowl",1511
-"1230","Helmeted Hornbill",2275
-"1231","Hen Harrier",4549
-"1232","Henderson Crake",1891
-"1233","Henderson Petrel",466
-"1234","Henslow's Sparrow",761
-"1235","Hepatic Tanager",1795
-"1236","Herald Petrel",816
-"1237","Hermit Thrush",7148
-"1238","Hermit Warbler",2692
-"1239","Hill Partridge",7314
-"1240","Hill Pigeon",11626
-"1241","Hill Prinia",1330
-"1242","Himalayan Bulbul",2112
-"1243","Himalayan Cuckoo",2610
-"1244","Himalayan Forest Thrush",765
-"1245","Himalayan Griffon",2575
-"1246","Himalayan Monal",3188
-"1247","Himalayan Owl",1798
-"1248","Himalayan Quail",3903
-"1249","Himalayan Snowcock",2343
-"1250","Hispaniolan Amazon",942
-"1251","Hispaniolan Trogon",2142
-"1252","Hoary Puffleg",721
-"1253","Hoatzin",5157
-"1254","Hooded Crane",569.5
-"1255","Hooded Grebe",2031
-"1256","Hooded Merganser",9256
-"1257","Hooded Oriole",4346
-"1258","Hooded Parrot",1902
-"1259","Hooded Pitohui",1728
-"1260","Hooded Plover",2958
-"1261","Hooded Robin",2676
-"1262","Hooded Siskin",1714
-"1263","Hooded Tanager",1366
-"1264","Hooded Treepie",846
-"1265","Hooded Vulture",1572
-"1266","Hooded Warbler",2430
-"1267","Hooded Wheatear",548
-"1268","Horned Grebe",2499
-"1269","Horned Guan",1604
-"1270","Horned Lark",2876
-"1271","Horned Parakeet",1634
-"1272","Horned Puffin",2917
-"1273","Horned Screamer",1642
-"1274","Horned Sungem",1702
-"1275","Horus Swift",645
-"1276","House Bunting",7884
-"1277","House Crow",10996
-"1278","House Finch",5576
-"1279","House Sparrow",6690
-"1280","House Swallow",8812
-"1281","House Swift",9089
-"1282","House Wren",6444
-"1283","Hudsonian Godwit",2388
-"1284","Humboldt Penguin",5445
-"1285","Hyacinth Macaw",11565
-"1286","Hypocolius",1594
-"1287","Ibadan Malimbe",1269
-"1288","Iberian Chiffchaff",1444
-"1289","Ibisbill",1266
-"1290","Iceland Gull",3854
-"1291","Icterine Warbler",925
-"1292","Iiwi",3756
-"1293","Imperial Amazon",9525
-"1294","Imperial Shag",773
-"1295","Imperial Woodpecker",1201
-"1296","Inaccessible Rail",2015
-"1297","Inca Dove",2641
-"1298","Inca Tern",2377
-"1299","Indian Blackbird",2449
-"1300","Indian Blue Robin",2099
-"1301","Indian Cormorant",1973
-"1302","Indian Courser",458
-"1303","Indian Cuckoo",4347
-"1304","Indian Golden Oriole",3206
-"1305","Indian Grey Hornbill",1743
-"1306","Indian Nightjar",975
-"1307","Indian Peafowl",5083
-"1308","Indian Pitta",6931
-"1309","Indian Robin",5947
-"1310","Indian Roller",6519
-"1311","Indian Silverbill",3373
-"1312","Indian Skimmer",2251
-"1313","Indian Spot-billed Duck",1187
-"1314","Indian Spotted Eagle",1824
-"1315","Indian Swiftlet",425
-"1316","Indian Vulture",7737
-"1317","Indian White-eye",866
-"1318","Indigo Bunting",2457
-"1319","Indigo Flycatcher",402
-"1320","Intermediate Egret",2214
-"1321","Iris Lorikeet",709
-"1322","Isabela Oriole",1356
-"1323","Isabelline Shrike",1538
-"1324","Isabelline Wheatear",2132
-"1325","Island Canary",6614
-"1326","Island Monarch",10117
-"1327","Island Thrush",4519
-"1328","Island Whistler",7347
-"1329","Italian Sparrow",5197
-"1330","Ivory-billed Woodpecker",459
-"1331","Ivory Gull",1907
-"1332","Jabiru",8657
-"1333","Jack Snipe",3276
-"1334","Jackal Buzzard",2475
-"1335","Jacky Winter",4405
-"1336","Jacobin Cuckoo",1988
-"1337","Jamaican Crow",4406
-"1338","Jamaican Mango",8505
-"1339","Jamaican Oriole",1157
-"1340","Jamaican Owl",2686
-"1341","Jamaican Petrel",415
-"1342","Jamaican Tody",525
-"1343","Jandaya Parakeet",726
-"1344","Japanese Cormorant",2165
-"1345","Japanese Grosbeak",598
-"1346","Japanese Murrelet",690
-"1347","Japanese Pygmy Woodpecker",803
-"1348","Japanese Quail",6309
-"1349","Japanese Robin",5004
-"1350","Japanese Sparrowhawk",1475
-"1351","Japanese Thrush",3288
-"1352","Japanese Wagtail",1095
-"1353","Japanese Waxwing",1092
-"1354","Japanese Woodpecker",3011
-"1355","Java Sparrow",4636
-"1356","Javan Green Magpie",1268
-"1357","Javan Hawk-eagle",545
-"1358","Javan Kingfisher",2002
-"1359","Javan Lapwing",910
-"1360","Javan Munia",2303
-"1361","Javan Myna",2666
-"1362","Javan Owlet",1537
-"1363","Jerdon's Babbler",233
-"1364","Jocotoco Antpitta",1069
-"1365","Jos Plateau Indigobird",712
-"1366","Juan Fernandez Firecrown",726
-"1367","Juan Fernandez Petrel",501
-"1368","Juan Fernandez Tit-tyrant",151
-"1369","Jungle Myna",2114
-"1370","Jungle Owlet",5051
-"1371","Jungle Prinia",708
-"1372","Junin Grebe",509
-"1373","Juniper Titmouse",799
-"1374","Kagu",10293
-"1375","Kakapo",5092
-"1376","Kalij Pheasant",972
-"1377","Karamoja Apalis",610
-"1378","Karoo Chat",2925
-"1379","Karoo Lark",979
-"1380","Karoo Thrush",2061
-"1381","Kashmir Flycatcher",1970
-"1382","Kauai Nukupuu",670
-"1383","Kea",5959
-"1384","Keel-billed Toucan",1791
-"1385","Kelp Goose",644
-"1386","Kelp Gull",1716
-"1387","Kentish Plover",2884
-"1388","Kentucky Warbler",3353
-"1389","Kerguelen Petrel",554
-"1390","Kerguelen Shag",786
-"1391","Kermadec Petrel",564
-"1392","Kikau",4729
-"1393","Killdeer",8391
-"1394","King Bird-of-paradise",1403
-"1395","King Eider",4029
-"1396","King of Saxony Bird-of-paradise",789
-"1397","King Penguin",7113
-"1398","King Rail",12080
-"1399","King Vulture",5433
-"1400","Kinglet Calyptura",328
-"1401","Kirtland's Warbler",878
-"1402","Knobbed Hornbill",1793
-"1403","Knysna Turaco",1562
-"1404","Koklass Pheasant",2039
-"1405","Kori Bustard",2835
-"1406","Kurdish Wheatear",807
-"1407","Ladder-backed Woodpecker",1447
-"1408","Laggar Falcon",1213
-"1409","Lake Duck",7870
-"1410","Lance-tailed Manakin",1005
-"1411","Lanceolated Warbler",529
-"1412","Lanner Falcon",3768
-"1413","Lapland Longspur",2236
-"1414","Lappet-faced Vulture",1602
-"1415","Large-billed Crow",1164
-"1416","Large-billed Reed-warbler",134
-"1417","Large-tailed Nightjar",717
-"1418","Large Frogmouth",1047
-"1419","Large Grey Babbler",3000
-"1420","Large Woodshrike",1583
-"1421","Lark Bunting",3876
-"1422","Lark Sparrow",4119
-"1423","Laughing Dove",5240
-"1424","Laughing Falcon",3453
-"1425","Laughing Gull",4003
-"1426","Laughing Kookaburra",5438
-"1427","Lava Gull",1016
-"1428","Lavender Waxbill",1481
-"1429","Laysan Albatross",2972
-"1430","Laysan Duck",1478
-"1431","Lazuli Bunting",3941
-"1432","Lazy Cisticola",655
-"1433","Leaden Flycatcher",2850
-"1434","Lear's Macaw",1503
-"1435","Least Auklet",383
-"1436","Least Bittern",3220
-"1437","Least Flycatcher",4652
-"1438","Least Grebe",1584
-"1439","Least Sandpiper",4576
-"1440","Least Tern",5279
-"1441","Lemon Dove",7829
-"1442","Lesser Adjutant",2427
-"1443","Lesser Black-backed Gull",2393
-"1444","Lesser Coucal",2497
-"1445","Lesser Crested Tern",2974
-"1446","Lesser Cuckoo",2155
-"1447","Lesser Flamingo",3165
-"1448","Lesser Florican",3899
-"1449","Lesser Frigatebird",3112
-"1450","Lesser Goldfinch",4625
-"1451","Lesser Grey Shrike",1671
-"1452","Lesser Kestrel",3465
-"1453","Lesser Masked Weaver",468
-"1454","Lesser Moorhen",469
-"1455","Lesser Nighthawk",2838
-"1456","Lesser Noddy",517
-"1457","Lesser Prairie-chicken",788
-"1458","Lesser Rhea",1065
-"1459","Lesser Roadrunner",919
-"1460","Lesser Scaup",5067
-"1461","Lesser Shortwing",984
-"1462","Lesser Spotted Eagle",3306
-"1463","Lesser Spotted Woodpecker",5434
-"1464","Lesser Yellowlegs",3003
-"1465","Levant Sparrowhawk",1335
-"1466","Lewin's Honeyeater",774
-"1467","Liben Lark",1057
-"1468","Light-vented Bulbul",1398
-"1469","Lilac-breasted Roller",2171
-"1470","Lilacine Amazon",793
-"1471","Limpkin",5401
-"1472","Lincoln's Sparrow",1107
-"1473","Lineated Barbet",2550
-"1474","Lineated Woodpecker",1174
-"1475","Lined Seedeater",679
-"1476","Little Auk",1349
-"1477","Little Bee-eater",1223
-"1478","Little Black Cormorant",1657
-"1479","Little Blue Heron",6366
-"1480","Little Brown Bustard",376
-"1481","Little Bunting",6398
-"1482","Little Bustard",2925
-"1483","Little Corella",4614
-"1484","Little Cormorant",6168
-"1485","Little Crake",1286
-"1486","Little Crow",10056
-"1487","Little Cuckoo",4379
-"1488","Little Curlew",2620
-"1489","Little Eagle",15166
-"1490","Little Egret",7361
-"1491","Little Friarbird",1201
-"1492","Little Grebe",3291
-"1493","Little Green Woodpecker",1461
-"1494","Little Gull",6231
-"1495","Little Hermit",5586
-"1496","Little Kingfisher",2711
-"1497","Little Lorikeet",3414
-"1498","Little Nightjar",626
-"1499","Little Owl",13332
-"1500","Little Penguin",10283
-"1501","Little Pied Cormorant",2493
-"1502","Little Pied Flycatcher",1250
-"1503","Little Raven",11053
-"1504","Little Ringed Plover",3831
-"1505","Little Shearwater",1905
-"1506","Little Spiderhunter",615
-"1507","Little Spotted Kiwi",1945
-"1508","Little Stint",3002
-"1509","Little Swift",5606
-"1510","Little Tern",3167
-"1511","Little Tinamou",710
-"1512","Little Wattlebird",1918
-"1513","Little Weaver",6783
-"1514","Little Woodpecker",4290
-"1515","Little Woodstar",643
-"1516","Little Woodswallow",941
-"1517","Livingstone's Turaco",594
-"1518","Lizard Buzzard",2315
-"1519","Loggerhead Kingbird",1106
-"1520","Loggerhead Shrike",5018
-"1521","Long-billed Corella",917
-"1522","Long-billed Curlew",2241
-"1523","Long-billed Dowitcher",2630
-"1524","Long-billed Murrelet",172.5
-"1525","Long-billed Thrasher",1311
-"1526","Long-legged Buzzard",1068
-"1527","Long-tailed Duck",2442
-"1528","Long-tailed Finch",582
-"1529","Long-tailed Jaeger",780
-"1530","Long-tailed Minivet",661
-"1531","Long-tailed Mockingbird",880
-"1532","Long-tailed Potoo",220
-"1533","Long-tailed Rosefinch",322
-"1534","Long-tailed Shrike",1125
-"1535","Long-tailed Tit",3157
-"1536","Long-tailed Widowbird",1004
-"1537","Long-toed Stint",750
-"1538","Long-wattled Umbrellabird",888
-"1539","Long-whiskered Owlet",417
-"1540","Louisiana Waterthrush",2311
-"1541","Lovely Cotinga",674
-"1542","Lucifer Hummingbird",3757
-"1543","Luzon Bleeding-heart",2220
-"1544","Luzon Hornbill",599
-"1545","Lyre-tailed Nightjar",327
-"1546","Macaroni Penguin",5164
-"1547","Madagascar Cuckoo",1109
-"1548","Madagascar Pochard",1573
-"1549","Madagascar Rail",1929
-"1550","Madagascar Red Owl",569
-"1551","Madagascar Sacred Ibis",685
-"1552","Madagascar Swift",3993
-"1553","Madagascar Teal",665
-"1554","Madanga",1278
-"1555","Madeira Firecrest",2071
-"1556","Magellanic Penguin",3597
-"1557","Magellanic Woodpecker",975
-"1558","Magnificent Bird-of-paradise",271
-"1559","Magnificent Frigatebird",6849
-"1560","Magnificent Hummingbird",2575
-"1561","Magnificent Riflebird",1517
-"1562","Magnolia Warbler",3636
-"1563","Magpie-lark",1230
-"1564","Magpie Goose",4061
-"1565","Magpie Starling",3892
-"1566","Maguari Stork",906
-"1567","Malabar Barbet",1760
-"1568","Malabar Grey Hornbill",1461
-"1569","Malabar Parakeet",1422
-"1570","Malabar Pied Hornbill",4395
-"1571","Malabar Trogon",3463
-"1572","Malachite Kingfisher",4611
-"1573","Malachite Sunbird",2011
-"1574","Maleo",8641
-"1575","Mali Firefinch",330
-"1576","Malia",4509
-"1577","Mallard",6560
-"1578","Mallee Emu-wren",447
-"1579","Malleefowl",2961
-"1580","Mandarin Duck",2759
-"1581","Maned Duck",1800
-"1582","Mangrove Cuckoo",1091
-"1583","Mangrove Finch",1606
-"1584","Mangrove Hummingbird",1122
-"1585","Mangrove Pitta",873
-"1586","Mangrove Swallow",431
-"1587","Mangrove Whistler",1373
-"1588","Manx Shearwater",5154
-"1589","Mao",16274
-"1590","Marabou",6193
-"1591","Marbled Frogmouth",872
-"1592","Marbled Godwit",4024
-"1593","Marbled Murrelet",3369
-"1594","Marbled Teal",1234
-"1595","Mariana Crow",2040
-"1596","Maroon-fronted Parrot",884
-"1597","Maroon Oriole",1416
-"1598","Marsh Babbler",723
-"1599","Marsh Owl",3308
-"1600","Marsh Sandpiper",2880
-"1601","Marsh Tit",3868
-"1602","Marsh Warbler",3059
-"1603","Marsh Wren",4605
-"1604","Martial Eagle",6591
-"1605","Marvelous Spatuletail",1809
-"1606","Mascarene Petrel",1007
-"1607","Masked Booby",2814
-"1608","Masked Bowerbird",1100
-"1609","Masked Duck",617.5
-"1610","Masked Finch",2810
-"1611","Masked Finfoot",811
-"1612","Masked Flowerpiercer",791
-"1613","Masked Lapwing",4411
-"1614","Masked Shrike",1016
-"1615","Masked Tityra",659
-"1616","Masked Trogon",820
-"1617","Maui Akepa",785
-"1618","Maui Nukupuu",219
-"1619","Maui Parrotbill",1623
-"1620","Mauritius Fody",1617
-"1621","Mauritius Kestrel",2166
-"1622","Mauritius Olive White-eye",654
-"1623","Mayotte Drongo",697
-"1624","McKay's Bunting",387
-"1625","Meadow Bunting",1441
-"1626","Meadow Pipit",2020
-"1627","Mediterranean Gull",2887
-"1628","Melancholy Woodpecker",1074
-"1629","Melodious Warbler",1278
-"1630","Merlin",10498
-"1631","Metallic Starling",1809
-"1632","Mew Gull",3374
-"1633","Mexican Hermit",1469
-"1634","Mexican Jay",7223
-"1635","Mexican Rail",5774
-"1636","Mexican Whip-poor-will",1520
-"1637","Micronesian Starling",967
-"1638","Middle Spotted Woodpecker",1676
-"1639","Mikado Pheasant",377.5
-"1640","Military Macaw",5285
-"1641","Milky Stork",2401
-"1642","Millerbird",828
-"1643","Mindanao Lorikeet",338
-"1644","Mindoro Bleeding-heart",1219
-"1645","Mississippi Kite",5800
-"1646","Mistle Thrush",5366
-"1647","Mistletoebird",877
-"1648","Mitred Parakeet",890
-"1649","Mongolian Finch",349
-"1650","Mongolian Lark",1624
-"1651","Monk Parakeet",5212
-"1652","Monotonous Lark",1015
-"1653","Montezuma Oropendola",3154
-"1654","Montezuma Quail",2195
-"1655","Montserrat Oriole",928
-"1656","Morepork",6534
-"1657","Morningbird",2608
-"1658","Mottled Duck",4883
-"1659","Mottled Owl",2932
-"1660","Mountain Barbet",2011
-"1661","Mountain Bluebird",6553
-"1662","Mountain Buzzard",3267
-"1663","Mountain Caracara",1005
-"1664","Mountain Chickadee",6589
-"1665","Mountain Chiffchaff",284
-"1666","Mountain Kingfisher",3244
-"1667","Mountain Oriole",1638
-"1668","Mountain Parakeet",2109
-"1669","Mountain Plover",2936
-"1670","Mountain Quail",8475
-"1671","Mountain Starling",1953
-"1672","Mountain Thrush",2068
-"1673","Mountain Warbler",1872
-"1674","Mountain Wren",4554
-"1675","Mourning Dove",7147
-"1676","Mourning Warbler",3425
-"1677","Moustached Flowerpiercer",228
-"1678","Moustached Puffbird",713
-"1679","Moustached Treeswift",425
-"1680","Moustached Warbler",859
-"1681","Mugimaki Flycatcher",2111
-"1682","Mulga Parrot",2759
-"1683","Multicolored Tanager",1042
-"1684","Muscovy Duck",11578
-"1685","Musician Wren",1064
-"1686","Musk Duck",1204
-"1687","Musk Lorikeet",5729
-"1688","Mute Swan",4735
-"1689","Myrtle Warbler",4123
-"1690","Nacunda Nighthawk",390
-"1691","Namaqua Dove",1137
-"1692","Namaqua Sandgrouse",822
-"1693","Nanday Parakeet",1749
-"1694","Nankeen Kestrel",2691
-"1695","Narcissus Flycatcher",1152
-"1696","Narcondam Hornbill",3422
-"1697","Narina Trogon",2761
-"1698","Nashville Warbler",4058
-"1699","Nazca Booby",2699
-"1700","Nechisar Nightjar",990
-"1701","Neddicky",2284
-"1702","Negros Bleeding-heart",1095
-"1703","Nelson's Sparrow",1382
-"1704","Neotropical Cormorant",573
-"1705","New Britain Rail",1468
-"1706","New Caledonian Crow",2915
-"1707","New Caledonian Owlet-nightjar",953
-"1708","New Holland Honeyeater",5494
-"1709","New Zealand Bellbird",2399
-"1710","New Zealand Falcon",5049
-"1711","New Zealand Fantail",4970
-"1712","New Zealand Kaka",3371
-"1713","New Zealand Pigeon",4122
-"1714","Nicobar Pigeon",4824
-"1715","Night Parrot",4706
-"1716","Nightingale Finch",1911
-"1717","Nihoa Finch",684
-"1718","Nile Valley Sunbird",396
-"1719","Nilgiri Flycatcher",1617
-"1720","Nilgiri Pipit",1050
-"1721","Noisy Friarbird",2749
-"1722","Noisy Miner",5121
-"1723","Noisy Pitta",2091
-"1724","Nonggang Babbler",452
-"1725","North Island Brown Kiwi",2050
-"1726","North Island Kokako",883
-"1727","North Island Robin",2355
-"1728","Northern Bald Ibis",2212
-"1729","Northern Bobwhite",3306
-"1730","Northern Boobook",657
-"1731","Northern Cardinal",3893
-"1732","Northern Carmine Bee-eater",591
-"1733","Northern Cassowary",2237
-"1734","Northern Fulmar",1460
-"1735","Northern Gannet",4408
-"1736","Northern Giant Petrel",1337
-"1737","Northern Goshawk",4639
-"1738","Northern Harrier",8028
-"1739","Northern House Martin",2797
-"1740","Northern Jacana",1411
-"1741","Northern Lapwing",893.5
-"1742","Northern Mockingbird",5860
-"1743","Northern Parula",4517
-"1744","Northern Pintail",4237
-"1745","Northern Potoo",2817
-"1746","Northern Pygmy-owl",1073
-"1747","Northern Red Bishop",2213
-"1748","Northern Rockhopper Penguin",2190
-"1749","Northern Rosella",2254
-"1750","Northern Rough-winged Swallow",1122
-"1751","Northern Royal Albatross",2056
-"1752","Northern Royal Flycatcher",1148
-"1753","Northern Saw-whet Owl",3189
-"1754","Northern Screamer",1721
-"1755","Northern Shoveler",6272
-"1756","Northern Waterthrush",3362
-"1757","Northern Wheatear",3074
-"1758","Northern White-faced Owl",2409
-"1759","Northern Wren",3650
-"1760","Northwestern Crow",3150
-"1761","Nyasa Lovebird",4148
-"1762","Oahu Alauahio",363
-"1763","Oak Titmouse",2736
-"1764","Oasis Hummingbird",2243
-"1765","Ocellated Turkey",3332
-"1766","Oilbird",2704
-"1767","Okarito Kiwi",3979
-"1768","Okinawa Rail",3772
-"1769","Oleaginous Hemispingus",1882
-"1770","Olivaceous Warbler",1068
-"1771","Olive-backed Pipit",446
-"1772","Olive-backed Sunbird",1420
-"1773","Olive-sided Flycatcher",2847
-"1774","Olive Finch",6339
-"1775","Olive Flycatcher",3996
-"1776","Olive Ibis",2572
-"1777","Olive Sparrow",4297
-"1778","Olive Sunbird",3920
-"1779","Olive Thrush",4525
-"1780","Olive Warbler",2218
-"1781","Olive Whistler",2269
-"1782","Olive Woodpecker",1566
-"1783","Omani Owl",451
-"1784","Omao",6308
-"1785","Orange-bellied Parrot",1839
-"1786","Orange-billed Nightingale-thrush",299
-"1787","Orange-crowned Warbler",2155
-"1788","Orange-fronted Parakeet",860
-"1789","Orange-headed Thrush",1681
-"1790","Orange-necked Partridge",591
-"1791","Orange-winged Amazon",786
-"1792","Orange Bullfinch",1788
-"1793","Orange Chat",7901
-"1794","Orange Dove",12054
-"1795","Orange Oriole",1938
-"1796","Orange Weaver",5854
-"1797","Orchard Oriole",2393
-"1798","Oriental Darter",1813
-"1799","Oriental Dollarbird",2032
-"1800","Oriental Greenfinch",533
-"1801","Oriental Hobby",11590
-"1802","Oriental Magpie-robin",1207
-"1803","Oriental Pied Hornbill",1547
-"1804","Oriental Plover",703
-"1805","Oriental Pratincole",1207
-"1806","Oriental Skylark",2372
-"1807","Oriental Stork",1184
-"1808","Oriental Turtle-dove",378
-"1809","Orinoco Goose",655
-"1810","Oriole Blackbird",2311
-"1811","Oriole Finch",2517
-"1812","Oriole Warbler",2635
-"1813","Ornate Hawk-eagle",1038
-"1814","Ortolan Bunting",3516
-"1815","Osprey",13226
-"1816","Ou",12827
-"1817","Ovenbird",5500
-"1818","Pacific Baza",2284
-"1819","Pacific Black Duck",2838
-"1820","Pacific Golden Plover",3902
-"1821","Pacific Gull",2175
-"1822","Pacific Loon",3650
-"1823","Pacific Parrotlet",4238
-"1824","Pacific Robin",3738
-"1825","Pacific Royal Flycatcher",1178
-"1826","Pacific Swift",10715
-"1827","Pacific Wren",3579
-"1828","Paddyfield Pipit",1422
-"1829","Paddyfield Warbler",927
-"1830","Painted Bunting",5433
-"1831","Painted Finch",4173
-"1832","Painted Francolin",1148
-"1833","Painted Honeyeater",1447
-"1834","Painted Sandgrouse",2655
-"1835","Painted Spurfowl",536
-"1836","Painted Stork",7779
-"1837","Palawan Flycatcher",641
-"1838","Palawan Hornbill",1284
-"1839","Palawan Peacock-pheasant",946
-"1840","Pale-billed Flowerpecker",426
-"1841","Pale-headed Rosella",725
-"1842","Pale Sparrow",1766
-"1843","Pale Thrush",1442
-"1844","Palestine Sunbird",2059
-"1845","Palila",5213
-"1846","Pallid Cuckoo",1221
-"1847","Pallid Harrier",3710
-"1848","Pallid Swift",1043
-"1849","Palm Cockatoo",7419
-"1850","Palm Crow",3167
-"1851","Palm Tanager",840
-"1852","Palm Warbler",3300
-"1853","Palmchat",4678
-"1854","Papuan Eagle",1668
-"1855","Papuan Frogmouth",1147
-"1856","Papyrus Gonolek",364
-"1857","Paradise Riflebird",1760
-"1858","Paradise Shelduck",1706
-"1859","Paradise Tanager",2274
-"1860","Parakeet Auklet",982
-"1861","Pardusco",4384
-"1862","Parrot Crossbill",1288
-"1863","Partridge Pigeon",3663
-"1864","Pauraque",2775
-"1865","Peaceful Dove",5365
-"1866","Pearl Kite",3121
-"1867","Pechora Pipit",910
-"1868","Pectoral Sandpiper",2721
-"1869","Pelagic Cormorant",1397
-"1870","Pennant-winged Nightjar",1115
-"1871","Peregrine Falcon",8713
-"1872","Perija Parakeet",753
-"1873","Pernambuco Pygmy-owl",447
-"1874","Persian Shearwater",852
-"1875","Peruvian Booby",760
-"1876","Peruvian Martin",2824
-"1877","Peruvian Pelican",1058
-"1878","Phainopepla",4146
-"1879","Pheasant Coucal",6268
-"1880","Pheasant Cuckoo",2243
-"1881","Philadelphia Vireo",3397
-"1882","Philippine Bulbul",904
-"1883","Philippine Cockatoo",2065
-"1884","Philippine Coucal",1303
-"1885","Philippine Duck",4468
-"1886","Philippine Eagle",8948
-"1887","Philippine Falconet",1041
-"1888","Philippine Frogmouth",774
-"1889","Philippine Nightjar",1020
-"1890","Philippine Pitta",1196
-"1891","Philippine Scrubfowl",183
-"1892","Philippine Trogon",628
-"1893","Pied-billed Grebe",2357
-"1894","Pied Avocet",2036
-"1895","Pied Bushchat",3825
-"1896","Pied Butcherbird",3679
-"1897","Pied Crow",5595
-"1898","Pied Currawong",2983
-"1899","Pied Falconet",556
-"1900","Pied Goshawk",532
-"1901","Pied Harrier",1190
-"1902","Pied Heron",2596
-"1903","Pied Kingfisher",3591
-"1904","Pied Lapwing",1623
-"1905","Pied Monarch",436
-"1906","Pied Oystercatcher",2821
-"1907","Pied Thrush",1800
-"1908","Pied Triller",2370
-"1909","Pied Wheatear",2155
-"1910","Pigeon Guillemot",2936
-"1911","Pileated Finch",889
-"1912","Pileated Woodpecker",6818
-"1913","Pilotbird",603
-"1914","Pin-tailed Sandgrouse",532
-"1915","Pin-tailed Whydah",3249
-"1916","Pine Bunting",3014
-"1917","Pine Flycatcher",584
-"1918","Pine Grosbeak",5341
-"1919","Pine Siskin",4310
-"1920","Pine Warbler",5823
-"1921","Pink-backed Pelican",626
-"1922","Pink-footed Goose",777
-"1923","Pink-headed Duck",1317
-"1924","Pink-legged Graveteiro",240
-"1925","Pink-necked Green-pigeon",614
-"1926","Pink Pigeon",7823
-"1927","Pink Robin",5415
-"1928","Pinyon Jay",3069
-"1929","Piping Crow",438
-"1930","Piping Plover",5366
-"1931","Pipipi",3180
-"1932","Piratic Flycatcher",485
-"1933","Plain-tailed Wren",470
-"1934","Plain Chachalaca",1266
-"1935","Plain Flowerpecker",1726
-"1936","Plain Nightjar",364
-"1937","Plain Parakeet",1185
-"1938","Plain Pigeon",3343
-"1939","Plain Prinia",3239
-"1940","Plain Swift",5980
-"1941","Plains-wanderer",622
-"1942","Plaintive Cuckoo",1952
-"1943","Plum-headed Parakeet",1562
-"1944","Plum-throated Cotinga",296
-"1945","Plumbeous Kite",1331
-"1946","Plumbeous Vireo",1498
-"1947","Plush-crested Jay",545
-"1948","Pomarine Jaeger",1826
-"1949","Pompadour Cotinga",3243
-"1950","Powerful Owl",7928
-"1951","Prairie Falcon",5462
-"1952","Prairie Warbler",3754
-"1953","Princess Parrot",7784
-"1954","Prothonotary Warbler",3274
-"1955","Providence Petrel",783
-"1956","Puaiohi",692
-"1957","Puerto Rican Amazon",7741
-"1958","Puerto Rican Mango",1751
-"1959","Puerto Rican Tody",1109
-"1960","Puerto Rican Woodpecker",441
-"1961","Puna Flamingo",803
-"1962","Puna Ibis",1758
-"1963","Purple-rumped Sunbird",755
-"1964","Purple-winged Roller",209
-"1965","Purple Finch",8094
-"1966","Purple Gallinule",4619
-"1967","Purple Grenadier",2409
-"1968","Purple Heron",3975
-"1969","Purple Honeycreeper",1935
-"1970","Purple Martin",5209
-"1971","Purple Roller",9087
-"1972","Purple Sandpiper",7554
-"1973","Purple Starling",2562
-"1974","Purple Sunbird",4738
-"1975","Purple Swamphen",5977
-"1976","Pygmy Cormorant",1583
-"1977","Pygmy Eagle",2138
-"1978","Pygmy Nightjar",877
-"1979","Pygmy Nuthatch",2692
-"1980","Pyrrhuloxia",2366
-"1981","Radde's Warbler",450
-"1982","Radjah Shelduck",1164
-"1983","Raggiana Bird-of-paradise",1204
-"1984","Rain Quail",4980
-"1985","Rainbow Bee-eater",1529
-"1986","Rainbow Lorikeet",11294
-"1987","Rainbow Pitta",1831
-"1988","Rainbow Starfrontlet",611
-"1989","Razorbill",4382
-"1990","Red-and-green Macaw",1880
-"1991","Red-and-yellow Barbet",1035
-"1992","Red-backed Shrike",1107
-"1993","Red-bellied Woodpecker",4755
-"1994","Red-billed Blue Magpie",948
-"1995","Red-billed Curassow",262
-"1996","Red-billed Hornbill",2308
-"1997","Red-billed Leiothrix",1479
-"1998","Red-billed Oxpecker",1188
-"1999","Red-billed Quelea",1446
-"2000","Red-billed Streamertail",1051
-"2001","Red-billed Tropicbird",1629
-"2002","Red-breasted Chat",503
-"2003","Red-breasted Flycatcher",1303
-"2004","Red-breasted Goose",1458
-"2005","Red-breasted Merganser",3401
-"2006","Red-breasted Nuthatch",1263
-"2007","Red-breasted Parakeet",600
-"2008","Red-breasted Sapsucker",852
-"2009","Red-browed Finch",831
-"2010","Red-capped Manakin",1162
-"2011","Red-cheeked Cordon-bleu",1208
-"2012","Red-cockaded Woodpecker",2409
-"2013","Red-collared Woodpecker",565
-"2014","Red-crested Cardinal",1801
-"2015","Red-crested Pochard",1849
-"2016","Red-crested Turaco",560
-"2017","Red-crowned Amazon",490
-"2018","Red-crowned Crane",3143
-"2019","Red-eyed Vireo",1892
-"2020","Red-footed Booby",2058
-"2021","Red-footed Falcon",223.5
-"2022","Red-fronted Macaw",1153
-"2023","Red-headed Barbet",1422
-"2024","Red-headed Falcon",699
-"2025","Red-headed Finch",1301
-"2026","Red-headed Lovebird",914
-"2027","Red-headed Vulture",863
-"2028","Red-headed Woodpecker",2172
-"2029","Red-knobbed Coot",567
-"2030","Red-legged Honeycreeper",866
-"2031","Red-legged Kittiwake",513
-"2032","Red-legged Partridge",1907
-"2033","Red-legged Seriema",554
-"2034","Red-lored Amazon",1314
-"2035","Red-naped Ibis",1856
-"2036","Red-naped Sapsucker",1935
-"2037","Red-necked Buzzard",406
-"2038","Red-necked Grebe",1485
-"2039","Red-necked Phalarope",1059
-"2040","Red-necked Stint",843
-"2041","Red-rumped Parrot",1749
-"2042","Red-rumped Swallow",2012
-"2043","Red-shouldered Blackbird",344
-"2044","Red-shouldered Hawk",3093
-"2045","Red-tailed Hawk",4214
-"2046","Red-tailed Laughingthrush",394
-"2047","Red-tailed Shrike",344
-"2048","Red-tailed Tropicbird",550
-"2049","Red-tailed Wheatear",243
-"2050","Red-throated Caracara",416
-"2051","Red-throated Loon",1245
-"2052","Red-throated Pipit",1359
-"2053","Red-throated Twinspot",208
-"2054","Red-vented Bulbul",2524
-"2055","Red-wattled Lapwing",709
-"2056","Red-whiskered Bulbul",3414
-"2057","Red-winged Blackbird",2764
-"2058","Red-winged Parrot",588
-"2059","Red-winged Starling",1437
-"2060","Red Avadavat",2324
-"2061","Red Crossbill",3741
-"2062","Red Fody",1955
-"2063","Red Goshawk",4848
-"2064","Red Junglefowl",2836
-"2065","Red Kite",13814
-"2066","Red Knot",9440
-"2067","Red Lark",6242
-"2068","Red Lory",6286
-"2069","Red Phalarope",1846
-"2070","Red Siskin",7090
-"2071","Red Spurfowl",3221
-"2072","Red Tanager",2403
-"2073","Red Warbler",4387
-"2074","Red Wattlebird",4496
-"2075","Red Weaver",11362
-"2076","Reddish Egret",5169
-"2077","Redhead",12796
-"2078","Redpoll",6153
-"2079","Redthroat",860
-"2080","Redwing",13797
-"2081","Reed Bunting",5531
-"2082","Regal Sunbird",830
-"2083","Regent Bowerbird",3130
-"2084","Regent Honeyeater",3612
-"2085","Regent Parrot",5371
-"2086","Resplendent Quetzal",4377
-"2087","Restless Flycatcher",2480
-"2088","Rhinoceros Auklet",2117
-"2089","Rhinoceros Hornbill",4024
-"2090","Ribbon-tailed Astrapia",1651
-"2091","Richard's Pipit",1278
-"2092","Rifleman",14353
-"2093","Rimatara Lorikeet",317
-"2094","Ring-billed Gull",1596
-"2095","Ring-necked Dove",1452
-"2096","Ring-necked Duck",1926
-"2097","Ring Ouzel",4227
-"2098","Ringed Kingfisher",2398
-"2099","Ringed Teal",2610
-"2100","River Lapwing",1091
-"2101","River Tern",6746
-"2102","River Warbler",1475
-"2103","Riverside Wren",1938
-"2104","Roadside Hawk",2682
-"2105","Rock Bunting",2967
-"2106","Rock Dove",11516
-"2107","Rock Parrot",6873
-"2108","Rock Partridge",6468
-"2109","Rock Pipit",4002
-"2110","Rock Ptarmigan",2911
-"2111","Rock Sandpiper",3749
-"2112","Rock Shag",3913
-"2113","Rock Sparrow",3892
-"2114","Rock Wren",2533
-"2115","Rockrunner",4688
-"2116","Rockwarbler",691
-"2117","Rook",9875
-"2118","Rose-breasted Grosbeak",2470.5
-"2119","Rose-ringed Parakeet",2914
-"2120","Rose Robin",6864
-"2121","Roseate Spoonbill",5323
-"2122","Roseate Tern",2651
-"2123","Rosy-faced Lovebird",2473
-"2124","Rosy Starling",1823
-"2125","Rough-faced Shag",587
-"2126","Rough-legged Buzzard",1118
-"2127","Royal Cinclodes",526
-"2128","Royal Penguin",7078
-"2129","Royal Spoonbill",1426
-"2130","Royal Tern",5742
-"2131","Ruby-cheeked Sunbird",956
-"2132","Ruby-crowned Kinglet",2416
-"2133","Ruby-throated Hummingbird",3957
-"2134","Ruddy Duck",10793
-"2135","Ruddy Kingfisher",1073
-"2136","Ruddy Pigeon",869
-"2137","Ruddy Shelduck",3942
-"2138","Ruddy Turnstone",4491
-"2139","Ruff",9089
-"2140","Ruffed Grouse",5840
-"2141","Rufous-bellied Niltava",1404
-"2142","Rufous-bellied Thrush",1686
-"2143","Rufous-headed Hornbill",1076
-"2144","Rufous-legged Owl",1899
-"2145","Rufous-necked Hornbill",817
-"2146","Rufous-necked Wood-rail",173
-"2147","Rufous-tailed Hummingbird",414
-"2148","Rufous-tailed Robin",852
-"2149","Rufous Babbler",1515
-"2150","Rufous Bristlebird",729
-"2151","Rufous Fantail",1536
-"2152","Rufous Flycatcher",2502
-"2153","Rufous Hornero",2706
-"2154","Rufous Hummingbird",2577
-"2155","Rufous Motmot",1234
-"2156","Rufous Nightjar",566
-"2157","Rufous Owl",1827
-"2158","Rufous Potoo",726
-"2159","Rufous Sibia",1686
-"2160","Rufous Songlark",1612
-"2161","Rufous Treepie",4497
-"2162","Rufous Whistler",2536
-"2163","Rufous Woodpecker",1639
-"2164","Rufous Wren",2111
-"2165","Russet Sparrow",1521
-"2166","Rustic Bunting",3543
-"2167","Rusty Blackbird",5674
-"2168","Rusty Sparrow",2382
-"2169","Sabine's Gull",1774
-"2170","Sabota Lark",320
-"2171","Sacred Kingfisher",2338
-"2172","Sad Flycatcher",707
-"2173","Saddlebill",1285
-"2174","Saffron Finch",3874
-"2175","Saffron Toucanet",719
-"2176","Sage Grouse",6174
-"2177","Sage Thrasher",2024
-"2178","Sagebrush Sparrow",2065
-"2179","Saker Falcon",4395
-"2180","Salmon-crested Cockatoo",1941
-"2181","Saltmarsh Sparrow",1762
-"2182","San Lucas Robin",1820
-"2183","Sand Lark",1645
-"2184","Sanderling",7193
-"2185","Sandwich Tern",4686
-"2186","Santa Marta Parakeet",604
-"2187","Sapayoa",705
-"2188","Satin Bowerbird",4096
-"2189","Satin Flycatcher",605
-"2190","Satyr Tragopan",3581
-"2191","Savanna Hawk",2330
-"2192","Savanna Nightjar",1330
-"2193","Savannah Sparrow",4360
-"2194","Savi's Warbler",489
-"2195","Saxaul Sparrow",1266
-"2196","Say's Phoebe",6906
-"2197","Scaled Quail",2768
-"2198","Scaly-breasted Munia",1460
-"2199","Scaly Thrush",4828
-"2200","Scarlet-backed Flowerpecker",2075
-"2201","Scarlet-headed Flowerpecker",416
-"2202","Scarlet Finch",3296
-"2203","Scarlet Ibis",6488
-"2204","Scarlet Macaw",6052
-"2205","Scarlet Minivet",3734
-"2206","Scarlet Myzomela",1161
-"2207","Scarlet Robin",6809
-"2208","Scarlet Tanager",1990
-"2209","Scissor-tailed Flycatcher",2155
-"2210","Scott's Oriole",1327
-"2211","Scottish Crossbill",1102
-"2212","Screaming Cowbird",630
-"2213","Screaming Piha",2075
-"2214","Scrubtit",658
-"2215","Seaside Sparrow",2491
-"2216","Secretarybird",1676
-"2217","Sedge Warbler",3115
-"2218","Sedge Wren",2748
-"2219","Semipalmated Plover",3636
-"2220","Semipalmated Sandpiper",4510
-"2221","Senegal Parrot",5754
-"2222","Seven-colored Tanager",187
-"2223","Seychelles Kestrel",759
-"2224","Seychelles Parrot",2033
-"2225","Seychelles Warbler",1035
-"2226","Sharp-shinned Hawk",3149
-"2227","Sharp-tailed Grouse",2393
-"2228","Sharp-tailed Sandpiper",1799
-"2229","Sharpbill",2711
-"2230","Shikra",7326
-"2231","Shining Honeycreeper",411
-"2232","Shiny Cowbird",1711
-"2233","Shoebill",2254
-"2234","Shore Plover",2376
-"2235","Short-billed Dowitcher",1346
-"2236","Short-eared Owl",2850
-"2237","Short-tailed Albatross",1781
-"2238","Short-tailed Parrot",252
-"2239","Short-tailed Shearwater",1204
-"2240","Shy Albatross",1083
-"2241","Siamese Fireback",2017
-"2242","Siberian Accentor",351
-"2243","Siberian Blue Robin",1928
-"2244","Siberian Chiffchaff",2612
-"2245","Siberian Crane",6201
-"2246","Siberian Jay",3327
-"2247","Siberian Rubythroat",1975
-"2248","Siberian Thrush",1180
-"2249","Siberian Tit",1197
-"2250","Sichuan Partridge",805
-"2251","Sickle-billed Vanga",479
-"2252","Sierra Madre Ground-warbler",123
-"2253","Silver-backed Tanager",222
-"2254","Silver-breasted Broadbill",1269
-"2255","Silver-eared Mesia",621
-"2256","Silver Gull",6263
-"2257","Silver Oriole",2608
-"2258","Silver Pheasant",7219
-"2259","Silver Teal",9881
-"2260","Silverbird",9246
-"2261","Silvereye",5844
-"2262","Silvery Pigeon",800
-"2263","Sinai Rosefinch",1266
-"2264","Sinaloa Martin",3727
-"2265","Sinaloa Wren",899
-"2266","Sind Sparrow",1013
-"2267","Singing Honeyeater",3281
-"2268","Singing Quail",4303
-"2269","Singing Starling",1538
-"2270","Sinu Parakeet",321
-"2271","Sira Barbet",238
-"2272","Sirkeer Malkoha",2559
-"2273","Slaty-backed Gull",1165
-"2274","Slaty-legged Crake",746
-"2275","Slaty Bristlefront",114
-"2276","Slaty Egret",453
-"2277","Slender-billed Curlew",267.5
-"2278","Slender-billed Vulture",1070
-"2279","Small-billed Elaenia",509
-"2280","Small Minivet",2359
-"2281","Smew",5828
-"2282","Smoky Honeyeater",352
-"2283","Smoky Robin",4352
-"2284","Smooth-billed Ani",728
-"2285","Snail Kite",2521
-"2286","Snares Penguin",2246
-"2287","Snoring Rail",1180
-"2288","Snow-capped Manakin",142
-"2289","Snow Bunting",5251
-"2290","Snow Goose",7253
-"2291","Snow Partridge",4776
-"2292","Snow Petrel",2017
-"2293","Snow Pigeon",3587
-"2294","Snowcap",8455
-"2295","Snowy Egret",4400
-"2296","Snowy Owl",8078
-"2297","Snowy Plover",3427
-"2298","Snowy Sheathbill",1520
-"2299","Sociable Lapwing",1320
-"2300","Sociable Weaver",2441
-"2301","Social Flycatcher",1211
-"2302","Socorro Dove",2012
-"2303","Socorro Mockingbird",445
-"2304","Socotra Cormorant",1392
-"2305","Soft-plumaged Petrel",521
-"2306","Solitary Sandpiper",4662
-"2307","Solitary Snipe",558
-"2308","Somali Ostrich",1692
-"2309","Somali Pigeon",1563
-"2310","Sombre Tit",567
-"2311","Song Parrot",6692
-"2312","Song Sparrow",8196
-"2313","Song Thrush",6061
-"2314","Song Wren",4631
-"2315","Sooty-headed Bulbul",1450
-"2316","Sooty Albatross",1860
-"2317","Sooty Falcon",1862
-"2318","Sooty Grouse",4700
-"2319","Sooty Gull",1427
-"2320","Sooty Oystercatcher",1400
-"2321","Sooty Shearwater",2867
-"2322","Sooty Tern",3145
-"2323","Sora",13562
-"2324","South African Shelduck",584
-"2325","South African Swallow",1676
-"2326","South Georgia Pipit",900
-"2327","South Island Kokako",907
-"2328","South Island Robin",3465
-"2329","South Island Saddleback",265
-"2330","South Island Takahe",724
-"2331","South Polar Skua",1698
-"2332","Southern Boobook",2874
-"2333","Southern Boubou",868
-"2334","Southern Brown Kiwi",562
-"2335","Southern Caracara",2614
-"2336","Southern Carmine Bee-eater",2495
-"2337","Southern Cassowary",3405
-"2338","Southern Fulmar",779
-"2339","Southern Giant Petrel",1761
-"2340","Southern Ground-hornbill",440
-"2341","Southern Lapwing",2296
-"2342","Southern Martin",8406
-"2343","Southern Masked Weaver",1043
-"2344","Southern Mealy Amazon",463
-"2345","Southern Red Bishop",2243
-"2346","Southern Rockhopper Penguin",5134
-"2347","Southern Royal Albatross",2122
-"2348","Southern Screamer",1566
-"2349","Southern Swift",8363
-"2350","Southern White-faced Owl",1861
-"2351","Southern Yellow-billed Hornbill",2592
-"2352","Spangled Coquette",643
-"2353","Spangled Cotinga",1089
-"2354","Spangled Drongo",2607
-"2355","Spanish Imperial Eagle",2766
-"2356","Spanish Sparrow",4895
-"2357","Speckled Hummingbird",1771
-"2358","Speckled Mousebird",1505
-"2359","Speckled Pigeon",2395
-"2360","Speckled Tanager",917
-"2361","Speckled Warbler",1152
-"2362","Spectacled Eider",2912
-"2363","Spectacled Flowerpecker",402
-"2364","Spectacled Owl",3080
-"2365","Spectacled Parrotlet",998
-"2366","Spectacled Tyrant",941
-"2367","Spectacled Weaver",504
-"2368","Spinifex Pigeon",2607
-"2369","Spix's Macaw",1428
-"2370","Splendid Fairy-wren",783
-"2371","Splendid Sunbird",584
-"2372","Spoon-billed Sandpiper",2347
-"2373","Spot-bellied Eagle-owl",1518
-"2374","Spot-billed Pelican",951
-"2375","Spotless Crake",950
-"2376","Spotless Starling",1370
-"2377","Spotted Buttonquail",405
-"2378","Spotted Crake",2031
-"2379","Spotted Eagle-owl",1784
-"2380","Spotted Flycatcher",4052
-"2381","Spotted Harrier",1292
-"2382","Spotted Kingfisher",2492
-"2383","Spotted Owl",5310
-"2384","Spotted Owlet",3586
-"2385","Spotted Pardalote",2831
-"2386","Spotted Rail",3319
-"2387","Spotted Redshank",3416
-"2388","Spotted Sandpiper",4077
-"2389","Spotted Shag",390
-"2390","Spotted Tanager",844
-"2391","Spotted Thick-knee",1068
-"2392","Spotted Towhee",4157
-"2393","Spotted Wren",1113
-"2394","Spruce Grouse",5711
-"2395","Spur-winged Goose",2238
-"2396","Spur-winged Lapwing",533
-"2397","Squacco Heron",1703
-"2398","Squatter Pigeon",1247
-"2399","Sri Lanka Blue Magpie",871
-"2400","Sri Lanka Frogmouth",1681
-"2401","Sri Lanka Junglefowl",2260
-"2402","St Lucia Amazon",5723
-"2403","St Vincent Amazon",5633
-"2404","Standard-winged Nightjar",500
-"2405","Standardwing Bird-of-paradise",340
-"2406","Star Finch",4355
-"2407","Steller's Eider",891
-"2408","Steller's Jay",3816
-"2409","Steppe Eagle",5962
-"2410","Stewart Shag",3341
-"2411","Stilt Sandpiper",3950
-"2412","Stitchbird",2739
-"2413","Stock Dove",6075
-"2414","Stone Partridge",2348
-"2415","Stork-billed Kingfisher",2535
-"2416","Strange-tailed Tyrant",328
-"2417","Strange Weaver",3547
-"2418","Straw-headed Bulbul",779
-"2419","Straw-necked Ibis",1469
-"2420","Streak-backed Oriole",455
-"2421","Streak-eared Bulbul",987
-"2422","Streak-throated Swallow",787
-"2423","Streaked Bulbul",415
-"2424","Streaked Laughingthrush",2148
-"2425","Streaked Spiderhunter",1566
-"2426","Streaked Weaver",1715
-"2427","Striated Caracara",1338
-"2428","Striated Grassbird",1109
-"2429","Striated Pardalote",3028
-"2430","Striped Crake",349
-"2431","Striped Cuckoo",3041
-"2432","Striped Kingfisher",1346
-"2433","Striped Owl",4463
-"2434","Striped Sparrow",3213
-"2435","Striped Woodpecker",1741
-"2436","Stubble Quail",1409
-"2437","Stygian Owl",718
-"2438","Sulawesi Pitta",991
-"2439","Sulphur-bellied Warbler",447
-"2440","Sulphur-breasted Warbler",535
-"2441","Sulphur-crested Cockatoo",3792
-"2442","Sultan Tit",1969
-"2443","Sulu Hornbill",1117
-"2444","Sumatran Ground-cuckoo",371
-"2445","Sumba Hornbill",326
-"2446","Summer Tanager",2887
-"2447","Sun Lark",3680
-"2448","Sun Parakeet",5922
-"2449","Sunbittern",3342
-"2450","Sunda Blue Robin",2068
-"2451","Sunda Frogmouth",256
-"2452","Sunda Thrush",1333
-"2453","Sungrebe",762
-"2454","Superb Fairy-wren",1243
-"2455","Superb Lyrebird",2219
-"2456","Superb Parrot",3454
-"2457","Superb Starling",2201
-"2458","Surf Scoter",6134
-"2459","Surfbird",4413
-"2460","Swainson's Hawk",2738
-"2461","Swainson's Thrush",2336
-"2462","Swainson's Warbler",590
-"2463","Swallow-tailed Gull",888
-"2464","Swallow-tailed Kite",3048
-"2465","Swallow Flycatcher",2173
-"2466","Swallow Tanager",1706
-"2467","Swamp Flycatcher",947
-"2468","Swamp Francolin",587
-"2469","Swamp Harrier",641
-"2470","Swamp Sparrow",4904
-"2471","Swan Goose",11184
-"2472","Swift Parrot",4238
-"2473","Sword-billed Hummingbird",1192
-"2474","Syrian Serin",888
-"2475","Syrian Woodpecker",945
-"2476","Tacazze Sunbird",1110
-"2477","Tachira Antpitta",297
-"2478","Tahiti Monarch",1342
-"2479","Tahiti Petrel",727
-"2480","Taita Falcon",2741
-"2481","Taiwan Barbet",1402
-"2482","Taiwan Blue Magpie",2214
-"2483","Taiwan Partridge",511
-"2484","Tamaulipas Crow",614
-"2485","Tanager Finch",2171
-"2486","Tanimbar Corella",1231
-"2487","Taveta Golden Weaver",658
-"2488","Tawny-flanked Prinia",672
-"2489","Tawny Eagle",4894
-"2490","Tawny Frogmouth",7063
-"2491","Tawny Owl",6594
-"2492","Tawny Pipit",2209
-"2493","Temminck's Stint",927
-"2494","Tennessee Warbler",3481
-"2495","Terek Sandpiper",1917
-"2496","Thick-billed Kingbird",461
-"2497","Thick-billed Longspur",502
-"2498","Thick-billed Murre",1153
-"2499","Thick-billed Parrot",1526
-"2500","Thick-billed Warbler",648
-"2501","Three-wattled Bellbird",1869
-"2502","Thrush Nightingale",3958
-"2503","Tibetan Blackbird",490
-"2504","Tibetan Bunting",1403
-"2505","Tibetan Partridge",339
-"2506","Tibetan Snowcock",601
-"2507","Tiger Shrike",1273
-"2508","Timneh Parrot",4350
-"2509","Tinian Monarch",612
-"2510","Tiny Hawk",5326
-"2511","Toco Toucan",3919
-"2512","Togian White-eye",365
-"2513","Tooth-billed Pigeon",871
-"2514","Topknot Pigeon",1670
-"2515","Torrent Duck",4093
-"2516","Torresian Crow",1279
-"2517","Toucan Barbet",886
-"2518","Townsend's Warbler",1516
-"2519","Tree Martin",8465
-"2520","Tree Pipit",3570
-"2521","Tree Swallow",5391
-"2522","Tricolored Blackbird",1489
-"2523","Tricolored Heron",2480
-"2524","Tricoloured Munia",1913
-"2525","Trindade Petrel",530
-"2526","Trinidad Motmot",1096
-"2527","Tristan Albatross",2297
-"2528","Tristan Thrush",1325
-"2529","Tropical Kingbird",3220
-"2530","Tropical Mockingbird",2580
-"2531","Tropical Parula",1105
-"2532","Trumpet Manucode",1540
-"2533","Trumpeter Finch",804
-"2534","Trumpeter Hornbill",2641
-"2535","Trumpeter Swan",6208
-"2536","Tuamotu Kingfisher",715
-"2537","Tucuman Amazon",2267
-"2538","Tufted Coquette",1417
-"2539","Tufted Duck",5338
-"2540","Tufted Flycatcher",2380
-"2541","Tufted Jay",3133
-"2542","Tufted Puffin",3109
-"2543","Tufted Titmouse",6051
-"2544","Tui",9769
-"2545","Tundra Swan",5975
-"2546","Turkey Vulture",10053
-"2547","Turquoise-browed Motmot",1086
-"2548","Turquoise-fronted Amazon",1855
-"2549","Turquoise Jay",4938
-"2550","Turquoise Parrot",6612
-"2551","Turquoise Tanager",1115
-"2552","Twite",7812
-"2553","Two-barred Warbler",721
-"2554","Ultramarine Flycatcher",3196
-"2555","Ultramarine Grosbeak",1081
-"2556","Ultramarine Lorikeet",1115
-"2557","Upcher's Warbler",296
-"2558","Upland Buzzard",634
-"2559","Upland Goose",2742
-"2560","Upland Sandpiper",2454
-"2561","Ural Owl",3607
-"2562","Usambara Hyliota",367
-"2563","Variable Hawk",2091
-"2564","Variable Sunbird",915
-"2565","Variable Wheatear",2196
-"2566","Varied Bunting",1490
-"2567","Varied Thrush",3343
-"2568","Varied Tit",1647
-"2569","Variegated Flycatcher",484
-"2570","Vasa Parrot",2041
-"2571","Veery",3044
-"2572","Vegetarian Finch",1653
-"2573","Velvet Scoter",3179
-"2574","Venezuelan Troupial",730
-"2575","Verdin",7718
-"2576","Verditer Flycatcher",2350
-"2577","Vermilion Cardinal",3325
-"2578","Vervain Hummingbird",858
-"2579","Vesper Sparrow",2994
-"2580","Victoria's Riflebird",753
-"2581","Vilcabamba Inca",3357
-"2582","Village Weaver",3491
-"2583","Vinaceous Rosefinch",373
-"2584","Violaceous Euphonia",549
-"2585","Violaceous Trogon",679
-"2586","Violet-backed Starling",1322
-"2587","Violet-green Swallow",1253
-"2588","Violet Crow",1372
-"2589","Violet Cuckoo",1061
-"2590","Violet Sabrewing",1796
-"2591","Violet Turaco",2570
-"2592","Virginia Rail",5931
-"2593","Visayan Hornbill",1470
-"2594","Vogelkop Bowerbird",2713
-"2595","Volcano Hummingbird",1725
-"2596","Vulturine Guineafowl",1770
-"2597","Vulturine Parrot",976
-"2598","Wallcreeper",5297
-"2599","Wandering Albatross",2309
-"2600","Wandering Tattler",2612
-"2601","Warbling Vireo",2834
-"2602","Warsangli Linnet",588
-"2603","Water Pipit",3204
-"2604","Watercock",1928
-"2605","Waterfall Swift",3004
-"2606","Wattled Crane",2051
-"2607","Wattled Curassow",593
-"2608","Wattled Jacana",733
-"2609","Wattled Lapwing",4251
-"2610","Wattled Starling",727
-"2611","Waved Albatross",3765
-"2612","Wedge-rumped Storm-petrel",320
-"2613","Wedge-tailed Eagle",3009
-"2614","Wedge-tailed Shearwater",1515
-"2615","Weebill",2958.5
-"2616","Weka",11178
-"2617","Welcome Swallow",6244
-"2618","Western Bluebird",5063
-"2619","Western Capercaillie",1357
-"2620","Western Grebe",3147
-"2621","Western Gull",3140
-"2622","Western Kingbird",4503
-"2623","Western Koel",1452
-"2624","Western Meadowlark",4078
-"2625","Western Mountaineer",4186
-"2626","Western Parotia",1720
-"2627","Western Rosella",1867
-"2628","Western Sandpiper",2767
-"2629","Western Screech-owl",696
-"2630","Western Spindalis",752
-"2631","Western Spinebill",1087
-"2632","Western Tanager",2917
-"2633","Western Tragopan",3338
-"2634","Western Wattlebird",784
-"2635","Western Whipbird",552
-"2636","Western Wood-pewee",939
-"2637","Western Yellow Robin",1030
-"2638","Western Yellow Wagtail",1884
-"2639","Whimbrel",8962
-"2640","Whinchat",7310
-"2641","Whiskered Auklet",573
-"2642","Whiskered Pitta",547
-"2643","Whiskered Screech-owl",634
-"2644","Whiskered Tern",1513
-"2645","Whiskered Treeswift",1916
-"2646","Whistling Heron",1811
-"2647","Whistling Kite",7629
-"2648","White's Thrush",425
-"2649","White-backed Vulture",1581
-"2650","White-bellied Drongo",282
-"2651","White-bellied Go-away-bird",821
-"2652","White-bellied Heron",2442
-"2653","White-bellied Kingfisher",1112
-"2654","White-bellied Sea-eagle",1646
-"2655","White-breasted Nuthatch",2889
-"2656","White-breasted Waterhen",1761
-"2657","White-browed Tit-warbler",442
-"2658","White-browed Wagtail",1207
-"2659","White-cheeked Barbet",1132
-"2660","White-cheeked Starling",1546
-"2661","White-chinned Petrel",601
-"2662","White-collared Swift",420
-"2663","White-crested Elaenia",258
-"2664","White-crowned Pigeon",1030
-"2665","White-crowned Sparrow",3173
-"2666","White-eared Bulbul",546
-"2667","White-eared Hummingbird",589
-"2668","White-eyed River Martin",317
-"2669","White-eyed Vireo",1725
-"2670","White-faced Heron",1433
-"2671","White-faced Ibis",1296
-"2672","White-fronted Falconet",316
-"2673","White-headed Duck",981
-"2674","White-necked Jacobin",391
-"2675","White-necked Raven",976
-"2676","White-rumped Sandpiper",725
-"2677","White-rumped Seedeater",959
-"2678","White-rumped Shama",1916
-"2679","White-rumped Swift",1195
-"2680","White-rumped Vulture",830
-"2681","White-shouldered Ibis",368
-"2682","White-spectacled Bulbul",1188
-"2683","White-tailed Hawk",1961
-"2684","White-tailed Kite",2227
-"2685","White-tailed Lapwing",379
-"2686","White-tailed Ptarmigan",954
-"2687","White-tailed Tropicbird",1500
-"2688","White-throated Bee-eater",864
-"2689","White-throated Dipper",555
-"2690","White-throated Fantail",2072
-"2691","White-throated Kingfisher",1822
-"2692","White-throated Needletail",761
-"2693","White-throated Rail",229
-"2694","White-throated Robin",750
-"2695","White-throated Sparrow",2192
-"2696","White-throated Swallow",410
-"2697","White-throated Thrush",1128
-"2698","White-winged Chough",1778
-"2699","White-winged Dove",1640
-"2700","White-winged Flufftail",1097
-"2701","White-winged Parakeet",344
-"2702","White-winged Scoter",1597
-"2703","White-winged Tern",943
-"2704","White Bellbird",532.5
-"2705","White Cockatoo",1246
-"2706","White Hawk",14683
-"2707","White Ibis",9761
-"2708","White Stork",7084
-"2709","White Wagtail",4060
-"2710","White Woodpecker",5852
-"2711","Whitehead",8486
-"2712","Whooper Swan",5508
-"2713","Whooping Crane",5263
-"2714","Wild Turkey",8645
-"2715","Willet",5112
-"2716","Willie Wagtail",3579
-"2717","Willow Flycatcher",3513
-"2718","Willow Grouse",3912
-"2719","Willow Tit",7184
-"2720","Willow Warbler",4399
-"2721","Wilson's Phalarope",1070
-"2722","Wilson's Plover",981
-"2723","Wilson's Snipe",2272
-"2724","Wilson's Warbler",2008
-"2725","Wine-throated Hummingbird",590
-"2726","Winter Wren",5311
-"2727","Wonga Pigeon",2039
-"2728","Wood Duck",10519
-"2729","Wood Sandpiper",5056
-"2730","Wood Snipe",2763
-"2731","Wood Stork",4374
-"2732","Wood Thrush",5355
-"2733","Wood Warbler",1708
-"2734","Woodchat Shrike",1231
-"2735","Woodland Kingfisher",4063
-"2736","Woodlark",10523
-"2737","Woodpecker Finch",5257
-"2738","Worm-eating Warbler",1226
-"2739","Wreathed Hornbill",1252
-"2740","Wrentit",3086
-"2741","Wrinkled Hornbill",1568
-"2742","Wrybill",1438
-"2743","Yelkouan Shearwater",1726
-"2744","Yellow-bellied Flycatcher",2434
-"2745","Yellow-bellied Sapsucker",2204
-"2746","Yellow-bibbed Lory",1258
-"2747","Yellow-billed Cardinal",613
-"2748","Yellow-billed Cuckoo",2545
-"2749","Yellow-billed Kite",740
-"2750","Yellow-billed Loon",948
-"2751","Yellow-billed Magpie",1265
-"2752","Yellow-billed Oxpecker",571
-"2753","Yellow-billed Stork",1085
-"2754","Yellow-breasted Bunting",729
-"2755","Yellow-breasted Chat",942
-"2756","Yellow-browed Bunting",337
-"2757","Yellow-browed Warbler",1095
-"2758","Yellow-chevroned Parakeet",525
-"2759","Yellow-collared Lovebird",2051
-"2760","Yellow-crested Cockatoo",1187
-"2761","Yellow-crowned Amazon",868
-"2762","Yellow-crowned Bishop",1013
-"2763","Yellow-crowned Night-heron",1382
-"2764","Yellow-eared Parrot",844
-"2765","Yellow-eyed Penguin",1395
-"2766","Yellow-faced Grassquit",282
-"2767","Yellow-faced Honeyeater",674
-"2768","Yellow-green Finch",166
-"2769","Yellow-headed Amazon",1401
-"2770","Yellow-headed Blackbird",1019
-"2771","Yellow-legged Buttonquail",170
-"2772","Yellow-legged Gull",2150
-"2773","Yellow-naped Amazon",2595
-"2774","Yellow-rumped Honeyguide",506
-"2775","Yellow-throated Bunting",287
-"2776","Yellow-throated Vireo",2128
-"2777","Yellow-throated Warbler",1384
-"2778","Yellow-vented Bulbul",2070
-"2779","Yellow-wattled Lapwing",859
-"2780","Yellow-winged Blackbird",428
-"2781","Yellow-winged Cacique",706
-"2782","Yellow Bishop",5240
-"2783","Yellow Bittern",1937
-"2784","Yellow Bunting",5719
-"2785","Yellow Canary",14202
-"2786","Yellow Cardinal",2285
-"2787","Yellow Chat",6366
-"2788","Yellow Grosbeak",2392
-"2789","Yellow Honeyeater",2607
-"2790","Yellow Oriole",2428
-"2791","Yellow Rail",4761
-"2792","Yellow Thornbill",1727
-"2793","Yellow Tit",5359
-"2794","Yellow Wattlebird",1748
-"2795","Yellowhammer",1836
-"2796","Yellowhead",10189
-"2797","Yucatan Jay",2802
-"2798","Yunnan Nuthatch",524
-"2799","Zambian Barbet",506
-"2800","Zapata Rail",967
-"2801","Zebra Dove",7209
-"2802","Zenaida Dove",1987
-"2803","Zigzag Heron",388
-"2804","Zino's Petrel",700
-"2805","Zitting Cisticola",2673
-"2806","Zone-tailed Hawk",1231
+,keyword,count
+1,Abbott's Booby,1072
+2,Abyssinian Roller,1509
+3,Acadian Flycatcher,1703
+4,Acorn Woodpecker,5254
+5,Adelie Penguin,6626
+6,African Black Duck,3382
+7,African Blue Tit,938
+8,African Comb Duck,466
+9,African Crake,1298
+10,African Cuckoo,697
+11,African Darter,1413
+12,African Emerald Cuckoo,2495
+13,African Finfoot,952
+14,African Goshawk,730
+15,African Grey Hornbill,2492
+16,African Hobby,4816
+17,African Jacana,2898
+18,African Openbill,1141
+19,African Penguin,7317
+20,African Pied Starling,473
+21,African Pied Wagtail,1580
+22,African Pipit,1814
+23,African Pitta,1248
+24,African Rail,5663
+25,African River Martin,991
+26,African Sacred Ibis,3735
+27,African Silverbill,2054
+28,African Skimmer,1016
+29,African Spoonbill,1543
+30,African Swift,6683
+31,African Thrush,2437
+32,Agami Heron,1769
+33,Akekee,1810
+34,Akiapolaau,1849
+35,Akikiki,2576
+36,Akohekohe,919
+37,Alagoas Curassow,2134
+38,Alder Flycatcher,2096
+39,Aleutian Tern,1014
+40,Alexandrine Parakeet,4525
+41,Algerian Nuthatch,784
+42,Allen's Hummingbird,1354
+43,Alpine Accentor,1735
+44,Alpine Swift,4902
+45,Alpine Thrush,911
+46,Altamira Oriole,1836
+47,Amazilia Hummingbird,1176
+48,Amazon Kingfisher,4954
+49,Amazonian Royal Flycatcher,1343
+50,Amazonian Umbrellabird,453
+51,American Avocet,3286
+52,American Bittern,6109
+53,American Black Duck,4700
+54,American Black Vulture,2184
+55,American Bushtit,1060
+56,American Coot,5776
+57,American Crow,6372
+58,American Dipper,4472
+59,American Flamingo,4935
+60,American Golden Plover,2887
+61,American Goldfinch,5356
+62,American Kestrel,6766
+63,American Oystercatcher,4091
+64,American Redstart,2361
+65,American Robin,6969
+66,American Tree Sparrow,4119
+67,American White Pelican,2314
+68,American Wigeon,4591
+69,American Woodcock,7016
+70,American Yellow Warbler,2871
+71,Amethyst-throated Hummingbird,537
+72,Amethyst-throated Sunangel,269
+73,Amethyst Sunbird,1080
+74,Amethyst Woodstar,1142
+75,Amsterdam Albatross,2043
+76,Amur Falcon,1113
+77,Anambra Waxbill,599
+78,Ancient Murrelet,1438
+79,Andaman Teal,2201
+80,Andean Avocet,616
+81,Andean Cock-of-the-rock,1428
+82,Andean Condor,6487
+83,Andean Flamingo,1758
+84,Andean Goose,1482
+85,Andean Potoo,848
+86,Andre's Swift,3468
+87,Anhinga,6949
+88,Anianiau,1196
+89,Anna's Hummingbird,2865
+90,Antarctic Petrel,2242
+91,Antarctic Prion,655
+92,Antarctic Tern,1631
+93,Antillean Crested Hummingbird,1955
+94,Antillean Nighthawk,586
+95,Antipodean Albatross,1190
+96,Apapane,2672
+97,Aplomado Falcon,2574
+98,Apostlebird,2489
+99,Aquatic Warbler,1571
+100,Arabian Babbler,1081
+101,Arabian Bustard,685
+102,Arabian Golden Sparrow,546
+103,Araripe Manakin,1662
+104,Arctic Jaeger,1359
+105,Arctic Loon,1842
+106,Arctic Tern,6544
+107,Arctic Warbler,1339
+108,Arizona Woodpecker,2992
+109,Ascension Frigatebird,488
+110,Ash-throated Flycatcher,1727
+111,Ashy Drongo,4020
+112,Ashy Minivet,755
+113,Ashy Prinia,4984
+114,Ashy Robin,1512
+115,Ashy Storm-petrel,350
+116,Ashy Tailorbird,2025
+117,Asian Barred Owlet,3023
+118,Asian Brown Flycatcher,2549
+119,Asian Crested Ibis,910
+120,Asian Dowitcher,475
+121,Asian Emerald Cuckoo,2402
+122,Asian Glossy Starling,3176
+123,Asian Green Bee-eater,778
+124,Asian Houbara,576
+125,Asian House Martin,2209
+126,Asian Openbill,2111
+127,Asian Pied Starling,1591
+128,Asian Stubtail,239
+129,Asir Magpie,1093
+130,Atlantic Petrel,1351
+131,Atlantic Puffin,6239
+132,Atlantic Royal Flycatcher,770
+133,Atlantic Yellow-nosed Albatross,889
+134,Auckland Rail,6713
+135,Auckland Teal,2024
+136,Audouin's Gull,969
+137,Augur Buzzard,1558
+138,Austral Parakeet,477
+139,Australasian Bittern,334
+140,Australasian Darter,2654
+141,Australasian Figbird,2795
+142,Australasian Gannet,1261
+143,Australasian Grebe,1041
+144,Australasian Pipit,2063
+145,Australian Bustard,3173
+146,Australian Hobby,3379
+147,Australian Ibis,3080
+148,Australian Magpie,8159
+149,Australian Pelican,5145
+150,Australian Raven,3644
+151,Australian Ringneck,2206
+152,Australian Shelduck,1058
+153,Australian Swiftlet,777
+154,Australian Zebra Finch,2034
+155,Azores Bullfinch,740
+156,Aztec Thrush,1154
+157,Azure Jay,3583
+158,Azure Kingfisher,3794
+159,Azure Tit,1713
+160,Bachman's Warbler,865
+161,Baer's Pochard,998
+162,Baglafecht Weaver,743
+163,Bahama Mockingbird,1047
+164,Bahama Nuthatch,593
+165,Bahama Oriole,1880
+166,Bahama Swallow,2039
+167,Bahama Warbler,703
+168,Baikal Teal,2604
+169,Baillon's Crake,316
+170,Baird's Sandpiper,1110
+171,Bald Eagle,8638
+172,Bald Parrot,3908
+173,Balearic Shearwater,1879
+174,Bali Myna,2165
+175,Baltimore Oriole,2671
+176,Bananaquit,3128
+177,Band-bellied Crake,479
+178,Band-rumped Storm-petrel,477
+179,Band-tailed Manakin,232
+180,Banded Bay Cuckoo,2137
+181,Banded Broadbill,1802
+182,Banded Cotinga,714
+183,Banded Kingfisher,2644
+184,Banded Lapwing,729
+185,Banded Stilt,1255
+186,Banded Woodpecker,1305
+187,Banggai Crow,321
+188,Bank Cormorant,1989
+189,Bank Myna,1807
+190,Bar-headed Goose,2675
+191,Bar-tailed Godwit,2690
+192,Bar-tailed Trogon,426
+193,Bar-winged Prinia,490
+194,Barau's Petrel,196
+195,Barbados Bullfinch,1324
+196,Barbary Partridge,1750
+197,Barbuda Warbler,508
+198,Bare-faced Bulbul,210
+199,Bare-faced Curassow,323
+200,Bare-throated Bellbird,504
+201,Bare-throated Tiger-heron,392
+202,Barking Owl,5405
+203,Barn Swallow,6360
+204,Barnacle Goose,9810
+205,Barred Antshrike,1496
+206,Barred Buttonquail,1136
+207,Barred Dove,1721
+208,Barred Eagle-owl,739
+209,Barred Hawk,3641
+210,Barred Owl,9354
+211,Barred Parakeet,2557
+212,Barrow's Goldeneye,2120
+213,Basra Reed-warbler,276
+214,Bassian Thrush,1779
+215,Bat Falcon,1081
+216,Bat Hawk,6426
+217,Bateleur,9504
+218,Bay-backed Shrike,652
+219,Bay-breasted Warbler,1350
+220,Bay-headed Tanager,677
+221,Bay Woodpecker,3360
+222,Bay Wren,4307
+223,Baya Weaver,784.5
+224,Beach Kingfisher,7100
+225,Bean Goose,6676
+226,Bearded Barbet,1765
+227,Bearded Bellbird,1454
+228,Bearded Reedling,1028
+229,Bearded Vulture,2824
+230,Beautiful Firetail,482
+231,Beautiful Hummingbird,8669
+232,Beautiful Jay,7211
+233,Beautiful Woodpecker,1098
+234,Beck's Petrel,201
+235,Bee Hummingbird,2587
+236,Bell's Vireo,1843
+237,Bell Miner,1046
+238,Belted Kingfisher,4380
+239,Bengal Florican,2674
+240,Bermuda Petrel,1429
+241,Berylline Hummingbird,1183
+242,Besra,4407
+243,Bewick's Wren,1290
+244,Bicknell's Thrush,1151
+245,Bicolored Wren,1233
+246,Bimaculated Lark,1998
+247,Black-and-white Hawk-eagle,1005
+248,Black-and-white Owl,1133
+249,Black-and-white Warbler,1108
+250,Black-backed Oriole,519
+251,Black-backed Woodpecker,1334
+252,Black-bellied Bustard,637
+253,Black-bellied Storm-petrel,288
+254,Black-bellied Whistling-duck,1442
+255,Black-billed Cuckoo,957
+256,Black-billed Magpie,1591
+257,Black-billed Thrush,1376
+258,Black-breasted Buzzard,609
+259,Black-browed Albatross,1217
+260,Black-browed Babbler,317
+261,Black-capped Chickadee,2989
+262,Black-capped Lory,522
+263,Black-capped Petrel,594
+264,Black-capped Vireo,1611
+265,Black-casqued Hornbill,417
+266,Black-cheeked Lovebird,815
+267,Black-chinned Hummingbird,2380
+268,Black-collared Barbet,372
+269,Black-collared Starling,518
+270,Black-crested Finch,236
+271,Black-crested Titmouse,1544
+272,Black-crowned Night-heron,1419
+273,Black-faced Bunting,635
+274,Black-faced Dacnis,599
+275,Black-faced Grassquit,359
+276,Black-faced Spoonbill,1327
+277,Black-footed Albatross,838
+278,Black-fronted Bulbul,589
+279,Black-fronted Tern,1362
+280,Black-headed Grosbeak,2342
+281,Black-headed Gull,2749
+282,Black-headed Ibis,453
+283,Black-headed Parrot,692
+284,Black-headed Siskin,840
+285,Black-hooded Oriole,1680
+286,Black-legged Kittiwake,1757
+287,Black-legged Seriema,427
+288,Black-naped Monarch,816
+289,Black-naped Oriole,1468
+290,Black-necked Crane,961
+291,Black-necked Grebe,1847
+292,Black-necked Stork,1239
+293,Black-necked Wattle-eye,213
+294,Black-rumped Flameback,593
+295,Black-shouldered Kite,1490
+296,Black-tailed Godwit,2125
+297,Black-tailed Gull,1018
+298,Black-thighed Falconet,829
+299,Black-throated Accentor,687
+300,Black-throated Blue Warbler,1967
+301,Black-throated Finch,1010
+302,Black-throated Green Warbler,1272
+303,Black-throated Grosbeak,282
+304,Black-throated Magpie-jay,1095
+305,Black-throated Sparrow,1507
+306,Black-throated Thrush,990
+307,Black-throated Tit,409
+308,Black-whiskered Vireo,523
+309,Black-winged Kite,919
+310,Black-winged Pratincole,610
+311,Black-winged Stilt,2614
+312,Black Baza,6363
+313,Black Bishop,9509
+314,Black Bittern,671.5
+315,Black Bulbul,7000
+316,Black Butcherbird,2821
+317,Black Caracara,2571
+318,Black Catbird,2756
+319,Black Coucal,4462
+320,Black Crake,3919
+321,Black Crowned Crane,1425
+322,Black Cuckoo,6110
+323,Black Currawong,2607
+324,Black Drongo,5498
+325,Black Eagle,7639
+326,Black Falcon,5337
+327,Black Fantail,5070
+328,Black Francolin,5227
+329,Black Grasswren,1051
+330,Black Grouse,10358
+331,Black Guan,5219
+332,Black Guillemot,3161
+333,Black Guineafowl,850
+334,Black Harrier,4211
+335,Black Hawk-eagle,1116
+336,Black Heron,10137
+337,Black Honeyeater,4194
+338,Black Hornbill,4959
+339,Black Inca,5861
+340,Black Jacobin,2101
+341,Black Kite,10750
+342,Black Lark,5264
+343,Black Lory,4444
+344,Black Metaltail,723
+345,Black Monarch,7856
+346,Black Noddy,3236
+347,Black Oriole,2635
+348,Black Parrot,12749
+349,Black Partridge,5360
+350,Black Petrel,2507
+351,Black Phoebe,2906
+352,Black Rail,12414
+353,Black Redstart,4858
+354,Black Robin,5243
+355,Black Scoter,6043
+356,Black Shama,778.5
+357,Black Sicklebill,529
+358,Black Siskin,4642
+359,Black Skimmer,7817
+360,Black Solitaire,7894
+361,Black Solitary Eagle,841
+362,Black Sparrowhawk,3556
+363,Black Stilt,6612
+364,Black Stork,7421
+365,Black Sunbird,5198
+366,Black Swan,1218
+367,Black Swift,5494
+368,Black Tern,10675
+369,Black Thrush,9268
+370,Black Turnstone,2329
+371,Black Wheatear,1865
+372,Black Woodpecker,5796
+373,Blackburnian Warbler,3456
+374,Blackish Oystercatcher,631
+375,Blackpoll Warbler,3062
+376,Blacksmith Lapwing,1365
+377,Blackstart,3782
+378,Blackthroat,7227
+379,Blood Pheasant,2427
+380,Blossom-headed Parakeet,269
+381,Blue-and-white Flycatcher,468
+382,Blue-and-white Swallow,811
+383,Blue-and-yellow Macaw,4681
+384,Blue-backed Parrot,286
+385,Blue-bearded Helmetcrest,473
+386,Blue-bellied Roller,841
+387,Blue-billed Duck,975
+388,Blue-capped Cordon-bleu,774
+389,Blue-capped Ifrit,514
+390,Blue-cheeked Bee-eater,612
+391,Blue-crowned Motmot,1252
+392,Blue-eared Kingfisher,606
+393,Blue-eyed Cockatoo,921
+394,Blue-eyed Ground-dove,147
+395,Blue-faced Honeyeater,1269
+396,Blue-footed Booby,2684
+397,Blue-fronted Redstart,1354
+398,Blue-grey Gnatcatcher,407
+399,Blue-headed Parrot,1132
+400,Blue-headed Vireo,1030
+401,Blue-naped Parrot,697
+402,Blue-streaked Lory,578
+403,Blue-tailed Bee-eater,1588
+404,Blue-throated Barbet,445
+405,Blue-throated Macaw,1535
+406,Blue-winged Kookaburra,911
+407,Blue-winged Pitta,587
+408,Blue-winged Teal,1478
+409,Blue-winged Warbler,2133
+410,Blue Bird-of-paradise,2039
+411,Blue Bunting,2697
+412,Blue Bustard,2032
+413,Blue Coua,876
+414,Blue Crane,9112
+415,Blue Dacnis,2605
+416,Blue Duck,15476
+417,Blue Finch,5626
+418,Blue Grosbeak,3458
+419,Blue Jay,7136
+420,Blue Lorikeet,6013
+421,Blue Manakin,2205
+422,Blue Mockingbird,8255
+423,Blue Mountain Vireo,514
+424,Blue Noddy,3844
+425,Blue Nuthatch,3874
+426,Blue Petrel,1396
+427,Blue Pitta,5303
+428,Blue Swallow,8217
+429,Bluebonnet,9991
+430,Bluethroat,2488
+431,Blyth's Pipit,328
+432,Boat-billed Heron,1384
+433,Boat-tailed Grackle,1816
+434,Bobolink,8532
+435,Bohemian Waxwing,4013
+436,Bokmakierie,7192
+437,Bonaparte's Gull,1478
+438,Bonelli's Eagle,1433
+439,Bonin Petrel,481
+440,Booted Eagle,7397
+441,Booted Warbler,1254
+442,Boreal Chickadee,2416
+443,Boreal Owl,3287
+444,Bornean Frogmouth,644
+445,Bornean Peacock-pheasant,799
+446,Bougainville Moustached Kingfisher,650
+447,Boulder Chat,2470
+448,Bourke's Parrot,1529
+449,Brahminy Kite,5529
+450,Brahminy Starling,3668
+451,Brambling,7923
+452,Brazilian Merganser,1261
+453,Brazilian Ruby,6749
+454,Brazilian Tanager,1453
+455,Brazilian Teal,1353
+456,Brent Goose,5136
+457,Brewer's Blackbird,4946
+458,Brewer's Sparrow,2118
+459,Bridled Tern,1843
+460,Bridled Titmouse,714
+461,Bridled White-eye,582
+462,Broad-billed Hummingbird,1477
+463,Broad-billed Roller,226
+464,Broad-billed Sandpiper,915
+465,Broad-tailed Hummingbird,1717
+466,Broad-winged Hawk,2929
+467,Bronze-winged Courser,290
+468,Bronze Mannikin,2132
+469,Bronzed Cowbird,2104
+470,Bronzed Drongo,910
+471,Bronzy Inca,541
+472,Brown-backed Solitaire,364
+473,Brown-chested Martin,476
+474,Brown-crested Flycatcher,912
+475,Brown-eared Bulbul,1600
+476,Brown-headed Barbet,1452
+477,Brown-headed Cowbird,2579
+478,Brown-headed Gull,848
+479,Brown-headed Nuthatch,1629
+480,Brown-hooded Gull,188
+481,Brown-throated Sunbird,1729
+482,Brown Booby,3211
+483,Brown Bullfinch,1629
+484,Brown Dipper,3641
+485,Brown Falcon,5626
+486,Brown Goshawk,1941
+487,Brown Honeyeater,1768
+488,Brown Inca,2850
+489,Brown Jay,3945
+490,Brown Lory,2315
+491,Brown Noddy,3020
+492,Brown Oriole,2784
+493,Brown Parrot,8114
+494,Brown Pelican,4155
+495,Brown Quail,4672
+496,Brown Shrike,2866
+497,Brown Skua,2302
+498,Brown Tanager,1742
+499,Brown Teal,13741
+500,Brown Thornbill,2005
+501,Brown Thrasher,5594
+502,Brown Treecreeper,1266
+503,Brown Trembler,211
+504,Brown Whistler,3063
+505,Brubru,3181
+506,Brush Bronzewing,936
+507,Brush Cuckoo,1206
+508,Budgerigar,6135
+509,Buff-banded Rail,751
+510,Buff-bellied Pipit,802
+511,Buff-breasted Sandpiper,1420
+512,Buff-collared Nightjar,366
+513,Buff-faced Pygmy-parrot,826
+514,Bufflehead,10378
+515,Bugun Liocichla,255.5
+516,Bull-headed Shrike,898
+517,Buller's Albatross,1221
+518,Bullock's Oriole,2068
+519,Bumblebee Hummingbird,3625
+520,Burrowing Owl,8213
+521,Burrowing Parrot,1456
+522,Cackling Goose,3565
+523,Cactus Wren,6044
+524,Calandra Lark,1942
+525,Calayan Rail,252.5
+526,California Condor,6543
+527,California Gnatcatcher,2667
+528,California Gull,2379
+529,California Quail,5448
+530,California Thrasher,3435
+531,California Towhee,4396
+532,Calliope Hummingbird,4023
+533,Cambodian Laughingthrush,438
+534,Cambodian Tailorbird,267
+535,Campbell Teal,2612
+536,Campo Flicker,635
+537,Campo Troupial,1315
+538,Canada Goose,4054
+539,Canada Warbler,5073
+540,Canvasback,11881
+541,Canyon Wren,3812
+542,Cape Barren Goose,2525
+543,Cape Bulbul,3669
+544,Cape Bunting,1873
+545,Cape Canary,8373
+546,Cape Cormorant,1170
+547,Cape Crow,5658
+548,Cape Gannet,3012
+549,Cape May Warbler,941
+550,Cape Parrot,5689
+551,Cape Petrel,3073
+552,Cape Sparrow,2781
+553,Cape Starling,2072
+554,Cape Sugarbird,1665
+555,Cape Teal,2984
+556,Cape Vulture,3811
+557,Cape Wagtail,1607
+558,Cape Weaver,3384
+559,Cape White-eye,698
+560,Capped Heron,2539
+561,Capuchinbird,649
+562,Cardinal Woodpecker,6252
+563,Carib Grackle,1980
+564,Caribbean Dove,5683
+565,Caribbean Martin,7377
+566,Carolina Chickadee,6464
+567,Carolina Wren,5704
+568,Carrion Crow,6657
+569,Carunculated Caracara,1189
+570,Caspian Gull,2458
+571,Caspian Plover,1611
+572,Caspian Tern,6240
+573,Caspian Tit,1015
+574,Cassin's Auklet,993
+575,Cassin's Finch,891
+576,Cassin's Vireo,1080
+577,Cattle Egret,8325
+578,Cattle Tyrant,815
+579,Cave Swallow,3121
+580,Cave Swiftlet,953
+581,Cebu Flowerpecker,1510
+582,Cedar Waxwing,8593
+583,Cerulean Warbler,3809
+584,Cetti's Warbler,798
+585,Chaco Owl,1288
+586,Chalk-browed Mockingbird,722
+587,Channel-billed Cuckoo,1380
+588,Channel-billed Toucan,1418
+589,Chatham Albatross,1964
+590,Chatham Petrel,822
+591,Chatham Pigeon,1802
+592,Chattering Lory,3031
+593,Cheer Pheasant,1741
+594,Chestnut-backed Chickadee,1660
+595,Chestnut-breasted Mannikin,195
+596,Chestnut-breasted Partridge,237
+597,Chestnut-crowned Babbler,600
+598,Chestnut-eared Bunting,161
+599,Chestnut-headed Bee-eater,757
+600,Chestnut-sided Warbler,1707
+601,Chestnut-tailed Starling,1597
+602,Chestnut Bunting,1104
+603,Chestnut Munia,372
+604,Chestnut Rail,3986
+605,Chestnut Sparrow,2203
+606,Chestnut Teal,3362
+607,Chestnut Thrush,2711
+608,Chestnut Weaver,2053
+609,Chestnut Woodpecker,832
+610,Chihuahuan Raven,1758
+611,Chilean Flamingo,1800
+612,Chilean Tinamou,1070
+613,Chiloe Wigeon,991
+614,Chimango Caracara,925
+615,Chiming Wedgebill,1228
+616,Chimney Swift,6029
+617,Chinese Blackbird,2946
+618,Chinese Crested Tern,661
+619,Chinese Egret,1948
+620,Chinese Francolin,937
+621,Chinese Grouse,2967
+622,Chinese Monal,1268
+623,Chinese Sparrowhawk,3399
+624,Chinese Thrush,5393
+625,Chinstrap Penguin,4417
+626,Chipping Sparrow,4965
+627,Chopi Blackbird,513
+628,Chowchilla,8559
+629,Christmas Island Frigatebird,1491
+630,Chukar,13085
+631,Cinderella Waxbill,1160
+632,Cinereous Bulbul,876
+633,Cinereous Bunting,1131
+634,Cinereous Mourner,964
+635,Cinereous Vulture,2704
+636,Cinnamon Bittern,1011
+637,Cinnamon Hummingbird,2105
+638,Cinnamon Teal,6748
+639,Cirl Bunting,3510
+640,Citril Finch,978
+641,Citrine Wagtail,2513
+642,Clapper Rail,4900
+643,Clark's Grebe,1503
+644,Clark's Nutcracker,3644
+645,Clay-colored Sparrow,1442
+646,Clay-colored Thrush,1210
+647,Cliff Swallow,7189
+648,Club-winged Manakin,420
+649,Coal Tit,3688
+650,Cockatiel,10511
+651,Cocoi Heron,1689
+652,Coconut Lorikeet,1261
+653,Coleto,9312
+654,Colima Warbler,1048
+655,Collared Crow,1415
+656,Collared Falconet,1390
+657,Collared Flycatcher,2914
+658,Collared Inca,852
+659,Collared Kingfisher,4163
+660,Collared Lory,822
+661,Collared Nightjar,422
+662,Collared Owlet,2196
+663,Collared Plover,1337
+664,Collared Pratincole,1042
+665,Collared Puffbird,901
+666,Collared Sparrowhawk,2053
+667,Collared Sunbird,1897
+668,Collared Trogon,1001
+669,Comb-crested Jacana,731
+670,Common Babbler,3732
+671,Common Black Hawk,2521
+672,Common Bronzewing,1324
+673,Common Bulbul,5067
+674,Common Buttonquail,1447
+675,Common Chaffinch,1933
+676,Common Chiffchaff,1361
+677,Common Coot,2775
+678,Common Crane,7052
+679,Common Cuckoo,6699
+680,Common Eider,3893
+681,Common Emu,3284
+682,Common Firecrest,1381
+683,Common Fiscal,6447
+684,Common Flameback,1294
+685,Common Gallinule,5101
+686,Common Goldeneye,3664
+687,Common Grackle,4591
+688,Common Green Magpie,3304
+689,Common Greenshank,1646
+690,Common Hill Myna,3015
+691,Common Hoopoe,4101
+692,Common Iora,3966
+693,Common Kestrel,3088
+694,Common Kingfisher,5815
+695,Common Linnet,377
+696,Common Loon,5056
+697,Common Miner,3329
+698,Common Moorhen,7260
+699,Common Murre,3431
+700,Common Myna,6646
+701,Common Nighthawk,4183
+702,Common Nightingale,5115
+703,Common Ostrich,3471
+704,Common Pheasant,7250
+705,Common Pochard,2865
+706,Common Poorwill,3018
+707,Common Potoo,1575
+708,Common Quail,4101
+709,Common Raven,6687
+710,Common Redshank,4065
+711,Common Redstart,2359
+712,Common Ringed Plover,2557
+713,Common Rosefinch,3051
+714,Common Sandpiper,6872
+715,Common Scoter,3523
+716,Common Shelduck,1150
+717,Common Snipe,4527
+718,Common Starling,4191
+719,Common Stonechat,1601
+720,Common Swift,6832
+721,Common Tailorbird,3999
+722,Common Teal,5560
+723,Common Tern,6046
+724,Common Waxbill,2284
+725,Common White Tern,1071
+726,Common Woodshrike,1584
+727,Common Yellowthroat,4550
+728,Compact Weaver,2492
+729,Congo Peafowl,2709
+730,Connecticut Warbler,2218
+731,Cook's Petrel,895
+732,Cooper's Hawk,8202
+733,Copper Pheasant,3689
+734,Coppersmith Barbet,3867
+735,Coppery-headed Emerald,210
+736,Cordilleran Flycatcher,1243
+737,Corn Bunting,5011
+738,Corncrake,8103
+739,Coscoroba Swan,1948
+740,Costa's Hummingbird,1981
+741,Cozumel Thrasher,217.5
+742,Crane Hawk,2625
+743,Cream-colored Woodpecker,277
+744,Cream-coloured Courser,719
+745,Crescent-chested Warbler,770
+746,Crescent Honeyeater,2936
+747,Crested Auklet,1278
+748,Crested Barbet,5159
+749,Crested Bellbird,613
+750,Crested Bunting,1521
+751,Crested Caracara,4977
+752,Crested Coua,1579
+753,Crested Duck,6228
+754,Crested Eagle,6197
+755,Crested Francolin,1542
+756,Crested Goshawk,3196
+757,Crested Guan,768
+758,Crested Jay,4165
+759,Crested Kingfisher,2787
+760,Crested Lark,4564
+761,Crested Myna,3345
+762,Crested Oropendola,1154
+763,Crested Owl,5571
+764,Crested Partridge,1488
+765,Crested Pigeon,5237
+766,Crested Quetzal,743
+767,Crested Tit,4232
+768,Crested Treeswift,910
+769,Crimson-rumped Toucanet,1111
+770,Crimson Chat,2429
+771,Crimson Fruitcrow,843
+772,Crimson Rosella,7620
+773,Crimson Sunbird,5621
+774,Crimson Topaz,1172
+775,Crissal Thrasher,730
+776,Crowned Eagle,3058
+777,Crowned Hornbill,2498
+778,Crowned Lapwing,1323
+779,Crowned Solitary Eagle,1210
+780,Crowned Woodnymph,1308
+781,Cuban Amazon,10982
+782,Cuban Bullfinch,1184
+783,Cuban Crow,3543
+784,Cuban Emerald,2358
+785,Cuban Grassquit,1027
+786,Cuban Green Woodpecker,516
+787,Cuban Kite,1322
+788,Cuban Martin,1431
+789,Cuban Pewee,381
+790,Cuban Solitaire,3161
+791,Cuban Tody,4017
+792,Cuban Trogon,2070
+793,Cuban Vireo,469
+794,Cuckoo Roller,1963
+795,Curl-crested Jay,269
+796,Curl-crested Manucode,512
+797,Curlew Sandpiper,5972
+798,Curve-billed Thrasher,1944
+799,Dalmatian Pelican,1492
+800,Dark-billed Cuckoo,280
+801,Dark-eyed Junco,2342
+802,Dark-necked Tailorbird,367
+803,Daurian Jackdaw,1935
+804,Daurian Redstart,880
+805,Dead Sea Sparrow,839
+806,Demoiselle Crane,4270
+807,Desert Finch,2443
+808,Desert Lark,2318
+809,Desert Sparrow,3600
+810,Desert Tawny Owl,439
+811,Desert Wheatear,2056
+812,Diamond Dove,11791
+813,Diamond Firetail,2436
+814,Dickcissel,3484
+815,Diederik Cuckoo,2344
+816,Dolphin Gull,1955
+817,Donacobius,836
+818,Double-crested Cormorant,2543
+819,Double-toothed Kite,358
+820,Downy Woodpecker,6380
+821,Drab Seedeater,280
+822,Dulit Frogmouth,692
+823,Dunlin,13068
+824,Dunnock,4683
+825,Dusky Grouse,3744
+826,Dusky Lory,1274
+827,Dusky Moorhen,2982
+828,Dusky Parrot,956
+829,Dusky Robin,3604
+830,Dusky Scrubfowl,283
+831,Dusky Thrush,913
+832,Dusky Warbler,1578
+833,Dusky Woodswallow,2324
+834,Dwarf Bittern,750
+835,Dwarf Cassowary,2113
+836,Dwarf Jay,2975
+837,Eared Dove,2027
+838,Eared Pitta,437
+839,Eared Quetzal,951
+840,Eastern Bluebird,4469
+841,Eastern Bristlebird,933
+842,Eastern Crowned Warbler,304
+843,Eastern Goldfinch,2672.5
+844,Eastern Imperial Eagle,881
+845,Eastern Kingbird,3562
+846,Eastern Koel,1888
+847,Eastern Meadowlark,3630
+848,Eastern Phoebe,4455
+849,Eastern Rosella,4291
+850,Eastern Screech-owl,740
+851,Eastern Spinebill,2407
+852,Eastern Towhee,4624
+853,Eastern Whip-poor-will,1703
+854,Eastern Whipbird,1901
+855,Eastern Wood-pewee,1057
+856,Eastern Yellow Robin,1755
+857,Eastern Yellow Wagtail,1863
+858,Echo Parakeet,1715
+859,Ecuadorian Hermit,1737
+860,Edible-nest Swiftlet,890
+861,Egyptian Goose,8471
+862,Egyptian Nightjar,1079
+863,Egyptian Plover,3716
+864,Egyptian Vulture,3260
+865,Elegant Crested Tinamou,567
+866,Elegant Parrot,2868
+867,Elegant Pitta,411
+868,Elegant Tern,806
+869,Elegant Tit,2809
+870,Elegant Trogon,2565
+871,Eleonora's Falcon,552
+872,Elf Owl,3996
+873,Elfin Woods Warbler,510
+874,Elliot's Pheasant,425
+875,Emerald Starling,1536
+876,Emerald Tanager,753
+877,Emerald Toucanet,1739
+878,Emperor Goose,2740
+879,Emperor Penguin,5935
+880,Empress Brilliant,1984
+881,Erect-crested Penguin,1609
+882,Eskimo Curlew,3140
+883,Esmeraldas Woodstar,403
+884,Eurasian Bittern,1029
+885,Eurasian Blackbird,1390
+886,Eurasian Blackcap,1512
+887,Eurasian Blue Tit,2586
+888,Eurasian Bullfinch,3265
+889,Eurasian Collared-dove,1695
+890,Eurasian Crag Martin,1264
+891,Eurasian Curlew,1717
+892,Eurasian Dotterel,973
+893,Eurasian Eagle-owl,3243
+894,Eurasian Golden Oriole,2445
+895,Eurasian Hobby,2203
+896,Eurasian Jackdaw,858
+897,Eurasian Jay,4262
+898,Eurasian Magpie,3885
+899,Eurasian Nuthatch,1993
+900,Eurasian Oystercatcher,1595
+901,Eurasian Siskin,1502
+902,Eurasian Skylark,1911
+903,Eurasian Sparrowhawk,3052
+904,Eurasian Spoonbill,1892
+905,Eurasian Tree Sparrow,3180
+906,Eurasian Treecreeper,1959
+907,Eurasian Wigeon,3514
+908,Eurasian Woodcock,1628
+909,Eurasian Wryneck,2074
+910,European Bee-eater,1080
+911,European Goldfinch,4585
+912,European Greenfinch,2401
+913,European Herring Gull,968
+914,European Nightjar,2069
+915,European Pied Flycatcher,1110
+916,European Robin,6269
+917,European Roller,4544
+918,European Serin,1440
+919,European Shag,1447
+920,Evening Grosbeak,4243
+921,Eyebrowed Thrush,1641
+922,Eyrean Grasswren,504
+923,Fairy Martin,5328
+924,Fairy Pitta,2368
+925,Fairy Prion,1222
+926,Fairy Tern,4430
+927,Falcated Duck,1180
+928,Familiar Chat,3996
+929,Fan-tailed Warbler,666
+930,Far Eastern Curlew,2787
+931,Fearful Owl,1556
+932,Fernwren,914
+933,Ferruginous Duck,2771
+934,Ferruginous Flycatcher,592
+935,Ferruginous Hawk,4591
+936,Ferruginous Pygmy-owl,1078
+937,Field Sparrow,4149
+938,Fieldfare,2274
+939,Fiery-throated Hummingbird,1063
+940,Fiery Topaz,1401
+941,Fiji Parrotfinch,292
+942,Fiji Petrel,311
+943,Fiordland Penguin,2438
+944,Fire-tailed Sunbird,344
+945,Firethroat,1031
+946,Fischer's Lovebird,2753
+947,Fish Crow,8381
+948,Flame-faced Tanager,516
+949,Flame Bowerbird,782
+950,Flame Robin,6704
+951,Flamecrest,1884
+952,Flammulated Owl,3064
+953,Flightless Cormorant,2626
+954,Floreana Mockingbird,1768
+955,Flores Crow,1728
+956,Flores Monarch,3498
+957,Florida Scrub-jay,1558
+958,Fluffy-backed Tit-babbler,1012
+959,Forest Bittern,1411
+960,Forest Buzzard,4387
+961,Forest Canary,3389
+962,Forest Kingfisher,5247
+963,Forest Owlet,4476
+964,Forest Raven,6956
+965,Forest Swallow,3657
+966,Forest Thrush,3773
+967,Forest Wagtail,2735
+968,Fork-tailed Drongo,531
+969,Fork-tailed Flycatcher,991
+970,Fork-tailed Sunbird,592
+971,Forster's Tern,1340
+972,Forty-spotted Pardalote,734
+973,Fox Kestrel,2849
+974,Franklin's Gull,1879
+975,Freckled Duck,1186
+976,Frilled Coquette,534
+977,Fulvous Whistling-duck,408
+978,Gabar Goshawk,2159
+979,Gadwall,8768
+980,Galah,11500
+981,Galapagos Dove,3392
+982,Galapagos Hawk,1660
+983,Galapagos Martin,3905
+984,Galapagos Mockingbird,1194
+985,Galapagos Penguin,3982
+986,Galapagos Rail,1398
+987,Gambel's Quail,1473
+988,Gang-gang Cockatoo,2155
+989,Garden Emerald,13086
+990,Garden Warbler,3895
+991,Garganey,846
+992,Gentoo Penguin,5053
+993,Giant Antpitta,761
+994,Giant Coot,770
+995,Giant Hummingbird,2975
+996,Giant Ibis,7244
+997,Giant Kingbird,411
+998,Giant Kingfisher,5453
+999,Giant Nuthatch,1368
+1000,Giant Pitta,922
+1001,Giant Snipe,2409
+1002,Giant Weaver,2143
+1003,Giant Wren,1718
+1004,Gila Woodpecker,2290
+1005,Gilded Flicker,1878
+1006,Glaucous-winged Gull,1212
+1007,Glaucous Gull,2191
+1008,Glaucous Macaw,2472
+1009,Glossy Ibis,4716
+1010,Glossy Swiftlet,641
+1011,Goldcrest,10760
+1012,Golden-bellied Gerygone,1277
+1013,Golden-capped Parakeet,363
+1014,Golden-cheeked Warbler,1965
+1015,Golden-chevroned Tanager,437
+1016,Golden-collared Manakin,256
+1017,Golden-crowned Kinglet,2179
+1018,Golden-crowned Sparrow,1777
+1019,Golden-crowned Warbler,712
+1020,Golden-fronted Bowerbird,262
+1021,Golden-fronted Leafbird,584
+1022,Golden-fronted Woodpecker,1041
+1023,Golden-headed Cisticola,1059
+1024,Golden-winged Sparrow,321
+1025,Golden-winged Warbler,3555
+1026,Golden Bowerbird,1730
+1027,Golden Dove,8509
+1028,Golden Eagle,8886
+1029,Golden Grosbeak,1154
+1030,Golden Masked-owl,320
+1031,Golden Monarch,5471
+1032,Golden Myna,1927
+1033,Golden Nightjar,836
+1034,Golden Palm Weaver,259
+1035,Golden Parakeet,3475
+1036,Golden Pheasant,10240
+1037,Golden Pipit,1882
+1038,Golden Swallow,5483
+1039,Golden Tanager,3297
+1040,Golden Whistler,5737
+1041,Goldenface,2717
+1042,Goliath Heron,2441
+1043,Goosander,4176
+1044,Gorgeted Puffleg,270
+1045,Gorgeted Woodstar,847
+1046,Gouldian Finch,8940
+1047,Grace's Warbler,412
+1048,Graceful Prinia,1036
+1049,Grandala,2776
+1050,Grass Wren,3192
+1051,Grasshopper Sparrow,3132
+1052,Great-tailed Grackle,3107
+1053,Great-winged Petrel,876
+1054,Great Argus,6063
+1055,Great Barbet,2981
+1056,Great Black-backed Gull,2834
+1057,Great Black Hawk,2696
+1058,Great Blue Heron,6245
+1059,Great Blue Turaco,1317
+1060,Great Bowerbird,682
+1061,Great Bustard,4914
+1062,Great Cormorant,5470
+1063,Great Crested Flycatcher,3250
+1064,Great Crested Grebe,6231
+1065,Great Curassow,2818
+1066,Great Frigatebird,1229
+1067,Great Grebe,4088
+1068,Great Green Macaw,2392
+1069,Great Grey Owl,3158
+1070,Great Grey Shrike,3165
+1071,Great Hornbill,2230
+1072,Great Horned Owl,10403
+1073,Great Indian Bustard,4240
+1074,Great Kiskadee,2411
+1075,Great Knot,6709
+1076,Great Myna,1917
+1077,Great Potoo,1026
+1078,Great Rosefinch,1878
+1079,Great Shearwater,3069
+1080,Great Skua,2021
+1081,Great Slaty Woodpecker,497
+1082,Great Snipe,3216
+1083,Great Sparrow,6663
+1084,Great Spotted Cuckoo,1284
+1085,Great Spotted Kiwi,1403
+1086,Great Spotted Woodpecker,4865
+1087,Great Thrush,6299
+1088,Great Tinamou,2459
+1089,Great Tit,6302
+1090,Great White Egret,6108
+1091,Great White Heron,5289
+1092,Great White Pelican,3383
+1093,Greater Adjutant,2309
+1094,Greater Ani,2655
+1095,Greater Antillean Bullfinch,2056
+1096,Greater Antillean Grackle,791
+1097,Greater Bird-of-paradise,710
+1098,Greater Blue-eared Starling,781
+1099,Greater Coucal,4064
+1100,Greater Crested Tern,945
+1101,Greater Flameback,2850
+1102,Greater Flamingo,5035
+1103,Greater Green Leafbird,1061
+1104,Greater Honeyguide,1220
+1105,Greater Pewee,1301
+1106,Greater Rhea,3275
+1107,Greater Roadrunner,2231
+1108,Greater Sandplover,415
+1109,Greater Scaup,2837
+1110,Greater Spotted Eagle,2238
+1111,Greater White-fronted Goose,735
+1112,Greater Yellowlegs,1991
+1113,Greater Yellownape,1076
+1114,Green-backed Tit,1254
+1115,Green-billed Coucal,766
+1116,Green-billed Malkoha,1148
+1117,Green-breasted Mango,262
+1118,Green-cheeked Parakeet,1980
+1119,Green-headed Tanager,644
+1120,Green-tailed Towhee,1024
+1121,Green-throated Carib,539
+1122,Green-winged Teal,2558
+1123,Green Barbet,2825
+1124,Green Broadbill,2282
+1125,Green Catbird,1715
+1126,Green Cochoa,1038
+1127,Green Hermit,5461
+1128,Green Honeycreeper,1502
+1129,Green Ibis,9918
+1130,Green Inca,2999
+1131,Green Iora,995
+1132,Green Jay,4002
+1133,Green Junglefowl,1016
+1134,Green Kingfisher,7476
+1135,Green Mango,12292
+1136,Green Oriole,5065
+1137,Green Parakeet,7813
+1138,Green Peafowl,4128
+1139,Green Pheasant,6996
+1140,Green Rosella,5796
+1141,Green Sandpiper,3719
+1142,Green Turaco,2494
+1143,Green Warbler,4732
+1144,Green Woodhoopoe,669
+1145,Greenish Warbler,3867
+1146,Grenada Dove,2297
+1147,Grey-backed Shrike,638
+1148,Grey-crowned Warbler,239
+1149,Grey-headed Albatross,939
+1150,Grey-headed Lapwing,494
+1151,Grey-headed Lovebird,843
+1152,Grey-headed Woodpecker,1044
+1153,Grey Bunting,5241
+1154,Grey Bushchat,3290
+1155,Grey Butcherbird,2949
+1156,Grey Catbird,2361
+1157,Grey Crow,5454
+1158,Grey Crowned Crane,5598
+1159,Grey Currawong,1520
+1160,Grey Falcon,9290
+1161,Grey Fantail,3986
+1162,Grey Francolin,6227
+1163,Grey Go-away-bird,1592
+1164,Grey Goshawk,2166
+1165,Grey Grasswren,567
+1166,Grey Gull,6014
+1167,Grey Hawk,6736
+1168,Grey Heron,7749
+1169,Grey Honeyeater,1705
+1170,Grey Jay,2798
+1171,Grey Junglefowl,1680
+1172,Grey Kestrel,3064
+1173,Grey Kingbird,1810
+1174,Grey Nightjar,1570
+1175,Grey Parrot,12348
+1176,Grey Partridge,6319
+1177,Grey Petrel,2368
+1178,Grey Plover,3491
+1179,Grey Teal,5315
+1180,Grey Thrasher,4000
+1181,Grey Tinamou,657
+1182,Grey Tit,7082
+1183,Grey Treepie,2919
+1184,Grey Vireo,1430
+1185,Grey Wagtail,5906
+1186,Grey Whistler,3404
+1187,Grey Woodpecker,5854
+1188,Grey Wren,6574
+1189,Greylag Goose,7713
+1190,Griffon Vulture,5548
+1191,Groove-billed Ani,733
+1192,Grosbeak Starling,1569
+1193,Ground Parrot,4707
+1194,Ground Tit,3141
+1195,Ground Woodpecker,2933
+1196,Guadalcanal Moustached Kingfisher,137
+1197,Guadalupe Murrelet,1640
+1198,Guaiabero,2407
+1199,Guam Kingfisher,1144
+1200,Guam Rail,2313
+1201,Guanay Cormorant,563
+1202,Guayaquil Woodpecker,603
+1203,Guianan Cock-of-the-rock,1300
+1204,Guira Cuckoo,1077
+1205,Gunnison Grouse,2842
+1206,Gyrfalcon,8085
+1207,Hadada Ibis,2399
+1208,Hair-crested Drongo,1666
+1209,Hairy Woodpecker,6607
+1210,Hamerkop,4919
+1211,Hammond's Flycatcher,1833
+1212,Happy Wren,3584
+1213,Hardhead,8105
+1214,Harlequin Duck,7403
+1215,Harlequin Quail,1329
+1216,Harpy Eagle,1948
+1217,Hawaii Creeper,2333
+1218,Hawaiian Coot,1271
+1219,Hawaiian Crow,2250
+1220,Hawaiian Duck,3973
+1221,Hawaiian Goose,2637
+1222,Hawaiian Hawk,2371
+1223,Hawaiian Petrel,2558
+1224,Hawfinch,3268
+1225,Hazel Grouse,2050
+1226,Helmet Vanga,1879
+1227,Helmeted Curassow,660
+1228,Helmeted Friarbird,1779
+1229,Helmeted Guineafowl,1511
+1230,Helmeted Hornbill,2275
+1231,Hen Harrier,4549
+1232,Henderson Crake,1891
+1233,Henderson Petrel,466
+1234,Henslow's Sparrow,761
+1235,Hepatic Tanager,1795
+1236,Herald Petrel,816
+1237,Hermit Thrush,7148
+1238,Hermit Warbler,2692
+1239,Hill Partridge,7314
+1240,Hill Pigeon,11626
+1241,Hill Prinia,1330
+1242,Himalayan Bulbul,2112
+1243,Himalayan Cuckoo,2610
+1244,Himalayan Forest Thrush,765
+1245,Himalayan Griffon,2575
+1246,Himalayan Monal,3188
+1247,Himalayan Owl,1798
+1248,Himalayan Quail,3903
+1249,Himalayan Snowcock,2343
+1250,Hispaniolan Amazon,942
+1251,Hispaniolan Trogon,2142
+1252,Hoary Puffleg,721
+1253,Hoatzin,5157
+1254,Hooded Crane,569.5
+1255,Hooded Grebe,2031
+1256,Hooded Merganser,9256
+1257,Hooded Oriole,4346
+1258,Hooded Parrot,1902
+1259,Hooded Pitohui,1728
+1260,Hooded Plover,2958
+1261,Hooded Robin,2676
+1262,Hooded Siskin,1714
+1263,Hooded Tanager,1366
+1264,Hooded Treepie,846
+1265,Hooded Vulture,1572
+1266,Hooded Warbler,2430
+1267,Hooded Wheatear,548
+1268,Horned Grebe,2499
+1269,Horned Guan,1604
+1270,Horned Lark,2876
+1271,Horned Parakeet,1634
+1272,Horned Puffin,2917
+1273,Horned Screamer,1642
+1274,Horned Sungem,1702
+1275,Horus Swift,645
+1276,House Bunting,7884
+1277,House Crow,10996
+1278,House Finch,5576
+1279,House Sparrow,6690
+1280,House Swallow,8812
+1281,House Swift,9089
+1282,House Wren,6444
+1283,Hudsonian Godwit,2388
+1284,Humboldt Penguin,5445
+1285,Hyacinth Macaw,11565
+1286,Hypocolius,1594
+1287,Ibadan Malimbe,1269
+1288,Iberian Chiffchaff,1444
+1289,Ibisbill,1266
+1290,Iceland Gull,3854
+1291,Icterine Warbler,925
+1292,Iiwi,3756
+1293,Imperial Amazon,9525
+1294,Imperial Shag,773
+1295,Imperial Woodpecker,1201
+1296,Inaccessible Rail,2015
+1297,Inca Dove,2641
+1298,Inca Tern,2377
+1299,Indian Blackbird,2449
+1300,Indian Blue Robin,2099
+1301,Indian Cormorant,1973
+1302,Indian Courser,458
+1303,Indian Cuckoo,4347
+1304,Indian Golden Oriole,3206
+1305,Indian Grey Hornbill,1743
+1306,Indian Nightjar,975
+1307,Indian Peafowl,5083
+1308,Indian Pitta,6931
+1309,Indian Robin,5947
+1310,Indian Roller,6519
+1311,Indian Silverbill,3373
+1312,Indian Skimmer,2251
+1313,Indian Spot-billed Duck,1187
+1314,Indian Spotted Eagle,1824
+1315,Indian Swiftlet,425
+1316,Indian Vulture,7737
+1317,Indian White-eye,866
+1318,Indigo Bunting,2457
+1319,Indigo Flycatcher,402
+1320,Intermediate Egret,2214
+1321,Iris Lorikeet,709
+1322,Isabela Oriole,1356
+1323,Isabelline Shrike,1538
+1324,Isabelline Wheatear,2132
+1325,Island Canary,6614
+1326,Island Monarch,10117
+1327,Island Thrush,4519
+1328,Island Whistler,7347
+1329,Italian Sparrow,5197
+1330,Ivory-billed Woodpecker,459
+1331,Ivory Gull,1907
+1332,Jabiru,8657
+1333,Jack Snipe,3276
+1334,Jackal Buzzard,2475
+1335,Jacky Winter,4405
+1336,Jacobin Cuckoo,1988
+1337,Jamaican Crow,4406
+1338,Jamaican Mango,8505
+1339,Jamaican Oriole,1157
+1340,Jamaican Owl,2686
+1341,Jamaican Petrel,415
+1342,Jamaican Tody,525
+1343,Jandaya Parakeet,726
+1344,Japanese Cormorant,2165
+1345,Japanese Grosbeak,598
+1346,Japanese Murrelet,690
+1347,Japanese Pygmy Woodpecker,803
+1348,Japanese Quail,6309
+1349,Japanese Robin,5004
+1350,Japanese Sparrowhawk,1475
+1351,Japanese Thrush,3288
+1352,Japanese Wagtail,1095
+1353,Japanese Waxwing,1092
+1354,Japanese Woodpecker,3011
+1355,Java Sparrow,4636
+1356,Javan Green Magpie,1268
+1357,Javan Hawk-eagle,545
+1358,Javan Kingfisher,2002
+1359,Javan Lapwing,910
+1360,Javan Munia,2303
+1361,Javan Myna,2666
+1362,Javan Owlet,1537
+1363,Jerdon's Babbler,233
+1364,Jocotoco Antpitta,1069
+1365,Jos Plateau Indigobird,712
+1366,Juan Fernandez Firecrown,726
+1367,Juan Fernandez Petrel,501
+1368,Juan Fernandez Tit-tyrant,151
+1369,Jungle Myna,2114
+1370,Jungle Owlet,5051
+1371,Jungle Prinia,708
+1372,Junin Grebe,509
+1373,Juniper Titmouse,799
+1374,Kagu,10293
+1375,Kakapo,5092
+1376,Kalij Pheasant,972
+1377,Karamoja Apalis,610
+1378,Karoo Chat,2925
+1379,Karoo Lark,979
+1380,Karoo Thrush,2061
+1381,Kashmir Flycatcher,1970
+1382,Kauai Nukupuu,670
+1383,Kea,5959
+1384,Keel-billed Toucan,1791
+1385,Kelp Goose,644
+1386,Kelp Gull,1716
+1387,Kentish Plover,2884
+1388,Kentucky Warbler,3353
+1389,Kerguelen Petrel,554
+1390,Kerguelen Shag,786
+1391,Kermadec Petrel,564
+1392,Kikau,4729
+1393,Killdeer,8391
+1394,King Bird-of-paradise,1403
+1395,King Eider,4029
+1396,King of Saxony Bird-of-paradise,789
+1397,King Penguin,7113
+1398,King Rail,12080
+1399,King Vulture,5433
+1400,Kinglet Calyptura,328
+1401,Kirtland's Warbler,878
+1402,Knobbed Hornbill,1793
+1403,Knysna Turaco,1562
+1404,Koklass Pheasant,2039
+1405,Kori Bustard,2835
+1406,Kurdish Wheatear,807
+1407,Ladder-backed Woodpecker,1447
+1408,Laggar Falcon,1213
+1409,Lake Duck,7870
+1410,Lance-tailed Manakin,1005
+1411,Lanceolated Warbler,529
+1412,Lanner Falcon,3768
+1413,Lapland Longspur,2236
+1414,Lappet-faced Vulture,1602
+1415,Large-billed Crow,1164
+1416,Large-billed Reed-warbler,134
+1417,Large-tailed Nightjar,717
+1418,Large Frogmouth,1047
+1419,Large Grey Babbler,3000
+1420,Large Woodshrike,1583
+1421,Lark Bunting,3876
+1422,Lark Sparrow,4119
+1423,Laughing Dove,5240
+1424,Laughing Falcon,3453
+1425,Laughing Gull,4003
+1426,Laughing Kookaburra,5438
+1427,Lava Gull,1016
+1428,Lavender Waxbill,1481
+1429,Laysan Albatross,2972
+1430,Laysan Duck,1478
+1431,Lazuli Bunting,3941
+1432,Lazy Cisticola,655
+1433,Leaden Flycatcher,2850
+1434,Lear's Macaw,1503
+1435,Least Auklet,383
+1436,Least Bittern,3220
+1437,Least Flycatcher,4652
+1438,Least Grebe,1584
+1439,Least Sandpiper,4576
+1440,Least Tern,5279
+1441,Lemon Dove,7829
+1442,Lesser Adjutant,2427
+1443,Lesser Black-backed Gull,2393
+1444,Lesser Coucal,2497
+1445,Lesser Crested Tern,2974
+1446,Lesser Cuckoo,2155
+1447,Lesser Flamingo,3165
+1448,Lesser Florican,3899
+1449,Lesser Frigatebird,3112
+1450,Lesser Goldfinch,4625
+1451,Lesser Grey Shrike,1671
+1452,Lesser Kestrel,3465
+1453,Lesser Masked Weaver,468
+1454,Lesser Moorhen,469
+1455,Lesser Nighthawk,2838
+1456,Lesser Noddy,517
+1457,Lesser Prairie-chicken,788
+1458,Lesser Rhea,1065
+1459,Lesser Roadrunner,919
+1460,Lesser Scaup,5067
+1461,Lesser Shortwing,984
+1462,Lesser Spotted Eagle,3306
+1463,Lesser Spotted Woodpecker,5434
+1464,Lesser Yellowlegs,3003
+1465,Levant Sparrowhawk,1335
+1466,Lewin's Honeyeater,774
+1467,Liben Lark,1057
+1468,Light-vented Bulbul,1398
+1469,Lilac-breasted Roller,2171
+1470,Lilacine Amazon,793
+1471,Limpkin,5401
+1472,Lincoln's Sparrow,1107
+1473,Lineated Barbet,2550
+1474,Lineated Woodpecker,1174
+1475,Lined Seedeater,679
+1476,Little Auk,1349
+1477,Little Bee-eater,1223
+1478,Little Black Cormorant,1657
+1479,Little Blue Heron,6366
+1480,Little Brown Bustard,376
+1481,Little Bunting,6398
+1482,Little Bustard,2925
+1483,Little Corella,4614
+1484,Little Cormorant,6168
+1485,Little Crake,1286
+1486,Little Crow,10056
+1487,Little Cuckoo,4379
+1488,Little Curlew,2620
+1489,Little Eagle,15166
+1490,Little Egret,7361
+1491,Little Friarbird,1201
+1492,Little Grebe,3291
+1493,Little Green Woodpecker,1461
+1494,Little Gull,6231
+1495,Little Hermit,5586
+1496,Little Kingfisher,2711
+1497,Little Lorikeet,3414
+1498,Little Nightjar,626
+1499,Little Owl,13332
+1500,Little Penguin,10283
+1501,Little Pied Cormorant,2493
+1502,Little Pied Flycatcher,1250
+1503,Little Raven,11053
+1504,Little Ringed Plover,3831
+1505,Little Shearwater,1905
+1506,Little Spiderhunter,615
+1507,Little Spotted Kiwi,1945
+1508,Little Stint,3002
+1509,Little Swift,5606
+1510,Little Tern,3167
+1511,Little Tinamou,710
+1512,Little Wattlebird,1918
+1513,Little Weaver,6783
+1514,Little Woodpecker,4290
+1515,Little Woodstar,643
+1516,Little Woodswallow,941
+1517,Livingstone's Turaco,594
+1518,Lizard Buzzard,2315
+1519,Loggerhead Kingbird,1106
+1520,Loggerhead Shrike,5018
+1521,Long-billed Corella,917
+1522,Long-billed Curlew,2241
+1523,Long-billed Dowitcher,2630
+1524,Long-billed Murrelet,172.5
+1525,Long-billed Thrasher,1311
+1526,Long-legged Buzzard,1068
+1527,Long-tailed Duck,2442
+1528,Long-tailed Finch,582
+1529,Long-tailed Jaeger,780
+1530,Long-tailed Minivet,661
+1531,Long-tailed Mockingbird,880
+1532,Long-tailed Potoo,220
+1533,Long-tailed Rosefinch,322
+1534,Long-tailed Shrike,1125
+1535,Long-tailed Tit,3157
+1536,Long-tailed Widowbird,1004
+1537,Long-toed Stint,750
+1538,Long-wattled Umbrellabird,888
+1539,Long-whiskered Owlet,417
+1540,Louisiana Waterthrush,2311
+1541,Lovely Cotinga,674
+1542,Lucifer Hummingbird,3757
+1543,Luzon Bleeding-heart,2220
+1544,Luzon Hornbill,599
+1545,Lyre-tailed Nightjar,327
+1546,Macaroni Penguin,5164
+1547,Madagascar Cuckoo,1109
+1548,Madagascar Pochard,1573
+1549,Madagascar Rail,1929
+1550,Madagascar Red Owl,569
+1551,Madagascar Sacred Ibis,685
+1552,Madagascar Swift,3993
+1553,Madagascar Teal,665
+1554,Madanga,1278
+1555,Madeira Firecrest,2071
+1556,Magellanic Penguin,3597
+1557,Magellanic Woodpecker,975
+1558,Magnificent Bird-of-paradise,271
+1559,Magnificent Frigatebird,6849
+1560,Magnificent Hummingbird,2575
+1561,Magnificent Riflebird,1517
+1562,Magnolia Warbler,3636
+1563,Magpie-lark,1230
+1564,Magpie Goose,4061
+1565,Magpie Starling,3892
+1566,Maguari Stork,906
+1567,Malabar Barbet,1760
+1568,Malabar Grey Hornbill,1461
+1569,Malabar Parakeet,1422
+1570,Malabar Pied Hornbill,4395
+1571,Malabar Trogon,3463
+1572,Malachite Kingfisher,4611
+1573,Malachite Sunbird,2011
+1574,Maleo,8641
+1575,Mali Firefinch,330
+1576,Malia,4509
+1577,Mallard,6560
+1578,Mallee Emu-wren,447
+1579,Malleefowl,2961
+1580,Mandarin Duck,2759
+1581,Maned Duck,1800
+1582,Mangrove Cuckoo,1091
+1583,Mangrove Finch,1606
+1584,Mangrove Hummingbird,1122
+1585,Mangrove Pitta,873
+1586,Mangrove Swallow,431
+1587,Mangrove Whistler,1373
+1588,Manx Shearwater,5154
+1589,Mao,16274
+1590,Marabou,6193
+1591,Marbled Frogmouth,872
+1592,Marbled Godwit,4024
+1593,Marbled Murrelet,3369
+1594,Marbled Teal,1234
+1595,Mariana Crow,2040
+1596,Maroon-fronted Parrot,884
+1597,Maroon Oriole,1416
+1598,Marsh Babbler,723
+1599,Marsh Owl,3308
+1600,Marsh Sandpiper,2880
+1601,Marsh Tit,3868
+1602,Marsh Warbler,3059
+1603,Marsh Wren,4605
+1604,Martial Eagle,6591
+1605,Marvelous Spatuletail,1809
+1606,Mascarene Petrel,1007
+1607,Masked Booby,2814
+1608,Masked Bowerbird,1100
+1609,Masked Duck,617.5
+1610,Masked Finch,2810
+1611,Masked Finfoot,811
+1612,Masked Flowerpiercer,791
+1613,Masked Lapwing,4411
+1614,Masked Shrike,1016
+1615,Masked Tityra,659
+1616,Masked Trogon,820
+1617,Maui Akepa,785
+1618,Maui Nukupuu,219
+1619,Maui Parrotbill,1623
+1620,Mauritius Fody,1617
+1621,Mauritius Kestrel,2166
+1622,Mauritius Olive White-eye,654
+1623,Mayotte Drongo,697
+1624,McKay's Bunting,387
+1625,Meadow Bunting,1441
+1626,Meadow Pipit,2020
+1627,Mediterranean Gull,2887
+1628,Melancholy Woodpecker,1074
+1629,Melodious Warbler,1278
+1630,Merlin,10498
+1631,Metallic Starling,1809
+1632,Mew Gull,3374
+1633,Mexican Hermit,1469
+1634,Mexican Jay,7223
+1635,Mexican Rail,5774
+1636,Mexican Whip-poor-will,1520
+1637,Micronesian Starling,967
+1638,Middle Spotted Woodpecker,1676
+1639,Mikado Pheasant,377.5
+1640,Military Macaw,5285
+1641,Milky Stork,2401
+1642,Millerbird,828
+1643,Mindanao Lorikeet,338
+1644,Mindoro Bleeding-heart,1219
+1645,Mississippi Kite,5800
+1646,Mistle Thrush,5366
+1647,Mistletoebird,877
+1648,Mitred Parakeet,890
+1649,Mongolian Finch,349
+1650,Mongolian Lark,1624
+1651,Monk Parakeet,5212
+1652,Monotonous Lark,1015
+1653,Montezuma Oropendola,3154
+1654,Montezuma Quail,2195
+1655,Montserrat Oriole,928
+1656,Morepork,6534
+1657,Morningbird,2608
+1658,Mottled Duck,4883
+1659,Mottled Owl,2932
+1660,Mountain Barbet,2011
+1661,Mountain Bluebird,6553
+1662,Mountain Buzzard,3267
+1663,Mountain Caracara,1005
+1664,Mountain Chickadee,6589
+1665,Mountain Chiffchaff,284
+1666,Mountain Kingfisher,3244
+1667,Mountain Oriole,1638
+1668,Mountain Parakeet,2109
+1669,Mountain Plover,2936
+1670,Mountain Quail,8475
+1671,Mountain Starling,1953
+1672,Mountain Thrush,2068
+1673,Mountain Warbler,1872
+1674,Mountain Wren,4554
+1675,Mourning Dove,7147
+1676,Mourning Warbler,3425
+1677,Moustached Flowerpiercer,228
+1678,Moustached Puffbird,713
+1679,Moustached Treeswift,425
+1680,Moustached Warbler,859
+1681,Mugimaki Flycatcher,2111
+1682,Mulga Parrot,2759
+1683,Multicolored Tanager,1042
+1684,Muscovy Duck,11578
+1685,Musician Wren,1064
+1686,Musk Duck,1204
+1687,Musk Lorikeet,5729
+1688,Mute Swan,4735
+1689,Myrtle Warbler,4123
+1690,Nacunda Nighthawk,390
+1691,Namaqua Dove,1137
+1692,Namaqua Sandgrouse,822
+1693,Nanday Parakeet,1749
+1694,Nankeen Kestrel,2691
+1695,Narcissus Flycatcher,1152
+1696,Narcondam Hornbill,3422
+1697,Narina Trogon,2761
+1698,Nashville Warbler,4058
+1699,Nazca Booby,2699
+1700,Nechisar Nightjar,990
+1701,Neddicky,2284
+1702,Negros Bleeding-heart,1095
+1703,Nelson's Sparrow,1382
+1704,Neotropical Cormorant,573
+1705,New Britain Rail,1468
+1706,New Caledonian Crow,2915
+1707,New Caledonian Owlet-nightjar,953
+1708,New Holland Honeyeater,5494
+1709,New Zealand Bellbird,2399
+1710,New Zealand Falcon,5049
+1711,New Zealand Fantail,4970
+1712,New Zealand Kaka,3371
+1713,New Zealand Pigeon,4122
+1714,Nicobar Pigeon,4824
+1715,Night Parrot,4706
+1716,Nightingale Finch,1911
+1717,Nihoa Finch,684
+1718,Nile Valley Sunbird,396
+1719,Nilgiri Flycatcher,1617
+1720,Nilgiri Pipit,1050
+1721,Noisy Friarbird,2749
+1722,Noisy Miner,5121
+1723,Noisy Pitta,2091
+1724,Nonggang Babbler,452
+1725,North Island Brown Kiwi,2050
+1726,North Island Kokako,883
+1727,North Island Robin,2355
+1728,Northern Bald Ibis,2212
+1729,Northern Bobwhite,3306
+1730,Northern Boobook,657
+1731,Northern Cardinal,3893
+1732,Northern Carmine Bee-eater,591
+1733,Northern Cassowary,2237
+1734,Northern Fulmar,1460
+1735,Northern Gannet,4408
+1736,Northern Giant Petrel,1337
+1737,Northern Goshawk,4639
+1738,Northern Harrier,8028
+1739,Northern House Martin,2797
+1740,Northern Jacana,1411
+1741,Northern Lapwing,893.5
+1742,Northern Mockingbird,5860
+1743,Northern Parula,4517
+1744,Northern Pintail,4237
+1745,Northern Potoo,2817
+1746,Northern Pygmy-owl,1073
+1747,Northern Red Bishop,2213
+1748,Northern Rockhopper Penguin,2190
+1749,Northern Rosella,2254
+1750,Northern Rough-winged Swallow,1122
+1751,Northern Royal Albatross,2056
+1752,Northern Royal Flycatcher,1148
+1753,Northern Saw-whet Owl,3189
+1754,Northern Screamer,1721
+1755,Northern Shoveler,6272
+1756,Northern Waterthrush,3362
+1757,Northern Wheatear,3074
+1758,Northern White-faced Owl,2409
+1759,Northern Wren,3650
+1760,Northwestern Crow,3150
+1761,Nyasa Lovebird,4148
+1762,Oahu Alauahio,363
+1763,Oak Titmouse,2736
+1764,Oasis Hummingbird,2243
+1765,Ocellated Turkey,3332
+1766,Oilbird,2704
+1767,Okarito Kiwi,3979
+1768,Okinawa Rail,3772
+1769,Oleaginous Hemispingus,1882
+1770,Olivaceous Warbler,1068
+1771,Olive-backed Pipit,446
+1772,Olive-backed Sunbird,1420
+1773,Olive-sided Flycatcher,2847
+1774,Olive Finch,6339
+1775,Olive Flycatcher,3996
+1776,Olive Ibis,2572
+1777,Olive Sparrow,4297
+1778,Olive Sunbird,3920
+1779,Olive Thrush,4525
+1780,Olive Warbler,2218
+1781,Olive Whistler,2269
+1782,Olive Woodpecker,1566
+1783,Omani Owl,451
+1784,Omao,6308
+1785,Orange-bellied Parrot,1839
+1786,Orange-billed Nightingale-thrush,299
+1787,Orange-crowned Warbler,2155
+1788,Orange-fronted Parakeet,860
+1789,Orange-headed Thrush,1681
+1790,Orange-necked Partridge,591
+1791,Orange-winged Amazon,786
+1792,Orange Bullfinch,1788
+1793,Orange Chat,7901
+1794,Orange Dove,12054
+1795,Orange Oriole,1938
+1796,Orange Weaver,5854
+1797,Orchard Oriole,2393
+1798,Oriental Darter,1813
+1799,Oriental Dollarbird,2032
+1800,Oriental Greenfinch,533
+1801,Oriental Hobby,11590
+1802,Oriental Magpie-robin,1207
+1803,Oriental Pied Hornbill,1547
+1804,Oriental Plover,703
+1805,Oriental Pratincole,1207
+1806,Oriental Skylark,2372
+1807,Oriental Stork,1184
+1808,Oriental Turtle-dove,378
+1809,Orinoco Goose,655
+1810,Oriole Blackbird,2311
+1811,Oriole Finch,2517
+1812,Oriole Warbler,2635
+1813,Ornate Hawk-eagle,1038
+1814,Ortolan Bunting,3516
+1815,Osprey,13226
+1816,Ou,12827
+1817,Ovenbird,5500
+1818,Pacific Baza,2284
+1819,Pacific Black Duck,2838
+1820,Pacific Golden Plover,3902
+1821,Pacific Gull,2175
+1822,Pacific Loon,3650
+1823,Pacific Parrotlet,4238
+1824,Pacific Robin,3738
+1825,Pacific Royal Flycatcher,1178
+1826,Pacific Swift,10715
+1827,Pacific Wren,3579
+1828,Paddyfield Pipit,1422
+1829,Paddyfield Warbler,927
+1830,Painted Bunting,5433
+1831,Painted Finch,4173
+1832,Painted Francolin,1148
+1833,Painted Honeyeater,1447
+1834,Painted Sandgrouse,2655
+1835,Painted Spurfowl,536
+1836,Painted Stork,7779
+1837,Palawan Flycatcher,641
+1838,Palawan Hornbill,1284
+1839,Palawan Peacock-pheasant,946
+1840,Pale-billed Flowerpecker,426
+1841,Pale-headed Rosella,725
+1842,Pale Sparrow,1766
+1843,Pale Thrush,1442
+1844,Palestine Sunbird,2059
+1845,Palila,5213
+1846,Pallid Cuckoo,1221
+1847,Pallid Harrier,3710
+1848,Pallid Swift,1043
+1849,Palm Cockatoo,7419
+1850,Palm Crow,3167
+1851,Palm Tanager,840
+1852,Palm Warbler,3300
+1853,Palmchat,4678
+1854,Papuan Eagle,1668
+1855,Papuan Frogmouth,1147
+1856,Papyrus Gonolek,364
+1857,Paradise Riflebird,1760
+1858,Paradise Shelduck,1706
+1859,Paradise Tanager,2274
+1860,Parakeet Auklet,982
+1861,Pardusco,4384
+1862,Parrot Crossbill,1288
+1863,Partridge Pigeon,3663
+1864,Pauraque,2775
+1865,Peaceful Dove,5365
+1866,Pearl Kite,3121
+1867,Pechora Pipit,910
+1868,Pectoral Sandpiper,2721
+1869,Pelagic Cormorant,1397
+1870,Pennant-winged Nightjar,1115
+1871,Peregrine Falcon,8713
+1872,Perija Parakeet,753
+1873,Pernambuco Pygmy-owl,447
+1874,Persian Shearwater,852
+1875,Peruvian Booby,760
+1876,Peruvian Martin,2824
+1877,Peruvian Pelican,1058
+1878,Phainopepla,4146
+1879,Pheasant Coucal,6268
+1880,Pheasant Cuckoo,2243
+1881,Philadelphia Vireo,3397
+1882,Philippine Bulbul,904
+1883,Philippine Cockatoo,2065
+1884,Philippine Coucal,1303
+1885,Philippine Duck,4468
+1886,Philippine Eagle,8948
+1887,Philippine Falconet,1041
+1888,Philippine Frogmouth,774
+1889,Philippine Nightjar,1020
+1890,Philippine Pitta,1196
+1891,Philippine Scrubfowl,183
+1892,Philippine Trogon,628
+1893,Pied-billed Grebe,2357
+1894,Pied Avocet,2036
+1895,Pied Bushchat,3825
+1896,Pied Butcherbird,3679
+1897,Pied Crow,5595
+1898,Pied Currawong,2983
+1899,Pied Falconet,556
+1900,Pied Goshawk,532
+1901,Pied Harrier,1190
+1902,Pied Heron,2596
+1903,Pied Kingfisher,3591
+1904,Pied Lapwing,1623
+1905,Pied Monarch,436
+1906,Pied Oystercatcher,2821
+1907,Pied Thrush,1800
+1908,Pied Triller,2370
+1909,Pied Wheatear,2155
+1910,Pigeon Guillemot,2936
+1911,Pileated Finch,889
+1912,Pileated Woodpecker,6818
+1913,Pilotbird,603
+1914,Pin-tailed Sandgrouse,532
+1915,Pin-tailed Whydah,3249
+1916,Pine Bunting,3014
+1917,Pine Flycatcher,584
+1918,Pine Grosbeak,5341
+1919,Pine Siskin,4310
+1920,Pine Warbler,5823
+1921,Pink-backed Pelican,626
+1922,Pink-footed Goose,777
+1923,Pink-headed Duck,1317
+1924,Pink-legged Graveteiro,240
+1925,Pink-necked Green-pigeon,614
+1926,Pink Pigeon,7823
+1927,Pink Robin,5415
+1928,Pinyon Jay,3069
+1929,Piping Crow,438
+1930,Piping Plover,5366
+1931,Pipipi,3180
+1932,Piratic Flycatcher,485
+1933,Plain-tailed Wren,470
+1934,Plain Chachalaca,1266
+1935,Plain Flowerpecker,1726
+1936,Plain Nightjar,364
+1937,Plain Parakeet,1185
+1938,Plain Pigeon,3343
+1939,Plain Prinia,3239
+1940,Plain Swift,5980
+1941,Plains-wanderer,622
+1942,Plaintive Cuckoo,1952
+1943,Plum-headed Parakeet,1562
+1944,Plum-throated Cotinga,296
+1945,Plumbeous Kite,1331
+1946,Plumbeous Vireo,1498
+1947,Plush-crested Jay,545
+1948,Pomarine Jaeger,1826
+1949,Pompadour Cotinga,3243
+1950,Powerful Owl,7928
+1951,Prairie Falcon,5462
+1952,Prairie Warbler,3754
+1953,Princess Parrot,7784
+1954,Prothonotary Warbler,3274
+1955,Providence Petrel,783
+1956,Puaiohi,692
+1957,Puerto Rican Amazon,7741
+1958,Puerto Rican Mango,1751
+1959,Puerto Rican Tody,1109
+1960,Puerto Rican Woodpecker,441
+1961,Puna Flamingo,803
+1962,Puna Ibis,1758
+1963,Purple-rumped Sunbird,755
+1964,Purple-winged Roller,209
+1965,Purple Finch,8094
+1966,Purple Gallinule,4619
+1967,Purple Grenadier,2409
+1968,Purple Heron,3975
+1969,Purple Honeycreeper,1935
+1970,Purple Martin,5209
+1971,Purple Roller,9087
+1972,Purple Sandpiper,7554
+1973,Purple Starling,2562
+1974,Purple Sunbird,4738
+1975,Purple Swamphen,5977
+1976,Pygmy Cormorant,1583
+1977,Pygmy Eagle,2138
+1978,Pygmy Nightjar,877
+1979,Pygmy Nuthatch,2692
+1980,Pyrrhuloxia,2366
+1981,Radde's Warbler,450
+1982,Radjah Shelduck,1164
+1983,Raggiana Bird-of-paradise,1204
+1984,Rain Quail,4980
+1985,Rainbow Bee-eater,1529
+1986,Rainbow Lorikeet,11294
+1987,Rainbow Pitta,1831
+1988,Rainbow Starfrontlet,611
+1989,Razorbill,4382
+1990,Red-and-green Macaw,1880
+1991,Red-and-yellow Barbet,1035
+1992,Red-backed Shrike,1107
+1993,Red-bellied Woodpecker,4755
+1994,Red-billed Blue Magpie,948
+1995,Red-billed Curassow,262
+1996,Red-billed Hornbill,2308
+1997,Red-billed Leiothrix,1479
+1998,Red-billed Oxpecker,1188
+1999,Red-billed Quelea,1446
+2000,Red-billed Streamertail,1051
+2001,Red-billed Tropicbird,1629
+2002,Red-breasted Chat,503
+2003,Red-breasted Flycatcher,1303
+2004,Red-breasted Goose,1458
+2005,Red-breasted Merganser,3401
+2006,Red-breasted Nuthatch,1263
+2007,Red-breasted Parakeet,600
+2008,Red-breasted Sapsucker,852
+2009,Red-browed Finch,831
+2010,Red-capped Manakin,1162
+2011,Red-cheeked Cordon-bleu,1208
+2012,Red-cockaded Woodpecker,2409
+2013,Red-collared Woodpecker,565
+2014,Red-crested Cardinal,1801
+2015,Red-crested Pochard,1849
+2016,Red-crested Turaco,560
+2017,Red-crowned Amazon,490
+2018,Red-crowned Crane,3143
+2019,Red-eyed Vireo,1892
+2020,Red-footed Booby,2058
+2021,Red-footed Falcon,223.5
+2022,Red-fronted Macaw,1153
+2023,Red-headed Barbet,1422
+2024,Red-headed Falcon,699
+2025,Red-headed Finch,1301
+2026,Red-headed Lovebird,914
+2027,Red-headed Vulture,863
+2028,Red-headed Woodpecker,2172
+2029,Red-knobbed Coot,567
+2030,Red-legged Honeycreeper,866
+2031,Red-legged Kittiwake,513
+2032,Red-legged Partridge,1907
+2033,Red-legged Seriema,554
+2034,Red-lored Amazon,1314
+2035,Red-naped Ibis,1856
+2036,Red-naped Sapsucker,1935
+2037,Red-necked Buzzard,406
+2038,Red-necked Grebe,1485
+2039,Red-necked Phalarope,1059
+2040,Red-necked Stint,843
+2041,Red-rumped Parrot,1749
+2042,Red-rumped Swallow,2012
+2043,Red-shouldered Blackbird,344
+2044,Red-shouldered Hawk,3093
+2045,Red-tailed Hawk,4214
+2046,Red-tailed Laughingthrush,394
+2047,Red-tailed Shrike,344
+2048,Red-tailed Tropicbird,550
+2049,Red-tailed Wheatear,243
+2050,Red-throated Caracara,416
+2051,Red-throated Loon,1245
+2052,Red-throated Pipit,1359
+2053,Red-throated Twinspot,208
+2054,Red-vented Bulbul,2524
+2055,Red-wattled Lapwing,709
+2056,Red-whiskered Bulbul,3414
+2057,Red-winged Blackbird,2764
+2058,Red-winged Parrot,588
+2059,Red-winged Starling,1437
+2060,Red Avadavat,2324
+2061,Red Crossbill,3741
+2062,Red Fody,1955
+2063,Red Goshawk,4848
+2064,Red Junglefowl,2836
+2065,Red Kite,13814
+2066,Red Knot,9440
+2067,Red Lark,6242
+2068,Red Lory,6286
+2069,Red Phalarope,1846
+2070,Red Siskin,7090
+2071,Red Spurfowl,3221
+2072,Red Tanager,2403
+2073,Red Warbler,4387
+2074,Red Wattlebird,4496
+2075,Red Weaver,11362
+2076,Reddish Egret,5169
+2077,Redhead,12796
+2078,Redpoll,6153
+2079,Redthroat,860
+2080,Redwing,13797
+2081,Reed Bunting,5531
+2082,Regal Sunbird,830
+2083,Regent Bowerbird,3130
+2084,Regent Honeyeater,3612
+2085,Regent Parrot,5371
+2086,Resplendent Quetzal,4377
+2087,Restless Flycatcher,2480
+2088,Rhinoceros Auklet,2117
+2089,Rhinoceros Hornbill,4024
+2090,Ribbon-tailed Astrapia,1651
+2091,Richard's Pipit,1278
+2092,Rifleman,14353
+2093,Rimatara Lorikeet,317
+2094,Ring-billed Gull,1596
+2095,Ring-necked Dove,1452
+2096,Ring-necked Duck,1926
+2097,Ring Ouzel,4227
+2098,Ringed Kingfisher,2398
+2099,Ringed Teal,2610
+2100,River Lapwing,1091
+2101,River Tern,6746
+2102,River Warbler,1475
+2103,Riverside Wren,1938
+2104,Roadside Hawk,2682
+2105,Rock Bunting,2967
+2106,Rock Dove,11516
+2107,Rock Parrot,6873
+2108,Rock Partridge,6468
+2109,Rock Pipit,4002
+2110,Rock Ptarmigan,2911
+2111,Rock Sandpiper,3749
+2112,Rock Shag,3913
+2113,Rock Sparrow,3892
+2114,Rock Wren,2533
+2115,Rockrunner,4688
+2116,Rockwarbler,691
+2117,Rook,9875
+2118,Rose-breasted Grosbeak,2470.5
+2119,Rose-ringed Parakeet,2914
+2120,Rose Robin,6864
+2121,Roseate Spoonbill,5323
+2122,Roseate Tern,2651
+2123,Rosy-faced Lovebird,2473
+2124,Rosy Starling,1823
+2125,Rough-faced Shag,587
+2126,Rough-legged Buzzard,1118
+2127,Royal Cinclodes,526
+2128,Royal Penguin,7078
+2129,Royal Spoonbill,1426
+2130,Royal Tern,5742
+2131,Ruby-cheeked Sunbird,956
+2132,Ruby-crowned Kinglet,2416
+2133,Ruby-throated Hummingbird,3957
+2134,Ruddy Duck,10793
+2135,Ruddy Kingfisher,1073
+2136,Ruddy Pigeon,869
+2137,Ruddy Shelduck,3942
+2138,Ruddy Turnstone,4491
+2139,Ruff,9089
+2140,Ruffed Grouse,5840
+2141,Rufous-bellied Niltava,1404
+2142,Rufous-bellied Thrush,1686
+2143,Rufous-headed Hornbill,1076
+2144,Rufous-legged Owl,1899
+2145,Rufous-necked Hornbill,817
+2146,Rufous-necked Wood-rail,173
+2147,Rufous-tailed Hummingbird,414
+2148,Rufous-tailed Robin,852
+2149,Rufous Babbler,1515
+2150,Rufous Bristlebird,729
+2151,Rufous Fantail,1536
+2152,Rufous Flycatcher,2502
+2153,Rufous Hornero,2706
+2154,Rufous Hummingbird,2577
+2155,Rufous Motmot,1234
+2156,Rufous Nightjar,566
+2157,Rufous Owl,1827
+2158,Rufous Potoo,726
+2159,Rufous Sibia,1686
+2160,Rufous Songlark,1612
+2161,Rufous Treepie,4497
+2162,Rufous Whistler,2536
+2163,Rufous Woodpecker,1639
+2164,Rufous Wren,2111
+2165,Russet Sparrow,1521
+2166,Rustic Bunting,3543
+2167,Rusty Blackbird,5674
+2168,Rusty Sparrow,2382
+2169,Sabine's Gull,1774
+2170,Sabota Lark,320
+2171,Sacred Kingfisher,2338
+2172,Sad Flycatcher,707
+2173,Saddlebill,1285
+2174,Saffron Finch,3874
+2175,Saffron Toucanet,719
+2176,Sage Grouse,6174
+2177,Sage Thrasher,2024
+2178,Sagebrush Sparrow,2065
+2179,Saker Falcon,4395
+2180,Salmon-crested Cockatoo,1941
+2181,Saltmarsh Sparrow,1762
+2182,San Lucas Robin,1820
+2183,Sand Lark,1645
+2184,Sanderling,7193
+2185,Sandwich Tern,4686
+2186,Santa Marta Parakeet,604
+2187,Sapayoa,705
+2188,Satin Bowerbird,4096
+2189,Satin Flycatcher,605
+2190,Satyr Tragopan,3581
+2191,Savanna Hawk,2330
+2192,Savanna Nightjar,1330
+2193,Savannah Sparrow,4360
+2194,Savi's Warbler,489
+2195,Saxaul Sparrow,1266
+2196,Say's Phoebe,6906
+2197,Scaled Quail,2768
+2198,Scaly-breasted Munia,1460
+2199,Scaly Thrush,4828
+2200,Scarlet-backed Flowerpecker,2075
+2201,Scarlet-headed Flowerpecker,416
+2202,Scarlet Finch,3296
+2203,Scarlet Ibis,6488
+2204,Scarlet Macaw,6052
+2205,Scarlet Minivet,3734
+2206,Scarlet Myzomela,1161
+2207,Scarlet Robin,6809
+2208,Scarlet Tanager,1990
+2209,Scissor-tailed Flycatcher,2155
+2210,Scott's Oriole,1327
+2211,Scottish Crossbill,1102
+2212,Screaming Cowbird,630
+2213,Screaming Piha,2075
+2214,Scrubtit,658
+2215,Seaside Sparrow,2491
+2216,Secretarybird,1676
+2217,Sedge Warbler,3115
+2218,Sedge Wren,2748
+2219,Semipalmated Plover,3636
+2220,Semipalmated Sandpiper,4510
+2221,Senegal Parrot,5754
+2222,Seven-colored Tanager,187
+2223,Seychelles Kestrel,759
+2224,Seychelles Parrot,2033
+2225,Seychelles Warbler,1035
+2226,Sharp-shinned Hawk,3149
+2227,Sharp-tailed Grouse,2393
+2228,Sharp-tailed Sandpiper,1799
+2229,Sharpbill,2711
+2230,Shikra,7326
+2231,Shining Honeycreeper,411
+2232,Shiny Cowbird,1711
+2233,Shoebill,2254
+2234,Shore Plover,2376
+2235,Short-billed Dowitcher,1346
+2236,Short-eared Owl,2850
+2237,Short-tailed Albatross,1781
+2238,Short-tailed Parrot,252
+2239,Short-tailed Shearwater,1204
+2240,Shy Albatross,1083
+2241,Siamese Fireback,2017
+2242,Siberian Accentor,351
+2243,Siberian Blue Robin,1928
+2244,Siberian Chiffchaff,2612
+2245,Siberian Crane,6201
+2246,Siberian Jay,3327
+2247,Siberian Rubythroat,1975
+2248,Siberian Thrush,1180
+2249,Siberian Tit,1197
+2250,Sichuan Partridge,805
+2251,Sickle-billed Vanga,479
+2252,Sierra Madre Ground-warbler,123
+2253,Silver-backed Tanager,222
+2254,Silver-breasted Broadbill,1269
+2255,Silver-eared Mesia,621
+2256,Silver Gull,6263
+2257,Silver Oriole,2608
+2258,Silver Pheasant,7219
+2259,Silver Teal,9881
+2260,Silverbird,9246
+2261,Silvereye,5844
+2262,Silvery Pigeon,800
+2263,Sinai Rosefinch,1266
+2264,Sinaloa Martin,3727
+2265,Sinaloa Wren,899
+2266,Sind Sparrow,1013
+2267,Singing Honeyeater,3281
+2268,Singing Quail,4303
+2269,Singing Starling,1538
+2270,Sinu Parakeet,321
+2271,Sira Barbet,238
+2272,Sirkeer Malkoha,2559
+2273,Slaty-backed Gull,1165
+2274,Slaty-legged Crake,746
+2275,Slaty Bristlefront,114
+2276,Slaty Egret,453
+2277,Slender-billed Curlew,267.5
+2278,Slender-billed Vulture,1070
+2279,Small-billed Elaenia,509
+2280,Small Minivet,2359
+2281,Smew,5828
+2282,Smoky Honeyeater,352
+2283,Smoky Robin,4352
+2284,Smooth-billed Ani,728
+2285,Snail Kite,2521
+2286,Snares Penguin,2246
+2287,Snoring Rail,1180
+2288,Snow-capped Manakin,142
+2289,Snow Bunting,5251
+2290,Snow Goose,7253
+2291,Snow Partridge,4776
+2292,Snow Petrel,2017
+2293,Snow Pigeon,3587
+2294,Snowcap,8455
+2295,Snowy Egret,4400
+2296,Snowy Owl,8078
+2297,Snowy Plover,3427
+2298,Snowy Sheathbill,1520
+2299,Sociable Lapwing,1320
+2300,Sociable Weaver,2441
+2301,Social Flycatcher,1211
+2302,Socorro Dove,2012
+2303,Socorro Mockingbird,445
+2304,Socotra Cormorant,1392
+2305,Soft-plumaged Petrel,521
+2306,Solitary Sandpiper,4662
+2307,Solitary Snipe,558
+2308,Somali Ostrich,1692
+2309,Somali Pigeon,1563
+2310,Sombre Tit,567
+2311,Song Parrot,6692
+2312,Song Sparrow,8196
+2313,Song Thrush,6061
+2314,Song Wren,4631
+2315,Sooty-headed Bulbul,1450
+2316,Sooty Albatross,1860
+2317,Sooty Falcon,1862
+2318,Sooty Grouse,4700
+2319,Sooty Gull,1427
+2320,Sooty Oystercatcher,1400
+2321,Sooty Shearwater,2867
+2322,Sooty Tern,3145
+2323,Sora,13562
+2324,South African Shelduck,584
+2325,South African Swallow,1676
+2326,South Georgia Pipit,900
+2327,South Island Kokako,907
+2328,South Island Robin,3465
+2329,South Island Saddleback,265
+2330,South Island Takahe,724
+2331,South Polar Skua,1698
+2332,Southern Boobook,2874
+2333,Southern Boubou,868
+2334,Southern Brown Kiwi,562
+2335,Southern Caracara,2614
+2336,Southern Carmine Bee-eater,2495
+2337,Southern Cassowary,3405
+2338,Southern Fulmar,779
+2339,Southern Giant Petrel,1761
+2340,Southern Ground-hornbill,440
+2341,Southern Lapwing,2296
+2342,Southern Martin,8406
+2343,Southern Masked Weaver,1043
+2344,Southern Mealy Amazon,463
+2345,Southern Red Bishop,2243
+2346,Southern Rockhopper Penguin,5134
+2347,Southern Royal Albatross,2122
+2348,Southern Screamer,1566
+2349,Southern Swift,8363
+2350,Southern White-faced Owl,1861
+2351,Southern Yellow-billed Hornbill,2592
+2352,Spangled Coquette,643
+2353,Spangled Cotinga,1089
+2354,Spangled Drongo,2607
+2355,Spanish Imperial Eagle,2766
+2356,Spanish Sparrow,4895
+2357,Speckled Hummingbird,1771
+2358,Speckled Mousebird,1505
+2359,Speckled Pigeon,2395
+2360,Speckled Tanager,917
+2361,Speckled Warbler,1152
+2362,Spectacled Eider,2912
+2363,Spectacled Flowerpecker,402
+2364,Spectacled Owl,3080
+2365,Spectacled Parrotlet,998
+2366,Spectacled Tyrant,941
+2367,Spectacled Weaver,504
+2368,Spinifex Pigeon,2607
+2369,Spix's Macaw,1428
+2370,Splendid Fairy-wren,783
+2371,Splendid Sunbird,584
+2372,Spoon-billed Sandpiper,2347
+2373,Spot-bellied Eagle-owl,1518
+2374,Spot-billed Pelican,951
+2375,Spotless Crake,950
+2376,Spotless Starling,1370
+2377,Spotted Buttonquail,405
+2378,Spotted Crake,2031
+2379,Spotted Eagle-owl,1784
+2380,Spotted Flycatcher,4052
+2381,Spotted Harrier,1292
+2382,Spotted Kingfisher,2492
+2383,Spotted Owl,5310
+2384,Spotted Owlet,3586
+2385,Spotted Pardalote,2831
+2386,Spotted Rail,3319
+2387,Spotted Redshank,3416
+2388,Spotted Sandpiper,4077
+2389,Spotted Shag,390
+2390,Spotted Tanager,844
+2391,Spotted Thick-knee,1068
+2392,Spotted Towhee,4157
+2393,Spotted Wren,1113
+2394,Spruce Grouse,5711
+2395,Spur-winged Goose,2238
+2396,Spur-winged Lapwing,533
+2397,Squacco Heron,1703
+2398,Squatter Pigeon,1247
+2399,Sri Lanka Blue Magpie,871
+2400,Sri Lanka Frogmouth,1681
+2401,Sri Lanka Junglefowl,2260
+2402,St Lucia Amazon,5723
+2403,St Vincent Amazon,5633
+2404,Standard-winged Nightjar,500
+2405,Standardwing Bird-of-paradise,340
+2406,Star Finch,4355
+2407,Steller's Eider,891
+2408,Steller's Jay,3816
+2409,Steppe Eagle,5962
+2410,Stewart Shag,3341
+2411,Stilt Sandpiper,3950
+2412,Stitchbird,2739
+2413,Stock Dove,6075
+2414,Stone Partridge,2348
+2415,Stork-billed Kingfisher,2535
+2416,Strange-tailed Tyrant,328
+2417,Strange Weaver,3547
+2418,Straw-headed Bulbul,779
+2419,Straw-necked Ibis,1469
+2420,Streak-backed Oriole,455
+2421,Streak-eared Bulbul,987
+2422,Streak-throated Swallow,787
+2423,Streaked Bulbul,415
+2424,Streaked Laughingthrush,2148
+2425,Streaked Spiderhunter,1566
+2426,Streaked Weaver,1715
+2427,Striated Caracara,1338
+2428,Striated Grassbird,1109
+2429,Striated Pardalote,3028
+2430,Striped Crake,349
+2431,Striped Cuckoo,3041
+2432,Striped Kingfisher,1346
+2433,Striped Owl,4463
+2434,Striped Sparrow,3213
+2435,Striped Woodpecker,1741
+2436,Stubble Quail,1409
+2437,Stygian Owl,718
+2438,Sulawesi Pitta,991
+2439,Sulphur-bellied Warbler,447
+2440,Sulphur-breasted Warbler,535
+2441,Sulphur-crested Cockatoo,3792
+2442,Sultan Tit,1969
+2443,Sulu Hornbill,1117
+2444,Sumatran Ground-cuckoo,371
+2445,Sumba Hornbill,326
+2446,Summer Tanager,2887
+2447,Sun Lark,3680
+2448,Sun Parakeet,5922
+2449,Sunbittern,3342
+2450,Sunda Blue Robin,2068
+2451,Sunda Frogmouth,256
+2452,Sunda Thrush,1333
+2453,Sungrebe,762
+2454,Superb Fairy-wren,1243
+2455,Superb Lyrebird,2219
+2456,Superb Parrot,3454
+2457,Superb Starling,2201
+2458,Surf Scoter,6134
+2459,Surfbird,4413
+2460,Swainson's Hawk,2738
+2461,Swainson's Thrush,2336
+2462,Swainson's Warbler,590
+2463,Swallow-tailed Gull,888
+2464,Swallow-tailed Kite,3048
+2465,Swallow Flycatcher,2173
+2466,Swallow Tanager,1706
+2467,Swamp Flycatcher,947
+2468,Swamp Francolin,587
+2469,Swamp Harrier,641
+2470,Swamp Sparrow,4904
+2471,Swan Goose,11184
+2472,Swift Parrot,4238
+2473,Sword-billed Hummingbird,1192
+2474,Syrian Serin,888
+2475,Syrian Woodpecker,945
+2476,Tacazze Sunbird,1110
+2477,Tachira Antpitta,297
+2478,Tahiti Monarch,1342
+2479,Tahiti Petrel,727
+2480,Taita Falcon,2741
+2481,Taiwan Barbet,1402
+2482,Taiwan Blue Magpie,2214
+2483,Taiwan Partridge,511
+2484,Tamaulipas Crow,614
+2485,Tanager Finch,2171
+2486,Tanimbar Corella,1231
+2487,Taveta Golden Weaver,658
+2488,Tawny-flanked Prinia,672
+2489,Tawny Eagle,4894
+2490,Tawny Frogmouth,7063
+2491,Tawny Owl,6594
+2492,Tawny Pipit,2209
+2493,Temminck's Stint,927
+2494,Tennessee Warbler,3481
+2495,Terek Sandpiper,1917
+2496,Thick-billed Kingbird,461
+2497,Thick-billed Longspur,502
+2498,Thick-billed Murre,1153
+2499,Thick-billed Parrot,1526
+2500,Thick-billed Warbler,648
+2501,Three-wattled Bellbird,1869
+2502,Thrush Nightingale,3958
+2503,Tibetan Blackbird,490
+2504,Tibetan Bunting,1403
+2505,Tibetan Partridge,339
+2506,Tibetan Snowcock,601
+2507,Tiger Shrike,1273
+2508,Timneh Parrot,4350
+2509,Tinian Monarch,612
+2510,Tiny Hawk,5326
+2511,Toco Toucan,3919
+2512,Togian White-eye,365
+2513,Tooth-billed Pigeon,871
+2514,Topknot Pigeon,1670
+2515,Torrent Duck,4093
+2516,Torresian Crow,1279
+2517,Toucan Barbet,886
+2518,Townsend's Warbler,1516
+2519,Tree Martin,8465
+2520,Tree Pipit,3570
+2521,Tree Swallow,5391
+2522,Tricolored Blackbird,1489
+2523,Tricolored Heron,2480
+2524,Tricoloured Munia,1913
+2525,Trindade Petrel,530
+2526,Trinidad Motmot,1096
+2527,Tristan Albatross,2297
+2528,Tristan Thrush,1325
+2529,Tropical Kingbird,3220
+2530,Tropical Mockingbird,2580
+2531,Tropical Parula,1105
+2532,Trumpet Manucode,1540
+2533,Trumpeter Finch,804
+2534,Trumpeter Hornbill,2641
+2535,Trumpeter Swan,6208
+2536,Tuamotu Kingfisher,715
+2537,Tucuman Amazon,2267
+2538,Tufted Coquette,1417
+2539,Tufted Duck,5338
+2540,Tufted Flycatcher,2380
+2541,Tufted Jay,3133
+2542,Tufted Puffin,3109
+2543,Tufted Titmouse,6051
+2544,Tui,9769
+2545,Tundra Swan,5975
+2546,Turkey Vulture,10053
+2547,Turquoise-browed Motmot,1086
+2548,Turquoise-fronted Amazon,1855
+2549,Turquoise Jay,4938
+2550,Turquoise Parrot,6612
+2551,Turquoise Tanager,1115
+2552,Twite,7812
+2553,Two-barred Warbler,721
+2554,Ultramarine Flycatcher,3196
+2555,Ultramarine Grosbeak,1081
+2556,Ultramarine Lorikeet,1115
+2557,Upcher's Warbler,296
+2558,Upland Buzzard,634
+2559,Upland Goose,2742
+2560,Upland Sandpiper,2454
+2561,Ural Owl,3607
+2562,Usambara Hyliota,367
+2563,Variable Hawk,2091
+2564,Variable Sunbird,915
+2565,Variable Wheatear,2196
+2566,Varied Bunting,1490
+2567,Varied Thrush,3343
+2568,Varied Tit,1647
+2569,Variegated Flycatcher,484
+2570,Vasa Parrot,2041
+2571,Veery,3044
+2572,Vegetarian Finch,1653
+2573,Velvet Scoter,3179
+2574,Venezuelan Troupial,730
+2575,Verdin,7718
+2576,Verditer Flycatcher,2350
+2577,Vermilion Cardinal,3325
+2578,Vervain Hummingbird,858
+2579,Vesper Sparrow,2994
+2580,Victoria's Riflebird,753
+2581,Vilcabamba Inca,3357
+2582,Village Weaver,3491
+2583,Vinaceous Rosefinch,373
+2584,Violaceous Euphonia,549
+2585,Violaceous Trogon,679
+2586,Violet-backed Starling,1322
+2587,Violet-green Swallow,1253
+2588,Violet Crow,1372
+2589,Violet Cuckoo,1061
+2590,Violet Sabrewing,1796
+2591,Violet Turaco,2570
+2592,Virginia Rail,5931
+2593,Visayan Hornbill,1470
+2594,Vogelkop Bowerbird,2713
+2595,Volcano Hummingbird,1725
+2596,Vulturine Guineafowl,1770
+2597,Vulturine Parrot,976
+2598,Wallcreeper,5297
+2599,Wandering Albatross,2309
+2600,Wandering Tattler,2612
+2601,Warbling Vireo,2834
+2602,Warsangli Linnet,588
+2603,Water Pipit,3204
+2604,Watercock,1928
+2605,Waterfall Swift,3004
+2606,Wattled Crane,2051
+2607,Wattled Curassow,593
+2608,Wattled Jacana,733
+2609,Wattled Lapwing,4251
+2610,Wattled Starling,727
+2611,Waved Albatross,3765
+2612,Wedge-rumped Storm-petrel,320
+2613,Wedge-tailed Eagle,3009
+2614,Wedge-tailed Shearwater,1515
+2615,Weebill,2958.5
+2616,Weka,11178
+2617,Welcome Swallow,6244
+2618,Western Bluebird,5063
+2619,Western Capercaillie,1357
+2620,Western Grebe,3147
+2621,Western Gull,3140
+2622,Western Kingbird,4503
+2623,Western Koel,1452
+2624,Western Meadowlark,4078
+2625,Western Mountaineer,4186
+2626,Western Parotia,1720
+2627,Western Rosella,1867
+2628,Western Sandpiper,2767
+2629,Western Screech-owl,696
+2630,Western Spindalis,752
+2631,Western Spinebill,1087
+2632,Western Tanager,2917
+2633,Western Tragopan,3338
+2634,Western Wattlebird,784
+2635,Western Whipbird,552
+2636,Western Wood-pewee,939
+2637,Western Yellow Robin,1030
+2638,Western Yellow Wagtail,1884
+2639,Whimbrel,8962
+2640,Whinchat,7310
+2641,Whiskered Auklet,573
+2642,Whiskered Pitta,547
+2643,Whiskered Screech-owl,634
+2644,Whiskered Tern,1513
+2645,Whiskered Treeswift,1916
+2646,Whistling Heron,1811
+2647,Whistling Kite,7629
+2648,White's Thrush,425
+2649,White-backed Vulture,1581
+2650,White-bellied Drongo,282
+2651,White-bellied Go-away-bird,821
+2652,White-bellied Heron,2442
+2653,White-bellied Kingfisher,1112
+2654,White-bellied Sea-eagle,1646
+2655,White-breasted Nuthatch,2889
+2656,White-breasted Waterhen,1761
+2657,White-browed Tit-warbler,442
+2658,White-browed Wagtail,1207
+2659,White-cheeked Barbet,1132
+2660,White-cheeked Starling,1546
+2661,White-chinned Petrel,601
+2662,White-collared Swift,420
+2663,White-crested Elaenia,258
+2664,White-crowned Pigeon,1030
+2665,White-crowned Sparrow,3173
+2666,White-eared Bulbul,546
+2667,White-eared Hummingbird,589
+2668,White-eyed River Martin,317
+2669,White-eyed Vireo,1725
+2670,White-faced Heron,1433
+2671,White-faced Ibis,1296
+2672,White-fronted Falconet,316
+2673,White-headed Duck,981
+2674,White-necked Jacobin,391
+2675,White-necked Raven,976
+2676,White-rumped Sandpiper,725
+2677,White-rumped Seedeater,959
+2678,White-rumped Shama,1916
+2679,White-rumped Swift,1195
+2680,White-rumped Vulture,830
+2681,White-shouldered Ibis,368
+2682,White-spectacled Bulbul,1188
+2683,White-tailed Hawk,1961
+2684,White-tailed Kite,2227
+2685,White-tailed Lapwing,379
+2686,White-tailed Ptarmigan,954
+2687,White-tailed Tropicbird,1500
+2688,White-throated Bee-eater,864
+2689,White-throated Dipper,555
+2690,White-throated Fantail,2072
+2691,White-throated Kingfisher,1822
+2692,White-throated Needletail,761
+2693,White-throated Rail,229
+2694,White-throated Robin,750
+2695,White-throated Sparrow,2192
+2696,White-throated Swallow,410
+2697,White-throated Thrush,1128
+2698,White-winged Chough,1778
+2699,White-winged Dove,1640
+2700,White-winged Flufftail,1097
+2701,White-winged Parakeet,344
+2702,White-winged Scoter,1597
+2703,White-winged Tern,943
+2704,White Bellbird,532.5
+2705,White Cockatoo,1246
+2706,White Hawk,14683
+2707,White Ibis,9761
+2708,White Stork,7084
+2709,White Wagtail,4060
+2710,White Woodpecker,5852
+2711,Whitehead,8486
+2712,Whooper Swan,5508
+2713,Whooping Crane,5263
+2714,Wild Turkey,8645
+2715,Willet,5112
+2716,Willie Wagtail,3579
+2717,Willow Flycatcher,3513
+2718,Willow Grouse,3912
+2719,Willow Tit,7184
+2720,Willow Warbler,4399
+2721,Wilson's Phalarope,1070
+2722,Wilson's Plover,981
+2723,Wilson's Snipe,2272
+2724,Wilson's Warbler,2008
+2725,Wine-throated Hummingbird,590
+2726,Winter Wren,5311
+2727,Wonga Pigeon,2039
+2728,Wood Duck,10519
+2729,Wood Sandpiper,5056
+2730,Wood Snipe,2763
+2731,Wood Stork,4374
+2732,Wood Thrush,5355
+2733,Wood Warbler,1708
+2734,Woodchat Shrike,1231
+2735,Woodland Kingfisher,4063
+2736,Woodlark,10523
+2737,Woodpecker Finch,5257
+2738,Worm-eating Warbler,1226
+2739,Wreathed Hornbill,1252
+2740,Wrentit,3086
+2741,Wrinkled Hornbill,1568
+2742,Wrybill,1438
+2743,Yelkouan Shearwater,1726
+2744,Yellow-bellied Flycatcher,2434
+2745,Yellow-bellied Sapsucker,2204
+2746,Yellow-bibbed Lory,1258
+2747,Yellow-billed Cardinal,613
+2748,Yellow-billed Cuckoo,2545
+2749,Yellow-billed Kite,740
+2750,Yellow-billed Loon,948
+2751,Yellow-billed Magpie,1265
+2752,Yellow-billed Oxpecker,571
+2753,Yellow-billed Stork,1085
+2754,Yellow-breasted Bunting,729
+2755,Yellow-breasted Chat,942
+2756,Yellow-browed Bunting,337
+2757,Yellow-browed Warbler,1095
+2758,Yellow-chevroned Parakeet,525
+2759,Yellow-collared Lovebird,2051
+2760,Yellow-crested Cockatoo,1187
+2761,Yellow-crowned Amazon,868
+2762,Yellow-crowned Bishop,1013
+2763,Yellow-crowned Night-heron,1382
+2764,Yellow-eared Parrot,844
+2765,Yellow-eyed Penguin,1395
+2766,Yellow-faced Grassquit,282
+2767,Yellow-faced Honeyeater,674
+2768,Yellow-green Finch,166
+2769,Yellow-headed Amazon,1401
+2770,Yellow-headed Blackbird,1019
+2771,Yellow-legged Buttonquail,170
+2772,Yellow-legged Gull,2150
+2773,Yellow-naped Amazon,2595
+2774,Yellow-rumped Honeyguide,506
+2775,Yellow-throated Bunting,287
+2776,Yellow-throated Vireo,2128
+2777,Yellow-throated Warbler,1384
+2778,Yellow-vented Bulbul,2070
+2779,Yellow-wattled Lapwing,859
+2780,Yellow-winged Blackbird,428
+2781,Yellow-winged Cacique,706
+2782,Yellow Bishop,5240
+2783,Yellow Bittern,1937
+2784,Yellow Bunting,5719
+2785,Yellow Canary,14202
+2786,Yellow Cardinal,2285
+2787,Yellow Chat,6366
+2788,Yellow Grosbeak,2392
+2789,Yellow Honeyeater,2607
+2790,Yellow Oriole,2428
+2791,Yellow Rail,4761
+2792,Yellow Thornbill,1727
+2793,Yellow Tit,5359
+2794,Yellow Wattlebird,1748
+2795,Yellowhammer,1836
+2796,Yellowhead,10189
+2797,Yucatan Jay,2802
+2798,Yunnan Nuthatch,524
+2799,Zambian Barbet,506
+2800,Zapata Rail,967
+2801,Zebra Dove,7209
+2802,Zenaida Dove,1987
+2803,Zigzag Heron,388
+2804,Zino's Petrel,700
+2805,Zitting Cisticola,2673
+2806,Zone-tailed Hawk,1231
+2807,Eurasian Griffon,1184
+2808,Ruppell's Griffon,491
+2809,White-backed Vulture,1554

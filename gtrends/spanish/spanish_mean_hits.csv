@@ -1,729 +1,741 @@
-"","keyword","count"
-"1","Abanico Gris",12.2477477477477
-"2","Abanico Negro",19.0045045045045
-"3","Abejaruco Europeo",6.69369369369369
-"4","Abejero Europeo",2.37837837837838
-"5","Acentor Alpino",6.96396396396396
-"6","Acentor Comun",10.5495495495495
-"7","Achichilique de Clark",1.36036036036036
-"8","Agachadiza Chica",3.4009009009009
-"9","Agachadiza Comun",4.67117117117117
-"10","Agachadiza del Himalaya",2.33333333333333
-"11","Agachadiza Real",3.55855855855856
-"12","aguila Audaz",5.98198198198198
-"13","aguila Cafre",5.48648648648649
-"14","aguila Calzada",6.92342342342342
-"15","aguila Chica",12.0315315315315
-"16","aguila Coronada",17.2207207207207
-"17","aguila de Filipinas",6.73423423423423
-"18","aguila de Flores",26.3198198198198
-"19","aguila Esteparia",9.96846846846847
-"20","aguila Imperial Iberica",20.0495495495495
-"21","aguila India",15.7792792792793
-"22","aguila Marcial",7.7027027027027
-"23","aguila Monera",10.6936936936937
-"24","aguila Mora",32.4144144144144
-"25","aguila Negra",48.454954954955
-"26","aguila Perdicera",14.8288288288288
-"27","aguila Pescadora",21.1486486486486
-"28","aguila Poma",5.31981981981982
-"29","aguila Pomerana",1.05855855855856
-"30","aguila Rapaz",11.7972972972973
-"31","aguila Real",58.2747747747748
-"32","aguila Solitaria",30.018018018018
-"33","aguila Volatinera",2.06756756756757
-"34","Aguilucho Cenizo",16.7207207207207
-"35","Aguilucho Negro",6.15315315315315
-"36","Aguilucho Palido",6.86936936936937
-"37","Aguilucho Papialbo",3.24324324324324
-"38","Aguja Cafe",6.07657657657658
-"39","Aguja Colinegra",4.15315315315315
-"40","Aguja Colipinta",6.4954954954955
-"41","Agujeta Gris",7.3963963963964
-"42","Akiapolaau",4.31081081081081
-"43","Akohekohe",4.04054054054054
-"44","Albatros de Buller",3.42792792792793
-"45","Albatros de Galapagos",14.2207207207207
-"46","Albatros de Laysan",3.17117117117117
-"47","Albatros Ojeroso",2.78828828828829
-"48","Albatros Real",18.9279279279279
-"49","Albatros Viajero",6.09009009009009
-"50","Alca Comun",7.8018018018018
-"51","Alcaravan Comun",7.12612612612613
-"52","Alcaravan Peruano",2.09009009009009
-"53","Alcatraz Atlantico",3.62612612612613
-"54","Alcaudon Chico",3.93243243243243
-"55","Alcaudon Comun",14.3828828828829
-"56","Alcaudon Dorsirrojo",10.509009009009
-"57","Alcaudon Real",14.6801801801802
-"58","Alcion de Guam",0.918918918918919
-"59","Alimoche Comun",7.02252252252252
-"60","Alimoche Sombrio",3.10810810810811
-"61","Alondra Comun",5.81081081081081
-"62","Alondra Cornuda",7.13513513513514
-"63","Alondra Ibis",4.56306306306306
-"64","Alondra Ricoti",9.28828828828829
-"65","Alzacola Rojizo",3.65765765765766
-"66","Amazilia Tzacatl",8.16666666666667
-"67","Amazona Real",14.1891891891892
-"68","Ampelis Americano",3.64414414414414
-"69","Ampelis Europeo",2.93243243243243
-"70","anade Azulon",6.36036036036036
-"71","anade Friso",6.95045045045045
-"72","anade Malgache",5.67567567567568
-"73","anade Rabudo",3.72072072072072
-"74","Andarrios Chico",6.0045045045045
-"75","Angu",25.0675675675676
-"76","Anianiau",5.27477477477477
-"77","ansar Comun",9.02702702702703
-"78","ansar Indio",14.5675675675676
-"79","Apapane",11.1486486486486
-"80","Arao Comun",5.72072072072072
-"81","Aratinga Jandaya",6.24774774774775
-"82","Aratinga Sol",19.2297297297297
-"83","Archibebe Claro",5.17567567567568
-"84","Argos Real",33.4369369369369
-"85","Arpia Mayor",4.0045045045045
-"86","Arrendajo Siberiano",0.554054054054054
-"87","Arrocero",38.018018018018
-"88","Autillo de Flores",7.51351351351351
-"89","Autillo Europeo",11.7747747747748
-"90","Ave del Paraiso de Alberto",2.84234234234234
-"91","Ave del Paraiso de Pennant",4.37387387387387
-"92","Ave del Paraiso Fastuosa",3.74324324324324
-"93","Ave del Paraiso Filamentosa",1.93243243243243
-"94","Ave del Paraiso Republicana",2.25225225225225
-"95","Ave Lira de Alberto",1.33783783783784
-"96","Ave Lira Soberbia",9.34234234234234
-"97","Avefria Armada",0.941441441441441
-"98","Avestruz Somali",3.27927927927928
-"99","Avetigre Colorada",0.995495495495496
-"100","Avion Asiatico",4.95495495495495
-"101","Avion Comun",12.9504504504505
-"102","Avion Isabel",25.8558558558559
-"103","Avion Oscuro",15.3288288288288
-"104","Avion Roquero",5.88738738738739
-"105","Avion Zapador",4.56306306306306
-"106","Avoceta Americana",2.98648648648649
-"107","Avoceta Andina",1.23423423423423
-"108","Azor Comun",6.44594594594595
-"109","Azulejo Claro",18.8198198198198
-"110","Azulillo indigo",3.86936936936937
-"111","Bandurria Andina",3.27927927927928
-"112","Bandurria Austral",13.518018018018
-"113","Bandurria Mora",5.52702702702703
-"114","Barbudo Grande",26.5135135135135
-"115","Barnacla Cariblanca",5.98198198198198
-"116","Barnacla Carinegra",4.86486486486486
-"117","Bengali Rojo",16.0810810810811
-"118","Bigotudo",12.2252252252252
-"119","Bisbita Alpino",2.3018018018018
-"120","Bisbita Caminero",3.94144144144144
-"121","Bisbita Campestre",5.65765765765766
-"122","Bisbita Pratense",8.66216216216216
-"123","Brubru",13.8828828828829
-"124","Buho Africano",9.46846846846847
-"125","Buho Americano",8.20720720720721
-"126","Buho Campestre",7.52702702702703
-"127","Buho Chico",16.7027027027027
-"128","Buho Griton",2.35135135135135
-"129","Buho Lechoso",4.96396396396396
-"130","Buho Nival",8.4954954954955
-"131","Buho Real",38.2342342342342
-"132","Buitre Cabecirrojo",2.56306306306306
-"133","Buitre del Himalaya",4.90990990990991
-"134","Buitre Leonado",24.7252252252252
-"135","Buitre Moteado",2.27477477477477
-"136","Buitre Negro",22.4144144144144
-"137","Bulbul Naranjero",1.46396396396396
-"138","Bulbul Orfeo",8.16666666666667
-"139","Busardo Chapulinero",1.96846846846847
-"140","Busardo Mixto",3.68918918918919
-"141","Busardo Moro",2.07207207207207
-"142","Busardo Ratonero",19.2072072072072
-"143","Cabezon Negro",6.83783783783784
-"144","Cacatua Blanca",14.0495495495495
-"145","Cacatua Enlutada",8.16666666666667
-"146","Cacatua Galah",17.3108108108108
-"147","Cacatua Galerita",11.8243243243243
-"148","Cacatua Ninfa",31.8468468468468
-"149","Cacatua Sanguinea",5.42342342342342
-"150","Cacatua Sulfurea",1.87837837837838
-"151","Cacique de Para",50.3018018018018
-"152","Cacique Mexicano",8.86486486486486
-"153","Cacique Negro",15.7027027027027
-"154","Cacique Verde",12.8513513513514
-"155","Calamon Comun",4.36036036036036
-"156","Calamon Takahe",4.87387387387387
-"157","Calandria Comun",19.4054054054054
-"158","Calandria Negra",10.3378378378378
-"159","Calao Bicorne",5.57657657657658
-"160","Calao Rinoceronte",2.29279279279279
-"161","Camachuelo Comun",18.4684684684685
-"162","Camachuelo Trompetero",10.4594594594595
-"163","Camea",43.9324324324324
-"164","Campanero Blanco",3.12162162162162
-"165","Canastera Comun",2.97747747747748
-"166","Capuchino Grande",6.44594594594595
-"167","Capuchino Negro",9.6981981981982
-"168","Capuchino Pio",8.1036036036036
-"169","Capuchino Tricolor",5.4954954954955
-"170","Carabo Comun",4.36936936936937
-"171","Carabo Lapon",16.1756756756757
-"172","Carabo Norteamericano",4.12612612612613
-"173","Caracara Andino",3.64414414414414
-"174","Caracara Austral",3.83333333333333
-"175","Carbonero Comun",26.1216216216216
-"176","Carbonero Garrapinos",7.08108108108108
-"177","Carbonero Negro",16.1171171171171
-"178","Carbonero Palustre",9.19369369369369
-"179","Cardenal Pardo",12.3513513513514
-"180","Carpintero Amarillo",20.7387387387387
-"181","Carpintero Bellotero",10.4099099099099
-"182","Carpintero Blanco",22.036036036036
-"183","Carraca Abisinia",3.52252252252252
-"184","Carraca Europea",10.9414414414414
-"185","Carraca Lila",3.66216216216216
-"186","Carrao",50.4144144144144
-"187","Carricerin Cejudo",2.24774774774775
-"188","Carricero Comun",7.80630630630631
-"189","Carricero Tordal",2.46846846846847
-"190","Casuario Comun",3.66666666666667
-"191","Cauquen Colorado",14.2342342342342
-"192","Cauquen Comun",6.09459459459459
-"193","Cerceta Aliazul",2.00900900900901
-"194","Cerceta Carretona",3.93243243243243
-"195","Cerceta Comun",5.18468468468468
-"196","Cerceta Pardilla",7.47297297297297
-"197","Cernicalo Americano",18.3378378378378
-"198","Cernicalo Patirrojo",2.42342342342342
-"199","Cernicalo Primilla",16.2792792792793
-"200","Cernicalo Vulgar",12.3738738738739
-"201","Chara Azul",5.55405405405405
-"202","Chara Enana",8.02252252252252
-"203","Chara Pinta",7.40540540540541
-"204","Chara Verde",15.2747747747748
-"205","Chara Yucateca",6.35585585585586
-"206","Charran artico",6.6036036036036
-"207","Charran Comun",10.9459459459459
-"208","Charran de Forster",1.1036036036036
-"209","Charran Elegante",4.40990990990991
-"210","Charran Inca",4.90540540540541
-"211","Charran Patinegro",2.07657657657658
-"212","Charran Sombrio",3.05855855855856
-"213","Chiricoca",17.8468468468468
-"214","Chocha Perdiz",9.05405405405405
-"215","Chopi",55.5135135135135
-"216","Chorlitejo Chico",3.8018018018018
-"217","Chorlitejo Grande",4.15315315315315
-"218","Chorlitejo Patinegro",3.58108108108108
-"219","Chorlito Gris",3.88288288288288
-"220","Chotacabras Cuellirrojo",5.56306306306306
-"221","Chotacabras Europeo",3.27027027027027
-"222","Chotacabras Orejudo",0.896396396396396
-"223","Chova Piquigualda",5.01801801801802
-"224","Chova Piquirroja",7.96846846846847
-"225","Cisne Cantor",3.09009009009009
-"226","Cisne Coscoroba",8.04054054054054
-"227","Cisne Negro",3.84459459459459
-"228","Cisne Trompetero",4.6036036036036
-"229","Codorniz China",15.6621621621622
-"230","Codorniz Comun",11.509009009009
-"231","Codorniz Japonesa",12.045045045045
-"232","Cogujada Comun",5.75225225225225
-"233","Cogujada Montesina",12.027027027027
-"234","Colibri Abejorro",12.2027027027027
-"235","Colibri Coliblanco",1.31531531531532
-"236","Colibri Cometa",6.9009009009009
-"237","Colibri de Anna",6.25675675675676
-"238","Colibri de Arica",8.92342342342342
-"239","Colibri de Costa",19.1441441441441
-"240","Colibri Gargantilla",0.522522522522523
-"241","Colibri Gigante",13.3783783783784
-"242","Colibri Golondrina",11.6171171171171
-"243","Colibri Morado",13.3018018018018
-"244","Colibri Negro",24.3468468468468
-"245","Colibri Real",27.8873873873874
-"246","Colibri Rufo",0.774774774774775
-"247","Colibri Tijereta",5.92342342342342
-"248","Colibri Topacio",1.5045045045045
-"249","Colibri Violeta",12.3423423423423
-"250","Colibri Zunzuncito",8.74324324324324
-"251","Colimbo del Pacifico",0.635135135135135
-"252","Colimbo Grande",5.34684684684685
-"253","Colin de California",7.91441441441441
-"254","Colin de Gambel",4.43693693693694
-"255","Colirrojo Tizon",14.5405405405405
-"256","Collalba Desertica",3.40990990990991
-"257","Collalba Gris",6.36486486486486
-"258","Collalba Negra",4.33333333333333
-"259","Columbina Picui",6.33783783783784
-"260","Combatiente",14.9279279279279
-"261","Condor Andino",14.3963963963964
-"262","Condor Californiano",15.4324324324324
-"263","Copeton Rufo",4.33783783783784
-"264","Coqueta Adornada",0.824324324324324
-"265","Coqueta de Guerrero",8.77927927927928
-"266","Cormoran Grande",14.0405405405405
-"267","Cormoran Imperial",8.28828828828829
-"268","Cormoran Mancon",2.18468468468468
-"269","Corneja Negra",5.52702702702703
-"270","Correcaminos Grande",8.51801801801802
-"271","Corredor Indio",10.1036036036036
-"272","Corredor Sahariano",3.04054054054054
-"273","Correlimos Canelo",4.28378378378378
-"274","Correlimos Comun",7.87387387387387
-"275","Correlimos Cuchareta",0.905405405405405
-"276","Correlimos Gordo",2.59459459459459
-"277","Correlimos Grande",5.72072072072072
-"278","Correlimos Menudo",7.17567567567568
-"279","Correlimos Oscuro",4.8963963963964
-"280","Correlimos Pectoral",3.70720720720721
-"281","Cortarramas Chileno",2.18468468468468
-"282","Cortarramas Peruano",2.86486486486486
-"283","Cotorra Argentina",29.3648648648649
-"284","Cotorra Serrana Occidental",5.07657657657658
-"285","Cotorra Serrana Oriental",3.66666666666667
-"286","Cotorrita Amazonica",2.27477477477477
-"287","Crialo Europeo",4.60810810810811
-"288","Cua Azul",21.3693693693694
-"289","Cuco Comun",13.1666666666667
-"290","Cuco Grande",11
-"291","Cuco Negro",14.2882882882883
-"292","Cuco Terrestre de Sumatra",0.914414414414414
-"293","Cuervo Americano",13.1396396396396
-"294","Cuervo Cubano",9.9009009009009
-"295","Cuervo de Flores",12.2837837837838
-"296","Cuervo de Torres",13.2432432432432
-"297","Cuervo Grande",20.963963963964
-"298","Cuervo Gris",13.0675675675676
-"299","Cuervo Hawaiano",8.88738738738739
-"300","Cuervo Picogordo",2.12162162162162
-"301","Cuitlacoche Rojizo",2.82882882882883
-"302","Culebrera Europea",7.00900900900901
-"303","Curruca Capirotada",13.1396396396396
-"304","Curruca Mosquitera",4.47297297297297
-"305","Diamante Cebra",4.60810810810811
-"306","Diamante de Gould",41.0855855855856
-"307","Diamante Escarlata",6.30630630630631
-"308","Diamante Moteado",9.97747747747748
-"309","Diamante Tricolor",9.27477477477477
-"310","Dromas",16.3558558558559
-"311","Ducula Bicolor",2.91441441441441
-"312","Egotelo de Nueva Caledonia",4.18468468468468
-"313","eider Real",5.41441441441441
-"314","Elanio Comun",2.84234234234234
-"315","Elanio Tijereta",3.78378378378378
-"316","Eminia",18.2927927927928
-"317","Emu",37.7027027027027
-"318","Escribano Aureolado",1.92792792792793
-"319","Escribano Cerillo",8.4954954954955
-"320","Escribano de Smith",1.11711711711712
-"321","Escribano Hortelano",13.3603603603604
-"322","Escribano Lapon",3.84234234234234
-"323","Escribano Montesino",8.3963963963964
-"324","Escribano Nival",5.08558558558559
-"325","Escribano Palustre",6.16666666666667
-"326","Escribano Sahariano",2.36936936936937
-"327","Escribano Triguero",4.26576576576577
-"328","Esmerejon",15.8918918918919
-"329","Espatula Real",4.12612612612613
-"330","Espatula Rosada",12.6081081081081
-"331","Espinero Chico",1.91441441441441
-"332","Espinero Grande",6.2027027027027
-"333","Espolonero de Borneo",1.82882882882883
-"334","Estornino Amatista",4.09459459459459
-"335","Estornino de Bali",3.12162162162162
-"336","Estornino Negro",12.0765765765766
-"337","Estornino Pinto",13.3738738738739
-"338","Estornino Rosado",4.1036036036036
-"339","Faisan de Lady Amherst",3.84234234234234
-"340","Faisan Dorado",46.463963963964
-"341","Faisan Kalij",3.03603603603604
-"342","Faisan Plateado",10.6396396396396
-"343","Faisan Venerado",5
-"344","Falaropo Picogrueso",2.86936936936937
-"345","Federal",68.0810810810811
-"346","Flamenco Chileno",14.2342342342342
-"347","Flamenco Comun",11.0990990990991
-"348","Flamenco Enano",4.01801801801802
-"349","Flamenco Rojo",21.2972972972973
-"350","Focha Americana",5.30630630630631
-"351","Focha Comun",14.1351351351351
-"352","Focha Cornuda",3.77477477477477
-"353","Focha Moruna",4.18468468468468
-"354","Frailecillo Coletudo",2.19369369369369
-"355","Fumarel Cariblanco",2.48648648648649
-"356","Gallineta Americana",3.62612612612613
-"357","Gallineta Comun",7.68918918918919
-"358","Gallito Arena",8.83783783783784
-"359","Gallito de Las Rocas Guayanes",1.25225225225225
-"360","Gallito de Las Rocas Peruano",9.49099099099099
-"361","Gallo Bankiva",9.53603603603604
-"362","Gallo Gris",14.6981981981982
-"363","Ganga Iberica",4.25675675675676
-"364","Ganga India",40.509009009009
-"365","Ganga Ortega",9.34234234234234
-"366","Ganso del Nilo",12.9954954954955
-"367","Ganso Espolonado",6.2027027027027
-"368","Ganso Urraca",1.75225225225225
-"369","Garceta Azul",6.32432432432432
-"370","Garceta Comun",12.6936936936937
-"371","Garceta Grande",7.88288288288288
-"372","Garcilla Bueyera",11.3063063063063
-"373","Garcilla Cangrejera",3.90540540540541
-"374","Garza Agami",1.20720720720721
-"375","Garza Azulada",2.68018018018018
-"376","Garza Chiflona",8.51801801801802
-"377","Garza Cuca",6.77027027027027
-"378","Garza Goliat",2.95045045045045
-"379","Garza Imperial",8.81981981981982
-"380","Garza Real",42.9324324324324
-"381","Gaucho Chico",21.545045045045
-"382","Gaucho Grande",34.0315315315315
-"383","Gavilan Comun",10.1981981981982
-"384","Gavilan Japones",3.36486486486486
-"385","Gavilan Pio",10.5990990990991
-"386","Gavion Atlantico",6.1981981981982
-"387","Gaviota Argentea",7.54504504504505
-"388","Gaviota Cangrejera",4.8018018018018
-"389","Gaviota Cocinera",8.81081081081081
-"390","Gaviota Mexicana",14.3738738738739
-"391","Gaviota Patiamarilla",12.9009009009009
-"392","Gaviota Sombria",5.40990990990991
-"393","Golondrina Azul",12.7972972972973
-"394","Golondrina Comun",8.12612612612613
-"395","Golondrina Daurica",5.92792792792793
-"396","Golondrina Negra",7.03603603603604
-"397","Gorrion Alpino",4.8963963963964
-"398","Gorrion Chillon",4.87387387387387
-"399","Gorrion Comun",22.0495495495495
-"400","Gorrion Molinero",4.07657657657658
-"401","Gorrion Moruno",4.86036036036036
-"402","Graja",39.045045045045
-"403","Graveteiro",4.31081081081081
-"404","Grevol Engolado",1.4954954954955
-"405","Grulla Comun",8.03603603603604
-"406","Grulla Coronada Cuelligris",2.97297297297297
-"407","Grulla Damisela",4.64414414414414
-"408","Grulla del Paraiso",1.40540540540541
-"409","Grulla Siberiana",3.18918918918919
-"410","Grulla Trompetera",0.914414414414414
-"411","Guacamayo de Lear",5.17117117117117
-"412","Guacamayo de Spix",2.30855855855856
-"413","Guacamayo Glauco",9.70720720720721
-"414","Guacamayo Jacinto",21.6486486486486
-"415","Guacamayo Macao",7.73873873873874
-"416","Guacamayo Militar",7.73423423423423
-"417","Guacharo",16.1351351351351
-"418","Guajolote Ocelado",6.6036036036036
-"419","Guardabosques Griton",1.35585585585586
-"420","Guion de Codornices",3.21621621621622
-"421","Gura Occidental",3.15315315315315
-"422","Halcon Borni",1.68018018018018
-"423","Halcon Gerifalte",7.02702702702703
-"424","Halcon Gris",17.5945945945946
-"425","Halcon Mexicano",9.70720720720721
-"426","Halcon Negro",30.1306306306306
-"427","Halcon Peregrino",38.463963963964
-"428","Halcon Reidor",8.65315315315315
-"429","Halcon Sacre",8.13513513513514
-"430","Halconcito Africano",2.64414414414414
-"431","Herrerillo Canario",11.6666666666667
-"432","Herrerillo Capuchino",6.91441441441441
-"433","Herrerillo Comun",14.0585585585586
-"434","Hihi",20.3018018018018
-"435","Hoazin",17.2837837837838
-"436","Hormiguero Negro",17.1891891891892
-"437","Ibis Blanco",23
-"438","Ibis Calvo",6.59459459459459
-"439","Ibis Eremita",9.66216216216216
-"440","Ibis Escarlata",5.36486486486486
-"441","Ibis Hadada",10.9774774774775
-"442","Ibis Nipon",5.96396396396396
-"443","Ibis Oriental",15.6126126126126
-"444","Ibis Sagrado",10.3018018018018
-"445","Ibis Verde",42.0315315315315
-"446","Ifrita",7.41441441441441
-"447","Iiwi",16.5585585585586
-"448","Inca Arcoiris",6.04054054054054
-"449","Inca Negro",32.2837837837838
-"450","Indicador Grande",15.7117117117117
-"451","Indicador Menor",11.6576576576577
-"452","Inseparable de Fischer",4.82882882882883
-"453","Jabiru Africano",6.73873873873874
-"454","Jacana Africana",3.67117117117117
-"455","Jacana Crestada",1.53603603603604
-"456","Jilguero Europeo",7.37837837837838
-"457","Jilguero Lugano",9.04054054054054
-"458","Jilguero Negro",12.2387387387387
-"459","Jilguero Rojo",10.9774774774775
-"460","Junquero",8.94144144144144
-"461","Kagu",45.7072072072072
-"462","Kaka",22.3873873873874
-"463","Kakapo",22.8873873873874
-"464","Kea",26.6981981981982
-"465","Lagopodo Comun",3.95495495495495
-"466","Lavandera Blanca",20.9594594594595
-"467","Lavandera Boyera",13.3828828828829
-"468","Lechuza Comun",24.1081081081081
-"469","Llanero",8.6981981981982
-"470","Loica Comun",7.49099099099099
-"471","Loica Pampeana",9.96396396396396
-"472","Lori Arcoiris",16.4774774774775
-"473","Lori Rojo",4.02252252252252
-"474","Lorito Senegales",1.7027027027027
-"475","Loro Barranquero",13.6396396396396
-"476","Loro Cacique",7.88288288288288
-"477","Loro Choclero",3.45045045045045
-"478","Loro Morado",11.4279279279279
-"479","Loro Negro",25.4594594594595
-"480","Loro Yaco",27.8828828828829
-"481","Maluro Esplendido",1.60810810810811
-"482","Malvasia Cabeciblanca",8.12162162162162
-"483","Mango Dominicano",16.1441441441441
-"484","Marabu Africano",4.83783783783784
-"485","Marabu Argala",1.85135135135135
-"486","Martin Pescador Enano",2.12612612612613
-"487","Martineta Comun",3.45945945945946
-"488","Martinete Comun",5.43243243243243
-"489","Microloro Pusio",2.37387387387387
-"490","Mielero Regente",0.72972972972973
-"491","Milano Negro",31.6891891891892
-"492","Milano Real",43.6936936936937
-"493","Mina Dorado",13.3738738738739
-"494","Mina Grande",46.990990990991
-"495","Mina Indio",16.1936936936937
-"496","Minero Grande",18.7117117117117
-"497","Minero Peruano",18.6576576576577
-"498","Mirlo Capiblanco",3.84684684684685
-"499","Mirlo Comun",18.990990990991
-"500","Mito Comun",29.6216216216216
-"501","Mochuelo Boreal",3.23423423423423
-"502","Mochuelo Chico",3.66666666666667
-"503","Mochuelo de Madriguera",8.83783783783784
-"504","Mochuelo Europeo",5.82432432432432
-"505","Mochuelo Peludo",1.72072072072072
-"506","Mochuelo Tamaulipeco",2.28378378378378
-"507","Momoto Mexicano",2.50900900900901
-"508","Monal Colirrojo",0.945945945945946
-"509","Monarca de Flores",9.40540540540541
-"510","Monarca Negro",14.9414414414414
-"511","Monarca Nuquinegro",5.12162162162162
-"512","Monja Negra",22.3648648648649
-"513","Monjita Blanca",8.64864864864865
-"514","Monjita Chocolate",4.36486486486486
-"515","Monterita Canela",3.86036036036036
-"516","Morito Comun",7.68018018018018
-"517","Mosquero Cardenal",9.52702702702703
-"518","Mosquero Real",2.74774774774775
-"519","Mosquitero Bilistado",5.65315315315315
-"520","Mosquitero Canario",2.03603603603604
-"521","Mosquitero Comun",17.4954954954955
-"522","Mosquitero Musical",12.5495495495495
-"523","Mosquitero Papialbo",7.44144144144144
-"524","Mosquitero Silbador",4.47747747747748
-"525","Mulato Azul",11.5585585585586
-"526","Nictibio Colilargo",1.73423423423423
-"527","Nictibio Grande",0.972972972972973
-"528","Nictibio Jamaicano",1.27477477477477
-"529","Nictibio Urutau",2.18918918918919
-"530","Obispo Colilargo",2.40540540540541
-"531","Obispo Negro",11.3603603603604
-"532","Obispo Rojo",13.9144144144144
-"533","Ocotero",4.44594594594595
-"534","Oropendola Europea",3.54054054054054
-"535","Ou",57.5585585585586
-"536","Pagaza Piconegra",7.47297297297297
-"537","Pajaro Capuchino",10.2387387387387
-"538","Pajaro Militar",11.7432432432432
-"539","Palmero",22.2972972972973
-"540","Paloma Bravia",15.8963963963964
-"541","Paloma de Nicobar",3.84684684684685
-"542","Paloma Peruana",15.3783783783784
-"543","Paloma Rabiche",8.22972972972973
-"544","Paloma Rosada",9.41441441441441
-"545","Paloma Torcaz",22.3468468468468
-"546","Paloma Torcaza",27.3153153153153
-"547","Paloma Zurita",17.7162162162162
-"548","Papamoscas Cerrojillo",8.36936936936937
-"549","Papamoscas Gris",7.66666666666667
-"550","Pardela Balear",14.6576576576577
-"551","Pardela Cenicienta",9.43243243243243
-"552","Pardela Culinegra",0.720720720720721
-"553","Pardela de Townsend",5.57657657657658
-"554","Pardela Pichoneta",2.82882882882883
-"555","Pardillo Comun",26.5765765765766
-"556","Pato Arlequin",5.60810810810811
-"557","Pato Azul",18.3063063063063
-"558","Pato Colorado",18.9774774774775
-"559","Pato Criollo",23.9009009009009
-"560","Pato Joyuyo",8.35585585585586
-"561","Pato Mandarin",15.8918918918919
-"562","Pato Morado",18.1711711711712
-"563","Pato Picazo",11.6351351351351
-"564","Pava Aliblanca",4.79279279279279
-"565","Pava Andina",10.6216216216216
-"566","Pava Cojolita",3.3018018018018
-"567","Pava Negra",13.1576576576577
-"568","Pavo Real Comun",10.8378378378378
-"569","Pavo Real Cuelliverde",4.36486486486486
-"570","Pavon Cornudo",3.85135135135135
-"571","Pelicano Alcatraz",7.26576576576577
-"572","Pelicano Australiano",1.41891891891892
-"573","Pelicano Pardo",13.018018018018
-"574","Pelicano Rosado",7.43693693693694
-"575","Perdiz Griega",8.07657657657658
-"576","Perdiz Moruna",8.98198198198198
-"577","Perdiz Negra",6.91441441441441
-"578","Perdiz Pardilla",9
-"579","Perdiz Roja",16.0630630630631
-"580","Pergolero Grande",1.36936936936937
-"581","Pergolero Pardo",3.30630630630631
-"582","Perico Multicolor",3.63513513513514
-"583","Perico Nocturno",1.8018018018018
-"584","Petirrojo Europeo",7.13063063063063
-"585","Petrel de Barau",3.20720720720721
-"586","Petrel de Bulwer",2.68468468468468
-"587","Petrel de Galapagos",7.37387387387387
-"588","Petrel Freira",1.06306306306306
-"589","Petrel Niveo",2.00900900900901
-"590","Petroica Carbonera",2.03603603603604
-"591","Petroica Encarnada",2.51351351351351
-"592","Peutren",6.44594594594595
-"593","Picabuey",9.2027027027027
-"594","Picamaderos Negro",9.92342342342342
-"595","Pico del Himalaya",14.2927927927928
-"596","Pico Menor",26.518018018018
-"597","Pico Mexicano",40.990990990991
-"598","Pico Picapinos",10.6216216216216
-"599","Picogordo Comun",3.63513513513514
-"600","Picogrueso Pechirrosado",1.04954954954955
-"601","Picozapato",6.57882882882883
-"602","Pigargo Americano",5.05855855855856
-"603","Pigargo Europeo",4.59459459459459
-"604","Pigargo Gigante",22.7477477477477
-"605","Pigargo Oriental",5.27927927927928
-"606","Pintada Negra",29.2882882882883
-"607","Pintada Vulturina",5.57207207207207
-"608","Pinzon Real",13.1126126126126
-"609","Pinzon Vulgar",10.7702702702703
-"610","Piquero Pardo",5.06306306306306
-"611","Piquero Patirrojo",1.48648648648649
-"612","Piquero Peruano",4.03603603603604
-"613","Pirincho",14.7747747747748
-"614","Pita Azul",15.7477477477477
-"615","Pita India",27.2792792792793
-"616","Pitohui Bicolor",2.85135135135135
-"617","Platanero",35.7972972972973
-"618","Pluvial",62.0900900900901
-"619","Podargo Australiano",2.75675675675676
-"620","Podargo de Ceilan",1.31081081081081
-"621","Podargo Orejudo",1.33333333333333
-"622","Podargo Papu",0.990990990990991
-"623","Polluela Pintoja",5.67567567567568
-"624","Porron Bola",2.45495495495495
-"625","Porron Malgache",1.5045045045045
-"626","Porron Maori",0.815315315315315
-"627","Porron Osculado",1.56306306306306
-"628","Porron Pardo",4.75675675675676
-"629","Potoyunco Peruano",4.67567567567568
-"630","Quebrantahuesos",13.9594594594595
-"631","Quetzal Guatemalteco",16.6756756756757
-"632","Rabijunco Etereo",4.05405405405405
-"633","Rascon de Cuvier",1.41891891891892
-"634","Rascon Weka",0.833333333333333
-"635","Reinita de Kentucky",0.828828828828829
-"636","Reinita Estriada",3.86936936936937
-"637","Reinita Trepadora",3.32432432432432
-"638","Remolinera Ventriblanca",5.32882882882883
-"639","Reyezuelo Listado",6.71621621621622
-"640","Reyezuelo Sencillo",4.03603603603604
-"641","Saltarin Alitorcido",3.77927927927928
-"642","Saltarin Azul",4.38738738738739
-"643","Saltarin Coronidorado",0.45045045045045
-"644","Saltarin Enano",6.18018018018018
-"645","Sapayoa",3.04054054054054
-"646","Sastrecillo Comun",2.7972972972973
-"647","Secretario",37.3603603603604
-"648","Semillero de Barbados",1.17567567567568
-"649","Serin Verdecillo",6.67117117117117
-"650","Serreta Chica",2.36936936936937
-"651","Sietecolores",9.85135135135135
-"652","Sinsonte de Floreana",1.56306306306306
-"653","Sinsonte Tropical",2.65765765765766
-"654","Solitario Negro",25.3918918918919
-"655","Somormujo Cuellirrojo",3.34234234234234
-"656","Somormujo Lavanco",7.80630630630631
-"657","Tangara Multicolor",3.54054054054054
-"658","Tangara Verde",30.6621621621622
-"659","Tantalo Africano",2.06306306306306
-"660","Tarabilla Canaria",3.52252252252252
-"661","Tarro Blanco",27.8783783783784
-"662","Tarro Canelo",4.3963963963964
-"663","Tejedor Baya",4.86936936936937
-"664","Tejedor Dorado Asiatico",1.07207207207207
-"665","Tejedor Republicano",0.804054054054054
-"666","Terrera Comun",4.76576576576577
-"667","Tigana",14.8558558558559
-"668","Tirano Griton",2.2972972972973
-"669","Tirano Oriental",4.9009009009009
-"670","Tordina Cejinegra",0.666666666666667
-"671","Tordo Amarillo",13.4324324324324
-"672","Tordo Musico",7.01801801801802
-"673","Tordo Renegrido",13.7972972972973
-"674","Torillo Andaluz",4.0045045045045
-"675","Torillo Tanki",0.941441441441441
-"676","Tortola Europea",9.92342342342342
-"677","Tortola Oriental",3.04504504504505
-"678","Tortola Rosigris",6.95945945945946
-"679","Tortola Turca",15.4369369369369
-"680","Tortolita Mexicana",10.2702702702703
-"681","Trepador Azul",15.4369369369369
-"682","Treparriscos",18.6216216216216
-"683","Trogon Malabar",15.7252252252252
-"684","Trompetero Aligris",3.08558558558559
-"685","Tucan Pechiblanco",2
-"686","Tucan Toco",15.3198198198198
-"687","Tucanete Culirrojo",1.1981981981982
-"688","Turaco de Guinea",2.75675675675676
-"689","Turaco de Knysna",1.92342342342342
-"690","Turaco de Livingstone",2.00900900900901
-"691","Turaco de Ross",1.97297297297297
-"692","Turpial Amarillo",16.5900900900901
-"693","Turpial Venezolano",7.93243243243243
-"694","Urraca Comun",20.4099099099099
-"695","Urraca de Formosa",5.75675675675676
-"696","Urraca Negra",13.2207207207207
-"697","Urraca Verde",10.4954954954955
-"698","Vencejo Cafre",7.81081081081081
-"699","Vencejo Comun",12.1531531531532
-"700","Vencejo Mongol",9.77477477477477
-"701","Vencejo Moro",2.0990990990991
-"702","Vencejo Palido",1.80630630630631
-"703","Verderon Comun",11.3063063063063
-"704","Verderon Serrano",7.72522522522523
-"705","Verdugo Flautista",2.84684684684685
-"706","Vinago Cuellirrosa",1.2027027027027
-"707","Viuda del Paraiso",7.28828828828829
-"708","Viuda Real",22.6351351351351
-"709","Yacutoro",7.73873873873874
-"710","Zanate Mexicano",16.7252252252252
-"711","Zarapito Boreal",6.36936936936937
-"712","Zarapito Fino",3.06306306306306
-"713","Zarapito Real",7.61711711711712
-"714","Zarapito Trinador",5.12612612612613
-"715","Zenaida Peruana",6.26126126126126
-"716","Zopilote Negro",15.990990990991
-"717","Zopilote Rey",11.1621621621622
-"718","Zorzal Alirrojo",7.9009009009009
-"719","Zorzal Cabecinegro",9.75225225225225
-"720","Zorzal Chalchalero",14.1171171171171
-"721","Zorzal Charlo",8.78378378378378
-"722","Zorzal Colorado",20.3783783783784
-"723","Zorzal Comun",25.4324324324324
-"724","Zorzal Dorado",1.94594594594595
-"725","Zorzal Grandala",2.13513513513514
-"726","Zorzal Pardo",3.92792792792793
-"727","Zorzal Real",11.8288288288288
-"728","Zorzal Rojigris",2.52252252252252
+,keyword,mean
+1,Abanico Gris,12.24774775
+2,Abanico Negro,19.0045045
+3,Abejaruco Europeo,6.693693694
+4,Abejero Europeo,2.378378378
+5,Acentor Alpino,6.963963964
+6,Acentor Comun,10.54954955
+7,Achichilique de Clark,1.36036036
+8,Agachadiza Chica,3.400900901
+9,Agachadiza Comun,4.671171171
+10,Agachadiza del Himalaya,2.333333333
+11,Agachadiza Real,3.558558559
+12,aguila Audaz,5.981981982
+13,aguila Cafre,5.486486486
+14,aguila Calzada,6.923423423
+15,aguila Chica,12.03153153
+16,aguila Coronada,17.22072072
+17,aguila de Filipinas,6.734234234
+18,aguila de Flores,26.31981982
+19,aguila Esteparia,9.968468468
+20,aguila Imperial Iberica,20.04954955
+21,aguila India,15.77927928
+22,aguila Marcial,7.702702703
+23,aguila Monera,10.69369369
+24,aguila Mora,32.41441441
+25,aguila Negra,48.45495495
+26,aguila Perdicera,14.82882883
+27,aguila Pescadora,21.14864865
+28,aguila Poma,5.31981982
+29,aguila Pomerana,1.058558559
+30,aguila Rapaz,11.7972973
+31,aguila Real,58.27477477
+32,aguila Solitaria,30.01801802
+33,aguila Volatinera,2.067567568
+34,Aguilucho Cenizo,16.72072072
+35,Aguilucho Negro,6.153153153
+36,Aguilucho Palido,6.869369369
+37,Aguilucho Papialbo,3.243243243
+38,Aguja Cafe,6.076576577
+39,Aguja Colinegra,4.153153153
+40,Aguja Colipinta,6.495495495
+41,Agujeta Gris,7.396396396
+42,Akiapolaau,4.310810811
+43,Akohekohe,4.040540541
+44,Albatros de Buller,3.427927928
+45,Albatros de Galapagos,14.22072072
+46,Albatros de Laysan,3.171171171
+47,Albatros Ojeroso,2.788288288
+48,Albatros Real,18.92792793
+49,Albatros Viajero,6.09009009
+50,Alca Comun,7.801801802
+51,Alcaravan Comun,7.126126126
+52,Alcaravan Peruano,2.09009009
+53,Alcatraz Atlantico,3.626126126
+54,Alcaudon Chico,3.932432432
+55,Alcaudon Comun,14.38288288
+56,Alcaudon Dorsirrojo,10.50900901
+57,Alcaudon Real,14.68018018
+58,Alcion de Guam,0.918918919
+59,Alimoche Comun,7.022522523
+60,Alimoche Sombrio,3.108108108
+61,Alondra Comun,5.810810811
+62,Alondra Cornuda,7.135135135
+63,Alondra Ibis,4.563063063
+64,Alondra Ricoti,9.288288288
+65,Alzacola Rojizo,3.657657658
+66,Amazilia Tzacatl,8.166666667
+67,Amazona Real,14.18918919
+68,Ampelis Americano,3.644144144
+69,Ampelis Europeo,2.932432432
+70,anade Azulon,6.36036036
+71,anade Friso,6.95045045
+72,anade Malgache,5.675675676
+73,anade Rabudo,3.720720721
+74,Andarrios Chico,6.004504505
+75,Angu,25.06756757
+76,Anianiau,5.274774775
+77,ansar Comun,9.027027027
+78,ansar Indio,14.56756757
+79,Apapane,11.14864865
+80,Arao Comun,5.720720721
+81,Aratinga Jandaya,6.247747748
+82,Aratinga Sol,19.22972973
+83,Archibebe Claro,5.175675676
+84,Argos Real,33.43693694
+85,Arpia Mayor,4.004504505
+86,Arrendajo Siberiano,0.554054054
+87,Arrocero,38.01801802
+88,Autillo de Flores,7.513513514
+89,Autillo Europeo,11.77477477
+90,Ave del Paraiso de Alberto,2.842342342
+91,Ave del Paraiso de Pennant,4.373873874
+92,Ave del Paraiso Fastuosa,3.743243243
+93,Ave del Paraiso Filamentosa,1.932432432
+94,Ave del Paraiso Republicana,2.252252252
+95,Ave Lira de Alberto,1.337837838
+96,Ave Lira Soberbia,9.342342342
+97,Avefria Armada,0.941441441
+98,Avestruz Somali,3.279279279
+99,Avetigre Colorada,0.995495495
+100,Avion Asiatico,4.954954955
+101,Avion Comun,12.95045045
+102,Avion Isabel,25.85585586
+103,Avion Oscuro,15.32882883
+104,Avion Roquero,5.887387387
+105,Avion Zapador,4.563063063
+106,Avoceta Americana,2.986486486
+107,Avoceta Andina,1.234234234
+108,Azor Comun,6.445945946
+109,Azulejo Claro,18.81981982
+110,Azulillo indigo,3.869369369
+111,Bandurria Andina,3.279279279
+112,Bandurria Austral,13.51801802
+113,Bandurria Mora,5.527027027
+114,Barbudo Grande,26.51351351
+115,Barnacla Cariblanca,5.981981982
+116,Barnacla Carinegra,4.864864865
+117,Bengali Rojo,16.08108108
+118,Bigotudo,12.22522523
+119,Bisbita Alpino,2.301801802
+120,Bisbita Caminero,3.941441441
+121,Bisbita Campestre,5.657657658
+122,Bisbita Pratense,8.662162162
+123,Brubru,13.88288288
+124,Buho Africano,9.468468468
+125,Buho Americano,8.207207207
+126,Buho Campestre,7.527027027
+127,Buho Chico,16.7027027
+128,Buho Griton,2.351351351
+129,Buho Lechoso,4.963963964
+130,Buho Nival,8.495495495
+131,Buho Real,38.23423423
+132,Buitre Cabecirrojo,2.563063063
+133,Buitre del Himalaya,4.90990991
+134,Buitre Leonado,24.72522523
+135,Buitre Moteado,2.274774775
+136,Buitre Negro,22.41441441
+137,Bulbul Naranjero,1.463963964
+138,Bulbul Orfeo,8.166666667
+139,Busardo Chapulinero,1.968468468
+140,Busardo Mixto,3.689189189
+141,Busardo Moro,2.072072072
+142,Busardo Ratonero,19.20720721
+143,Cabezon Negro,6.837837838
+144,Cacatua Blanca,14.04954955
+145,Cacatua Enlutada,8.166666667
+146,Cacatua Galah,17.31081081
+147,Cacatua Galerita,11.82432432
+148,Cacatua Ninfa,31.84684685
+149,Cacatua Sanguinea,5.423423423
+150,Cacatua Sulfurea,1.878378378
+151,Cacique de Para,50.3018018
+152,Cacique Mexicano,8.864864865
+153,Cacique Negro,15.7027027
+154,Cacique Verde,12.85135135
+155,Calamon Comun,4.36036036
+156,Calamon Takahe,4.873873874
+157,Calandria Comun,19.40540541
+158,Calandria Negra,10.33783784
+159,Calao Bicorne,5.576576577
+160,Calao Rinoceronte,2.292792793
+161,Camachuelo Comun,18.46846847
+162,Camachuelo Trompetero,10.45945946
+163,Camea,43.93243243
+164,Campanero Blanco,3.121621622
+165,Canastera Comun,2.977477477
+166,Capuchino Grande,6.445945946
+167,Capuchino Negro,9.698198198
+168,Capuchino Pio,8.103603604
+169,Capuchino Tricolor,5.495495495
+170,Carabo Comun,4.369369369
+171,Carabo Lapon,16.17567568
+172,Carabo Norteamericano,4.126126126
+173,Caracara Andino,3.644144144
+174,Caracara Austral,3.833333333
+175,Carbonero Comun,26.12162162
+176,Carbonero Garrapinos,7.081081081
+177,Carbonero Negro,16.11711712
+178,Carbonero Palustre,9.193693694
+179,Cardenal Pardo,12.35135135
+180,Carpintero Amarillo,20.73873874
+181,Carpintero Bellotero,10.40990991
+182,Carpintero Blanco,22.03603604
+183,Carraca Abisinia,3.522522523
+184,Carraca Europea,10.94144144
+185,Carraca Lila,3.662162162
+186,Carrao,50.41441441
+187,Carricerin Cejudo,2.247747748
+188,Carricero Comun,7.806306306
+189,Carricero Tordal,2.468468468
+190,Casuario Comun,3.666666667
+191,Cauquen Colorado,14.23423423
+192,Cauquen Comun,6.094594595
+193,Cerceta Aliazul,2.009009009
+194,Cerceta Carretona,3.932432432
+195,Cerceta Comun,5.184684685
+196,Cerceta Pardilla,7.472972973
+197,Cernicalo Americano,18.33783784
+198,Cernicalo Patirrojo,2.423423423
+199,Cernicalo Primilla,16.27927928
+200,Cernicalo Vulgar,12.37387387
+201,Chara Azul,5.554054054
+202,Chara Enana,8.022522523
+203,Chara Pinta,7.405405405
+204,Chara Verde,15.27477477
+205,Chara Yucateca,6.355855856
+206,Charran artico,6.603603604
+207,Charran Comun,10.94594595
+208,Charran de Forster,1.103603604
+209,Charran Elegante,4.40990991
+210,Charran Inca,4.905405405
+211,Charran Patinegro,2.076576577
+212,Charran Sombrio,3.058558559
+213,Chiricoca,17.84684685
+214,Chocha Perdiz,9.054054054
+215,Chopi,55.51351351
+216,Chorlitejo Chico,3.801801802
+217,Chorlitejo Grande,4.153153153
+218,Chorlitejo Patinegro,3.581081081
+219,Chorlito Gris,3.882882883
+220,Chotacabras Cuellirrojo,5.563063063
+221,Chotacabras Europeo,3.27027027
+222,Chotacabras Orejudo,0.896396396
+223,Chova Piquigualda,5.018018018
+224,Chova Piquirroja,7.968468468
+225,Cisne Cantor,3.09009009
+226,Cisne Coscoroba,8.040540541
+227,Cisne Negro,3.844594595
+228,Cisne Trompetero,4.603603604
+229,Codorniz China,15.66216216
+230,Codorniz Comun,11.50900901
+231,Codorniz Japonesa,12.04504505
+232,Cogujada Comun,5.752252252
+233,Cogujada Montesina,12.02702703
+234,Colibri Abejorro,12.2027027
+235,Colibri Coliblanco,1.315315315
+236,Colibri Cometa,6.900900901
+237,Colibri de Anna,6.256756757
+238,Colibri de Arica,8.923423423
+239,Colibri de Costa,19.14414414
+240,Colibri Gargantilla,0.522522523
+241,Colibri Gigante,13.37837838
+242,Colibri Golondrina,11.61711712
+243,Colibri Morado,13.3018018
+244,Colibri Negro,24.34684685
+245,Colibri Real,27.88738739
+246,Colibri Rufo,0.774774775
+247,Colibri Tijereta,5.923423423
+248,Colibri Topacio,1.504504505
+249,Colibri Violeta,12.34234234
+250,Colibri Zunzuncito,8.743243243
+251,Colimbo del Pacifico,0.635135135
+252,Colimbo Grande,5.346846847
+253,Colin de California,7.914414414
+254,Colin de Gambel,4.436936937
+255,Colirrojo Tizon,14.54054054
+256,Collalba Desertica,3.40990991
+257,Collalba Gris,6.364864865
+258,Collalba Negra,4.333333333
+259,Columbina Picui,6.337837838
+260,Combatiente,14.92792793
+261,Condor Andino,14.3963964
+262,Condor Californiano,15.43243243
+263,Copeton Rufo,4.337837838
+264,Coqueta Adornada,0.824324324
+265,Coqueta de Guerrero,8.779279279
+266,Cormoran Grande,14.04054054
+267,Cormoran Imperial,8.288288288
+268,Cormoran Mancon,2.184684685
+269,Corneja Negra,5.527027027
+270,Correcaminos Grande,8.518018018
+271,Corredor Indio,10.1036036
+272,Corredor Sahariano,3.040540541
+273,Correlimos Canelo,4.283783784
+274,Correlimos Comun,7.873873874
+275,Correlimos Cuchareta,0.905405405
+276,Correlimos Gordo,2.594594595
+277,Correlimos Grande,5.720720721
+278,Correlimos Menudo,7.175675676
+279,Correlimos Oscuro,4.896396396
+280,Correlimos Pectoral,3.707207207
+281,Cortarramas Chileno,2.184684685
+282,Cortarramas Peruano,2.864864865
+283,Cotorra Argentina,29.36486486
+284,Cotorra Serrana Occidental,5.076576577
+285,Cotorra Serrana Oriental,3.666666667
+286,Cotorrita Amazonica,2.274774775
+287,Crialo Europeo,4.608108108
+288,Cua Azul,21.36936937
+289,Cuco Comun,13.16666667
+290,Cuco Grande,11
+291,Cuco Negro,14.28828829
+292,Cuco Terrestre de Sumatra,0.914414414
+293,Cuervo Americano,13.13963964
+294,Cuervo Cubano,9.900900901
+295,Cuervo de Flores,12.28378378
+296,Cuervo de Torres,13.24324324
+297,Cuervo Grande,20.96396396
+298,Cuervo Gris,13.06756757
+299,Cuervo Hawaiano,8.887387387
+300,Cuervo Picogordo,2.121621622
+301,Cuitlacoche Rojizo,2.828828829
+302,Culebrera Europea,7.009009009
+303,Curruca Capirotada,13.13963964
+304,Curruca Mosquitera,4.472972973
+305,Diamante Cebra,4.608108108
+306,Diamante de Gould,41.08558559
+307,Diamante Escarlata,6.306306306
+308,Diamante Moteado,9.977477477
+309,Diamante Tricolor,9.274774775
+310,Dromas,16.35585586
+311,Ducula Bicolor,2.914414414
+312,Egotelo de Nueva Caledonia,4.184684685
+313,eider Real,5.414414414
+314,Elanio Comun,2.842342342
+315,Elanio Tijereta,3.783783784
+316,Eminia,18.29279279
+317,Emu,37.7027027
+318,Escribano Aureolado,1.927927928
+319,Escribano Cerillo,8.495495495
+320,Escribano de Smith,1.117117117
+321,Escribano Hortelano,13.36036036
+322,Escribano Lapon,3.842342342
+323,Escribano Montesino,8.396396396
+324,Escribano Nival,5.085585586
+325,Escribano Palustre,6.166666667
+326,Escribano Sahariano,2.369369369
+327,Escribano Triguero,4.265765766
+328,Esmerejon,15.89189189
+329,Espatula Real,4.126126126
+330,Espatula Rosada,12.60810811
+331,Espinero Chico,1.914414414
+332,Espinero Grande,6.202702703
+333,Espolonero de Borneo,1.828828829
+334,Estornino Amatista,4.094594595
+335,Estornino de Bali,3.121621622
+336,Estornino Negro,12.07657658
+337,Estornino Pinto,13.37387387
+338,Estornino Rosado,4.103603604
+339,Faisan de Lady Amherst,3.842342342
+340,Faisan Dorado,46.46396396
+341,Faisan Kalij,3.036036036
+342,Faisan Plateado,10.63963964
+343,Faisan Venerado,5
+344,Falaropo Picogrueso,2.869369369
+345,Federal,68.08108108
+346,Flamenco Chileno,14.23423423
+347,Flamenco Comun,11.0990991
+348,Flamenco Enano,4.018018018
+349,Flamenco Rojo,21.2972973
+350,Focha Americana,5.306306306
+351,Focha Comun,14.13513514
+352,Focha Cornuda,3.774774775
+353,Focha Moruna,4.184684685
+354,Frailecillo Coletudo,2.193693694
+355,Fumarel Cariblanco,2.486486486
+356,Gallineta Americana,3.626126126
+357,Gallineta Comun,7.689189189
+358,Gallito Arena,8.837837838
+359,Gallito de Las Rocas Guayanes,1.252252252
+360,Gallito de Las Rocas Peruano,9.490990991
+361,Gallo Bankiva,9.536036036
+362,Gallo Gris,14.6981982
+363,Ganga Iberica,4.256756757
+364,Ganga India,40.50900901
+365,Ganga Ortega,9.342342342
+366,Ganso del Nilo,12.9954955
+367,Ganso Espolonado,6.202702703
+368,Ganso Urraca,1.752252252
+369,Garceta Azul,6.324324324
+370,Garceta Comun,12.69369369
+371,Garceta Grande,7.882882883
+372,Garcilla Bueyera,11.30630631
+373,Garcilla Cangrejera,3.905405405
+374,Garza Agami,1.207207207
+375,Garza Azulada,2.68018018
+376,Garza Chiflona,8.518018018
+377,Garza Cuca,6.77027027
+378,Garza Goliat,2.95045045
+379,Garza Imperial,8.81981982
+380,Garza Real,42.93243243
+381,Gaucho Chico,21.54504505
+382,Gaucho Grande,34.03153153
+383,Gavilan Comun,10.1981982
+384,Gavilan Japones,3.364864865
+385,Gavilan Pio,10.5990991
+386,Gavion Atlantico,6.198198198
+387,Gaviota Argentea,7.545045045
+388,Gaviota Cangrejera,4.801801802
+389,Gaviota Cocinera,8.810810811
+390,Gaviota Mexicana,14.37387387
+391,Gaviota Patiamarilla,12.9009009
+392,Gaviota Sombria,5.40990991
+393,Golondrina Azul,12.7972973
+394,Golondrina Comun,8.126126126
+395,Golondrina Daurica,5.927927928
+396,Golondrina Negra,7.036036036
+397,Gorrion Alpino,4.896396396
+398,Gorrion Chillon,4.873873874
+399,Gorrion Comun,22.04954955
+400,Gorrion Molinero,4.076576577
+401,Gorrion Moruno,4.86036036
+402,Graja,39.04504505
+403,Graveteiro,4.310810811
+404,Grevol Engolado,1.495495495
+405,Grulla Comun,8.036036036
+406,Grulla Coronada Cuelligris,2.972972973
+407,Grulla Damisela,4.644144144
+408,Grulla del Paraiso,1.405405405
+409,Grulla Siberiana,3.189189189
+410,Grulla Trompetera,0.914414414
+411,Guacamayo de Lear,5.171171171
+412,Guacamayo de Spix,2.308558559
+413,Guacamayo Glauco,9.707207207
+414,Guacamayo Jacinto,21.64864865
+415,Guacamayo Macao,7.738738739
+416,Guacamayo Militar,7.734234234
+417,Guacharo,16.13513514
+418,Guajolote Ocelado,6.603603604
+419,Guardabosques Griton,1.355855856
+420,Guion de Codornices,3.216216216
+421,Gura Occidental,3.153153153
+422,Halcon Borni,1.68018018
+423,Halcon Gerifalte,7.027027027
+424,Halcon Gris,17.59459459
+425,Halcon Mexicano,9.707207207
+426,Halcon Negro,30.13063063
+427,Halcon Peregrino,38.46396396
+428,Halcon Reidor,8.653153153
+429,Halcon Sacre,8.135135135
+430,Halconcito Africano,2.644144144
+431,Herrerillo Canario,11.66666667
+432,Herrerillo Capuchino,6.914414414
+433,Herrerillo Comun,14.05855856
+434,Hihi,20.3018018
+435,Hoazin,17.28378378
+436,Hormiguero Negro,17.18918919
+437,Ibis Blanco,23
+438,Ibis Calvo,6.594594595
+439,Ibis Eremita,9.662162162
+440,Ibis Escarlata,5.364864865
+441,Ibis Hadada,10.97747748
+442,Ibis Nipon,5.963963964
+443,Ibis Oriental,15.61261261
+444,Ibis Sagrado,10.3018018
+445,Ibis Verde,42.03153153
+446,Ifrita,7.414414414
+447,Iiwi,16.55855856
+448,Inca Arcoiris,6.040540541
+449,Inca Negro,32.28378378
+450,Indicador Grande,15.71171171
+451,Indicador Menor,11.65765766
+452,Inseparable de Fischer,4.828828829
+453,Jabiru Africano,6.738738739
+454,Jacana Africana,3.671171171
+455,Jacana Crestada,1.536036036
+456,Jilguero Europeo,7.378378378
+457,Jilguero Lugano,9.040540541
+458,Jilguero Negro,12.23873874
+459,Jilguero Rojo,10.97747748
+460,Junquero,8.941441441
+461,Kagu,45.70720721
+462,Kaka,22.38738739
+463,Kakapo,22.88738739
+464,Kea,26.6981982
+465,Lagopodo Comun,3.954954955
+466,Lavandera Blanca,20.95945946
+467,Lavandera Boyera,13.38288288
+468,Lechuza Comun,24.10810811
+469,Llanero,8.698198198
+470,Loica Comun,7.490990991
+471,Loica Pampeana,9.963963964
+472,Lori Arcoiris,16.47747748
+473,Lori Rojo,4.022522523
+474,Lorito Senegales,1.702702703
+475,Loro Barranquero,13.63963964
+476,Loro Cacique,7.882882883
+477,Loro Choclero,3.45045045
+478,Loro Morado,11.42792793
+479,Loro Negro,25.45945946
+480,Loro Yaco,27.88288288
+481,Maluro Esplendido,1.608108108
+482,Malvasia Cabeciblanca,8.121621622
+483,Mango Dominicano,16.14414414
+484,Marabu Africano,4.837837838
+485,Marabu Argala,1.851351351
+486,Martin Pescador Enano,2.126126126
+487,Martineta Comun,3.459459459
+488,Martinete Comun,5.432432432
+489,Microloro Pusio,2.373873874
+490,Mielero Regente,0.72972973
+491,Milano Negro,31.68918919
+492,Milano Real,43.69369369
+493,Mina Dorado,13.37387387
+494,Mina Grande,46.99099099
+495,Mina Indio,16.19369369
+496,Minero Grande,18.71171171
+497,Minero Peruano,18.65765766
+498,Mirlo Capiblanco,3.846846847
+499,Mirlo Comun,18.99099099
+500,Mito Comun,29.62162162
+501,Mochuelo Boreal,3.234234234
+502,Mochuelo Chico,3.666666667
+503,Mochuelo de Madriguera,8.837837838
+504,Mochuelo Europeo,5.824324324
+505,Mochuelo Peludo,1.720720721
+506,Mochuelo Tamaulipeco,2.283783784
+507,Momoto Mexicano,2.509009009
+508,Monal Colirrojo,0.945945946
+509,Monarca de Flores,9.405405405
+510,Monarca Negro,14.94144144
+511,Monarca Nuquinegro,5.121621622
+512,Monja Negra,22.36486486
+513,Monjita Blanca,8.648648649
+514,Monjita Chocolate,4.364864865
+515,Monterita Canela,3.86036036
+516,Morito Comun,7.68018018
+517,Mosquero Cardenal,9.527027027
+518,Mosquero Real,2.747747748
+519,Mosquitero Bilistado,5.653153153
+520,Mosquitero Canario,2.036036036
+521,Mosquitero Comun,17.4954955
+522,Mosquitero Musical,12.54954955
+523,Mosquitero Papialbo,7.441441441
+524,Mosquitero Silbador,4.477477477
+525,Mulato Azul,11.55855856
+526,Nictibio Colilargo,1.734234234
+527,Nictibio Grande,0.972972973
+528,Nictibio Jamaicano,1.274774775
+529,Nictibio Urutau,2.189189189
+530,Obispo Colilargo,2.405405405
+531,Obispo Negro,11.36036036
+532,Obispo Rojo,13.91441441
+533,Ocotero,4.445945946
+534,Oropendola Europea,3.540540541
+535,Ou,57.55855856
+536,Pagaza Piconegra,7.472972973
+537,Pajaro Capuchino,10.23873874
+538,Pajaro Militar,11.74324324
+539,Palmero,22.2972973
+540,Paloma Bravia,15.8963964
+541,Paloma de Nicobar,3.846846847
+542,Paloma Peruana,15.37837838
+543,Paloma Rabiche,8.22972973
+544,Paloma Rosada,9.414414414
+545,Paloma Torcaz,22.34684685
+546,Paloma Torcaza,27.31531532
+547,Paloma Zurita,17.71621622
+548,Papamoscas Cerrojillo,8.369369369
+549,Papamoscas Gris,7.666666667
+550,Pardela Balear,14.65765766
+551,Pardela Cenicienta,9.432432432
+552,Pardela Culinegra,0.720720721
+553,Pardela de Townsend,5.576576577
+554,Pardela Pichoneta,2.828828829
+555,Pardillo Comun,26.57657658
+556,Pato Arlequin,5.608108108
+557,Pato Azul,18.30630631
+558,Pato Colorado,18.97747748
+559,Pato Criollo,23.9009009
+560,Pato Joyuyo,8.355855856
+561,Pato Mandarin,15.89189189
+562,Pato Morado,18.17117117
+563,Pato Picazo,11.63513514
+564,Pava Aliblanca,4.792792793
+565,Pava Andina,10.62162162
+566,Pava Cojolita,3.301801802
+567,Pava Negra,13.15765766
+568,Pavo Real Comun,10.83783784
+569,Pavo Real Cuelliverde,4.364864865
+570,Pavon Cornudo,3.851351351
+571,Pelicano Alcatraz,7.265765766
+572,Pelicano Australiano,1.418918919
+573,Pelicano Pardo,13.01801802
+574,Pelicano Rosado,7.436936937
+575,Perdiz Griega,8.076576577
+576,Perdiz Moruna,8.981981982
+577,Perdiz Negra,6.914414414
+578,Perdiz Pardilla,9
+579,Perdiz Roja,16.06306306
+580,Pergolero Grande,1.369369369
+581,Pergolero Pardo,3.306306306
+582,Perico Multicolor,3.635135135
+583,Perico Nocturno,1.801801802
+584,Petirrojo Europeo,7.130630631
+585,Petrel de Barau,3.207207207
+586,Petrel de Bulwer,2.684684685
+587,Petrel de Galapagos,7.373873874
+588,Petrel Freira,1.063063063
+589,Petrel Niveo,2.009009009
+590,Petroica Carbonera,2.036036036
+591,Petroica Encarnada,2.513513514
+592,Peutren,6.445945946
+593,Picabuey,9.202702703
+594,Picamaderos Negro,9.923423423
+595,Pico del Himalaya,14.29279279
+596,Pico Menor,26.51801802
+597,Pico Mexicano,40.99099099
+598,Pico Picapinos,10.62162162
+599,Picogordo Comun,3.635135135
+600,Picogrueso Pechirrosado,1.04954955
+601,Picozapato,6.578828829
+602,Pigargo Americano,5.058558559
+603,Pigargo Europeo,4.594594595
+604,Pigargo Gigante,22.74774775
+605,Pigargo Oriental,5.279279279
+606,Pintada Negra,29.28828829
+607,Pintada Vulturina,5.572072072
+608,Pinzon Real,13.11261261
+609,Pinzon Vulgar,10.77027027
+610,Piquero Pardo,5.063063063
+611,Piquero Patirrojo,1.486486486
+612,Piquero Peruano,4.036036036
+613,Pirincho,14.77477477
+614,Pita Azul,15.74774775
+615,Pita India,27.27927928
+616,Pitohui Bicolor,2.851351351
+617,Platanero,35.7972973
+618,Pluvial,62.09009009
+619,Podargo Australiano,2.756756757
+620,Podargo de Ceilan,1.310810811
+621,Podargo Orejudo,1.333333333
+622,Podargo Papu,0.990990991
+623,Polluela Pintoja,5.675675676
+624,Porron Bola,2.454954955
+625,Porron Malgache,1.504504505
+626,Porron Maori,0.815315315
+627,Porron Osculado,1.563063063
+628,Porron Pardo,4.756756757
+629,Potoyunco Peruano,4.675675676
+630,Quebrantahuesos,13.95945946
+631,Quetzal Guatemalteco,16.67567568
+632,Rabijunco Etereo,4.054054054
+633,Rascon de Cuvier,1.418918919
+634,Rascon Weka,0.833333333
+635,Reinita de Kentucky,0.828828829
+636,Reinita Estriada,3.869369369
+637,Reinita Trepadora,3.324324324
+638,Remolinera Ventriblanca,5.328828829
+639,Reyezuelo Listado,6.716216216
+640,Reyezuelo Sencillo,4.036036036
+641,Saltarin Alitorcido,3.779279279
+642,Saltarin Azul,4.387387387
+643,Saltarin Coronidorado,0.45045045
+644,Saltarin Enano,6.18018018
+645,Sapayoa,3.040540541
+646,Sastrecillo Comun,2.797297297
+647,Secretario,37.36036036
+648,Semillero de Barbados,1.175675676
+649,Serin Verdecillo,6.671171171
+650,Serreta Chica,2.369369369
+651,Sietecolores,9.851351351
+652,Sinsonte de Floreana,1.563063063
+653,Sinsonte Tropical,2.657657658
+654,Solitario Negro,25.39189189
+655,Somormujo Cuellirrojo,3.342342342
+656,Somormujo Lavanco,7.806306306
+657,Tangara Multicolor,3.540540541
+658,Tangara Verde,30.66216216
+659,Tantalo Africano,2.063063063
+660,Tarabilla Canaria,3.522522523
+661,Tarro Blanco,27.87837838
+662,Tarro Canelo,4.396396396
+663,Tejedor Baya,4.869369369
+664,Tejedor Dorado Asiatico,1.072072072
+665,Tejedor Republicano,0.804054054
+666,Terrera Comun,4.765765766
+667,Tigana,14.85585586
+668,Tirano Griton,2.297297297
+669,Tirano Oriental,4.900900901
+670,Tordina Cejinegra,0.666666667
+671,Tordo Amarillo,13.43243243
+672,Tordo Musico,7.018018018
+673,Tordo Renegrido,13.7972973
+674,Torillo Andaluz,4.004504505
+675,Torillo Tanki,0.941441441
+676,Tortola Europea,9.923423423
+677,Tortola Oriental,3.045045045
+678,Tortola Rosigris,6.959459459
+679,Tortola Turca,15.43693694
+680,Tortolita Mexicana,10.27027027
+681,Trepador Azul,15.43693694
+682,Treparriscos,18.62162162
+683,Trogon Malabar,15.72522523
+684,Trompetero Aligris,3.085585586
+685,Tucan Pechiblanco,2
+686,Tucan Toco,15.31981982
+687,Tucanete Culirrojo,1.198198198
+688,Turaco de Guinea,2.756756757
+689,Turaco de Knysna,1.923423423
+690,Turaco de Livingstone,2.009009009
+691,Turaco de Ross,1.972972973
+692,Turpial Amarillo,16.59009009
+693,Turpial Venezolano,7.932432432
+694,Urraca Comun,20.40990991
+695,Urraca de Formosa,5.756756757
+696,Urraca Negra,13.22072072
+697,Urraca Verde,10.4954955
+698,Vencejo Cafre,7.810810811
+699,Vencejo Comun,12.15315315
+700,Vencejo Mongol,9.774774775
+701,Vencejo Moro,2.099099099
+702,Vencejo Palido,1.806306306
+703,Verderon Comun,11.30630631
+704,Verderon Serrano,7.725225225
+705,Verdugo Flautista,2.846846847
+706,Vinago Cuellirrosa,1.202702703
+707,Viuda del Paraiso,7.288288288
+708,Viuda Real,22.63513514
+709,Yacutoro,7.738738739
+710,Zanate Mexicano,16.72522523
+711,Zarapito Boreal,6.369369369
+712,Zarapito Fino,3.063063063
+713,Zarapito Real,7.617117117
+714,Zarapito Trinador,5.126126126
+715,Zenaida Peruana,6.261261261
+716,Zopilote Negro,15.99099099
+717,Zopilote Rey,11.16216216
+718,Zorzal Alirrojo,7.900900901
+719,Zorzal Cabecinegro,9.752252252
+720,Zorzal Chalchalero,14.11711712
+721,Zorzal Charlo,8.783783784
+722,Zorzal Colorado,20.37837838
+723,Zorzal Comun,25.43243243
+724,Zorzal Dorado,1.945945946
+725,Zorzal Grandala,2.135135135
+726,Zorzal Pardo,3.927927928
+727,Zorzal Real,11.82882883
+728,Zorzal Rojigris,2.522522523
+729,Paraguero Corbatudo,2.609865471
+730,Paraguero Ornado,1.278026906
+731,Pinguino Barbijo,6.331838565
+732,Pinguino de Adelia,7.596412556
+733,Pinguino de Galapagos,17.15246637
+734,Pinguino de Humboldt,21.79372197
+735,Pinguino Emperador,13.93721973
+736,Pinguino Enano,4.251121076
+737,Pinguino Juanito,8.143497758
+738,Pinguino Macaroni,8.565022422
+739,Pinguino Magallanico,13.58295964
+740,Pinguino Rey,23.96860987

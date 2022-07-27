@@ -1,731 +1,734 @@
-"","keyword","count"
-"1","Acanthize mignon",116
-"2","Accenteur alpin",2451
-"3","Accenteur montanelle",367
-"4","Accenteur mouchet",4788
-"5","Ada noir",3844
-"6","Agami trompette",1557
-"7","Agrobate roux",800
-"8","Aigle botte",6355
-"9","Aigle couronne",2898
-"10","Aigle criard",991
-"11","Aigle de Bonelli",3738
-"12","Aigle de Java",1275
-"13","Aigle de Verreaux",817
-"14","Aigle des Philippines",1339
-"15","Aigle imperial",2802
-"16","Aigle martial",1701
-"17","Aigle noir",5070
-"18","Aigle noir et blanc",2386
-"19","Aigle orne",3395
-"20","Aigle pomarin",2070
-"21","Aigle ravisseur",1500
-"22","Aigle royal",9083
-"23","Aigrette bleue",997
-"24","Aigrette garzette",5759
-"25","Aigrette neigeuse",1393
-"26","Aigrette tricolore",373
-"27","Albatros brun",612
-"28","Albatros de Buller",761
-"29","Albatros de Laysan",710
-"30","Albatros des Galapagos",1067
-"31","Albatros fuligineux",783
-"32","Albatros hurleur",2673
-"33","Albatros royal",6771
-"34","Alouette a long bec",262
-"35","Alouette calandre",1256
-"36","Alouette calandrelle",870
-"37","Alouette des champs",4485
-"38","Alouette lulu",3762
-"39","Alouette pispolette",418
-"40","Amazone a front blanc",774
-"41","Amazone a front bleu",3069
-"42","Amazone a front jaune",2013
-"43","Amazone verte",4389
-"44","Ara bleu",4262
-"45","Ara chloroptere",1661
-"46","Ara de Buffon",1124
-"47","Ara de Lafresnaye",471
-"48","Ara de Lear",635
-"49","Ara de Spix",925
-"50","Ara hyacinthe",3828
-"51","Ara militaire",2023
-"52","Ara noble",2465
-"53","Ara rouge",5182
-"54","Ara vert",3339
-"55","Araponga blanc",349
-"56","Argus geant",1268
-"57","Arlequin plongeur",956
-"58","Autour blanc",10456
-"59","Autour chanteur",2407
-"60","Autour des palombes",6500
-"61","Autour noir",11031
-"62","Autour rouge",9664
-"63","Balbuzard pecheur",1739
-"64","Barge a queue noire",1442
-"65","Barge rousse",3277
-"66","Bateleur des savanes",1119
-"67","Bec-en-sabot du Nil",905
-"68","Becasse des bois",2929
-"69","Becasseau violet",245
-"70","Bengali rouge",2954
-"71","Bergeronnette citrine",2803
-"72","Bergeronnette des ruisseaux",4597
-"73","Bergeronnette grise",6040
-"74","Bergeronnette printaniere",779
-"75","Bernache cravant",4807
-"76","Bernache du Canada",4953
-"77","Bernache nonnette",2627
-"78","Bihoreau gris",4019
-"79","Blongios nain",2276
-"80","Bondree apivore",861
-"81","Bouscarle de Cetti",1380
-"82","Bouvreuil brun",1530
-"83","Bouvreuil pivoine",6250
-"84","Breve azurine",2578
-"85","Bruant a couronne blanche",426
-"86","Bruant a gorge blanche",987
-"87","Bruant aureole",228
-"88","Bruant chanteur",3834
-"89","Bruant des marais",1259
-"90","Bruant des roseaux",2011
-"91","Bruant familier",1969
-"92","Bruant fauve",713
-"93","Bruant fou",1278
-"94","Bruant jaune",5840
-"95","Bruant noir et blanc",925
-"96","Bruant ortolan",2534
-"97","Bruant proyer",3719
-"98","Bruant roux",675
-"99","Bruant rustique",556
-"100","Bruant sauterelle",320
-"101","Bruant zizi",5737
-"102","Bucorve du Sud",1728
-"103","Busard des marais",680
-"104","Busard des roseaux",2657
-"105","Busard pale",1243
-"106","Busard Saint-Martin",847
-"107","Buse a queue rousse",1262
-"108","Buse blanche",4081
-"109","Buse de Harris",3224
-"110","Buse noire",3173
-"111","Buse pattue",1302
-"112","Buse rouilleuse",766
-"113","Buse tricolore",1403
-"114","Buse variable",4716
-"115","Cacatoes a huppe jaune",2925
-"116","Cacatoes blanc",3498
-"117","Cacatoes de Latham",527
-"118","Cacatoes noir",1982
-"119","Cacatoes rosalbin",4836
-"120","Caille du Japon",6810
-"121","Caique a tete noire",1218
-"122","Calao a bec rouge",553
-"123","Calao bicorne",1295
-"124","Calao papou",663
-"125","Canard a bec rouge",1101
-"126","Canard a queue pointue",404
-"127","Canard bleu",4673
-"128","Canard branchu",2224
-"129","Canard brun",3111
-"130","Canard chipeau",4355
-"131","Canard colvert",8086
-"132","Canard de Chine",2172
-"133","Canard huppe",1800
-"134","Canard mandarin",6390
-"135","Canard noir",9501
-"136","Canard pilet",4887
-"137","Canard siffleur",7029
-"138","Canard souchet",4269
-"139","Caracara austral",849
-"140","Cardinal a poitrine rose",841
-"141","Cardinal jaune",2857
-"142","Cardinal pyrrhuloxia",663
-"143","Cardinal rouge",8963
-"144","Casoar a casque",958
-"145","Caurale soleil",463
-"146","Chardonneret elegant",4495
-"147","Chardonneret jaune",3516
-"148","Chevalier aboyeur",2874
-"149","Chevalier arlequin",2386
-"150","Chevalier bargette",282
-"151","Chevalier errant",3530
-"152","Chevalier gambette",4342
-"153","Chevalier guignette",3569
-"154","Chevalier solitaire",2951
-"155","Chevalier sylvain",3688
-"156","Chionis blanc",395
-"157","Choucador superbe",274
-"158","Choucas des tours",4314
-"159","Chouette hulotte",9978
-"160","Chouette lapone",1315
-"161","Cigogne blanche",3545
-"162","Cigogne noire",3202
-"163","Cigogne orientale",659
-"164","Cincle plongeur",3625
-"165","Cisticole des joncs",1275
-"166","Colibri a gorge rubis",1184
-"167","Colibri bourdon",1038
-"168","Colibri de Costa",4252
-"169","Colibri lucifer",1581
-"170","Colibri roux",714
-"171","Colibri topaze",381
-"172","Colin de Californie",2997
-"173","Colin de Gambel",970
-"174","Colin de Virginie",3520
-"175","Colombar giouanne",387
-"176","Colombe de Grenade",580
-"177","Colombine arlequin",2169
-"178","Condor de Californie",1928
-"179","Condor des Andes",4163
-"180","Conure de Molina",1161
-"181","Conure de Patagonie",1788
-"182","Conure jandaya",3535
-"183","Conure nanday",4314
-"184","Conure soleil",7016
-"185","Conure verte",5656
-"186","Coq bankiva",1224
-"187","Coracine chauve",592
-"188","Corbeau corbivau",809
-"189","Corbeau familier",1296
-"190","Corbeau freux",4931
-"191","Corbeau pie",1974
-"192","Cormoran de Temminck",691
-"193","Cormoran imperial",1794
-"194","Cormoran noir",3141
-"195","Corneille de rivage",809
-"196","Corneille grise",815
-"197","Corneille noire",4689
-"198","Cotinga de Cayenne",454
-"199","Coucou geai",2078
-"200","Coucou gris",1363
-"201","Courlis cendre",682
-"202","Courlis corlieu",1647
-"203","Courlis esquimau",400
-"204","Courlis nain",163
-"205","Courvite isabelle",1171
-"206","Crabier chevelu",2854
-"207","Cygne chanteur",1240
-"208","Cygne noir",3337
-"209","Cygne siffleur",744
-"210","Cygne trompette",1360
-"211","Cygne tubercule",785
-"212","Dendrocygne fauve",1648
-"213","Dendrocygne veuf",892
-"214","Diamant a bavette",997
-"215","Diamant de Gould",6624
-"216","Diamant mandarin",6876
-"217","Diamant masque",1972
-"218","Diduncule strigirostre",393
-"219","Dindon sauvage",3951
-"220","Drongo brillant",855
-"221","Durbec des sapins",1466
-"222","echasse blanche",3617
-"223","Effraie des clochers",2981
-"224","Eider a duvet",983
-"225","Eider de Steller",1197
-"226","elanion blanc",4456
-"227","Engoulevent bois-pourri",897
-"228","Engoulevent oreillard",235
-"229","epervier brun",1957
-"230","erismature a tete blanche",875
-"231","erismature rousse",1127
-"232","Esclave palmiste",824
-"233","etourneau roselin",267
-"234","etourneau sansonnet",3615
-"235","Faisan de Colchide",4589
-"236","Faisan de Lady Amherst",841
-"237","Faisan dore",5301
-"238","Faisan venere",4202
-"239","Faucon concolore",328
-"240","Faucon crecerelle",5609
-"241","Faucon crecerellette",844
-"242","Faucon emerillon",2596
-"243","Faucon gerfaut",1918
-"244","Faucon gris",1078
-"245","Faucon hobereau",3671
-"246","Faucon kobez",1430
-"247","Faucon lanier",1838
-"248","Faucon noir",5268
-"249","Faucon orange",5367
-"250","Faucon pelerin",5401
-"251","Faucon sacre",1625
-"252","Fauvette a tete noire",2756
-"253","Fauvette des jardins",3568
-"254","Flamant de James",396
-"255","Flamant nain",1548
-"256","Flamant rose",5701
-"257","Fou austral",907
-"258","Fou brun",2379
-"259","Fou de Bassan",2406
-"260","Fou de Grant",662
-"261","Fou du Cap",3934
-"262","Fou masque",3799
-"263","Foulque macroule",4048
-"264","Fuligule milouin",4420
-"265","Fuligule milouinan",2883
-"266","Fuligule morillon",2914
-"267","Fuligule nyroca",1651
-"268","Gallinule de Tasmanie",464
-"269","Ganga cata",2460
-"270","Garrulaxe hoamy",646
-"271","Geai bleu",5017
-"272","Geai buissonnier",509
-"273","Geai de Steller",528
-"274","Geai des chenes",4218
-"275","Geai vert",5516
-"276","Gobemouche gris",2142
-"277","Gobemouche noir",2027
-"278","Goeland brun",1366
-"279","Goeland marin",2780
-"280","Gorfou de Schlegel",649
-"281","Gorfou sauteur",1880
-"282","Goura de Victoria",974
-"283","Grand Capucin",5283
-"284","Grand Chevalier",7725
-"285","Grand Corbeau",6383
-"286","Grand Cormoran",1076
-"287","Grand eclectus",2069
-"288","Grand Gaucho",3399
-"289","Grand Geocoucou",197
-"290","Grand Harle",2158
-"291","Grand Heron",7418
-"292","Grand Hocco",493
-"293","Grand Ibijau",401
-"294","Grand Indicateur",1470
-"295","Grand Martin",12311
-"296","Grand Moineau",969
-"297","Grand Tetras",1803
-"298","Grandala bleu",202
-"299","Grande Aigrette",2951
-"300","Grande Outarde",1701
-"301","Grebe huppe",1341
-"302","Grimpereau brun",841
-"303","Grimpereau des bois",3174
-"304","Grimpereau des jardins",2323
-"305","Grive a tete noire",788
-"306","Grive cendree",1071
-"307","Grive de Bicknell",650
-"308","Grive des bois",1690
-"309","Grive doree",363
-"310","Grive draine",3530
-"311","Grive fauve",880
-"312","Grive litorne",4455
-"313","Grive mauvis",4278
-"314","Grive musicienne",4983
-"315","Grive solitaire",1733
-"316","Grue blanche",3173
-"317","Grue cendree",2278
-"318","Grue couronnee",2121
-"319","Grue de paradis",870
-"320","Grue demoiselle",1451
-"321","Grue du Japon",2814
-"322","Grue royale",1938
-"323","Guacharo des cavernes",193
-"324","Guepier carmin",469
-"325","Guifette moustac",974
-"326","Guifette noire",1182
-"327","Guillemot marmette",571
-"328","Guiraca bleu",394
-"329","Gygis blanche",530
-"330","Gypaete barbu",2945
-"331","Harelde kakawi",1621
-"332","Harfang des neiges",3598
-"333","Harle de Chine",651
-"334","Harle piette",871
-"335","Harpie feroce",779
-"336","Heron cendre",3120
-"337","Heron goliath",2397
-"338","Heron imperial",2269
-"339","Hibou des marais",1949
-"340","Hibou moyen-duc",1330
-"341","Hirondelle bicolore",1946
-"342","Hirondelle bleue",1325
-"343","Hirondelle de fenetre",2494
-"344","Hirondelle de rivage",1628
-"345","Hirondelle noire",1083
-"346","Hirondelle rousseline",453
-"347","Hirondelle rustique",3426
-"348","Hocco mitou",551
-"349","Huitrier pie",5995
-"350","Huppe de Madagascar",189
-"351","Huppe fasciee",2590
-"352","Hypolais polyglotte",600
-"353","Ibijau gris",698
-"354","Ibis blanc",10068
-"355","Ibis chauve",2267
-"356","Ibis du Cap",1770
-"357","Ibis falcinelle",1955
-"358","Ibis hagedash",938
-"359","Ibis nippon",1888
-"360","Ibis noir",6128
-"361","Ibis olive",2753
-"362","Ibis rouge",6163
-"363","Ibis sacre",4918
-"364","Ibis vert",6735
-"365","Inca iris",2097
-"366","Inseparable de Fischer",1068
-"367","Jacana bronze",2729
-"368","Jacana noir",441
-"369","Jardinier a nuque rose",626
-"370","Jardinier brun",1943
-"371","Jardinier de MacGregor",204
-"372","Jardinier vert",4033
-"373","Jaseur boreal",484.5
-"374","Junco ardoise",600
-"375","Junco de Guadalupe",933
-"376","Kamichi cornu",825
-"377","Kiwi austral",1267
-"378","Kiwi roa",1884
-"379","Labbe parasite",672
-"380","Labbe pomarin",432
-"381","Lagopede alpin",1165
-"382","Leipoa ocelle",150
-"383","Linotte melodieuse",2016
-"384","Lophophore resplendissant",977
-"385","Lori bride",4601
-"386","Lori noira",389
-"387","Loriot noir",1947
-"388","Loriquet arc-en-ciel",700
-"389","Macareux moine",2493
-"390","Macreuse brune",1336
-"391","Macreuse noire",2273
-"392","Mainate religieux",1240
-"393","Manakin a cuisses jaunes",745
-"394","Manakin fastueux",293
-"395","Manchot antipode",1228
-"396","Manchot de Humboldt",697
-"397","Manchot de Magellan",1906
-"398","Manchot du Cap",2456
-"399","Manchot empereur",1369
-"400","Manchot papou",1829
-"401","Manchot royal",3303
-"402","Mango dore",5638
-"403","Mango vert",5632
-"404","Marabout argala",378
-"405","Marabout chevelu",312
-"406","Marouette de Baillon",1135
-"407","Marouette de Caroline",351
-"408","Marouette poussin",765
-"409","Martin de Java",1686
-"410","Martin forestier",2659
-"411","Martin triste",6409
-"412","Martinet a tete grise",348
-"413","Martinet cafre",602
-"414","Martinet des maisons",830
-"415","Martinet noir",2865
-"416","Martinet ramoneur",1723
-"417","Megapode maleo",1107
-"418","Menure superbe",692
-"419","Mergule nain",1157
-"420","Merion superbe",234
-"421","Merle a plastron",1051
-"422","Merle d'Amerique",471
-"423","Merle noir",3108
-"424","Merle vantard",423
-"425","Mesange a tete noire",1771
-"426","Mesange bleue",4452
-"427","Mesange charbonniere",3414
-"428","Mesange grise",3001
-"429","Mesange huppee",1305
-"430","Mesange noire",3838
-"431","Mesange nonnette",2587
-"432","Mesangeai du Canada",675
-"433","Messager sagittaire",3027
-"434","Milan noir",7463
-"435","Milan royal",8716
-"436","Miro incarnat",407
-"437","Miro rose",1000
-"438","Moineau blanc",2741
-"439","Moineau cisalpin",1050
-"440","Moineau domestique",5296
-"441","Moineau friquet",3367
-"442","Moineau gris",3455
-"443","Moineau soulcie",2491
-"444","Monarque de Tahiti",324
-"445","Monarque menu",2766
-"446","Monarque noir",1627
-"447","Monticole bleu",731
-"448","Monticole de roche",833
-"449","Moqueur bleu",4009
-"450","Moqueur chat",2911
-"451","Moqueur noir",4097
-"452","Moqueur polyglotte",1017
-"453","Moqueur roux",961
-"454","Motmot houtouc",1444
-"455","Moucherolle jaunatre",409
-"456","Moucherolle noir",577
-"457","Moucherolle vermillon",483
-"458","Mouette blanche",1501
-"459","Mouette de Sabine",959
-"460","Mouette tridactyle",2425
-"461","Nandou de Darwin",935
-"462","Nestor kea",3846
-"463","Nette rousse",3443
-"464","Niverolle alpine",1425
-"465","Niverolle du Tibet",741
-"466","Noddi brun",1198
-"467","Nyctale de Tengmalm",889
-"468","Oedicneme criard",880
-"469","Oie cendree",2064
-"470","Oie de Ross",1638
-"471","Oie des moissons",1614
-"472","Oie des neiges",2884
-"473","Oie empereur",1434
-"474","Oie naine",1756
-"475","Oie rieuse",6973
-"476","Oriole de Baltimore",2298
-"477","Oriole de Martinique",483
-"478","Oriole des vergers",388
-"479","Oriole orange",1931.5
-"480","Orite de Sophie",370
-"481","Ortalide du Chaco",167
-"482","Ouette de Magellan",1135
-"483","Outarde canepetiere",1224
-"484","Outarde houbara",1610
-"485","Outarde kori",948
-"486","Palette verte",4611
-"487","Palmiste africain",947
-"488","Paon bleu",6259
-"489","Paon du Congo",2079
-"490","Paradisier de Raggi",766
-"491","Paradisier de Wallace",793
-"492","Paradisier du Prince Albert",584
-"493","Paradisier noir",764
-"494","Paradisier republicain",210
-"495","Paradisier rouge",835
-"496","Paradisier royal",1395
-"497","Paradisier sifilet",1659
-"498","Paradisier superbe",875
-"499","Paruline a croupion jaune",569
-"500","Paruline bleue",872
-"501","Paruline de Bachman",301
-"502","Paruline de Townsend",503
-"503","Paruline des buissons",138
-"504","Paruline des pins",459
-"505","Paruline des ruisseaux",692
-"506","Paruline du Canada",1994
-"507","Paruline flamboyante",1121
-"508","Paruline jaune",2044
-"509","Paruline noir et blanc",1022
-"510","Paruline obscure",441
-"511","Paruline rayee",465
-"512","Passerin indigo",1986
-"513","Passerin nonpareil",510
-"514","Pelican blanc",3749
-"515","Perdrix bartavelle",2943
-"516","Perdrix choukar",1648
-"517","Perdrix gambra",1576
-"518","Perdrix grise",5179
-"519","Perdrix rouge",7743
-"520","Perroquet de Meyer",1793
-"521","Perroquet jaco",2469
-"522","Perroquet youyou",5147
-"523","Perruche de Barraband",1491
-"524","Perruche de Latham",1535
-"525","Perruche de Pennant",3109
-"526","Perruche elegante",1131
-"527","Perruche melanure",2035
-"528","Perruche nocturne",875
-"529","Perruche omnicolore",4308
-"530","Perruche ondulee",6201
-"531","Perruche royale",3537
-"532","Perruche splendide",2926
-"533","Perruche turquoisine",3908
-"534","Petit Blongios",797
-"535","Petit Carouge",5434
-"536","Petit Chevalier",7400
-"537","Petit Corbeau",901.5
-"538","Petit Coucou",6998
-"539","Petit Faucon",3741
-"540","Petit Fournier",2170
-"541","Petit Garrot",2185
-"542","Petit Moineau",6668
-"543","Petit Pingouin",7912
-"544","Petite Buse",1531
-"545","Petite Nyctale",2236
-"546","Petite Spatule",4200
-"547","Petrel de Barau",691
-"548","Petrel de Bourbon",620
-"549","Petrel de Bulwer",589
-"550","Petrel geant",461
-"551","Petrel noir",1508
-"552","Phragmite aquatique",1827
-"553","Phragmite des joncs",1835
-"554","Pic a bec ivoire",341
-"555","Pic barre",2510
-"556","Pic bride",6216
-"557","Pic brun",1849
-"558","Pic casque",2371
-"559","Pic elegant",8186
-"560","Pic epeiche",7683
-"561","Pic epeichette",1213
-"562","Pic flamboyant",3548
-"563","Pic glandivore",837
-"564","Pic imperial",4070
-"565","Pic jaune",4776
-"566","Pic masque",1896
-"567","Pic mineur",3026
-"568","Pic noir",9372
-"569","Pic onde",5570
-"570","Pic roux",3001
-"571","Pic sultan",999
-"572","Pic tridactyle",742
-"573","Pic vert",11559
-"574","Pie bavarde",4185
-"575","Pigeon a collier blanc",361
-"576","Pigeon a couronne blanche",364
-"577","Pigeon biset",5323
-"578","Pigeon colombin",2776
-"579","Pigeon gris",2436
-"580","Pigeon marron",2740
-"581","Pigeon ramier",10002
-"582","Pigeon rose",8117
-"583","Pigeon simple",5991
-"584","Pigeon violet",2172
-"585","Pinson bleu",1835
-"586","Pinson des arbres",5214
-"587","Pinson du Nord",3212
-"588","Pintade de Numidie",2021
-"589","Pintade vulturine",589
-"590","Pipit de Godlewski",297
-"591","Pipit des arbres",1849
-"592","Pipit farlouse",4234
-"593","Pipit jaunatre",210
-"594","Pipit maritime",2263
-"595","Pipit rousseline",1301
-"596","Pipit spioncelle",1993
-"597","Piranga ecarlate",1136
-"598","Pitohui bicolore",1362
-"599","Plectrophane des neiges",1852
-"600","Plongeon arctique",1516
-"601","Plongeon catmarin",1292
-"602","Plongeon du Pacifique",208
-"603","Plongeon huard",2350
-"604","Pluvier asiatique",265
-"605","Pluvier kildir",1089
-"606","Pluvier roux",700
-"607","Pluvier siffleur",1288
-"608","Podarge de Ceylan",815
-"609","Podarge gris",1303
-"610","Podarge oreillard",234
-"611","Pouillot brun",1143
-"612","Pouillot de Bonelli",1197
-"613","Pouillot de Hume",378
-"614","Pouillot de Pallas",1067
-"615","Pouillot de Schwarz",388
-"616","Pouillot fitis",3285
-"617","Pouillot oriental",241
-"618","Pouillot siffleur",3281
-"619","Pouillot veloce",1456
-"620","Puffin a bec grele",181
-"621","Puffin des Anglais",1304
-"622","Puffin fouquet",355
-"623","Puffin fuligineux",483
-"624","Puffin yelkouan",788
-"625","Pygargue a queue blanche",1298
-"626","Pygargue a tete blanche",2655
-"627","Pygargue blagre",665
-"628","Pygargue empereur",389
-"629","Quetzal resplendissant",1454
-"630","Quiscale merle",1766
-"631","Quiscale noir",1762
-"632","Quiscale rouilleux",2000
-"633","Rale de Cuvier",164
-"634","Rale des genets",2672
-"635","Republicain social",2805
-"636","Robin dore",2280
-"637","Roitelet huppe",1492
-"638","Rollier a longs brins",641
-"639","Roselin cramoisi",792
-"640","Roselin familier",1179
-"641","Roselin githagine",760
-"642","Roselin rose",2359
-"643","Rossignol bleu",3254
-"644","Rossignol philomele",726
-"645","Rougegorge familier",960
-"646","Rougequeue a front blanc",1277
-"647","Rougequeue noir",3675
-"648","Rousserolle effarvatte",1240
-"649","Rousserolle isabelle",334
-"650","Rousserolle turdoide",1227
-"651","Rousserolle verderolle",639
-"652","Sarcelle de Bernier",310
-"653","Sarcoramphe roi",605
-"654","Serin cini",7435
-"655","Serin des Canaries",1386
-"656","Serin du Mozambique",2868
-"657","Sittelle corse",1419
-"658","Sittelle kabyle",612
-"659","Sittelle torchepot",5973
-"660","Solitaire masque",2087
-"661","Souimanga siparaja",729
-"662","Spatule blanche",2942
-"663","Starique de Cassin",129
-"664","Sterne arctique",1928
-"665","Sterne caspienne",826
-"666","Sterne caugek",1280
-"667","Sterne de Dougall",1078
-"668","Sterne de Forster",466
-"669","Sterne diamant",2479
-"670","Sterne fuligineuse",1524
-"671","Sterne hansel",937
-"672","Sterne inca",1379
-"673","Sterne naine",1644
-"674","Sterne pierregarin",2764
-"675","Stourne luisant",167
-"676","Strigops kakapo",987
-"677","Tadorne casarca",4496
-"678","Tadorne de Belon",1894
-"679","Tantale ibis",865
-"680","Tarin de Magellan",4092
-"681","Tarin des aulnes",4248
-"682","Tarin des pins",1782
-"683","Tarin rouge",3606
-"684","Tchitrec du Japon",830
-"685","Tetras lyre",3886
-"686","Tichodrome echelette",1597
-"687","Tisserin gendarme",1474
-"688","Todier de Cuba",824
-"689","Torcol fourmilier",2353
-"690","Toucan ariel",1256
-"691","Toucan bleu",3968
-"692","Toucan toco",3934
-"693","Toui catherine",2365
-"694","Toui celeste",4033
-"695","Touraco de Livingstone",1373
-"696","Touraco vert",1201
-"697","Tourterelle des bois",3193
-"698","Tourterelle rieuse",2077
-"699","Tourterelle triste",2128
-"700","Tourterelle turque",5919
-"701","Tragopan de Temminck",761
-"702","Tragopan satyre",1114
-"703","Traquet isabelle",891
-"704","Traquet kurde",835
-"705","Traquet motteux",2480
-"706","Traquet oreillard",962
-"707","Traquet pie",542
-"708","Troglodyte arada",339
-"709","Troglodyte des rochers",1001
-"710","Troglodyte familier",756
-"711","Troglodyte mignon",6060
-"712","Trogon de Cuba",1428
-"713","Trogon elegant",2602
-"714","Trogon narina",2691
-"715","Tyran tritri",1681
-"716","Urubu a tete rouge",1230
-"717","Urubu noir",2269
-"718","Vanneau huppe",2355
-"719","Vanneau sociable",555
-"720","Vanneau soldat",657
-"721","Vautour africain",2353
-"722","Vautour charognard",3845
-"723","Vautour fauve",4812
-"724","Vautour moine",3446
-"725","Vautour oricou",514
-"726","Vautour royal",3708
-"727","Venturon corse",778
-"728","Venturon montagnard",1754
-"729","Veuve dominicaine",1575
-"730","Vireo melodieux",875
+,keyword,count
+1,Acanthize mignon,116
+2,Accenteur alpin,2451
+3,Accenteur montanelle,367
+4,Accenteur mouchet,4788
+5,Ada noir,3844
+6,Agami trompette,1557
+7,Agrobate roux,800
+8,Aigle botte,6355
+9,Aigle couronne,2898
+10,Aigle criard,991
+11,Aigle de Bonelli,3738
+12,Aigle de Java,1275
+13,Aigle de Verreaux,817
+14,Aigle des Philippines,1339
+15,Aigle imperial,2802
+16,Aigle martial,1701
+17,Aigle noir,5070
+18,Aigle noir et blanc,2386
+19,Aigle orne,3395
+20,Aigle pomarin,2070
+21,Aigle ravisseur,1500
+22,Aigle royal,9083
+23,Aigrette bleue,997
+24,Aigrette garzette,5759
+25,Aigrette neigeuse,1393
+26,Aigrette tricolore,373
+27,Albatros brun,612
+28,Albatros de Buller,761
+29,Albatros de Laysan,710
+30,Albatros des Galapagos,1067
+31,Albatros fuligineux,783
+32,Albatros hurleur,2673
+33,Albatros royal,6771
+34,Alouette a long bec,262
+35,Alouette calandre,1256
+36,Alouette calandrelle,870
+37,Alouette des champs,4485
+38,Alouette lulu,3762
+39,Alouette pispolette,418
+40,Amazone a front blanc,774
+41,Amazone a front bleu,3069
+42,Amazone a front jaune,2013
+43,Amazone verte,4389
+44,Ara bleu,4262
+45,Ara chloroptere,1661
+46,Ara de Buffon,1124
+47,Ara de Lafresnaye,471
+48,Ara de Lear,635
+49,Ara de Spix,925
+50,Ara hyacinthe,3828
+51,Ara militaire,2023
+52,Ara noble,2465
+53,Ara rouge,5182
+54,Ara vert,3339
+55,Araponga blanc,349
+56,Argus geant,1268
+57,Arlequin plongeur,956
+58,Autour blanc,10456
+59,Autour chanteur,2407
+60,Autour des palombes,6500
+61,Autour noir,11031
+62,Autour rouge,9664
+63,Balbuzard pecheur,1739
+64,Barge a queue noire,1442
+65,Barge rousse,3277
+66,Bateleur des savanes,1119
+67,Bec-en-sabot du Nil,905
+68,Becasse des bois,2929
+69,Becasseau violet,245
+70,Bengali rouge,2954
+71,Bergeronnette citrine,2803
+72,Bergeronnette des ruisseaux,4597
+73,Bergeronnette grise,6040
+74,Bergeronnette printaniere,779
+75,Bernache cravant,4807
+76,Bernache du Canada,4953
+77,Bernache nonnette,2627
+78,Bihoreau gris,4019
+79,Blongios nain,2276
+80,Bondree apivore,861
+81,Bouscarle de Cetti,1380
+82,Bouvreuil brun,1530
+83,Bouvreuil pivoine,6250
+84,Breve azurine,2578
+85,Bruant a couronne blanche,426
+86,Bruant a gorge blanche,987
+87,Bruant aureole,228
+88,Bruant chanteur,3834
+89,Bruant des marais,1259
+90,Bruant des roseaux,2011
+91,Bruant familier,1969
+92,Bruant fauve,713
+93,Bruant fou,1278
+94,Bruant jaune,5840
+95,Bruant noir et blanc,925
+96,Bruant ortolan,2534
+97,Bruant proyer,3719
+98,Bruant roux,675
+99,Bruant rustique,556
+100,Bruant sauterelle,320
+101,Bruant zizi,5737
+102,Bucorve du Sud,1728
+103,Busard des marais,680
+104,Busard des roseaux,2657
+105,Busard pale,1243
+106,Busard Saint-Martin,847
+107,Buse a queue rousse,1262
+108,Buse blanche,4081
+109,Buse de Harris,3224
+110,Buse noire,3173
+111,Buse pattue,1302
+112,Buse rouilleuse,766
+113,Buse tricolore,1403
+114,Buse variable,4716
+115,Cacatoes a huppe jaune,2925
+116,Cacatoes blanc,3498
+117,Cacatoes de Latham,527
+118,Cacatoes noir,1982
+119,Cacatoes rosalbin,4836
+120,Caille du Japon,6810
+121,Caique a tete noire,1218
+122,Calao a bec rouge,553
+123,Calao bicorne,1295
+124,Calao papou,663
+125,Canard a bec rouge,1101
+126,Canard a queue pointue,404
+127,Canard bleu,4673
+128,Canard branchu,2224
+129,Canard brun,3111
+130,Canard chipeau,4355
+131,Canard colvert,8086
+132,Canard de Chine,2172
+133,Canard huppe,1800
+134,Canard mandarin,6390
+135,Canard noir,9501
+136,Canard pilet,4887
+137,Canard siffleur,7029
+138,Canard souchet,4269
+139,Caracara austral,849
+140,Cardinal a poitrine rose,841
+141,Cardinal jaune,2857
+142,Cardinal pyrrhuloxia,663
+143,Cardinal rouge,8963
+144,Casoar a casque,958
+145,Caurale soleil,463
+146,Chardonneret elegant,4495
+147,Chardonneret jaune,3516
+148,Chevalier aboyeur,2874
+149,Chevalier arlequin,2386
+150,Chevalier bargette,282
+151,Chevalier errant,3530
+152,Chevalier gambette,4342
+153,Chevalier guignette,3569
+154,Chevalier solitaire,2951
+155,Chevalier sylvain,3688
+156,Chionis blanc,395
+157,Choucador superbe,274
+158,Choucas des tours,4314
+159,Chouette hulotte,9978
+160,Chouette lapone,1315
+161,Cigogne blanche,3545
+162,Cigogne noire,3202
+163,Cigogne orientale,659
+164,Cincle plongeur,3625
+165,Cisticole des joncs,1275
+166,Colibri a gorge rubis,1184
+167,Colibri bourdon,1038
+168,Colibri de Costa,4252
+169,Colibri lucifer,1581
+170,Colibri roux,714
+171,Colibri topaze,381
+172,Colin de Californie,2997
+173,Colin de Gambel,970
+174,Colin de Virginie,3520
+175,Colombar giouanne,387
+176,Colombe de Grenade,580
+177,Colombine arlequin,2169
+178,Condor de Californie,1928
+179,Condor des Andes,4163
+180,Conure de Molina,1161
+181,Conure de Patagonie,1788
+182,Conure jandaya,3535
+183,Conure nanday,4314
+184,Conure soleil,7016
+185,Conure verte,5656
+186,Coq bankiva,1224
+187,Coracine chauve,592
+188,Corbeau corbivau,809
+189,Corbeau familier,1296
+190,Corbeau freux,4931
+191,Corbeau pie,1974
+192,Cormoran de Temminck,691
+193,Cormoran imperial,1794
+194,Cormoran noir,3141
+195,Corneille de rivage,809
+196,Corneille grise,815
+197,Corneille noire,4689
+198,Cotinga de Cayenne,454
+199,Coucou geai,2078
+200,Coucou gris,1363
+201,Courlis cendre,682
+202,Courlis corlieu,1647
+203,Courlis esquimau,400
+204,Courlis nain,163
+205,Courvite isabelle,1171
+206,Crabier chevelu,2854
+207,Cygne chanteur,1240
+208,Cygne noir,3337
+209,Cygne siffleur,744
+210,Cygne trompette,1360
+211,Cygne tubercule,785
+212,Dendrocygne fauve,1648
+213,Dendrocygne veuf,892
+214,Diamant a bavette,997
+215,Diamant de Gould,6624
+216,Diamant mandarin,6876
+217,Diamant masque,1972
+218,Diduncule strigirostre,393
+219,Dindon sauvage,3951
+220,Drongo brillant,855
+221,Durbec des sapins,1466
+222,echasse blanche,3617
+223,Effraie des clochers,2981
+224,Eider a duvet,983
+225,Eider de Steller,1197
+226,elanion blanc,4456
+227,Engoulevent bois-pourri,897
+228,Engoulevent oreillard,235
+229,epervier brun,1957
+230,erismature a tete blanche,875
+231,erismature rousse,1127
+232,Esclave palmiste,824
+233,etourneau roselin,267
+234,etourneau sansonnet,3615
+235,Faisan de Colchide,4589
+236,Faisan de Lady Amherst,841
+237,Faisan dore,5301
+238,Faisan venere,4202
+239,Faucon concolore,328
+240,Faucon crecerelle,5609
+241,Faucon crecerellette,844
+242,Faucon emerillon,2596
+243,Faucon gerfaut,1918
+244,Faucon gris,1078
+245,Faucon hobereau,3671
+246,Faucon kobez,1430
+247,Faucon lanier,1838
+248,Faucon noir,5268
+249,Faucon orange,5367
+250,Faucon pelerin,5401
+251,Faucon sacre,1625
+252,Fauvette a tete noire,2756
+253,Fauvette des jardins,3568
+254,Flamant de James,396
+255,Flamant nain,1548
+256,Flamant rose,5701
+257,Fou austral,907
+258,Fou brun,2379
+259,Fou de Bassan,2406
+260,Fou de Grant,662
+261,Fou du Cap,3934
+262,Fou masque,3799
+263,Foulque macroule,4048
+264,Fuligule milouin,4420
+265,Fuligule milouinan,2883
+266,Fuligule morillon,2914
+267,Fuligule nyroca,1651
+268,Gallinule de Tasmanie,464
+269,Ganga cata,2460
+270,Garrulaxe hoamy,646
+271,Geai bleu,5017
+272,Geai buissonnier,509
+273,Geai de Steller,528
+274,Geai des chenes,4218
+275,Geai vert,5516
+276,Gobemouche gris,2142
+277,Gobemouche noir,2027
+278,Goeland brun,1366
+279,Goeland marin,2780
+280,Gorfou de Schlegel,649
+281,Gorfou sauteur,1880
+282,Goura de Victoria,974
+283,Grand Capucin,5283
+284,Grand Chevalier,7725
+285,Grand Corbeau,6383
+286,Grand Cormoran,1076
+287,Grand eclectus,2069
+288,Grand Gaucho,3399
+289,Grand Geocoucou,197
+290,Grand Harle,2158
+291,Grand Heron,7418
+292,Grand Hocco,493
+293,Grand Ibijau,401
+294,Grand Indicateur,1470
+295,Grand Martin,12311
+296,Grand Moineau,969
+297,Grand Tetras,1803
+298,Grandala bleu,202
+299,Grande Aigrette,2951
+300,Grande Outarde,1701
+301,Grebe huppe,1341
+302,Grimpereau brun,841
+303,Grimpereau des bois,3174
+304,Grimpereau des jardins,2323
+305,Grive a tete noire,788
+306,Grive cendree,1071
+307,Grive de Bicknell,650
+308,Grive des bois,1690
+309,Grive doree,363
+310,Grive draine,3530
+311,Grive fauve,880
+312,Grive litorne,4455
+313,Grive mauvis,4278
+314,Grive musicienne,4983
+315,Grive solitaire,1733
+316,Grue blanche,3173
+317,Grue cendree,2278
+318,Grue couronnee,2121
+319,Grue de paradis,870
+320,Grue demoiselle,1451
+321,Grue du Japon,2814
+322,Grue royale,1938
+323,Guacharo des cavernes,193
+324,Guepier carmin,469
+325,Guifette moustac,974
+326,Guifette noire,1182
+327,Guillemot marmette,571
+328,Guiraca bleu,394
+329,Gygis blanche,530
+330,Gypaete barbu,2945
+331,Harelde kakawi,1621
+332,Harfang des neiges,3598
+333,Harle de Chine,651
+334,Harle piette,871
+335,Harpie feroce,779
+336,Heron cendre,3120
+337,Heron goliath,2397
+338,Heron imperial,2269
+339,Hibou des marais,1949
+340,Hibou moyen-duc,1330
+341,Hirondelle bicolore,1946
+342,Hirondelle bleue,1325
+343,Hirondelle de fenetre,2494
+344,Hirondelle de rivage,1628
+345,Hirondelle noire,1083
+346,Hirondelle rousseline,453
+347,Hirondelle rustique,3426
+348,Hocco mitou,551
+349,Huitrier pie,5995
+350,Huppe de Madagascar,189
+351,Huppe fasciee,2590
+352,Hypolais polyglotte,600
+353,Ibijau gris,698
+354,Ibis blanc,10068
+355,Ibis chauve,2267
+356,Ibis du Cap,1770
+357,Ibis falcinelle,1955
+358,Ibis hagedash,938
+359,Ibis nippon,1888
+360,Ibis noir,6128
+361,Ibis olive,2753
+362,Ibis rouge,6163
+363,Ibis sacre,4918
+364,Ibis vert,6735
+365,Inca iris,2097
+366,Inseparable de Fischer,1068
+367,Jacana bronze,2729
+368,Jacana noir,441
+369,Jardinier a nuque rose,626
+370,Jardinier brun,1943
+371,Jardinier de MacGregor,204
+372,Jardinier vert,4033
+373,Jaseur boreal,484.5
+374,Junco ardoise,600
+375,Junco de Guadalupe,933
+376,Kamichi cornu,825
+377,Kiwi austral,1267
+378,Kiwi roa,1884
+379,Labbe parasite,672
+380,Labbe pomarin,432
+381,Lagopede alpin,1165
+382,Leipoa ocelle,150
+383,Linotte melodieuse,2016
+384,Lophophore resplendissant,977
+385,Lori bride,4601
+386,Lori noira,389
+387,Loriot noir,1947
+388,Loriquet arc-en-ciel,700
+389,Macareux moine,2493
+390,Macreuse brune,1336
+391,Macreuse noire,2273
+392,Mainate religieux,1240
+393,Manakin a cuisses jaunes,745
+394,Manakin fastueux,293
+395,Manchot antipode,1228
+396,Manchot de Humboldt,697
+397,Manchot de Magellan,1906
+398,Manchot du Cap,2456
+399,Manchot empereur,1369
+400,Manchot papou,1829
+401,Manchot royal,3303
+402,Mango dore,5638
+403,Mango vert,5632
+404,Marabout argala,378
+405,Marabout chevelu,312
+406,Marouette de Baillon,1135
+407,Marouette de Caroline,351
+408,Marouette poussin,765
+409,Martin de Java,1686
+410,Martin forestier,2659
+411,Martin triste,6409
+412,Martinet a tete grise,348
+413,Martinet cafre,602
+414,Martinet des maisons,830
+415,Martinet noir,2865
+416,Martinet ramoneur,1723
+417,Megapode maleo,1107
+418,Menure superbe,692
+419,Mergule nain,1157
+420,Merion superbe,234
+421,Merle a plastron,1051
+422,Merle d'Amerique,471
+423,Merle noir,3108
+424,Merle vantard,423
+425,Mesange a tete noire,1771
+426,Mesange bleue,4452
+427,Mesange charbonniere,3414
+428,Mesange grise,3001
+429,Mesange huppee,1305
+430,Mesange noire,3838
+431,Mesange nonnette,2587
+432,Mesangeai du Canada,675
+433,Messager sagittaire,3027
+434,Milan noir,7463
+435,Milan royal,8716
+436,Miro incarnat,407
+437,Miro rose,1000
+438,Moineau blanc,2741
+439,Moineau cisalpin,1050
+440,Moineau domestique,5296
+441,Moineau friquet,3367
+442,Moineau gris,3455
+443,Moineau soulcie,2491
+444,Monarque de Tahiti,324
+445,Monarque menu,2766
+446,Monarque noir,1627
+447,Monticole bleu,731
+448,Monticole de roche,833
+449,Moqueur bleu,4009
+450,Moqueur chat,2911
+451,Moqueur noir,4097
+452,Moqueur polyglotte,1017
+453,Moqueur roux,961
+454,Motmot houtouc,1444
+455,Moucherolle jaunatre,409
+456,Moucherolle noir,577
+457,Moucherolle vermillon,483
+458,Mouette blanche,1501
+459,Mouette de Sabine,959
+460,Mouette tridactyle,2425
+461,Nandou de Darwin,935
+462,Nestor kea,3846
+463,Nette rousse,3443
+464,Niverolle alpine,1425
+465,Niverolle du Tibet,741
+466,Noddi brun,1198
+467,Nyctale de Tengmalm,889
+468,Oedicneme criard,880
+469,Oie cendree,2064
+470,Oie de Ross,1638
+471,Oie des moissons,1614
+472,Oie des neiges,2884
+473,Oie empereur,1434
+474,Oie naine,1756
+475,Oie rieuse,6973
+476,Oriole de Baltimore,2298
+477,Oriole de Martinique,483
+478,Oriole des vergers,388
+479,Oriole orange,1931.5
+480,Orite de Sophie,370
+481,Ortalide du Chaco,167
+482,Ouette de Magellan,1135
+483,Outarde canepetiere,1224
+484,Outarde houbara,1610
+485,Outarde kori,948
+486,Palette verte,4611
+487,Palmiste africain,947
+488,Paon bleu,6259
+489,Paon du Congo,2079
+490,Paradisier de Raggi,766
+491,Paradisier de Wallace,793
+492,Paradisier du Prince Albert,584
+493,Paradisier noir,764
+494,Paradisier republicain,210
+495,Paradisier rouge,835
+496,Paradisier royal,1395
+497,Paradisier sifilet,1659
+498,Paradisier superbe,875
+499,Paruline a croupion jaune,569
+500,Paruline bleue,872
+501,Paruline de Bachman,301
+502,Paruline de Townsend,503
+503,Paruline des buissons,138
+504,Paruline des pins,459
+505,Paruline des ruisseaux,692
+506,Paruline du Canada,1994
+507,Paruline flamboyante,1121
+508,Paruline jaune,2044
+509,Paruline noir et blanc,1022
+510,Paruline obscure,441
+511,Paruline rayee,465
+512,Passerin indigo,1986
+513,Passerin nonpareil,510
+514,Pelican blanc,3749
+515,Perdrix bartavelle,2943
+516,Perdrix choukar,1648
+517,Perdrix gambra,1576
+518,Perdrix grise,5179
+519,Perdrix rouge,7743
+520,Perroquet de Meyer,1793
+521,Perroquet jaco,2469
+522,Perroquet youyou,5147
+523,Perruche de Barraband,1491
+524,Perruche de Latham,1535
+525,Perruche de Pennant,3109
+526,Perruche elegante,1131
+527,Perruche melanure,2035
+528,Perruche nocturne,875
+529,Perruche omnicolore,4308
+530,Perruche ondulee,6201
+531,Perruche royale,3537
+532,Perruche splendide,2926
+533,Perruche turquoisine,3908
+534,Petit Blongios,797
+535,Petit Carouge,5434
+536,Petit Chevalier,7400
+537,Petit Corbeau,901.5
+538,Petit Coucou,6998
+539,Petit Faucon,3741
+540,Petit Fournier,2170
+541,Petit Garrot,2185
+542,Petit Moineau,6668
+543,Petit Pingouin,7912
+544,Petite Buse,1531
+545,Petite Nyctale,2236
+546,Petite Spatule,4200
+547,Petrel de Barau,691
+548,Petrel de Bourbon,620
+549,Petrel de Bulwer,589
+550,Petrel geant,461
+551,Petrel noir,1508
+552,Phragmite aquatique,1827
+553,Phragmite des joncs,1835
+554,Pic a bec ivoire,341
+555,Pic barre,2510
+556,Pic bride,6216
+557,Pic brun,1849
+558,Pic casque,2371
+559,Pic elegant,8186
+560,Pic epeiche,7683
+561,Pic epeichette,1213
+562,Pic flamboyant,3548
+563,Pic glandivore,837
+564,Pic imperial,4070
+565,Pic jaune,4776
+566,Pic masque,1896
+567,Pic mineur,3026
+568,Pic noir,9372
+569,Pic onde,5570
+570,Pic roux,3001
+571,Pic sultan,999
+572,Pic tridactyle,742
+573,Pic vert,11559
+574,Pie bavarde,4185
+575,Pigeon a collier blanc,361
+576,Pigeon a couronne blanche,364
+577,Pigeon biset,5323
+578,Pigeon colombin,2776
+579,Pigeon gris,2436
+580,Pigeon marron,2740
+581,Pigeon ramier,10002
+582,Pigeon rose,8117
+583,Pigeon simple,5991
+584,Pigeon violet,2172
+585,Pinson bleu,1835
+586,Pinson des arbres,5214
+587,Pinson du Nord,3212
+588,Pintade de Numidie,2021
+589,Pintade vulturine,589
+590,Pipit de Godlewski,297
+591,Pipit des arbres,1849
+592,Pipit farlouse,4234
+593,Pipit jaunatre,210
+594,Pipit maritime,2263
+595,Pipit rousseline,1301
+596,Pipit spioncelle,1993
+597,Piranga ecarlate,1136
+598,Pitohui bicolore,1362
+599,Plectrophane des neiges,1852
+600,Plongeon arctique,1516
+601,Plongeon catmarin,1292
+602,Plongeon du Pacifique,208
+603,Plongeon huard,2350
+604,Pluvier asiatique,265
+605,Pluvier kildir,1089
+606,Pluvier roux,700
+607,Pluvier siffleur,1288
+608,Podarge de Ceylan,815
+609,Podarge gris,1303
+610,Podarge oreillard,234
+611,Pouillot brun,1143
+612,Pouillot de Bonelli,1197
+613,Pouillot de Hume,378
+614,Pouillot de Pallas,1067
+615,Pouillot de Schwarz,388
+616,Pouillot fitis,3285
+617,Pouillot oriental,241
+618,Pouillot siffleur,3281
+619,Pouillot veloce,1456
+620,Puffin a bec grele,181
+621,Puffin des Anglais,1304
+622,Puffin fouquet,355
+623,Puffin fuligineux,483
+624,Puffin yelkouan,788
+625,Pygargue a queue blanche,1298
+626,Pygargue a tete blanche,2655
+627,Pygargue blagre,665
+628,Pygargue empereur,389
+629,Quetzal resplendissant,1454
+630,Quiscale merle,1766
+631,Quiscale noir,1762
+632,Quiscale rouilleux,2000
+633,Rale de Cuvier,164
+634,Rale des genets,2672
+635,Republicain social,2805
+636,Robin dore,2280
+637,Roitelet huppe,1492
+638,Rollier a longs brins,641
+639,Roselin cramoisi,792
+640,Roselin familier,1179
+641,Roselin githagine,760
+642,Roselin rose,2359
+643,Rossignol bleu,3254
+644,Rossignol philomele,726
+645,Rougegorge familier,960
+646,Rougequeue a front blanc,1277
+647,Rougequeue noir,3675
+648,Rousserolle effarvatte,1240
+649,Rousserolle isabelle,334
+650,Rousserolle turdoide,1227
+651,Rousserolle verderolle,639
+652,Sarcelle de Bernier,310
+653,Sarcoramphe roi,605
+654,Serin cini,7435
+655,Serin des Canaries,1386
+656,Serin du Mozambique,2868
+657,Sittelle corse,1419
+658,Sittelle kabyle,612
+659,Sittelle torchepot,5973
+660,Solitaire masque,2087
+661,Souimanga siparaja,729
+662,Spatule blanche,2942
+663,Starique de Cassin,129
+664,Sterne arctique,1928
+665,Sterne caspienne,826
+666,Sterne caugek,1280
+667,Sterne de Dougall,1078
+668,Sterne de Forster,466
+669,Sterne diamant,2479
+670,Sterne fuligineuse,1524
+671,Sterne hansel,937
+672,Sterne inca,1379
+673,Sterne naine,1644
+674,Sterne pierregarin,2764
+675,Stourne luisant,167
+676,Strigops kakapo,987
+677,Tadorne casarca,4496
+678,Tadorne de Belon,1894
+679,Tantale ibis,865
+680,Tarin de Magellan,4092
+681,Tarin des aulnes,4248
+682,Tarin des pins,1782
+683,Tarin rouge,3606
+684,Tchitrec du Japon,830
+685,Tetras lyre,3886
+686,Tichodrome echelette,1597
+687,Tisserin gendarme,1474
+688,Todier de Cuba,824
+689,Torcol fourmilier,2353
+690,Toucan ariel,1256
+691,Toucan bleu,3968
+692,Toucan toco,3934
+693,Toui catherine,2365
+694,Toui celeste,4033
+695,Touraco de Livingstone,1373
+696,Touraco vert,1201
+697,Tourterelle des bois,3193
+698,Tourterelle rieuse,2077
+699,Tourterelle triste,2128
+700,Tourterelle turque,5919
+701,Tragopan de Temminck,761
+702,Tragopan satyre,1114
+703,Traquet isabelle,891
+704,Traquet kurde,835
+705,Traquet motteux,2480
+706,Traquet oreillard,962
+707,Traquet pie,542
+708,Troglodyte arada,339
+709,Troglodyte des rochers,1001
+710,Troglodyte familier,756
+711,Troglodyte mignon,6060
+712,Trogon de Cuba,1428
+713,Trogon elegant,2602
+714,Trogon narina,2691
+715,Tyran tritri,1681
+716,Urubu a tete rouge,1230
+717,Urubu noir,2269
+718,Vanneau huppe,2355
+719,Vanneau sociable,555
+720,Vanneau soldat,657
+721,Vautour africain,2353
+722,Vautour charognard,3845
+723,Vautour fauve,4812
+724,Vautour moine,3446
+725,Vautour oricou,514
+726,Vautour royal,3708
+727,Venturon corse,778
+728,Venturon montagnard,1754
+729,Veuve dominicaine,1575
+730,Vireo melodieux,875
+731,Guillemot marmette,599
+732,Vautour de Ruppell,692
+733,Vautour fauve,4610

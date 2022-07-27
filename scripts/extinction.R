@@ -16,7 +16,7 @@ library(ggplot2)
 library(MuMIn)
 library(margins)
 
-data <- read.csv("data_global/data_analysis/only_threatened/analysis/data_genl_clutch.csv")
+# data <- read.csv("data_global/data_analysis/only_threatened/analysis/data_genl_clutch.csv")
 
 ##model: IUCN ext risk ~ traits * threats * habitat (only 14 human modified)
 #maybe use habitat density?
@@ -373,3 +373,228 @@ plot(allEffects(model_ratio))
 
 jtools::plot_summs(model_ratio, scale = TRUE, legend.title = "Threatened")
 summ(model_ratio)
+plot(birds_gbif_cites$gbif_sum)
+
+
+#########test CITES and GBIF -------------
+library(lme4)
+birds_gbif_cites <- read.csv("data_global/data_analysis/analysis/birds_gbif_cites.csv")
+
+model_CITES_gbif <- glm(threatened ~ log(gbif_sum) + gbif_mean + CITES_species, data=birds_gbif_cites, family=binomial)
+
+plot(allEffects(model_CITES_gbif))
+
+jtools::plot_summs(model_CITES_gbif, scale = TRUE, legend.title = "Threatened")
+summ(model_CITES_gbif)
+
+lm_traits_gbif_cites <- glm(threatened ~ log(gbif_sum) + log(gbif_mean) + CITES_species + masscentr + rangecentr + Migration, data=birds_gbif_cites, family=binomial)
+lm_threats_gbif_cites <- glm(threatened ~ log(gbif_sum) + log(gbif_mean) + CITES_species + agriculture + resource_use + invasive + pollution, data=birds_gbif_cites, family=binomial)
+full_lm_traits_threats_gbif_cites <- glm(threatened ~ log(gbif_sum) + log(gbif_mean) + CITES_species + masscentr + rangecentr + Migration + agriculture + resource_use + invasive + pollution, data=birds_gbif_cites, family=binomial)
+
+plot(allEffects(lm_threats_gbif_cites))
+plot_coefs(lm_threats_gbif_cites, scale = TRUE, plot.distributions = TRUE, legend.title = "Threatened", groups)
+jtools::plot_summs(lm_threats_gbif_cites, scale = TRUE, legend.title = "Threatened")
+summ(lm_threats_gbif_cites)
+
+jtools::plot_summs(lm_traits_gbif_cites, scale = TRUE, legend.title = "Threatened")
+
+summ(lm_traits_gbif_cites)
+
+plot(allEffects(full_lm_traits_threats_gbif_cites))
+plot_coefs(full_lm_traits_threats_gbif_cites, scale = TRUE, plot.distributions = TRUE, legend.title = "Threatened", groups)
+jtools::plot_summs(full_lm_traits_threats_gbif_cites, scale = TRUE, legend.title = "Threatened")
+summ(full_lm_traits_threats_gbif_cites)
+
+hist(log10(birds_gbif_cites$gbif_sum))
+
+hist(log10(birds_gbif_cites$gbif_mean))
+
+#traits/threats vs. cites/gbif
+
+lm_gbif_cites <- glm(threatened ~ log(gbif_sum) + log(gbif_mean) + CITES_species, data=birds_gbif_cites, family=binomial)
+plot(allEffects(lm_gbif_cites))
+plot_coefs(lm_gbif_cites, scale = TRUE, plot.distributions = TRUE, legend.title = "Threatened", groups)
+jtools::plot_summs(lm_gbif_cites, scale = TRUE, legend.title = "Threatened")
+summ(lm_gbif_cites)
+
+lm_traits_threats <- glm(threatened ~  masscentr + rangecentr + Migration + agriculture + resource_use + invasive + pollution, data=birds_gbif_cites, family=binomial)
+plot(allEffects(lm_traits_threats))
+plot_coefs(lm_traits_threats, scale = TRUE, plot.distributions = TRUE, legend.title = "Threatened", groups)
+jtools::plot_summs(lm_traits_threats, scale = TRUE, legend.title = "Threatened")
+summ(lm_traits_threats)
+
+colSums(is.na(hits_selected_langs))
+#do model selection after adding hits?
+
+birds_gbif_cites_langs <- read.csv("gtrends/use_for_analysis/birds_gbif_cites_langs.csv")
+birds_gbif_cites_langs$spa_mean[is.na(birds_gbif_cites_langs$spa_mean)] <- 0
+
+birds_gbif_cites_langs_sum <- birds_gbif_cites_langs %>%
+  mutate(sumrow = rowSums(across(en_count, fr_count, spa_count)))
+
+## do with hits 3 langs
+write.csv(birds_gbif_cites_langs, file = "gtrends/use_for_analysis/birds_gbif_cites_langs_0.csv")
+birds_gbif_cites_langs_0 <- read.csv("gtrends/use_for_analysis/birds_gbif_cites_langs_0.csv")
+
+lm_cites_gbif_hits <- glm(threatened ~ log(gbif_mean) + CITES_species + mean, data=birds_gbif_cites_langs_0, family=binomial, na.action = na.fail)
+
+plot(allEffects(lm_cites_gbif_hits))
+plot_coefs(lm_cites_gbif_hits, scale = TRUE, plot.distributions = TRUE, legend.title = "Threatened", groups)
+jtools::plot_summs(lm_cites_gbif_hits, scale = TRUE, legend.title = "Threatened")
+summ(lm_cites_gbif_hits)
+summary(lm_cites_gbif_hits)
+
+hist(birds_gbif_cites_langs_0$mean)
+plot(birds_gbif_cites_langs_0$mean)
+
+hist(birds_gbif_cites_langs_0$gbif_mean)
+plot(birds_gbif_cites_langs_0$gbif_mean)
+
+
+#x_scaled <- scale()
+
+gbif_mean_scaled <- birds_gbif_cites_langs_0 %>% scale(birds_gbif_cites_langs_0$gbif_mean)
+hist(gbif_mean_scaled) 
+plot(gbif_mean_scaled)
+
+scaled_data <- birds_gbif_cites_langs_0  %>%
+  mutate(gbif_mean_scaled = scale(gbif_mean),
+         gbif_sum_scaled = scale(gbif_sum))
+
+
+colSums(is.na(birds_gbif_cites_langs_0))
+
+cor.test(birds_gbif_cites_langs_0$gbif_sum, birds_gbif_cites_langs_0$gbif_mean, method = "pearson")
+
+cor.test(birds_gbif_cites_langs_0$en_mean, birds_gbif_cites_langs_0$fr_mean, method = "pearson")
+cor.test(birds_gbif_cites_langs_0$en_mean, birds_gbif_cites_langs_0$spa_mean, method = "pearson")
+cor.test(birds_gbif_cites_langs_0$fr_mean, birds_gbif_cites_langs_0$spa_mean, method = "pearson")
+
+model_scaled <- glm(threatened ~ gbif_mean_scaled + CITES_species + mean, data=scaled_data, family=binomial, na.action = na.fail)
+
+plot(allEffects(model_scaled))
+plot_coefs(model_scaled, scale = TRUE, plot.distributions = TRUE, legend.title = "Threatened", groups)
+jtools::plot_summs(model_scaled, scale = TRUE, legend.title = "Threatened")
+summ(model_scaled)
+summary(model_scaled)
+#its not only hits and stuff
+hist(scaled_data$gbif_mean_scaled)
+write.csv(scaled_data, file = "gtrends/use_for_analysis/scaled_data.csv")
+
+hits_selected_langs <- scaled_data %>%
+  dplyr::select(masscentr, rangecentr, Migration, agriculture, invasive, residential, energy, transportation, resource_use, intrusion, nat_sys_modif, pollution, geological, climate_change, other, gbif_mean_scaled, mean, CITES_species, threatened, en_mean, fr_mean, spa_mean)
+
+write.csv(hits_selected, file = "gtrends/use_for_analysis/hits_selected.csv")
+
+global_model <- glm(threatened ~ masscentr + rangecentr + Migration + agriculture + climate_change + invasive + resource_use + gbif_mean_scaled + CITES_species + mean, data=scaled_data, family=binomial)
+
+plot(allEffects(global_model))
+plot_coefs(global_model, scale = TRUE, plot.distributions = TRUE, legend.title = "Threatened", groups)
+jtools::plot_summs(global_model, scale = TRUE, legend.title = "Threatened")
+summ(global_model)
+summary(global_model)
+
+###model selection
+library(MuMIn)
+
+colSums(is.na(hits_selected))
+birds_gbif_cites_langs_0$rangecentr[is.na(birds_gbif_cites_langs_0$rangecentr)] <- 0
+birds_gbif_cites_langs_0$Migration[is.na(birds_gbif_cites_langs_0$Migration)] <- 0
+
+maineffects.glm <- glm(threatened ~ ., family=binomial(logit), data=hits_selected, na.action = na.fail)
+
+mega.model.comparison <- dredge(maineffects.glm)
+
+#best model
+best_model <- glm(threatened ~ masscentr + rangecentr + Migration + agriculture + 
+  invasive + residential + energy + resource_use + nat_sys_modif + 
+  pollution + climate_change + other + gbif_mean_scaled, family=binomial(logit), data=hits_selected, na.action = na.fail)
+
+plot(allEffects(best_model))
+plot_coefs(best_model, scale = TRUE, plot.distributions = TRUE, legend.title = "Threatened", groups)
+jtools::plot_summs(best_model, scale = TRUE, legend.title = "Threatened")
+summ(best_model)
+summary(best_model)
+
+#try with en, spa, fr
+best_model_lang <- glm(threatened ~ masscentr + rangecentr + Migration + agriculture + 
+                    invasive + residential + energy + resource_use + nat_sys_modif + 
+                    pollution + climate_change + other + gbif_mean_scaled + en_mean + fr_mean + spa_mean, family=binomial(logit), data=hits_selected_langs, na.action = na.fail)
+plot(allEffects(best_model_lang))
+plot_coefs(best_model_lang, scale = TRUE, plot.distributions = TRUE, legend.title = "Threatened", groups)
+# install.packages("broom.mixed")
+# library(broom.mixed)
+jtools::plot_summs(best_model_lang, scale = TRUE, legend.title = "Threatened")
+summ(best_model_lang)
+summary(best_model)
+# dd <- dredge(fm1)
+# subset(dd, delta < 4)
+
+head(mega.model.comparison)
+library(MASS)
+best.main.glm <- stepAIC(maineffects.glm)
+anova(maineffects.glm, test="Chi")
+
+#try with en, spa, fr
+interactions.glm <- glm(threatened ~ (.)^2, data=hits_selected, family=binomial(logit), na.action = na.fail)
+
+best.interaction.glm <- stepAIC(interactions.glm, trace = 0)
+anova(best.interaction.glm, test = "Chi")
+dd <- dredge(interactions.glm)
+
+head(best.interaction.glm)
+plot(dd)
+#and need to plot using non transformed variables
+
+summ(best.interaction.glm)
+jtools::plot_summs(best.interaction.glm, scale = TRUE, plot.distributions = TRUE, legend.title = "Threatened")
+
+############do prediction
+model_tr_th <- glm(threatened ~ masscentr + rangecentr + Migration + agriculture + 
+                         invasive + residential + energy + resource_use + nat_sys_modif + 
+                         pollution + climate_change, family=binomial(logit), data=birds_gbif_cites_langs_0, na.action = na.fail)
+plot(allEffects(model_tr_th))
+plot_coefs(model_tr_th, scale = TRUE, plot.distributions = TRUE, legend.title = "Threatened", groups)
+# install.packages("broom.mixed")
+# library(broom.mixed)
+jtools::plot_summs(model_tr_th, scale = TRUE, legend.title = "Threatened")
+summ(model_tr_th)
+summary(model_tr_th)
+
+birds_gbif_cites_langs_0$prediction <- predict.glm(model_tr_th)
+
+# Apply inverse logit to transform to probabilities
+#  (See Equation in the margin)
+birds_gbif_cites_langs_0$prob.predictions <- 1 / (1 + exp(-birds_gbif_cites_langs_0$prediction))
+
+# Print final predictions!
+prob.predictions
+
+write.csv(birds_gbif_cites_langs_0, file = "gtrends/use_for_analysis/prob.predictions.csv")
+
+plot(birds_gbif_cites_langs_0$prob.predictions)
+
+ggplot(data = birds_gbif_cites_langs_0, aes(x = prob.predictions, y = threatened)) + 
+  geom_point(color='blue') +
+  geom_smooth(method = "lm", se = FALSE)
+
+prob_pred <- birds_gbif_cites_langs_0 %>%
+  select(category.n, threatened, prob.predictions)
+
+#cat 3 = VU
+vu <- prob_pred %>%
+  subset(category.n == "3")
+colMeans(vu)
+#0.4871726 everything that is above 0.487 should be vulnerable;up
+
+birds_gbif_cites_langs_0 <- birds_gbif_cites_langs_0 %>%
+  subset(threatened == "0") %>%
+  subset(prob.predictions >= 0.487)
+
+should_be_threatened <- birds_gbif_cites_langs_0
+should_be_threatened <- should_be_threatened %>% relocate(threatened, .before = prob.predictions)
+should_be_threatened <- should_be_threatened %>% relocate(category.n, .before = prediction)
+
+should_be_threatened <- subset(should_be_threatened, select = -c(X))
+
+write.csv(should_be_threatened, file = "gtrends/use_for_analysis/should_be_threatened.csv")

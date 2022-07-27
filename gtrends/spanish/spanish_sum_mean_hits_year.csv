@@ -1,0 +1,741 @@
+,keyword,spa_count,spa_mean
+1,Abanico Gris,2719,12.25
+2,Abanico Negro,4219,19.00
+3,Abejaruco Europeo,1486,6.69
+4,Abejero Europeo,528,2.38
+5,Acentor Alpino,1546,6.96
+6,Acentor Comun,2342,10.55
+7,Achichilique de Clark,302,1.36
+8,Agachadiza Chica,755,3.40
+9,Agachadiza Comun,1037,4.67
+10,Agachadiza del Himalaya,518,2.33
+11,Agachadiza Real,790,3.56
+12,aguila Audaz,1328,5.98
+13,aguila Cafre,1218,5.49
+14,aguila Calzada,1537,6.92
+15,aguila Chica,2671,12.03
+16,aguila Coronada,3823,17.22
+17,aguila de Filipinas,1495,6.73
+18,aguila de Flores,5843,26.32
+19,aguila Esteparia,2213,9.97
+20,aguila Imperial Iberica,4451,20.05
+21,aguila India,3503,15.78
+22,aguila Marcial,1710,7.70
+23,aguila Monera,2374,10.69
+24,aguila Mora,7196,32.41
+25,aguila Negra,10757,48.45
+26,aguila Perdicera,3292,14.83
+27,aguila Pescadora,4695,21.15
+28,aguila Poma,1181,5.32
+29,aguila Pomerana,235,1.06
+30,aguila Rapaz,2619,11.80
+31,aguila Real,12937,58.27
+32,aguila Solitaria,6664,30.02
+33,aguila Volatinera,459,2.07
+34,Aguilucho Cenizo,3712,16.72
+35,Aguilucho Negro,1366,6.15
+36,Aguilucho Palido,1525,6.87
+37,Aguilucho Papialbo,720,3.24
+38,Aguja Cafe,1349,6.08
+39,Aguja Colinegra,922,4.15
+40,Aguja Colipinta,1442,6.50
+41,Agujeta Gris,1642,7.40
+42,Akiapolaau,957,4.31
+43,Akohekohe,897,4.04
+44,Albatros de Buller,761,3.43
+45,Albatros de Galapagos,3157,14.22
+46,Albatros de Laysan,704,3.17
+47,Albatros Ojeroso,619,2.79
+48,Albatros Real,4202,18.93
+49,Albatros Viajero,1352,6.09
+50,Alca Comun,1732,7.80
+51,Alcaravan Comun,1582,7.13
+52,Alcaravan Peruano,464,2.09
+53,Alcatraz Atlantico,805,3.63
+54,Alcaudon Chico,873,3.93
+55,Alcaudon Comun,3193,14.38
+56,Alcaudon Dorsirrojo,2333,10.51
+57,Alcaudon Real,3259,14.68
+58,Alcion de Guam,204,0.92
+59,Alimoche Comun,1559,7.02
+60,Alimoche Sombrio,690,3.11
+61,Alondra Comun,1290,5.81
+62,Alondra Cornuda,1584,7.14
+63,Alondra Ibis,1013,4.56
+64,Alondra Ricoti,2062,9.29
+65,Alzacola Rojizo,812,3.66
+66,Amazilia Tzacatl,1813,8.17
+67,Amazona Real,3150,14.19
+68,Ampelis Americano,809,3.64
+69,Ampelis Europeo,651,2.93
+70,anade Azulon,1412,6.36
+71,anade Friso,1543,6.95
+72,anade Malgache,1260,5.68
+73,anade Rabudo,826,3.72
+74,Andarrios Chico,1333,6.00
+75,Angu,5565,25.07
+76,Anianiau,1171,5.27
+77,ansar Comun,2004,9.03
+78,ansar Indio,3234,14.57
+79,Apapane,2475,11.15
+80,Arao Comun,1270,5.72
+81,Aratinga Jandaya,1387,6.25
+82,Aratinga Sol,4269,19.23
+83,Archibebe Claro,1149,5.18
+84,Argos Real,7423,33.44
+85,Arpia Mayor,889,4.00
+86,Arrendajo Siberiano,123,0.55
+87,Arrocero,8440,38.02
+88,Autillo de Flores,1668,7.51
+89,Autillo Europeo,2614,11.77
+90,Ave del Paraiso de Alberto,631,2.84
+91,Ave del Paraiso de Pennant,971,4.37
+92,Ave del Paraiso Fastuosa,831,3.74
+93,Ave del Paraiso Filamentosa,429,1.93
+94,Ave del Paraiso Republicana,500,2.25
+95,Ave Lira de Alberto,297,1.34
+96,Ave Lira Soberbia,2074,9.34
+97,Avefria Armada,209,0.94
+98,Avestruz Somali,728,3.28
+99,Avetigre Colorada,221,1.00
+100,Avion Asiatico,1100,4.95
+101,Avion Comun,2875,12.95
+102,Avion Isabel,5740,25.86
+103,Avion Oscuro,3403,15.33
+104,Avion Roquero,1307,5.89
+105,Avion Zapador,1013,4.56
+106,Avoceta Americana,663,2.99
+107,Avoceta Andina,274,1.23
+108,Azor Comun,1431,6.45
+109,Azulejo Claro,4178,18.82
+110,Azulillo indigo,859,3.87
+111,Bandurria Andina,728,3.28
+112,Bandurria Austral,3001,13.52
+113,Bandurria Mora,1227,5.53
+114,Barbudo Grande,5886,26.51
+115,Barnacla Cariblanca,1328,5.98
+116,Barnacla Carinegra,1080,4.86
+117,Bengali Rojo,3570,16.08
+118,Bigotudo,2714,12.23
+119,Bisbita Alpino,511,2.30
+120,Bisbita Caminero,875,3.94
+121,Bisbita Campestre,1256,5.66
+122,Bisbita Pratense,1923,8.66
+123,Brubru,3082,13.88
+124,Buho Africano,2102,9.47
+125,Buho Americano,1822,8.21
+126,Buho Campestre,1671,7.53
+127,Buho Chico,3708,16.70
+128,Buho Griton,522,2.35
+129,Buho Lechoso,1102,4.96
+130,Buho Nival,1886,8.50
+131,Buho Real,8488,38.23
+132,Buitre Cabecirrojo,569,2.56
+133,Buitre del Himalaya,1090,4.91
+134,Buitre Leonado,5489,24.73
+135,Buitre Moteado,505,2.27
+136,Buitre Negro,4976,22.41
+137,Bulbul Naranjero,325,1.46
+138,Bulbul Orfeo,1813,8.17
+139,Busardo Chapulinero,437,1.97
+140,Busardo Mixto,819,3.69
+141,Busardo Moro,460,2.07
+142,Busardo Ratonero,4264,19.21
+143,Cabezon Negro,1518,6.84
+144,Cacatua Blanca,3119,14.05
+145,Cacatua Enlutada,1813,8.17
+146,Cacatua Galah,3843,17.31
+147,Cacatua Galerita,2625,11.82
+148,Cacatua Ninfa,7070,31.85
+149,Cacatua Sanguinea,1204,5.42
+150,Cacatua Sulfurea,417,1.88
+151,Cacique de Para,11167,50.30
+152,Cacique Mexicano,1968,8.86
+153,Cacique Negro,3486,15.70
+154,Cacique Verde,2853,12.85
+155,Calamon Comun,968,4.36
+156,Calamon Takahe,1082,4.87
+157,Calandria Comun,4308,19.41
+158,Calandria Negra,2295,10.34
+159,Calao Bicorne,1238,5.58
+160,Calao Rinoceronte,509,2.29
+161,Camachuelo Comun,4100,18.47
+162,Camachuelo Trompetero,2322,10.46
+163,Camea,9753,43.93
+164,Campanero Blanco,693,3.12
+165,Canastera Comun,661,2.98
+166,Capuchino Grande,1431,6.45
+167,Capuchino Negro,2153,9.70
+168,Capuchino Pio,1799,8.10
+169,Capuchino Tricolor,1220,5.50
+170,Carabo Comun,970,4.37
+171,Carabo Lapon,3591,16.18
+172,Carabo Norteamericano,916,4.13
+173,Caracara Andino,809,3.64
+174,Caracara Austral,851,3.83
+175,Carbonero Comun,5799,26.12
+176,Carbonero Garrapinos,1572,7.08
+177,Carbonero Negro,3578,16.12
+178,Carbonero Palustre,2041,9.19
+179,Cardenal Pardo,2742,12.35
+180,Carpintero Amarillo,4604,20.74
+181,Carpintero Bellotero,2311,10.41
+182,Carpintero Blanco,4892,22.04
+183,Carraca Abisinia,782,3.52
+184,Carraca Europea,2429,10.94
+185,Carraca Lila,813,3.66
+186,Carrao,11192,50.41
+187,Carricerin Cejudo,499,2.25
+188,Carricero Comun,1733,7.81
+189,Carricero Tordal,548,2.47
+190,Casuario Comun,814,3.67
+191,Cauquen Colorado,3160,14.23
+192,Cauquen Comun,1353,6.09
+193,Cerceta Aliazul,446,2.01
+194,Cerceta Carretona,873,3.93
+195,Cerceta Comun,1151,5.18
+196,Cerceta Pardilla,1659,7.47
+197,Cernicalo Americano,4071,18.34
+198,Cernicalo Patirrojo,538,2.42
+199,Cernicalo Primilla,3614,16.28
+200,Cernicalo Vulgar,2747,12.37
+201,Chara Azul,1233,5.55
+202,Chara Enana,1781,8.02
+203,Chara Pinta,1644,7.41
+204,Chara Verde,3391,15.27
+205,Chara Yucateca,1411,6.36
+206,Charran artico,1466,6.60
+207,Charran Comun,2430,10.95
+208,Charran de Forster,245,1.10
+209,Charran Elegante,979,4.41
+210,Charran Inca,1089,4.91
+211,Charran Patinegro,461,2.08
+212,Charran Sombrio,679,3.06
+213,Chiricoca,3962,17.85
+214,Chocha Perdiz,2010,9.05
+215,Chopi,12324,55.51
+216,Chorlitejo Chico,844,3.80
+217,Chorlitejo Grande,922,4.15
+218,Chorlitejo Patinegro,795,3.58
+219,Chorlito Gris,862,3.88
+220,Chotacabras Cuellirrojo,1235,5.56
+221,Chotacabras Europeo,726,3.27
+222,Chotacabras Orejudo,199,0.90
+223,Chova Piquigualda,1114,5.02
+224,Chova Piquirroja,1769,7.97
+225,Cisne Cantor,686,3.09
+226,Cisne Coscoroba,1785,8.04
+227,Cisne Negro,853.5,3.84
+228,Cisne Trompetero,1022,4.60
+229,Codorniz China,3477,15.66
+230,Codorniz Comun,2555,11.51
+231,Codorniz Japonesa,2674,12.05
+232,Cogujada Comun,1277,5.75
+233,Cogujada Montesina,2670,12.03
+234,Colibri Abejorro,2709,12.20
+235,Colibri Coliblanco,292,1.32
+236,Colibri Cometa,1532,6.90
+237,Colibri de Anna,1389,6.26
+238,Colibri de Arica,1981,8.92
+239,Colibri de Costa,4250,19.14
+240,Colibri Gargantilla,116,0.52
+241,Colibri Gigante,2970,13.38
+242,Colibri Golondrina,2579,11.62
+243,Colibri Morado,2953,13.30
+244,Colibri Negro,5405,24.35
+245,Colibri Real,6191,27.89
+246,Colibri Rufo,172,0.77
+247,Colibri Tijereta,1315,5.92
+248,Colibri Topacio,334,1.50
+249,Colibri Violeta,2740,12.34
+250,Colibri Zunzuncito,1941,8.74
+251,Colimbo del Pacifico,141,0.64
+252,Colimbo Grande,1187,5.35
+253,Colin de California,1757,7.91
+254,Colin de Gambel,985,4.44
+255,Colirrojo Tizon,3228,14.54
+256,Collalba Desertica,757,3.41
+257,Collalba Gris,1413,6.36
+258,Collalba Negra,962,4.33
+259,Columbina Picui,1407,6.34
+260,Combatiente,3314,14.93
+261,Condor Andino,3196,14.40
+262,Condor Californiano,3426,15.43
+263,Copeton Rufo,963,4.34
+264,Coqueta Adornada,183,0.82
+265,Coqueta de Guerrero,1949,8.78
+266,Cormoran Grande,3117,14.04
+267,Cormoran Imperial,1840,8.29
+268,Cormoran Mancon,485,2.18
+269,Corneja Negra,1227,5.53
+270,Correcaminos Grande,1891,8.52
+271,Corredor Indio,2243,10.10
+272,Corredor Sahariano,675,3.04
+273,Correlimos Canelo,951,4.28
+274,Correlimos Comun,1748,7.87
+275,Correlimos Cuchareta,201,0.91
+276,Correlimos Gordo,576,2.59
+277,Correlimos Grande,1270,5.72
+278,Correlimos Menudo,1593,7.18
+279,Correlimos Oscuro,1087,4.90
+280,Correlimos Pectoral,823,3.71
+281,Cortarramas Chileno,485,2.18
+282,Cortarramas Peruano,636,2.86
+283,Cotorra Argentina,6519,29.36
+284,Cotorra Serrana Occidental,1127,5.08
+285,Cotorra Serrana Oriental,814,3.67
+286,Cotorrita Amazonica,505,2.27
+287,Crialo Europeo,1023,4.61
+288,Cua Azul,4744,21.37
+289,Cuco Comun,2923,13.17
+290,Cuco Grande,2442,11.00
+291,Cuco Negro,3172,14.29
+292,Cuco Terrestre de Sumatra,203,0.91
+293,Cuervo Americano,2917,13.14
+294,Cuervo Cubano,2198,9.90
+295,Cuervo de Flores,2727,12.28
+296,Cuervo de Torres,2940,13.24
+297,Cuervo Grande,4654,20.96
+298,Cuervo Gris,2901,13.07
+299,Cuervo Hawaiano,1973,8.89
+300,Cuervo Picogordo,471,2.12
+301,Cuitlacoche Rojizo,628,2.83
+302,Culebrera Europea,1556,7.01
+303,Curruca Capirotada,2917,13.14
+304,Curruca Mosquitera,993,4.47
+305,Diamante Cebra,1023,4.61
+306,Diamante de Gould,9121,41.09
+307,Diamante Escarlata,1400,6.31
+308,Diamante Moteado,2215,9.98
+309,Diamante Tricolor,2059,9.27
+310,Dromas,3631,16.36
+311,Ducula Bicolor,647,2.91
+312,Egotelo de Nueva Caledonia,929,4.18
+313,eider Real,1202,5.41
+314,Elanio Comun,631,2.84
+315,Elanio Tijereta,840,3.78
+316,Eminia,4061,18.29
+317,Emu,8370,37.70
+318,Escribano Aureolado,428,1.93
+319,Escribano Cerillo,1886,8.50
+320,Escribano de Smith,248,1.12
+321,Escribano Hortelano,2966,13.36
+322,Escribano Lapon,853,3.84
+323,Escribano Montesino,1864,8.40
+324,Escribano Nival,1129,5.09
+325,Escribano Palustre,1369,6.17
+326,Escribano Sahariano,526,2.37
+327,Escribano Triguero,947,4.27
+328,Esmerejon,3528,15.89
+329,Espatula Real,916,4.13
+330,Espatula Rosada,2799,12.61
+331,Espinero Chico,425,1.91
+332,Espinero Grande,1377,6.20
+333,Espolonero de Borneo,406,1.83
+334,Estornino Amatista,909,4.09
+335,Estornino de Bali,693,3.12
+336,Estornino Negro,2681,12.08
+337,Estornino Pinto,2969,13.37
+338,Estornino Rosado,911,4.10
+339,Faisan de Lady Amherst,853,3.84
+340,Faisan Dorado,10315,46.46
+341,Faisan Kalij,674,3.04
+342,Faisan Plateado,2362,10.64
+343,Faisan Venerado,1110,5.00
+344,Falaropo Picogrueso,637,2.87
+345,Federal,15114,68.08
+346,Flamenco Chileno,3160,14.23
+347,Flamenco Comun,2464,11.10
+348,Flamenco Enano,892,4.02
+349,Flamenco Rojo,4728,21.30
+350,Focha Americana,1178,5.31
+351,Focha Comun,3138,14.14
+352,Focha Cornuda,838,3.77
+353,Focha Moruna,929,4.18
+354,Frailecillo Coletudo,487,2.19
+355,Fumarel Cariblanco,552,2.49
+356,Gallineta Americana,805,3.63
+357,Gallineta Comun,1707,7.69
+358,Gallito Arena,1962,8.84
+359,Gallito de Las Rocas Guayanes,278,1.25
+360,Gallito de Las Rocas Peruano,2107,9.49
+361,Gallo Bankiva,2117,9.54
+362,Gallo Gris,3263,14.70
+363,Ganga Iberica,945,4.26
+364,Ganga India,8993,40.51
+365,Ganga Ortega,2074,9.34
+366,Ganso del Nilo,2885,13.00
+367,Ganso Espolonado,1377,6.20
+368,Ganso Urraca,389,1.75
+369,Garceta Azul,1404,6.32
+370,Garceta Comun,2818,12.69
+371,Garceta Grande,1750,7.88
+372,Garcilla Bueyera,2510,11.31
+373,Garcilla Cangrejera,867,3.91
+374,Garza Agami,268,1.21
+375,Garza Azulada,595,2.68
+376,Garza Chiflona,1891,8.52
+377,Garza Cuca,1503,6.77
+378,Garza Goliat,655,2.95
+379,Garza Imperial,1958,8.82
+380,Garza Real,9531,42.93
+381,Gaucho Chico,4783,21.55
+382,Gaucho Grande,7555,34.03
+383,Gavilan Comun,2264,10.20
+384,Gavilan Japones,747,3.36
+385,Gavilan Pio,2353,10.60
+386,Gavion Atlantico,1376,6.20
+387,Gaviota Argentea,1675,7.55
+388,Gaviota Cangrejera,1066,4.80
+389,Gaviota Cocinera,1956,8.81
+390,Gaviota Mexicana,3191,14.37
+391,Gaviota Patiamarilla,2864,12.90
+392,Gaviota Sombria,1201,5.41
+393,Golondrina Azul,2841,12.80
+394,Golondrina Comun,1804,8.13
+395,Golondrina Daurica,1316,5.93
+396,Golondrina Negra,1562,7.04
+397,Gorrion Alpino,1087,4.90
+398,Gorrion Chillon,1082,4.87
+399,Gorrion Comun,4895,22.05
+400,Gorrion Molinero,905,4.08
+401,Gorrion Moruno,1079,4.86
+402,Graja,8668,39.05
+403,Graveteiro,957,4.31
+404,Grevol Engolado,332,1.50
+405,Grulla Comun,1784,8.04
+406,Grulla Coronada Cuelligris,660,2.97
+407,Grulla Damisela,1031,4.64
+408,Grulla del Paraiso,312,1.41
+409,Grulla Siberiana,708,3.19
+410,Grulla Trompetera,203,0.91
+411,Guacamayo de Lear,1148,5.17
+412,Guacamayo de Spix,512.5,2.31
+413,Guacamayo Glauco,2155,9.71
+414,Guacamayo Jacinto,4806,21.65
+415,Guacamayo Macao,1718,7.74
+416,Guacamayo Militar,1717,7.73
+417,Guacharo,3582,16.14
+418,Guajolote Ocelado,1466,6.60
+419,Guardabosques Griton,301,1.36
+420,Guion de Codornices,714,3.22
+421,Gura Occidental,700,3.15
+422,Halcon Borni,373,1.68
+423,Halcon Gerifalte,1560,7.03
+424,Halcon Gris,3906,17.59
+425,Halcon Mexicano,2155,9.71
+426,Halcon Negro,6689,30.13
+427,Halcon Peregrino,8539,38.46
+428,Halcon Reidor,1921,8.65
+429,Halcon Sacre,1806,8.14
+430,Halconcito Africano,587,2.64
+431,Herrerillo Canario,2590,11.67
+432,Herrerillo Capuchino,1535,6.91
+433,Herrerillo Comun,3121,14.06
+434,Hihi,4507,20.30
+435,Hoazin,3837,17.28
+436,Hormiguero Negro,3816,17.19
+437,Ibis Blanco,5106,23.00
+438,Ibis Calvo,1464,6.59
+439,Ibis Eremita,2145,9.66
+440,Ibis Escarlata,1191,5.36
+441,Ibis Hadada,2437,10.98
+442,Ibis Nipon,1324,5.96
+443,Ibis Oriental,3466,15.61
+444,Ibis Sagrado,2287,10.30
+445,Ibis Verde,9331,42.03
+446,Ifrita,1646,7.41
+447,Iiwi,3676,16.56
+448,Inca Arcoiris,1341,6.04
+449,Inca Negro,7167,32.28
+450,Indicador Grande,3488,15.71
+451,Indicador Menor,2588,11.66
+452,Inseparable de Fischer,1072,4.83
+453,Jabiru Africano,1496,6.74
+454,Jacana Africana,815,3.67
+455,Jacana Crestada,341,1.54
+456,Jilguero Europeo,1638,7.38
+457,Jilguero Lugano,2007,9.04
+458,Jilguero Negro,2717,12.24
+459,Jilguero Rojo,2437,10.98
+460,Junquero,1985,8.94
+461,Kagu,10147,45.71
+462,Kaka,4970,22.39
+463,Kakapo,5081,22.89
+464,Kea,5927,26.70
+465,Lagopodo Comun,878,3.95
+466,Lavandera Blanca,4653,20.96
+467,Lavandera Boyera,2971,13.38
+468,Lechuza Comun,5352,24.11
+469,Llanero,1931,8.70
+470,Loica Comun,1663,7.49
+471,Loica Pampeana,2212,9.96
+472,Lori Arcoiris,3658,16.48
+473,Lori Rojo,893,4.02
+474,Lorito Senegales,378,1.70
+475,Loro Barranquero,3028,13.64
+476,Loro Cacique,1750,7.88
+477,Loro Choclero,766,3.45
+478,Loro Morado,2537,11.43
+479,Loro Negro,5652,25.46
+480,Loro Yaco,6190,27.88
+481,Maluro Esplendido,357,1.61
+482,Malvasia Cabeciblanca,1803,8.12
+483,Mango Dominicano,3584,16.14
+484,Marabu Africano,1074,4.84
+485,Marabu Argala,411,1.85
+486,Martin Pescador Enano,472,2.13
+487,Martineta Comun,768,3.46
+488,Martinete Comun,1206,5.43
+489,Microloro Pusio,527,2.37
+490,Mielero Regente,162,0.73
+491,Milano Negro,7035,31.69
+492,Milano Real,9700,43.69
+493,Mina Dorado,2969,13.37
+494,Mina Grande,10432,46.99
+495,Mina Indio,3595,16.19
+496,Minero Grande,4154,18.71
+497,Minero Peruano,4142,18.66
+498,Mirlo Capiblanco,854,3.85
+499,Mirlo Comun,4216,18.99
+500,Mito Comun,6576,29.62
+501,Mochuelo Boreal,718,3.23
+502,Mochuelo Chico,814,3.67
+503,Mochuelo de Madriguera,1962,8.84
+504,Mochuelo Europeo,1293,5.82
+505,Mochuelo Peludo,382,1.72
+506,Mochuelo Tamaulipeco,507,2.28
+507,Momoto Mexicano,557,2.51
+508,Monal Colirrojo,210,0.95
+509,Monarca de Flores,2088,9.41
+510,Monarca Negro,3317,14.94
+511,Monarca Nuquinegro,1137,5.12
+512,Monja Negra,4965,22.36
+513,Monjita Blanca,1920,8.65
+514,Monjita Chocolate,969,4.36
+515,Monterita Canela,857,3.86
+516,Morito Comun,1705,7.68
+517,Mosquero Cardenal,2115,9.53
+518,Mosquero Real,610,2.75
+519,Mosquitero Bilistado,1255,5.65
+520,Mosquitero Canario,452,2.04
+521,Mosquitero Comun,3884,17.50
+522,Mosquitero Musical,2786,12.55
+523,Mosquitero Papialbo,1652,7.44
+524,Mosquitero Silbador,994,4.48
+525,Mulato Azul,2566,11.56
+526,Nictibio Colilargo,385,1.73
+527,Nictibio Grande,216,0.97
+528,Nictibio Jamaicano,283,1.27
+529,Nictibio Urutau,486,2.19
+530,Obispo Colilargo,534,2.41
+531,Obispo Negro,2522,11.36
+532,Obispo Rojo,3089,13.91
+533,Ocotero,987,4.45
+534,Oropendola Europea,786,3.54
+535,Ou,12778,57.56
+536,Pagaza Piconegra,1659,7.47
+537,Pajaro Capuchino,2273,10.24
+538,Pajaro Militar,2607,11.74
+539,Palmero,4950,22.30
+540,Paloma Bravia,3529,15.90
+541,Paloma de Nicobar,854,3.85
+542,Paloma Peruana,3414,15.38
+543,Paloma Rabiche,1827,8.23
+544,Paloma Rosada,2090,9.41
+545,Paloma Torcaz,4961,22.35
+546,Paloma Torcaza,6064,27.32
+547,Paloma Zurita,3933,17.72
+548,Papamoscas Cerrojillo,1858,8.37
+549,Papamoscas Gris,1702,7.67
+550,Pardela Balear,3254,14.66
+551,Pardela Cenicienta,2094,9.43
+552,Pardela Culinegra,160,0.72
+553,Pardela de Townsend,1238,5.58
+554,Pardela Pichoneta,628,2.83
+555,Pardillo Comun,5900,26.58
+556,Pato Arlequin,1245,5.61
+557,Pato Azul,4064,18.31
+558,Pato Colorado,4213,18.98
+559,Pato Criollo,5306,23.90
+560,Pato Joyuyo,1855,8.36
+561,Pato Mandarin,3528,15.89
+562,Pato Morado,4034,18.17
+563,Pato Picazo,2583,11.64
+564,Pava Aliblanca,1064,4.79
+565,Pava Andina,2358,10.62
+566,Pava Cojolita,733,3.30
+567,Pava Negra,2921,13.16
+568,Pavo Real Comun,2406,10.84
+569,Pavo Real Cuelliverde,969,4.36
+570,Pavon Cornudo,855,3.85
+571,Pelicano Alcatraz,1613,7.27
+572,Pelicano Australiano,315,1.42
+573,Pelicano Pardo,2890,13.02
+574,Pelicano Rosado,1651,7.44
+575,Perdiz Griega,1793,8.08
+576,Perdiz Moruna,1994,8.98
+577,Perdiz Negra,1535,6.91
+578,Perdiz Pardilla,1998,9.00
+579,Perdiz Roja,3566,16.06
+580,Pergolero Grande,304,1.37
+581,Pergolero Pardo,734,3.31
+582,Perico Multicolor,807,3.64
+583,Perico Nocturno,400,1.80
+584,Petirrojo Europeo,1583,7.13
+585,Petrel de Barau,712,3.21
+586,Petrel de Bulwer,596,2.68
+587,Petrel de Galapagos,1637,7.37
+588,Petrel Freira,236,1.06
+589,Petrel Niveo,446,2.01
+590,Petroica Carbonera,452,2.04
+591,Petroica Encarnada,558,2.51
+592,Peutren,1431,6.45
+593,Picabuey,2043,9.20
+594,Picamaderos Negro,2203,9.92
+595,Pico del Himalaya,3173,14.29
+596,Pico Menor,5887,26.52
+597,Pico Mexicano,9100,40.99
+598,Pico Picapinos,2358,10.62
+599,Picogordo Comun,807,3.64
+600,Picogrueso Pechirrosado,233,1.05
+601,Picozapato,1460.5,6.58
+602,Pigargo Americano,1123,5.06
+603,Pigargo Europeo,1020,4.59
+604,Pigargo Gigante,5050,22.75
+605,Pigargo Oriental,1172,5.28
+606,Pintada Negra,6502,29.29
+607,Pintada Vulturina,1237,5.57
+608,Pinzon Real,2911,13.11
+609,Pinzon Vulgar,2391,10.77
+610,Piquero Pardo,1124,5.06
+611,Piquero Patirrojo,330,1.49
+612,Piquero Peruano,896,4.04
+613,Pirincho,3280,14.77
+614,Pita Azul,3496,15.75
+615,Pita India,6056,27.28
+616,Pitohui Bicolor,633,2.85
+617,Platanero,7947,35.80
+618,Pluvial,13784,62.09
+619,Podargo Australiano,612,2.76
+620,Podargo de Ceilan,291,1.31
+621,Podargo Orejudo,296,1.33
+622,Podargo Papu,220,0.99
+623,Polluela Pintoja,1260,5.68
+624,Porron Bola,545,2.45
+625,Porron Malgache,334,1.50
+626,Porron Maori,181,0.82
+627,Porron Osculado,347,1.56
+628,Porron Pardo,1056,4.76
+629,Potoyunco Peruano,1038,4.68
+630,Quebrantahuesos,3099,13.96
+631,Quetzal Guatemalteco,3702,16.68
+632,Rabijunco Etereo,900,4.05
+633,Rascon de Cuvier,315,1.42
+634,Rascon Weka,185,0.83
+635,Reinita de Kentucky,184,0.83
+636,Reinita Estriada,859,3.87
+637,Reinita Trepadora,738,3.32
+638,Remolinera Ventriblanca,1183,5.33
+639,Reyezuelo Listado,1491,6.72
+640,Reyezuelo Sencillo,896,4.04
+641,Saltarin Alitorcido,839,3.78
+642,Saltarin Azul,974,4.39
+643,Saltarin Coronidorado,100,0.45
+644,Saltarin Enano,1372,6.18
+645,Sapayoa,675,3.04
+646,Sastrecillo Comun,621,2.80
+647,Secretario,8294,37.36
+648,Semillero de Barbados,261,1.18
+649,Serin Verdecillo,1481,6.67
+650,Serreta Chica,526,2.37
+651,Sietecolores,2187,9.85
+652,Sinsonte de Floreana,347,1.56
+653,Sinsonte Tropical,590,2.66
+654,Solitario Negro,5637,25.39
+655,Somormujo Cuellirrojo,742,3.34
+656,Somormujo Lavanco,1733,7.81
+657,Tangara Multicolor,786,3.54
+658,Tangara Verde,6807,30.66
+659,Tantalo Africano,458,2.06
+660,Tarabilla Canaria,782,3.52
+661,Tarro Blanco,6189,27.88
+662,Tarro Canelo,976,4.40
+663,Tejedor Baya,1081,4.87
+664,Tejedor Dorado Asiatico,238,1.07
+665,Tejedor Republicano,178.5,0.80
+666,Terrera Comun,1058,4.77
+667,Tigana,3298,14.86
+668,Tirano Griton,510,2.30
+669,Tirano Oriental,1088,4.90
+670,Tordina Cejinegra,148,0.67
+671,Tordo Amarillo,2982,13.43
+672,Tordo Musico,1558,7.02
+673,Tordo Renegrido,3063,13.80
+674,Torillo Andaluz,889,4.00
+675,Torillo Tanki,209,0.94
+676,Tortola Europea,2203,9.92
+677,Tortola Oriental,676,3.05
+678,Tortola Rosigris,1545,6.96
+679,Tortola Turca,3427,15.44
+680,Tortolita Mexicana,2280,10.27
+681,Trepador Azul,3427,15.44
+682,Treparriscos,4134,18.62
+683,Trogon Malabar,3491,15.73
+684,Trompetero Aligris,685,3.09
+685,Tucan Pechiblanco,444,2.00
+686,Tucan Toco,3401,15.32
+687,Tucanete Culirrojo,266,1.20
+688,Turaco de Guinea,612,2.76
+689,Turaco de Knysna,427,1.92
+690,Turaco de Livingstone,446,2.01
+691,Turaco de Ross,438,1.97
+692,Turpial Amarillo,3683,16.59
+693,Turpial Venezolano,1761,7.93
+694,Urraca Comun,4531,20.41
+695,Urraca de Formosa,1278,5.76
+696,Urraca Negra,2935,13.22
+697,Urraca Verde,2330,10.50
+698,Vencejo Cafre,1734,7.81
+699,Vencejo Comun,2698,12.15
+700,Vencejo Mongol,2170,9.77
+701,Vencejo Moro,466,2.10
+702,Vencejo Palido,401,1.81
+703,Verderon Comun,2510,11.31
+704,Verderon Serrano,1715,7.73
+705,Verdugo Flautista,632,2.85
+706,Vinago Cuellirrosa,267,1.20
+707,Viuda del Paraiso,1618,7.29
+708,Viuda Real,5025,22.64
+709,Yacutoro,1718,7.74
+710,Zanate Mexicano,3713,16.73
+711,Zarapito Boreal,1414,6.37
+712,Zarapito Fino,680,3.06
+713,Zarapito Real,1691,7.62
+714,Zarapito Trinador,1138,5.13
+715,Zenaida Peruana,1390,6.26
+716,Zopilote Negro,3550,15.99
+717,Zopilote Rey,2478,11.16
+718,Zorzal Alirrojo,1754,7.90
+719,Zorzal Cabecinegro,2165,9.75
+720,Zorzal Chalchalero,3134,14.12
+721,Zorzal Charlo,1950,8.78
+722,Zorzal Colorado,4524,20.38
+723,Zorzal Comun,5646,25.43
+724,Zorzal Dorado,432,1.95
+725,Zorzal Grandala,474,2.14
+726,Zorzal Pardo,872,3.93
+727,Zorzal Real,2626,11.83
+728,Zorzal Rojigris,560,2.52
+729,Paraguero Corbatudo,582,2.61
+730,Paraguero Ornado,285,1.28
+731,Pinguino Barbijo,1412,6.33
+732,Pinguino de Adelia,1694,7.60
+733,Pinguino de Galapagos,3825,17.15
+734,Pinguino de Humboldt,4860,21.79
+735,Pinguino Emperador,3108,13.94
+736,Pinguino Enano,948,4.25
+737,Pinguino Juanito,1816,8.14
+738,Pinguino Macaroni,1910,8.57
+739,Pinguino Magallanico,3029,13.58
+740,Pinguino Rey,5345,23.97

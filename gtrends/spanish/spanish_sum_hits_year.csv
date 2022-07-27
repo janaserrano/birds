@@ -1,729 +1,741 @@
-"","keyword","count"
-"1","Abanico Gris",2719
-"2","Abanico Negro",4219
-"3","Abejaruco Europeo",1486
-"4","Abejero Europeo",528
-"5","Acentor Alpino",1546
-"6","Acentor Comun",2342
-"7","Achichilique de Clark",302
-"8","Agachadiza Chica",755
-"9","Agachadiza Comun",1037
-"10","Agachadiza del Himalaya",518
-"11","Agachadiza Real",790
-"12","aguila Audaz",1328
-"13","aguila Cafre",1218
-"14","aguila Calzada",1537
-"15","aguila Chica",2671
-"16","aguila Coronada",3823
-"17","aguila de Filipinas",1495
-"18","aguila de Flores",5843
-"19","aguila Esteparia",2213
-"20","aguila Imperial Iberica",4451
-"21","aguila India",3503
-"22","aguila Marcial",1710
-"23","aguila Monera",2374
-"24","aguila Mora",7196
-"25","aguila Negra",10757
-"26","aguila Perdicera",3292
-"27","aguila Pescadora",4695
-"28","aguila Poma",1181
-"29","aguila Pomerana",235
-"30","aguila Rapaz",2619
-"31","aguila Real",12937
-"32","aguila Solitaria",6664
-"33","aguila Volatinera",459
-"34","Aguilucho Cenizo",3712
-"35","Aguilucho Negro",1366
-"36","Aguilucho Palido",1525
-"37","Aguilucho Papialbo",720
-"38","Aguja Cafe",1349
-"39","Aguja Colinegra",922
-"40","Aguja Colipinta",1442
-"41","Agujeta Gris",1642
-"42","Akiapolaau",957
-"43","Akohekohe",897
-"44","Albatros de Buller",761
-"45","Albatros de Galapagos",3157
-"46","Albatros de Laysan",704
-"47","Albatros Ojeroso",619
-"48","Albatros Real",4202
-"49","Albatros Viajero",1352
-"50","Alca Comun",1732
-"51","Alcaravan Comun",1582
-"52","Alcaravan Peruano",464
-"53","Alcatraz Atlantico",805
-"54","Alcaudon Chico",873
-"55","Alcaudon Comun",3193
-"56","Alcaudon Dorsirrojo",2333
-"57","Alcaudon Real",3259
-"58","Alcion de Guam",204
-"59","Alimoche Comun",1559
-"60","Alimoche Sombrio",690
-"61","Alondra Comun",1290
-"62","Alondra Cornuda",1584
-"63","Alondra Ibis",1013
-"64","Alondra Ricoti",2062
-"65","Alzacola Rojizo",812
-"66","Amazilia Tzacatl",1813
-"67","Amazona Real",3150
-"68","Ampelis Americano",809
-"69","Ampelis Europeo",651
-"70","anade Azulon",1412
-"71","anade Friso",1543
-"72","anade Malgache",1260
-"73","anade Rabudo",826
-"74","Andarrios Chico",1333
-"75","Angu",5565
-"76","Anianiau",1171
-"77","ansar Comun",2004
-"78","ansar Indio",3234
-"79","Apapane",2475
-"80","Arao Comun",1270
-"81","Aratinga Jandaya",1387
-"82","Aratinga Sol",4269
-"83","Archibebe Claro",1149
-"84","Argos Real",7423
-"85","Arpia Mayor",889
-"86","Arrendajo Siberiano",123
-"87","Arrocero",8440
-"88","Autillo de Flores",1668
-"89","Autillo Europeo",2614
-"90","Ave del Paraiso de Alberto",631
-"91","Ave del Paraiso de Pennant",971
-"92","Ave del Paraiso Fastuosa",831
-"93","Ave del Paraiso Filamentosa",429
-"94","Ave del Paraiso Republicana",500
-"95","Ave Lira de Alberto",297
-"96","Ave Lira Soberbia",2074
-"97","Avefria Armada",209
-"98","Avestruz Somali",728
-"99","Avetigre Colorada",221
-"100","Avion Asiatico",1100
-"101","Avion Comun",2875
-"102","Avion Isabel",5740
-"103","Avion Oscuro",3403
-"104","Avion Roquero",1307
-"105","Avion Zapador",1013
-"106","Avoceta Americana",663
-"107","Avoceta Andina",274
-"108","Azor Comun",1431
-"109","Azulejo Claro",4178
-"110","Azulillo indigo",859
-"111","Bandurria Andina",728
-"112","Bandurria Austral",3001
-"113","Bandurria Mora",1227
-"114","Barbudo Grande",5886
-"115","Barnacla Cariblanca",1328
-"116","Barnacla Carinegra",1080
-"117","Bengali Rojo",3570
-"118","Bigotudo",2714
-"119","Bisbita Alpino",511
-"120","Bisbita Caminero",875
-"121","Bisbita Campestre",1256
-"122","Bisbita Pratense",1923
-"123","Brubru",3082
-"124","Buho Africano",2102
-"125","Buho Americano",1822
-"126","Buho Campestre",1671
-"127","Buho Chico",3708
-"128","Buho Griton",522
-"129","Buho Lechoso",1102
-"130","Buho Nival",1886
-"131","Buho Real",8488
-"132","Buitre Cabecirrojo",569
-"133","Buitre del Himalaya",1090
-"134","Buitre Leonado",5489
-"135","Buitre Moteado",505
-"136","Buitre Negro",4976
-"137","Bulbul Naranjero",325
-"138","Bulbul Orfeo",1813
-"139","Busardo Chapulinero",437
-"140","Busardo Mixto",819
-"141","Busardo Moro",460
-"142","Busardo Ratonero",4264
-"143","Cabezon Negro",1518
-"144","Cacatua Blanca",3119
-"145","Cacatua Enlutada",1813
-"146","Cacatua Galah",3843
-"147","Cacatua Galerita",2625
-"148","Cacatua Ninfa",7070
-"149","Cacatua Sanguinea",1204
-"150","Cacatua Sulfurea",417
-"151","Cacique de Para",11167
-"152","Cacique Mexicano",1968
-"153","Cacique Negro",3486
-"154","Cacique Verde",2853
-"155","Calamon Comun",968
-"156","Calamon Takahe",1082
-"157","Calandria Comun",4308
-"158","Calandria Negra",2295
-"159","Calao Bicorne",1238
-"160","Calao Rinoceronte",509
-"161","Camachuelo Comun",4100
-"162","Camachuelo Trompetero",2322
-"163","Camea",9753
-"164","Campanero Blanco",693
-"165","Canastera Comun",661
-"166","Capuchino Grande",1431
-"167","Capuchino Negro",2153
-"168","Capuchino Pio",1799
-"169","Capuchino Tricolor",1220
-"170","Carabo Comun",970
-"171","Carabo Lapon",3591
-"172","Carabo Norteamericano",916
-"173","Caracara Andino",809
-"174","Caracara Austral",851
-"175","Carbonero Comun",5799
-"176","Carbonero Garrapinos",1572
-"177","Carbonero Negro",3578
-"178","Carbonero Palustre",2041
-"179","Cardenal Pardo",2742
-"180","Carpintero Amarillo",4604
-"181","Carpintero Bellotero",2311
-"182","Carpintero Blanco",4892
-"183","Carraca Abisinia",782
-"184","Carraca Europea",2429
-"185","Carraca Lila",813
-"186","Carrao",11192
-"187","Carricerin Cejudo",499
-"188","Carricero Comun",1733
-"189","Carricero Tordal",548
-"190","Casuario Comun",814
-"191","Cauquen Colorado",3160
-"192","Cauquen Comun",1353
-"193","Cerceta Aliazul",446
-"194","Cerceta Carretona",873
-"195","Cerceta Comun",1151
-"196","Cerceta Pardilla",1659
-"197","Cernicalo Americano",4071
-"198","Cernicalo Patirrojo",538
-"199","Cernicalo Primilla",3614
-"200","Cernicalo Vulgar",2747
-"201","Chara Azul",1233
-"202","Chara Enana",1781
-"203","Chara Pinta",1644
-"204","Chara Verde",3391
-"205","Chara Yucateca",1411
-"206","Charran artico",1466
-"207","Charran Comun",2430
-"208","Charran de Forster",245
-"209","Charran Elegante",979
-"210","Charran Inca",1089
-"211","Charran Patinegro",461
-"212","Charran Sombrio",679
-"213","Chiricoca",3962
-"214","Chocha Perdiz",2010
-"215","Chopi",12324
-"216","Chorlitejo Chico",844
-"217","Chorlitejo Grande",922
-"218","Chorlitejo Patinegro",795
-"219","Chorlito Gris",862
-"220","Chotacabras Cuellirrojo",1235
-"221","Chotacabras Europeo",726
-"222","Chotacabras Orejudo",199
-"223","Chova Piquigualda",1114
-"224","Chova Piquirroja",1769
-"225","Cisne Cantor",686
-"226","Cisne Coscoroba",1785
-"227","Cisne Negro",853.5
-"228","Cisne Trompetero",1022
-"229","Codorniz China",3477
-"230","Codorniz Comun",2555
-"231","Codorniz Japonesa",2674
-"232","Cogujada Comun",1277
-"233","Cogujada Montesina",2670
-"234","Colibri Abejorro",2709
-"235","Colibri Coliblanco",292
-"236","Colibri Cometa",1532
-"237","Colibri de Anna",1389
-"238","Colibri de Arica",1981
-"239","Colibri de Costa",4250
-"240","Colibri Gargantilla",116
-"241","Colibri Gigante",2970
-"242","Colibri Golondrina",2579
-"243","Colibri Morado",2953
-"244","Colibri Negro",5405
-"245","Colibri Real",6191
-"246","Colibri Rufo",172
-"247","Colibri Tijereta",1315
-"248","Colibri Topacio",334
-"249","Colibri Violeta",2740
-"250","Colibri Zunzuncito",1941
-"251","Colimbo del Pacifico",141
-"252","Colimbo Grande",1187
-"253","Colin de California",1757
-"254","Colin de Gambel",985
-"255","Colirrojo Tizon",3228
-"256","Collalba Desertica",757
-"257","Collalba Gris",1413
-"258","Collalba Negra",962
-"259","Columbina Picui",1407
-"260","Combatiente",3314
-"261","Condor Andino",3196
-"262","Condor Californiano",3426
-"263","Copeton Rufo",963
-"264","Coqueta Adornada",183
-"265","Coqueta de Guerrero",1949
-"266","Cormoran Grande",3117
-"267","Cormoran Imperial",1840
-"268","Cormoran Mancon",485
-"269","Corneja Negra",1227
-"270","Correcaminos Grande",1891
-"271","Corredor Indio",2243
-"272","Corredor Sahariano",675
-"273","Correlimos Canelo",951
-"274","Correlimos Comun",1748
-"275","Correlimos Cuchareta",201
-"276","Correlimos Gordo",576
-"277","Correlimos Grande",1270
-"278","Correlimos Menudo",1593
-"279","Correlimos Oscuro",1087
-"280","Correlimos Pectoral",823
-"281","Cortarramas Chileno",485
-"282","Cortarramas Peruano",636
-"283","Cotorra Argentina",6519
-"284","Cotorra Serrana Occidental",1127
-"285","Cotorra Serrana Oriental",814
-"286","Cotorrita Amazonica",505
-"287","Crialo Europeo",1023
-"288","Cua Azul",4744
-"289","Cuco Comun",2923
-"290","Cuco Grande",2442
-"291","Cuco Negro",3172
-"292","Cuco Terrestre de Sumatra",203
-"293","Cuervo Americano",2917
-"294","Cuervo Cubano",2198
-"295","Cuervo de Flores",2727
-"296","Cuervo de Torres",2940
-"297","Cuervo Grande",4654
-"298","Cuervo Gris",2901
-"299","Cuervo Hawaiano",1973
-"300","Cuervo Picogordo",471
-"301","Cuitlacoche Rojizo",628
-"302","Culebrera Europea",1556
-"303","Curruca Capirotada",2917
-"304","Curruca Mosquitera",993
-"305","Diamante Cebra",1023
-"306","Diamante de Gould",9121
-"307","Diamante Escarlata",1400
-"308","Diamante Moteado",2215
-"309","Diamante Tricolor",2059
-"310","Dromas",3631
-"311","Ducula Bicolor",647
-"312","Egotelo de Nueva Caledonia",929
-"313","eider Real",1202
-"314","Elanio Comun",631
-"315","Elanio Tijereta",840
-"316","Eminia",4061
-"317","Emu",8370
-"318","Escribano Aureolado",428
-"319","Escribano Cerillo",1886
-"320","Escribano de Smith",248
-"321","Escribano Hortelano",2966
-"322","Escribano Lapon",853
-"323","Escribano Montesino",1864
-"324","Escribano Nival",1129
-"325","Escribano Palustre",1369
-"326","Escribano Sahariano",526
-"327","Escribano Triguero",947
-"328","Esmerejon",3528
-"329","Espatula Real",916
-"330","Espatula Rosada",2799
-"331","Espinero Chico",425
-"332","Espinero Grande",1377
-"333","Espolonero de Borneo",406
-"334","Estornino Amatista",909
-"335","Estornino de Bali",693
-"336","Estornino Negro",2681
-"337","Estornino Pinto",2969
-"338","Estornino Rosado",911
-"339","Faisan de Lady Amherst",853
-"340","Faisan Dorado",10315
-"341","Faisan Kalij",674
-"342","Faisan Plateado",2362
-"343","Faisan Venerado",1110
-"344","Falaropo Picogrueso",637
-"345","Federal",15114
-"346","Flamenco Chileno",3160
-"347","Flamenco Comun",2464
-"348","Flamenco Enano",892
-"349","Flamenco Rojo",4728
-"350","Focha Americana",1178
-"351","Focha Comun",3138
-"352","Focha Cornuda",838
-"353","Focha Moruna",929
-"354","Frailecillo Coletudo",487
-"355","Fumarel Cariblanco",552
-"356","Gallineta Americana",805
-"357","Gallineta Comun",1707
-"358","Gallito Arena",1962
-"359","Gallito de Las Rocas Guayanes",278
-"360","Gallito de Las Rocas Peruano",2107
-"361","Gallo Bankiva",2117
-"362","Gallo Gris",3263
-"363","Ganga Iberica",945
-"364","Ganga India",8993
-"365","Ganga Ortega",2074
-"366","Ganso del Nilo",2885
-"367","Ganso Espolonado",1377
-"368","Ganso Urraca",389
-"369","Garceta Azul",1404
-"370","Garceta Comun",2818
-"371","Garceta Grande",1750
-"372","Garcilla Bueyera",2510
-"373","Garcilla Cangrejera",867
-"374","Garza Agami",268
-"375","Garza Azulada",595
-"376","Garza Chiflona",1891
-"377","Garza Cuca",1503
-"378","Garza Goliat",655
-"379","Garza Imperial",1958
-"380","Garza Real",9531
-"381","Gaucho Chico",4783
-"382","Gaucho Grande",7555
-"383","Gavilan Comun",2264
-"384","Gavilan Japones",747
-"385","Gavilan Pio",2353
-"386","Gavion Atlantico",1376
-"387","Gaviota Argentea",1675
-"388","Gaviota Cangrejera",1066
-"389","Gaviota Cocinera",1956
-"390","Gaviota Mexicana",3191
-"391","Gaviota Patiamarilla",2864
-"392","Gaviota Sombria",1201
-"393","Golondrina Azul",2841
-"394","Golondrina Comun",1804
-"395","Golondrina Daurica",1316
-"396","Golondrina Negra",1562
-"397","Gorrion Alpino",1087
-"398","Gorrion Chillon",1082
-"399","Gorrion Comun",4895
-"400","Gorrion Molinero",905
-"401","Gorrion Moruno",1079
-"402","Graja",8668
-"403","Graveteiro",957
-"404","Grevol Engolado",332
-"405","Grulla Comun",1784
-"406","Grulla Coronada Cuelligris",660
-"407","Grulla Damisela",1031
-"408","Grulla del Paraiso",312
-"409","Grulla Siberiana",708
-"410","Grulla Trompetera",203
-"411","Guacamayo de Lear",1148
-"412","Guacamayo de Spix",512.5
-"413","Guacamayo Glauco",2155
-"414","Guacamayo Jacinto",4806
-"415","Guacamayo Macao",1718
-"416","Guacamayo Militar",1717
-"417","Guacharo",3582
-"418","Guajolote Ocelado",1466
-"419","Guardabosques Griton",301
-"420","Guion de Codornices",714
-"421","Gura Occidental",700
-"422","Halcon Borni",373
-"423","Halcon Gerifalte",1560
-"424","Halcon Gris",3906
-"425","Halcon Mexicano",2155
-"426","Halcon Negro",6689
-"427","Halcon Peregrino",8539
-"428","Halcon Reidor",1921
-"429","Halcon Sacre",1806
-"430","Halconcito Africano",587
-"431","Herrerillo Canario",2590
-"432","Herrerillo Capuchino",1535
-"433","Herrerillo Comun",3121
-"434","Hihi",4507
-"435","Hoazin",3837
-"436","Hormiguero Negro",3816
-"437","Ibis Blanco",5106
-"438","Ibis Calvo",1464
-"439","Ibis Eremita",2145
-"440","Ibis Escarlata",1191
-"441","Ibis Hadada",2437
-"442","Ibis Nipon",1324
-"443","Ibis Oriental",3466
-"444","Ibis Sagrado",2287
-"445","Ibis Verde",9331
-"446","Ifrita",1646
-"447","Iiwi",3676
-"448","Inca Arcoiris",1341
-"449","Inca Negro",7167
-"450","Indicador Grande",3488
-"451","Indicador Menor",2588
-"452","Inseparable de Fischer",1072
-"453","Jabiru Africano",1496
-"454","Jacana Africana",815
-"455","Jacana Crestada",341
-"456","Jilguero Europeo",1638
-"457","Jilguero Lugano",2007
-"458","Jilguero Negro",2717
-"459","Jilguero Rojo",2437
-"460","Junquero",1985
-"461","Kagu",10147
-"462","Kaka",4970
-"463","Kakapo",5081
-"464","Kea",5927
-"465","Lagopodo Comun",878
-"466","Lavandera Blanca",4653
-"467","Lavandera Boyera",2971
-"468","Lechuza Comun",5352
-"469","Llanero",1931
-"470","Loica Comun",1663
-"471","Loica Pampeana",2212
-"472","Lori Arcoiris",3658
-"473","Lori Rojo",893
-"474","Lorito Senegales",378
-"475","Loro Barranquero",3028
-"476","Loro Cacique",1750
-"477","Loro Choclero",766
-"478","Loro Morado",2537
-"479","Loro Negro",5652
-"480","Loro Yaco",6190
-"481","Maluro Esplendido",357
-"482","Malvasia Cabeciblanca",1803
-"483","Mango Dominicano",3584
-"484","Marabu Africano",1074
-"485","Marabu Argala",411
-"486","Martin Pescador Enano",472
-"487","Martineta Comun",768
-"488","Martinete Comun",1206
-"489","Microloro Pusio",527
-"490","Mielero Regente",162
-"491","Milano Negro",7035
-"492","Milano Real",9700
-"493","Mina Dorado",2969
-"494","Mina Grande",10432
-"495","Mina Indio",3595
-"496","Minero Grande",4154
-"497","Minero Peruano",4142
-"498","Mirlo Capiblanco",854
-"499","Mirlo Comun",4216
-"500","Mito Comun",6576
-"501","Mochuelo Boreal",718
-"502","Mochuelo Chico",814
-"503","Mochuelo de Madriguera",1962
-"504","Mochuelo Europeo",1293
-"505","Mochuelo Peludo",382
-"506","Mochuelo Tamaulipeco",507
-"507","Momoto Mexicano",557
-"508","Monal Colirrojo",210
-"509","Monarca de Flores",2088
-"510","Monarca Negro",3317
-"511","Monarca Nuquinegro",1137
-"512","Monja Negra",4965
-"513","Monjita Blanca",1920
-"514","Monjita Chocolate",969
-"515","Monterita Canela",857
-"516","Morito Comun",1705
-"517","Mosquero Cardenal",2115
-"518","Mosquero Real",610
-"519","Mosquitero Bilistado",1255
-"520","Mosquitero Canario",452
-"521","Mosquitero Comun",3884
-"522","Mosquitero Musical",2786
-"523","Mosquitero Papialbo",1652
-"524","Mosquitero Silbador",994
-"525","Mulato Azul",2566
-"526","Nictibio Colilargo",385
-"527","Nictibio Grande",216
-"528","Nictibio Jamaicano",283
-"529","Nictibio Urutau",486
-"530","Obispo Colilargo",534
-"531","Obispo Negro",2522
-"532","Obispo Rojo",3089
-"533","Ocotero",987
-"534","Oropendola Europea",786
-"535","Ou",12778
-"536","Pagaza Piconegra",1659
-"537","Pajaro Capuchino",2273
-"538","Pajaro Militar",2607
-"539","Palmero",4950
-"540","Paloma Bravia",3529
-"541","Paloma de Nicobar",854
-"542","Paloma Peruana",3414
-"543","Paloma Rabiche",1827
-"544","Paloma Rosada",2090
-"545","Paloma Torcaz",4961
-"546","Paloma Torcaza",6064
-"547","Paloma Zurita",3933
-"548","Papamoscas Cerrojillo",1858
-"549","Papamoscas Gris",1702
-"550","Pardela Balear",3254
-"551","Pardela Cenicienta",2094
-"552","Pardela Culinegra",160
-"553","Pardela de Townsend",1238
-"554","Pardela Pichoneta",628
-"555","Pardillo Comun",5900
-"556","Pato Arlequin",1245
-"557","Pato Azul",4064
-"558","Pato Colorado",4213
-"559","Pato Criollo",5306
-"560","Pato Joyuyo",1855
-"561","Pato Mandarin",3528
-"562","Pato Morado",4034
-"563","Pato Picazo",2583
-"564","Pava Aliblanca",1064
-"565","Pava Andina",2358
-"566","Pava Cojolita",733
-"567","Pava Negra",2921
-"568","Pavo Real Comun",2406
-"569","Pavo Real Cuelliverde",969
-"570","Pavon Cornudo",855
-"571","Pelicano Alcatraz",1613
-"572","Pelicano Australiano",315
-"573","Pelicano Pardo",2890
-"574","Pelicano Rosado",1651
-"575","Perdiz Griega",1793
-"576","Perdiz Moruna",1994
-"577","Perdiz Negra",1535
-"578","Perdiz Pardilla",1998
-"579","Perdiz Roja",3566
-"580","Pergolero Grande",304
-"581","Pergolero Pardo",734
-"582","Perico Multicolor",807
-"583","Perico Nocturno",400
-"584","Petirrojo Europeo",1583
-"585","Petrel de Barau",712
-"586","Petrel de Bulwer",596
-"587","Petrel de Galapagos",1637
-"588","Petrel Freira",236
-"589","Petrel Niveo",446
-"590","Petroica Carbonera",452
-"591","Petroica Encarnada",558
-"592","Peutren",1431
-"593","Picabuey",2043
-"594","Picamaderos Negro",2203
-"595","Pico del Himalaya",3173
-"596","Pico Menor",5887
-"597","Pico Mexicano",9100
-"598","Pico Picapinos",2358
-"599","Picogordo Comun",807
-"600","Picogrueso Pechirrosado",233
-"601","Picozapato",1460.5
-"602","Pigargo Americano",1123
-"603","Pigargo Europeo",1020
-"604","Pigargo Gigante",5050
-"605","Pigargo Oriental",1172
-"606","Pintada Negra",6502
-"607","Pintada Vulturina",1237
-"608","Pinzon Real",2911
-"609","Pinzon Vulgar",2391
-"610","Piquero Pardo",1124
-"611","Piquero Patirrojo",330
-"612","Piquero Peruano",896
-"613","Pirincho",3280
-"614","Pita Azul",3496
-"615","Pita India",6056
-"616","Pitohui Bicolor",633
-"617","Platanero",7947
-"618","Pluvial",13784
-"619","Podargo Australiano",612
-"620","Podargo de Ceilan",291
-"621","Podargo Orejudo",296
-"622","Podargo Papu",220
-"623","Polluela Pintoja",1260
-"624","Porron Bola",545
-"625","Porron Malgache",334
-"626","Porron Maori",181
-"627","Porron Osculado",347
-"628","Porron Pardo",1056
-"629","Potoyunco Peruano",1038
-"630","Quebrantahuesos",3099
-"631","Quetzal Guatemalteco",3702
-"632","Rabijunco Etereo",900
-"633","Rascon de Cuvier",315
-"634","Rascon Weka",185
-"635","Reinita de Kentucky",184
-"636","Reinita Estriada",859
-"637","Reinita Trepadora",738
-"638","Remolinera Ventriblanca",1183
-"639","Reyezuelo Listado",1491
-"640","Reyezuelo Sencillo",896
-"641","Saltarin Alitorcido",839
-"642","Saltarin Azul",974
-"643","Saltarin Coronidorado",100
-"644","Saltarin Enano",1372
-"645","Sapayoa",675
-"646","Sastrecillo Comun",621
-"647","Secretario",8294
-"648","Semillero de Barbados",261
-"649","Serin Verdecillo",1481
-"650","Serreta Chica",526
-"651","Sietecolores",2187
-"652","Sinsonte de Floreana",347
-"653","Sinsonte Tropical",590
-"654","Solitario Negro",5637
-"655","Somormujo Cuellirrojo",742
-"656","Somormujo Lavanco",1733
-"657","Tangara Multicolor",786
-"658","Tangara Verde",6807
-"659","Tantalo Africano",458
-"660","Tarabilla Canaria",782
-"661","Tarro Blanco",6189
-"662","Tarro Canelo",976
-"663","Tejedor Baya",1081
-"664","Tejedor Dorado Asiatico",238
-"665","Tejedor Republicano",178.5
-"666","Terrera Comun",1058
-"667","Tigana",3298
-"668","Tirano Griton",510
-"669","Tirano Oriental",1088
-"670","Tordina Cejinegra",148
-"671","Tordo Amarillo",2982
-"672","Tordo Musico",1558
-"673","Tordo Renegrido",3063
-"674","Torillo Andaluz",889
-"675","Torillo Tanki",209
-"676","Tortola Europea",2203
-"677","Tortola Oriental",676
-"678","Tortola Rosigris",1545
-"679","Tortola Turca",3427
-"680","Tortolita Mexicana",2280
-"681","Trepador Azul",3427
-"682","Treparriscos",4134
-"683","Trogon Malabar",3491
-"684","Trompetero Aligris",685
-"685","Tucan Pechiblanco",444
-"686","Tucan Toco",3401
-"687","Tucanete Culirrojo",266
-"688","Turaco de Guinea",612
-"689","Turaco de Knysna",427
-"690","Turaco de Livingstone",446
-"691","Turaco de Ross",438
-"692","Turpial Amarillo",3683
-"693","Turpial Venezolano",1761
-"694","Urraca Comun",4531
-"695","Urraca de Formosa",1278
-"696","Urraca Negra",2935
-"697","Urraca Verde",2330
-"698","Vencejo Cafre",1734
-"699","Vencejo Comun",2698
-"700","Vencejo Mongol",2170
-"701","Vencejo Moro",466
-"702","Vencejo Palido",401
-"703","Verderon Comun",2510
-"704","Verderon Serrano",1715
-"705","Verdugo Flautista",632
-"706","Vinago Cuellirrosa",267
-"707","Viuda del Paraiso",1618
-"708","Viuda Real",5025
-"709","Yacutoro",1718
-"710","Zanate Mexicano",3713
-"711","Zarapito Boreal",1414
-"712","Zarapito Fino",680
-"713","Zarapito Real",1691
-"714","Zarapito Trinador",1138
-"715","Zenaida Peruana",1390
-"716","Zopilote Negro",3550
-"717","Zopilote Rey",2478
-"718","Zorzal Alirrojo",1754
-"719","Zorzal Cabecinegro",2165
-"720","Zorzal Chalchalero",3134
-"721","Zorzal Charlo",1950
-"722","Zorzal Colorado",4524
-"723","Zorzal Comun",5646
-"724","Zorzal Dorado",432
-"725","Zorzal Grandala",474
-"726","Zorzal Pardo",872
-"727","Zorzal Real",2626
-"728","Zorzal Rojigris",560
+,keyword,count
+1,Abanico Gris,2719
+2,Abanico Negro,4219
+3,Abejaruco Europeo,1486
+4,Abejero Europeo,528
+5,Acentor Alpino,1546
+6,Acentor Comun,2342
+7,Achichilique de Clark,302
+8,Agachadiza Chica,755
+9,Agachadiza Comun,1037
+10,Agachadiza del Himalaya,518
+11,Agachadiza Real,790
+12,aguila Audaz,1328
+13,aguila Cafre,1218
+14,aguila Calzada,1537
+15,aguila Chica,2671
+16,aguila Coronada,3823
+17,aguila de Filipinas,1495
+18,aguila de Flores,5843
+19,aguila Esteparia,2213
+20,aguila Imperial Iberica,4451
+21,aguila India,3503
+22,aguila Marcial,1710
+23,aguila Monera,2374
+24,aguila Mora,7196
+25,aguila Negra,10757
+26,aguila Perdicera,3292
+27,aguila Pescadora,4695
+28,aguila Poma,1181
+29,aguila Pomerana,235
+30,aguila Rapaz,2619
+31,aguila Real,12937
+32,aguila Solitaria,6664
+33,aguila Volatinera,459
+34,Aguilucho Cenizo,3712
+35,Aguilucho Negro,1366
+36,Aguilucho Palido,1525
+37,Aguilucho Papialbo,720
+38,Aguja Cafe,1349
+39,Aguja Colinegra,922
+40,Aguja Colipinta,1442
+41,Agujeta Gris,1642
+42,Akiapolaau,957
+43,Akohekohe,897
+44,Albatros de Buller,761
+45,Albatros de Galapagos,3157
+46,Albatros de Laysan,704
+47,Albatros Ojeroso,619
+48,Albatros Real,4202
+49,Albatros Viajero,1352
+50,Alca Comun,1732
+51,Alcaravan Comun,1582
+52,Alcaravan Peruano,464
+53,Alcatraz Atlantico,805
+54,Alcaudon Chico,873
+55,Alcaudon Comun,3193
+56,Alcaudon Dorsirrojo,2333
+57,Alcaudon Real,3259
+58,Alcion de Guam,204
+59,Alimoche Comun,1559
+60,Alimoche Sombrio,690
+61,Alondra Comun,1290
+62,Alondra Cornuda,1584
+63,Alondra Ibis,1013
+64,Alondra Ricoti,2062
+65,Alzacola Rojizo,812
+66,Amazilia Tzacatl,1813
+67,Amazona Real,3150
+68,Ampelis Americano,809
+69,Ampelis Europeo,651
+70,anade Azulon,1412
+71,anade Friso,1543
+72,anade Malgache,1260
+73,anade Rabudo,826
+74,Andarrios Chico,1333
+75,Angu,5565
+76,Anianiau,1171
+77,ansar Comun,2004
+78,ansar Indio,3234
+79,Apapane,2475
+80,Arao Comun,1270
+81,Aratinga Jandaya,1387
+82,Aratinga Sol,4269
+83,Archibebe Claro,1149
+84,Argos Real,7423
+85,Arpia Mayor,889
+86,Arrendajo Siberiano,123
+87,Arrocero,8440
+88,Autillo de Flores,1668
+89,Autillo Europeo,2614
+90,Ave del Paraiso de Alberto,631
+91,Ave del Paraiso de Pennant,971
+92,Ave del Paraiso Fastuosa,831
+93,Ave del Paraiso Filamentosa,429
+94,Ave del Paraiso Republicana,500
+95,Ave Lira de Alberto,297
+96,Ave Lira Soberbia,2074
+97,Avefria Armada,209
+98,Avestruz Somali,728
+99,Avetigre Colorada,221
+100,Avion Asiatico,1100
+101,Avion Comun,2875
+102,Avion Isabel,5740
+103,Avion Oscuro,3403
+104,Avion Roquero,1307
+105,Avion Zapador,1013
+106,Avoceta Americana,663
+107,Avoceta Andina,274
+108,Azor Comun,1431
+109,Azulejo Claro,4178
+110,Azulillo indigo,859
+111,Bandurria Andina,728
+112,Bandurria Austral,3001
+113,Bandurria Mora,1227
+114,Barbudo Grande,5886
+115,Barnacla Cariblanca,1328
+116,Barnacla Carinegra,1080
+117,Bengali Rojo,3570
+118,Bigotudo,2714
+119,Bisbita Alpino,511
+120,Bisbita Caminero,875
+121,Bisbita Campestre,1256
+122,Bisbita Pratense,1923
+123,Brubru,3082
+124,Buho Africano,2102
+125,Buho Americano,1822
+126,Buho Campestre,1671
+127,Buho Chico,3708
+128,Buho Griton,522
+129,Buho Lechoso,1102
+130,Buho Nival,1886
+131,Buho Real,8488
+132,Buitre Cabecirrojo,569
+133,Buitre del Himalaya,1090
+134,Buitre Leonado,5489
+135,Buitre Moteado,505
+136,Buitre Negro,4976
+137,Bulbul Naranjero,325
+138,Bulbul Orfeo,1813
+139,Busardo Chapulinero,437
+140,Busardo Mixto,819
+141,Busardo Moro,460
+142,Busardo Ratonero,4264
+143,Cabezon Negro,1518
+144,Cacatua Blanca,3119
+145,Cacatua Enlutada,1813
+146,Cacatua Galah,3843
+147,Cacatua Galerita,2625
+148,Cacatua Ninfa,7070
+149,Cacatua Sanguinea,1204
+150,Cacatua Sulfurea,417
+151,Cacique de Para,11167
+152,Cacique Mexicano,1968
+153,Cacique Negro,3486
+154,Cacique Verde,2853
+155,Calamon Comun,968
+156,Calamon Takahe,1082
+157,Calandria Comun,4308
+158,Calandria Negra,2295
+159,Calao Bicorne,1238
+160,Calao Rinoceronte,509
+161,Camachuelo Comun,4100
+162,Camachuelo Trompetero,2322
+163,Camea,9753
+164,Campanero Blanco,693
+165,Canastera Comun,661
+166,Capuchino Grande,1431
+167,Capuchino Negro,2153
+168,Capuchino Pio,1799
+169,Capuchino Tricolor,1220
+170,Carabo Comun,970
+171,Carabo Lapon,3591
+172,Carabo Norteamericano,916
+173,Caracara Andino,809
+174,Caracara Austral,851
+175,Carbonero Comun,5799
+176,Carbonero Garrapinos,1572
+177,Carbonero Negro,3578
+178,Carbonero Palustre,2041
+179,Cardenal Pardo,2742
+180,Carpintero Amarillo,4604
+181,Carpintero Bellotero,2311
+182,Carpintero Blanco,4892
+183,Carraca Abisinia,782
+184,Carraca Europea,2429
+185,Carraca Lila,813
+186,Carrao,11192
+187,Carricerin Cejudo,499
+188,Carricero Comun,1733
+189,Carricero Tordal,548
+190,Casuario Comun,814
+191,Cauquen Colorado,3160
+192,Cauquen Comun,1353
+193,Cerceta Aliazul,446
+194,Cerceta Carretona,873
+195,Cerceta Comun,1151
+196,Cerceta Pardilla,1659
+197,Cernicalo Americano,4071
+198,Cernicalo Patirrojo,538
+199,Cernicalo Primilla,3614
+200,Cernicalo Vulgar,2747
+201,Chara Azul,1233
+202,Chara Enana,1781
+203,Chara Pinta,1644
+204,Chara Verde,3391
+205,Chara Yucateca,1411
+206,Charran artico,1466
+207,Charran Comun,2430
+208,Charran de Forster,245
+209,Charran Elegante,979
+210,Charran Inca,1089
+211,Charran Patinegro,461
+212,Charran Sombrio,679
+213,Chiricoca,3962
+214,Chocha Perdiz,2010
+215,Chopi,12324
+216,Chorlitejo Chico,844
+217,Chorlitejo Grande,922
+218,Chorlitejo Patinegro,795
+219,Chorlito Gris,862
+220,Chotacabras Cuellirrojo,1235
+221,Chotacabras Europeo,726
+222,Chotacabras Orejudo,199
+223,Chova Piquigualda,1114
+224,Chova Piquirroja,1769
+225,Cisne Cantor,686
+226,Cisne Coscoroba,1785
+227,Cisne Negro,853.5
+228,Cisne Trompetero,1022
+229,Codorniz China,3477
+230,Codorniz Comun,2555
+231,Codorniz Japonesa,2674
+232,Cogujada Comun,1277
+233,Cogujada Montesina,2670
+234,Colibri Abejorro,2709
+235,Colibri Coliblanco,292
+236,Colibri Cometa,1532
+237,Colibri de Anna,1389
+238,Colibri de Arica,1981
+239,Colibri de Costa,4250
+240,Colibri Gargantilla,116
+241,Colibri Gigante,2970
+242,Colibri Golondrina,2579
+243,Colibri Morado,2953
+244,Colibri Negro,5405
+245,Colibri Real,6191
+246,Colibri Rufo,172
+247,Colibri Tijereta,1315
+248,Colibri Topacio,334
+249,Colibri Violeta,2740
+250,Colibri Zunzuncito,1941
+251,Colimbo del Pacifico,141
+252,Colimbo Grande,1187
+253,Colin de California,1757
+254,Colin de Gambel,985
+255,Colirrojo Tizon,3228
+256,Collalba Desertica,757
+257,Collalba Gris,1413
+258,Collalba Negra,962
+259,Columbina Picui,1407
+260,Combatiente,3314
+261,Condor Andino,3196
+262,Condor Californiano,3426
+263,Copeton Rufo,963
+264,Coqueta Adornada,183
+265,Coqueta de Guerrero,1949
+266,Cormoran Grande,3117
+267,Cormoran Imperial,1840
+268,Cormoran Mancon,485
+269,Corneja Negra,1227
+270,Correcaminos Grande,1891
+271,Corredor Indio,2243
+272,Corredor Sahariano,675
+273,Correlimos Canelo,951
+274,Correlimos Comun,1748
+275,Correlimos Cuchareta,201
+276,Correlimos Gordo,576
+277,Correlimos Grande,1270
+278,Correlimos Menudo,1593
+279,Correlimos Oscuro,1087
+280,Correlimos Pectoral,823
+281,Cortarramas Chileno,485
+282,Cortarramas Peruano,636
+283,Cotorra Argentina,6519
+284,Cotorra Serrana Occidental,1127
+285,Cotorra Serrana Oriental,814
+286,Cotorrita Amazonica,505
+287,Crialo Europeo,1023
+288,Cua Azul,4744
+289,Cuco Comun,2923
+290,Cuco Grande,2442
+291,Cuco Negro,3172
+292,Cuco Terrestre de Sumatra,203
+293,Cuervo Americano,2917
+294,Cuervo Cubano,2198
+295,Cuervo de Flores,2727
+296,Cuervo de Torres,2940
+297,Cuervo Grande,4654
+298,Cuervo Gris,2901
+299,Cuervo Hawaiano,1973
+300,Cuervo Picogordo,471
+301,Cuitlacoche Rojizo,628
+302,Culebrera Europea,1556
+303,Curruca Capirotada,2917
+304,Curruca Mosquitera,993
+305,Diamante Cebra,1023
+306,Diamante de Gould,9121
+307,Diamante Escarlata,1400
+308,Diamante Moteado,2215
+309,Diamante Tricolor,2059
+310,Dromas,3631
+311,Ducula Bicolor,647
+312,Egotelo de Nueva Caledonia,929
+313,eider Real,1202
+314,Elanio Comun,631
+315,Elanio Tijereta,840
+316,Eminia,4061
+317,Emu,8370
+318,Escribano Aureolado,428
+319,Escribano Cerillo,1886
+320,Escribano de Smith,248
+321,Escribano Hortelano,2966
+322,Escribano Lapon,853
+323,Escribano Montesino,1864
+324,Escribano Nival,1129
+325,Escribano Palustre,1369
+326,Escribano Sahariano,526
+327,Escribano Triguero,947
+328,Esmerejon,3528
+329,Espatula Real,916
+330,Espatula Rosada,2799
+331,Espinero Chico,425
+332,Espinero Grande,1377
+333,Espolonero de Borneo,406
+334,Estornino Amatista,909
+335,Estornino de Bali,693
+336,Estornino Negro,2681
+337,Estornino Pinto,2969
+338,Estornino Rosado,911
+339,Faisan de Lady Amherst,853
+340,Faisan Dorado,10315
+341,Faisan Kalij,674
+342,Faisan Plateado,2362
+343,Faisan Venerado,1110
+344,Falaropo Picogrueso,637
+345,Federal,15114
+346,Flamenco Chileno,3160
+347,Flamenco Comun,2464
+348,Flamenco Enano,892
+349,Flamenco Rojo,4728
+350,Focha Americana,1178
+351,Focha Comun,3138
+352,Focha Cornuda,838
+353,Focha Moruna,929
+354,Frailecillo Coletudo,487
+355,Fumarel Cariblanco,552
+356,Gallineta Americana,805
+357,Gallineta Comun,1707
+358,Gallito Arena,1962
+359,Gallito de Las Rocas Guayanes,278
+360,Gallito de Las Rocas Peruano,2107
+361,Gallo Bankiva,2117
+362,Gallo Gris,3263
+363,Ganga Iberica,945
+364,Ganga India,8993
+365,Ganga Ortega,2074
+366,Ganso del Nilo,2885
+367,Ganso Espolonado,1377
+368,Ganso Urraca,389
+369,Garceta Azul,1404
+370,Garceta Comun,2818
+371,Garceta Grande,1750
+372,Garcilla Bueyera,2510
+373,Garcilla Cangrejera,867
+374,Garza Agami,268
+375,Garza Azulada,595
+376,Garza Chiflona,1891
+377,Garza Cuca,1503
+378,Garza Goliat,655
+379,Garza Imperial,1958
+380,Garza Real,9531
+381,Gaucho Chico,4783
+382,Gaucho Grande,7555
+383,Gavilan Comun,2264
+384,Gavilan Japones,747
+385,Gavilan Pio,2353
+386,Gavion Atlantico,1376
+387,Gaviota Argentea,1675
+388,Gaviota Cangrejera,1066
+389,Gaviota Cocinera,1956
+390,Gaviota Mexicana,3191
+391,Gaviota Patiamarilla,2864
+392,Gaviota Sombria,1201
+393,Golondrina Azul,2841
+394,Golondrina Comun,1804
+395,Golondrina Daurica,1316
+396,Golondrina Negra,1562
+397,Gorrion Alpino,1087
+398,Gorrion Chillon,1082
+399,Gorrion Comun,4895
+400,Gorrion Molinero,905
+401,Gorrion Moruno,1079
+402,Graja,8668
+403,Graveteiro,957
+404,Grevol Engolado,332
+405,Grulla Comun,1784
+406,Grulla Coronada Cuelligris,660
+407,Grulla Damisela,1031
+408,Grulla del Paraiso,312
+409,Grulla Siberiana,708
+410,Grulla Trompetera,203
+411,Guacamayo de Lear,1148
+412,Guacamayo de Spix,512.5
+413,Guacamayo Glauco,2155
+414,Guacamayo Jacinto,4806
+415,Guacamayo Macao,1718
+416,Guacamayo Militar,1717
+417,Guacharo,3582
+418,Guajolote Ocelado,1466
+419,Guardabosques Griton,301
+420,Guion de Codornices,714
+421,Gura Occidental,700
+422,Halcon Borni,373
+423,Halcon Gerifalte,1560
+424,Halcon Gris,3906
+425,Halcon Mexicano,2155
+426,Halcon Negro,6689
+427,Halcon Peregrino,8539
+428,Halcon Reidor,1921
+429,Halcon Sacre,1806
+430,Halconcito Africano,587
+431,Herrerillo Canario,2590
+432,Herrerillo Capuchino,1535
+433,Herrerillo Comun,3121
+434,Hihi,4507
+435,Hoazin,3837
+436,Hormiguero Negro,3816
+437,Ibis Blanco,5106
+438,Ibis Calvo,1464
+439,Ibis Eremita,2145
+440,Ibis Escarlata,1191
+441,Ibis Hadada,2437
+442,Ibis Nipon,1324
+443,Ibis Oriental,3466
+444,Ibis Sagrado,2287
+445,Ibis Verde,9331
+446,Ifrita,1646
+447,Iiwi,3676
+448,Inca Arcoiris,1341
+449,Inca Negro,7167
+450,Indicador Grande,3488
+451,Indicador Menor,2588
+452,Inseparable de Fischer,1072
+453,Jabiru Africano,1496
+454,Jacana Africana,815
+455,Jacana Crestada,341
+456,Jilguero Europeo,1638
+457,Jilguero Lugano,2007
+458,Jilguero Negro,2717
+459,Jilguero Rojo,2437
+460,Junquero,1985
+461,Kagu,10147
+462,Kaka,4970
+463,Kakapo,5081
+464,Kea,5927
+465,Lagopodo Comun,878
+466,Lavandera Blanca,4653
+467,Lavandera Boyera,2971
+468,Lechuza Comun,5352
+469,Llanero,1931
+470,Loica Comun,1663
+471,Loica Pampeana,2212
+472,Lori Arcoiris,3658
+473,Lori Rojo,893
+474,Lorito Senegales,378
+475,Loro Barranquero,3028
+476,Loro Cacique,1750
+477,Loro Choclero,766
+478,Loro Morado,2537
+479,Loro Negro,5652
+480,Loro Yaco,6190
+481,Maluro Esplendido,357
+482,Malvasia Cabeciblanca,1803
+483,Mango Dominicano,3584
+484,Marabu Africano,1074
+485,Marabu Argala,411
+486,Martin Pescador Enano,472
+487,Martineta Comun,768
+488,Martinete Comun,1206
+489,Microloro Pusio,527
+490,Mielero Regente,162
+491,Milano Negro,7035
+492,Milano Real,9700
+493,Mina Dorado,2969
+494,Mina Grande,10432
+495,Mina Indio,3595
+496,Minero Grande,4154
+497,Minero Peruano,4142
+498,Mirlo Capiblanco,854
+499,Mirlo Comun,4216
+500,Mito Comun,6576
+501,Mochuelo Boreal,718
+502,Mochuelo Chico,814
+503,Mochuelo de Madriguera,1962
+504,Mochuelo Europeo,1293
+505,Mochuelo Peludo,382
+506,Mochuelo Tamaulipeco,507
+507,Momoto Mexicano,557
+508,Monal Colirrojo,210
+509,Monarca de Flores,2088
+510,Monarca Negro,3317
+511,Monarca Nuquinegro,1137
+512,Monja Negra,4965
+513,Monjita Blanca,1920
+514,Monjita Chocolate,969
+515,Monterita Canela,857
+516,Morito Comun,1705
+517,Mosquero Cardenal,2115
+518,Mosquero Real,610
+519,Mosquitero Bilistado,1255
+520,Mosquitero Canario,452
+521,Mosquitero Comun,3884
+522,Mosquitero Musical,2786
+523,Mosquitero Papialbo,1652
+524,Mosquitero Silbador,994
+525,Mulato Azul,2566
+526,Nictibio Colilargo,385
+527,Nictibio Grande,216
+528,Nictibio Jamaicano,283
+529,Nictibio Urutau,486
+530,Obispo Colilargo,534
+531,Obispo Negro,2522
+532,Obispo Rojo,3089
+533,Ocotero,987
+534,Oropendola Europea,786
+535,Ou,12778
+536,Pagaza Piconegra,1659
+537,Pajaro Capuchino,2273
+538,Pajaro Militar,2607
+539,Palmero,4950
+540,Paloma Bravia,3529
+541,Paloma de Nicobar,854
+542,Paloma Peruana,3414
+543,Paloma Rabiche,1827
+544,Paloma Rosada,2090
+545,Paloma Torcaz,4961
+546,Paloma Torcaza,6064
+547,Paloma Zurita,3933
+548,Papamoscas Cerrojillo,1858
+549,Papamoscas Gris,1702
+550,Pardela Balear,3254
+551,Pardela Cenicienta,2094
+552,Pardela Culinegra,160
+553,Pardela de Townsend,1238
+554,Pardela Pichoneta,628
+555,Pardillo Comun,5900
+556,Pato Arlequin,1245
+557,Pato Azul,4064
+558,Pato Colorado,4213
+559,Pato Criollo,5306
+560,Pato Joyuyo,1855
+561,Pato Mandarin,3528
+562,Pato Morado,4034
+563,Pato Picazo,2583
+564,Pava Aliblanca,1064
+565,Pava Andina,2358
+566,Pava Cojolita,733
+567,Pava Negra,2921
+568,Pavo Real Comun,2406
+569,Pavo Real Cuelliverde,969
+570,Pavon Cornudo,855
+571,Pelicano Alcatraz,1613
+572,Pelicano Australiano,315
+573,Pelicano Pardo,2890
+574,Pelicano Rosado,1651
+575,Perdiz Griega,1793
+576,Perdiz Moruna,1994
+577,Perdiz Negra,1535
+578,Perdiz Pardilla,1998
+579,Perdiz Roja,3566
+580,Pergolero Grande,304
+581,Pergolero Pardo,734
+582,Perico Multicolor,807
+583,Perico Nocturno,400
+584,Petirrojo Europeo,1583
+585,Petrel de Barau,712
+586,Petrel de Bulwer,596
+587,Petrel de Galapagos,1637
+588,Petrel Freira,236
+589,Petrel Niveo,446
+590,Petroica Carbonera,452
+591,Petroica Encarnada,558
+592,Peutren,1431
+593,Picabuey,2043
+594,Picamaderos Negro,2203
+595,Pico del Himalaya,3173
+596,Pico Menor,5887
+597,Pico Mexicano,9100
+598,Pico Picapinos,2358
+599,Picogordo Comun,807
+600,Picogrueso Pechirrosado,233
+601,Picozapato,1460.5
+602,Pigargo Americano,1123
+603,Pigargo Europeo,1020
+604,Pigargo Gigante,5050
+605,Pigargo Oriental,1172
+606,Pintada Negra,6502
+607,Pintada Vulturina,1237
+608,Pinzon Real,2911
+609,Pinzon Vulgar,2391
+610,Piquero Pardo,1124
+611,Piquero Patirrojo,330
+612,Piquero Peruano,896
+613,Pirincho,3280
+614,Pita Azul,3496
+615,Pita India,6056
+616,Pitohui Bicolor,633
+617,Platanero,7947
+618,Pluvial,13784
+619,Podargo Australiano,612
+620,Podargo de Ceilan,291
+621,Podargo Orejudo,296
+622,Podargo Papu,220
+623,Polluela Pintoja,1260
+624,Porron Bola,545
+625,Porron Malgache,334
+626,Porron Maori,181
+627,Porron Osculado,347
+628,Porron Pardo,1056
+629,Potoyunco Peruano,1038
+630,Quebrantahuesos,3099
+631,Quetzal Guatemalteco,3702
+632,Rabijunco Etereo,900
+633,Rascon de Cuvier,315
+634,Rascon Weka,185
+635,Reinita de Kentucky,184
+636,Reinita Estriada,859
+637,Reinita Trepadora,738
+638,Remolinera Ventriblanca,1183
+639,Reyezuelo Listado,1491
+640,Reyezuelo Sencillo,896
+641,Saltarin Alitorcido,839
+642,Saltarin Azul,974
+643,Saltarin Coronidorado,100
+644,Saltarin Enano,1372
+645,Sapayoa,675
+646,Sastrecillo Comun,621
+647,Secretario,8294
+648,Semillero de Barbados,261
+649,Serin Verdecillo,1481
+650,Serreta Chica,526
+651,Sietecolores,2187
+652,Sinsonte de Floreana,347
+653,Sinsonte Tropical,590
+654,Solitario Negro,5637
+655,Somormujo Cuellirrojo,742
+656,Somormujo Lavanco,1733
+657,Tangara Multicolor,786
+658,Tangara Verde,6807
+659,Tantalo Africano,458
+660,Tarabilla Canaria,782
+661,Tarro Blanco,6189
+662,Tarro Canelo,976
+663,Tejedor Baya,1081
+664,Tejedor Dorado Asiatico,238
+665,Tejedor Republicano,178.5
+666,Terrera Comun,1058
+667,Tigana,3298
+668,Tirano Griton,510
+669,Tirano Oriental,1088
+670,Tordina Cejinegra,148
+671,Tordo Amarillo,2982
+672,Tordo Musico,1558
+673,Tordo Renegrido,3063
+674,Torillo Andaluz,889
+675,Torillo Tanki,209
+676,Tortola Europea,2203
+677,Tortola Oriental,676
+678,Tortola Rosigris,1545
+679,Tortola Turca,3427
+680,Tortolita Mexicana,2280
+681,Trepador Azul,3427
+682,Treparriscos,4134
+683,Trogon Malabar,3491
+684,Trompetero Aligris,685
+685,Tucan Pechiblanco,444
+686,Tucan Toco,3401
+687,Tucanete Culirrojo,266
+688,Turaco de Guinea,612
+689,Turaco de Knysna,427
+690,Turaco de Livingstone,446
+691,Turaco de Ross,438
+692,Turpial Amarillo,3683
+693,Turpial Venezolano,1761
+694,Urraca Comun,4531
+695,Urraca de Formosa,1278
+696,Urraca Negra,2935
+697,Urraca Verde,2330
+698,Vencejo Cafre,1734
+699,Vencejo Comun,2698
+700,Vencejo Mongol,2170
+701,Vencejo Moro,466
+702,Vencejo Palido,401
+703,Verderon Comun,2510
+704,Verderon Serrano,1715
+705,Verdugo Flautista,632
+706,Vinago Cuellirrosa,267
+707,Viuda del Paraiso,1618
+708,Viuda Real,5025
+709,Yacutoro,1718
+710,Zanate Mexicano,3713
+711,Zarapito Boreal,1414
+712,Zarapito Fino,680
+713,Zarapito Real,1691
+714,Zarapito Trinador,1138
+715,Zenaida Peruana,1390
+716,Zopilote Negro,3550
+717,Zopilote Rey,2478
+718,Zorzal Alirrojo,1754
+719,Zorzal Cabecinegro,2165
+720,Zorzal Chalchalero,3134
+721,Zorzal Charlo,1950
+722,Zorzal Colorado,4524
+723,Zorzal Comun,5646
+724,Zorzal Dorado,432
+725,Zorzal Grandala,474
+726,Zorzal Pardo,872
+727,Zorzal Real,2626
+728,Zorzal Rojigris,560
+729,Paraguero Corbatudo,582
+730,Paraguero Ornado,285
+731,Pinguino Barbijo,1412
+732,Pinguino de Adelia,1694
+733,Pinguino de Galapagos,3825
+734,Pinguino de Humboldt,4860
+735,Pinguino Emperador,3108
+736,Pinguino Enano,948
+737,Pinguino Juanito,1816
+738,Pinguino Macaroni,1910
+739,Pinguino Magallanico,3029
+740,Pinguino Rey,5345

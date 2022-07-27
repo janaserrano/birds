@@ -1013,6 +1013,65 @@ write.csv(no_ex_ew, file = "data_global/data_analysis/analysis/all_birds_01_dd.c
 species_cat <- janitor::tabyl(no_dd_ex_ew, species, category.n)
 species_cat
 
-#starting from 2022-0720 now using all_birds_01_dd
+#########starting from 2022-0720 now using all_birds_01_dd "data_global/data_analysis/analysis/all_birds_01_dd.csv" ----------
 
+
+#add CITES & GBIF
+birds <- read.csv("data_global/data_analysis/analysis/all_birds_01_dd.csv")
+cites <- read.csv("data_global/CITES/CITES_1.csv")
+gbif <- read.csv("data_global/gbif/aves_mean_sum.csv")
+str(cites)
+cites <- cites %>%
+  dplyr::rename(species = ï..CITES_Name)
+
+gbif <- subset(gbif, select = -c(X))
+
+birds_gbif <- gbif %>%
+  right_join(., birds, by = "species")
+
+birds_gbif <- subset(birds_gbif, select = -c(X))
+
+birds_gbif_cites <- birds_gbif %>%
+  left_join(., cites, by = "species")
+
+birds_gbif_cites$CITES_species[is.na(birds_gbif_cites$CITES_species)] <- 0
+
+write.csv(birds_gbif_cites, file = "data_global/data_analysis/analysis/birds_gbif_cites.csv")
+birds_gbif_cites <- read.csv("data_global/data_analysis/analysis/birds_gbif_cites.csv")
+
+birds_gbif_cites <- birds_gbif_cites %>% relocate(gbif_mean, .before = CITES_species)
+birds_gbif_cites <- birds_gbif_cites %>% relocate(gbif_sum, .before = CITES_species)
+
+birds_gbif_cites <- birds_gbif_cites %>% relocate(Sequence, .before = species)
+str(birds_gbif_cites)
+
+birds_gbif_cites <- subset(birds_gbif_cites, select = -c(Kipps.Distance, Secondary1, Hand.Wing.Index, Beak.Length_Nares, Beak.Length_Culmen, Beak.Width, Beak.Depth, Tarsus.Length, Mass.Source, Mass.Refs.Other, Reference.species, Traits.inferred,result.taxonid))
+
+#add french, english, spanish
+birds_gbif_cites <- read.csv("data_global/data_analysis/analysis/birds_gbif_cites.csv")
+en_sp_fr_hits <- read.csv("gtrends/use_for_analysis/en_sp_fr_hits.csv")
+en_sp_fr_hits <- en_sp_fr_hits %>%
+  dplyr::rename(species = sci_name)
+
+birds_gbif_cites <- subset(birds_gbif_cites, select = -c(X, X.1))
+
+birds_gbif_cites <- birds_gbif_cites %>%
+  left_join(., en_sp_fr_hits , by = "species")
+
+birds_gbif_cites_langs <- birds_gbif_cites
+
+difference <- birds_gbif_cites_langs %>%
+  anti_join(., birds_gbif_cites , by = "species")
+
+birds_gbif_cites_langs <- subset(birds_gbif_cites_langs, select = -c(X))
+birds_gbif_cites_langs <- subset(birds_gbif_cites_langs, select = -c(English.name))
+write.csv(birds_gbif_cites_langs, file = "gtrends/use_for_analysis/birds_gbif_cites_langs.csv")
+birds_gbif_cites_langs <- read.csv("gtrends/use_for_analysis/birds_gbif_cites_langs.csv")
+
+birds_gbif_cites_langs_0 <- read.csv("gtrends/use_for_analysis/birds_gbif_cites_langs_0.csv")
+
+birds_gbif_cites_langs_0 <- subset(birds_gbif_cites_langs_0, select = -c(X))
+
+birds_gbif_cites_langs_0$gbif_mean[is.na(birds_gbif_cites_langs_0$gbif_mean)] <- 0
+birds_gbif_cites_langs_0$gbif_sum[is.na(birds_gbif_cites_langs_0$gbif_sum)] <- 0
 

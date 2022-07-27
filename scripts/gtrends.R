@@ -379,7 +379,7 @@ spanish <- read.csv("gtrends/spanish.csv")
 #french9347_9676 <- french$French.name[c(9347:9676)]
 english9859_10858 <- all_birds$English.name[c(9859:10858)]
 
-eng_random_n <- read.csv("gtrends/english/eng_random_n.csv")
+eng_random_n <- read.csv("gtrends/english/english_random/eng_random_n.csv")
 eng_random_1_1000 <- eng_random_n$English.name[c(1:1000)]
 # Install and load the readr gtrendsR & purrr packages
 library(readr)
@@ -401,15 +401,15 @@ googleTrendsData <- function (keywords) {
   results <- trends$interest_over_time
 }
 output <- data.frame()
-for (i in c(1:length(spanish_trema_list))) {
+for (i in c(1:length(eng_random_1_1000))) {
   try({
-    output_new = map_dfr(.x = spanish_trema_list[i],
+    output_new = map_dfr(.x = eng_random_1_1000[i],
                          .f = googleTrendsData) %>%
       data.frame()
     output <- rbind(output, output_new)
   })
   # export dataframe as csv file in the working directory
-  write.csv(output, 'gtrends/search_again/spanish_trema_result.csv')
+  write.csv(output, 'gtrends/search_again/random_1_1000.csv')
 }
 
 ########preparing data of relative numbers of hits
@@ -536,15 +536,19 @@ abcdefghij <- rbind(abcdefghi, j_last)
 write.csv(abcdefghij, "gtrends/french/french_trends_raw.csv")
 
 #standardizing date 
-english_trends_raw <- read.csv("gtrends/english/english_trends_raw.csv")
-spanish_trends_raw <- read.csv("gtrends/spanish/spanish_trends_raw.csv")
-french_trends_raw <- read.csv("gtrends/french/french_trends_raw.csv")
+# english_trends_raw <- read.csv("gtrends/english/english_trends_raw.csv")
+# spanish_trends_raw <- read.csv("gtrends/spanish/spanish_trends_raw.csv")
+# french_trends_raw <- read.csv("gtrends/french/french_trends_raw.csv")
+
+english_trema_result <- read.csv("gtrends/search_again/english_trema_result.csv")
+spanish_trema_result <- read.csv("gtrends/search_again/spanish_trema_result.csv")
+french_trema_result <- read.csv("gtrends/search_again/french_trema_result.csv")
 
 library(lubridate)
 library(tidyverse)
 
-eng_ymd <- english_trends_raw %>%
-  mutate(date_onset = lubridate::mdy(date)) %>%
+eng_ymd <- english_trema_result %>%
+  mutate(date_onset = lubridate::ymd(date)) %>%
 mutate_at(vars(date_onset), funs(month, day, year))
 
 as.numeric(eng_ymd$hits)
@@ -569,13 +573,13 @@ colSums(is.na(sum_n_keyword))
 colSums(is.na(mean_n))
 
  
-write.csv(sum_n_keyword, "gtrends/english/english_sum_hits_year.csv")
-write.csv(mean_n, "gtrends/english/english_mean_hits.csv")
+write.csv(sum_n_keyword, "gtrends/search_again/sum_english_again.csv")
+write.csv(mean_n, "gtrends/search_again/mean_english_again.csv")
 
 #spanish
 
-spa_ymd <- spanish_trends_raw %>%
-  mutate(date_onset = lubridate::mdy(date)) %>%
+spa_ymd <- spanish_trema_result %>%
+  mutate(date_onset = lubridate::ymd(date)) %>%
   mutate_at(vars(date_onset), funs(month, day, year))
 
 as.numeric(spa_ymd$hits)
@@ -600,12 +604,12 @@ colSums(is.na(sum_n_keyword))
 colSums(is.na(mean_n))
 
 
-write.csv(sum_n_keyword, "gtrends/spanish/spanish_sum_hits_year.csv")
-write.csv(mean_n, "gtrends/spanish/spanish_mean_hits.csv")
+write.csv(sum_n_keyword, "gtrends/search_again/sum_spanish_again.csv")
+write.csv(mean_n, "gtrends/search_again/mean_spanish_again.csv")
 
 #french
 
-fre_ymd <- french_trends_raw %>%
+fre_ymd <- french_trema_result %>%
   mutate(date_onset = lubridate::ymd(date)) %>%
   mutate_at(vars(date_onset), funs(month, day, year))
 
@@ -631,8 +635,8 @@ colSums(is.na(sum_n_keyword))
 colSums(is.na(mean_n))
 
 
-write.csv(sum_n_keyword, "gtrends/french/french_sum_hits_year.csv")
-write.csv(mean_n, "gtrends/french/french_mean_hits.csv")
+write.csv(sum_n_keyword, "gtrends/search_again/sum_french_again.csv")
+write.csv(mean_n, "gtrends/search_again/mean_french_again.csv")
 
 
 #binding all_birds_01_dd using all_birds_01_dd (2022-07-20)
@@ -699,3 +703,57 @@ french_trema <- french_trema %>%
 french_trema_list <- french_trema$keyword[c(1:35)]
 
 #maybe have to download them in batch of a thousand to compare to others? maybe not... few species? Vautour important?
+#number is similar
+
+#add results to lists
+
+#join english, spanish and french
+
+spanish_english_lat <- read.csv("gtrends/use_for_analysis/common_names_Spanish.csv")
+french_english_lat <- read.csv("gtrends/use_for_analysis/common_names_French.csv")
+
+only_names_spanish <- subset(spanish_english_lat, select = c(primary_com_name,	cur_alternate_com_name,	sci_name))
+
+only_names_french <- subset(french_english_lat, select = c(primary_com_name, cur_alternate_com_name,	sci_name))
+
+fr_sp_en <- only_names_french %>%
+  full_join(., only_names_spanish, by = "sci_name")
+fr_sp_en
+fr_sp_en <- subset(fr_sp_en, select = -c(primary_com_name.y))
+
+#add hits
+english_hits <- read.csv("gtrends/english/english_sum_mean_hits_year.csv")
+spanish_hits <- read.csv("gtrends/spanish/spanish_sum_mean_hits_year.csv")
+french_hits <- read.csv("gtrends/french/french_sum_mean_hits_year.csv")
+
+fr_sp_en <- fr_sp_en %>%
+  dplyr::rename(english_name = primary_com_name.x) %>%
+  dplyr::rename(spanish_name = cur_alternate_com_name.y) %>%
+  dplyr::rename(french_name = cur_alternate_com_name.x)
+
+english_hits <- english_hits %>%
+  dplyr::rename(english_name = keyword) 
+
+spanish_hits <- spanish_hits %>%
+  dplyr::rename(spanish_name = keyword) 
+
+french_hits <- french_hits %>%
+  dplyr::rename(french_name = keyword) 
+
+str(fr_sp_en)
+
+join_eng <- fr_sp_en %>%
+  full_join(., english_hits, by = "english_name")
+
+join_fr <- join_eng %>%
+  full_join(., french_hits, by = "french_name")
+
+join_spa <- join_fr %>%
+  full_join(., spanish_hits, by = "spanish_name")
+str(join_spa)
+join_spa <- subset(join_spa, select = -c(X.x, X.y, X))
+
+write.csv(join_spa, "gtrends/use_for_analysis/en_sp_fr_hits.csv")
+
+
+
