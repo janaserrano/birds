@@ -587,9 +587,9 @@ vu <- prob_pred %>%
 colMeans(vu)
 #0.4871726 everything that is above 0.487 should be vulnerable;up
 
-birds_gbif_cites_langs_0 <- birds_gbif_cites_langs_0 %>%
-  subset(threatened == "0") %>%
-  subset(prob.predictions >= 0.487)
+birds_prob_predictions$ShouldB_VU <- birds_prob_predictions %>%
+  mutate_if(birds_prob_predictions$threatened == "0" & birds_prob_predictions$prob.predictions >= 0.487)
+
 
 should_be_threatened <- birds_gbif_cites_langs_0
 should_be_threatened <- should_be_threatened %>% relocate(threatened, .before = prob.predictions)
@@ -598,3 +598,161 @@ should_be_threatened <- should_be_threatened %>% relocate(category.n, .before = 
 should_be_threatened <- subset(should_be_threatened, select = -c(X))
 
 write.csv(should_be_threatened, file = "gtrends/use_for_analysis/should_be_threatened.csv")
+should_be_threatened <- read.csv("gtrends/use_for_analysis/should_be_threatened.csv")
+
+species_shouldbvu <- should_be_threatened %>%
+  select(species, shouldb_vu)
+
+
+birds_shouldbth <- birds_prob_predictions %>%
+  left_join(., species_shouldbvu, by = "species")
+
+birds_shouldbth$shouldb_vu[is.na(birds_shouldbth$shouldb_vu)] <- 0
+write.csv(birds_shouldbth, file = "gtrends/use_for_analysis/should_be_threatened.csv")
+
+# Plot
+ggplot(birds_shouldbth,
+       aes(y = prob.predictions, x = threatened))
+  # add points
+  geom_point(size=3, stroke=1.5) +
+  # manually set shape according to value
+  # set color (outline of points) to red or transparent
+  # set fill (inside of points) to color scale
+  scale_fill_gradient(low = "deepskyblue1", high = "#E69F00") +
+  theme_minimal()+
+  #subtitle = "Blue = High adaptive Capacity; Orange = Low adaptive capacity") +
+  xlim(0,1.7) +
+  ylim(0,1.7)
+
+birds_shouldbth$threatened <- as.factor(birds_shouldbth$threatened)
+
+p <- ggplot(birds_shouldbth, aes(x=threatened, y=prob.predictions)) + 
+  geom_violin()
+p
+# violin plot with mean points
+p + stat_summary(fun=mean, geom="point", shape=23, size=2)
+# violin plot with median points
+p + stat_summary(fun=median, geom="point", size=2, color="red")
+
+p + stat_summary(fun.data="mean_sdl", mult=1, 
+                 geom="crossbar", width=0.2 )
+p + stat_summary(fun.data=mean_sdl, mult=1, 
+                 geom="pointrange", color="red")
+
+ggplot(birds_prob_predictions, aes(factor(threatened), y=prob.predictions, colour = threatened , fill = factor(threatened))) +
+  geom_violin(alpha = 0.5) +
+  labs(x = "Threatened",
+       y = "Probability prediction",
+       colour = "Threatened",
+       fill = "Threatened",
+       title = "Probability of being threatened") +
+  theme_bw(base_size = 15)
+
+p + geom_dotplot(binaxis='y', stackdir='center', dotsize=1)
+# violin plot with jittered points
+# 0.2 : degree of jitter in x direction
+p + geom_jitter(shape=16, position=position_jitter(0.2))
+
+p<-ggplot(birds_prob_predictions, aes(x=factor(threatened), y=prob.predictions, colour = threatened)) +
+  geom_violin(trim=FALSE)
+p
+
+
+ggplot(birds_prob_predictions, aes(prob.predictions, fill = threatened)) +
+  geom_density(alpha = 0.5)
+
+is.factor(birds_shouldbth$threatened)
+
+ggplot(birds_prob_predictions, aes(x= factor(threatened), y=prob.predictions, fill=factor(threatened))) +
+  geom_boxplot(alpha = 0.5)
+str(birds_prob_predictions)
+
+
+ggplot(birds_prob_predictions, aes(x = threatened, 
+                     y = prob.predictions)) +
+  geom_boxplot(notch = TRUE, 
+               fill = "cornflowerblue", 
+               alpha = .7) +
+  labs(title = "")
+
+ggplot(data = birds_prob_predictions, aes(x = category.n,
+                                          y = prob.predictions)) +
+  geom_boxplot(alpha = 0) +
+  geom_jitter(alpha = 0.5, width = 0.2, height = 0.2, color = "tomato")
+
+
+ggplot(data = birds_prob_predictions, aes(x = factor(threatened),
+                                          y = prob.predictions)) +
+  geom_boxplot(trim = FALSE) +
+  theme( legend.position = "none" )
+
+CombinedPlotNOTCH=ggplot(birds_prob_predictions, aes(x = factor(threatened), y = prob.predictions, fill=factor(threatened))) +
+  geom_boxplot(notch=TRUE)
+CombinedPlotNOTCH
+
+
+# Change color by groups
+dp <- ggplot(birds_prob_predictions, aes(x = factor(threatened), y = prob.predictions, fill=factor(threatened))) + 
+  geom_violin(trim=FALSE)+
+  geom_boxplot(width=0.05, fill="white")+
+  labs(title="Probability of being threatened", x = "Threatened", y = "Probability prediction")
+dp + theme_classic()
+
+ggplot(cdc, aes(x=height, col=gender)) + geom_density()
+ggplot(birds_prob_predictions, aes(x = prob.predictions, col=factor(threatened))) + geom_density()
+
+
+ggplot(birds_prob_predictions, aestor(threatened), y=prob.predictions, color=result.category)) + geom_point() + facet_grid(~category.n)
+
+############# plot that im using ----------------------
+ggplot(birds_prob_predictions, aes(x=factor(threatened), y=prob.predictions, fill=result.category)) + geom_violin() +
+  facet_wrap(~category.n, ncol=6) +
+  geom_hline(yintercept=0.487, linetype="dashed", color = "red")
+
+d <- ggplot(birds_prob_predictions, aes(x=reorder(result.category, category.n), y=prob.predictions, fill=result.category)) + geom_boxplot() +
+    geom_hline(yintercept=0.487, linetype="dashed") +
+  geom_jitter(width=0.15, alpha=0.5) +
+  labs(x = "IUCN Status",
+       y = "Probability prediction",
+       colour = "IUCN Status",
+       fill = "IUCN Status",
+       title = "Probability of being threatened by IUCN Status") +
+  theme_bw(base_size = 10)
+d
+
+d + scale_colour_brewer(palette = "Set1")
+
+iucn_data <- read.csv("birds.csv")
+
+
+ggplot(cdc, aes(x=height, y=weight, color=gender)) + geom_point()
+
+ggplot(birds_prob_predictions, aes(x=factor(threatened), y=prob.predictions, color=factor(threatened))) + geom_point()
+
+
+iucn_data <- iucn_data %>%
+  dplyr::rename(species = result.scientific_name)
+
+iucn_data <- iucn_data %>%
+  select(species, result.category)
+
+birds_prob_predictions <- birds_prob_predictions %>%
+  left_join(., iucn_data, by = "species")
+
+write.csv(birds_prob_predictions_cat, file = "gtrends/use_for_analysis/should_be_threatened.csv")
+
+birds_prob_predictions <- read.csv("gtrends/use_for_analysis/should_be_threatened.csv")
+
+birds_prob_predictions %>%
+  ggplot(aes(x=reorder(result.category, category.n), y=prob.predictions, fill=result.category)) +
+  geom_violin(scale="width") +
+  geom_hline(yintercept=0.487, linetype="dashed") +
+  labs(x = "IUCN Status",
+       y = "Probability prediction",
+       colour = "IUCN Status",
+       fill = "IUCN Status",
+       title = "Probability of being threatened by IUCN Status") +
+  scale_x_discrete(guide = guide_axis(n.dodge=2))+
+  scale_fill_brewer(palette="Spectral")
+
+#like spectral
