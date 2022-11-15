@@ -8,6 +8,8 @@ vu <- subset(vu, IUCN_Status.pre == "VU")
 vu.mean <- vu %>%
   select(-IUCN_Status.pre)
 rm(vu)
+
+
 # Remove rows with NA for SDM predictions since their TVA score will not be accurate
 TVA <- TVA[complete.cases(TVA$Net_lost),] # use Net_lost as SDM index; end up with 336 species
 # If original TVA score is greater than average value for VU species, then it becomes VU
