@@ -702,8 +702,6 @@ ggplot(cdc, aes(x=height, col=gender)) + geom_density()
 ggplot(birds_prob_predictions, aes(x = prob.predictions, col=factor(threatened))) + geom_density()
 
 
-ggplot(birds_prob_predictions, aestor(threatened), y=prob.predictions, color=result.category)) + geom_point() + facet_grid(~category.n)
-
 ############# plot that im using ----------------------
 ggplot(birds_prob_predictions, aes(x=factor(threatened), y=prob.predictions, fill=result.category)) + geom_violin() +
   facet_wrap(~category.n, ncol=6) +
@@ -755,4 +753,27 @@ birds_prob_predictions %>%
   scale_x_discrete(guide = guide_axis(n.dodge=2))+
   scale_fill_brewer(palette="Spectral")
 
-#like spectral
+#for presentation GBIF x Gtrends
+
+plot(log(en_mean),log(gbif_mean))
+
+ggplot(birds_gbif_cites_langs_0, aes(x=log(en_mean), y=log(gbif_mean))) + 
+  geom_point(shape=18, color="blue")+
+  geom_smooth(method=lm,  linetype="dashed",
+              color="darkred", fill="blue")
+
+p <- ggplot(birds_gbif_cites_langs_0, aes(x=log(gbif_mean), y=log(en_mean), color=threatened, col = threatened)) +
+  geom_point() + 
+  geom_smooth(method=lm, se=FALSE, fullrange=TRUE) +
+  xlab("GBIF number of observations") + ylab("Google hits")
+
+p  
+
+# cor.test(birds_gbif_cites_langs_0$mean, birds_gbif_cites_langs_0$gbif_mean)
+# 
+# m1 <- lm(gbif_mean ~ mean, data=birds_gbif_cites_langs_0)
+# summary(m1) #very bad but positive
+# 
+# as.factor(birds_gbif_cites_langs_0$threatened)
+# as.factor(birds_gbif_cites_langs_0$category.n)
+
