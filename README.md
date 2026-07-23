@@ -32,14 +32,19 @@ This project integrates multiple large-scale biodiversity datasets, including:
 - Data visualization and communication of conservation-relevant patterns
 
 ## Outputs
+Key outputs
+Integrated global bird, threat, trait, and conservation datasets
+Reproducible analytical workflows in R
+Species-level conservation assessment analyses
+Publication figures and supporting visualizations
+Peer-reviewed manuscript
 
-Project outputs include:
+Publication
+Serrano, J. et al. 2025
 
-- Reproducible data-processing workflows
-- Species-level analytical datasets
-- Statistical models
-- Data visualizations and publication figures
-- Conservation-relevant insights on global bird biodiversity
+https://doi.org/10.1111/geb.70087
+
+PDF available in the manuscript folder.
 
 ## Relevance
 
